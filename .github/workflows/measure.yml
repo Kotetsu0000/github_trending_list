@@ -3,6 +3,8 @@ name: Run measure.py with uv and push changes
 # Test workflow
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   measure-and-commit:
