@@ -1,0 +1,53 @@
+name: Run measure.py with uv and push changes
+
+on:
+  workflow_dispatch:
+
+jobs:
+  measure-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. リポジトリのコードをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Python環境をセットアップ
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # 必要に応じてPythonのバージョンを変更
+
+      # 3. uv環境をセットアップ (キャッシュも自動設定)
+      # 参考: https://docs.astral.sh/uv/guides/integration/github/
+      - name: Set up uv
+        uses: astral-sh/setup-uv-action@v1
+        with:
+          # requirements.txtやpyproject.tomlに基づいてキャッシュキーを生成
+          cache-key: ${{ runner.os }}-uv-${{ hashFiles('**/pyproject.toml', '**/requirements.txt') }}
+
+      # 4. uvでライブラリをインストール
+      # requirements.txt を使用する場合
+      - name: Install dependencies with uv
+        run: uv pip sync requirements.txt
+      # pyproject.toml を使用する場合は `run: uv sync` を使用してください
+
+      # 5. measure.py を実行
+      - name: Run measure.py
+        run: uv run measure.py
+
+      # 6. 差分が発生した場合にコミット & プッシュ
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "GitHub Actions: Update data by measure.py"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
