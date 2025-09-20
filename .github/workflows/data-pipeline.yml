@@ -104,7 +104,7 @@ jobs:
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          if [ -n "$(git diff --shortstat -- ./data/)" ]; then
+          if [ -n "$(git status --porcelain ./data/)" ]; then
             git add ./data/
             git commit -m "GitHub Actions: Update data"
             git push
