@@ -100,10 +100,11 @@ jobs:
 
       - name: Commit and push if changes
         run: |
+          ls -l ./data/
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          if [ -z "$(git status --porcelain ./data/)" ]; then
+          if [ -n "$(git diff --shortstat -- ./data/)" ]; then
             git add ./data/
             git commit -m "GitHub Actions: Update data"
             git push
