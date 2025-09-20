@@ -33,6 +33,7 @@ def main():
 
     output = {}
     for file_path in get_json_files():
+        print(f'Current: {file_path}')
         for repo in load_dict(file_path):
             if repo['repository_name'] in output.keys():
                 output[repo['repository_name']]['published'].extend(repo['published'])

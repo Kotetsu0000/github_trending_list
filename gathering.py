@@ -183,7 +183,7 @@ def load_list(filepath: str) -> list[str] | None:
 
 async def main(since:str, spoken_language_code:str):
     default = since=='daily' and spoken_language_code=='all'
-    output_file = f'./temp/{since}-{spoken_language_code}.json'
+    output_file = f'./temp/{since}_{spoken_language_code}.json'
     output_lang_file = f'./temp/lang_list.txt'
 
     if default:
