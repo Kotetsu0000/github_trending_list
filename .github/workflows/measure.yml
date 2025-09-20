@@ -13,25 +13,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Python環境をセットアップ
+      # 2. uv環境をセットアップ
+      # 参考: https://docs.astral.sh/uv/guides/integration/github/
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+
+      # 3. Python環境をセットアップ
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12' # 必要に応じてPythonのバージョンを変更
-
-      # 3. uv環境をセットアップ (キャッシュも自動設定)
-      # 参考: https://docs.astral.sh/uv/guides/integration/github/
-      - name: Set up uv
-        uses: astral-sh/setup-uv-action@v1
-        with:
-          # requirements.txtやpyproject.tomlに基づいてキャッシュキーを生成
-          cache-key: ${{ runner.os }}-uv-${{ hashFiles('**/pyproject.toml', '**/requirements.txt') }}
+          python-version-file: "pyproject.toml"
 
       # 4. uvでライブラリをインストール
       # requirements.txt を使用する場合
       - name: Install dependencies with uv
-        run: uv pip sync requirements.txt
-      # pyproject.toml を使用する場合は `run: uv sync` を使用してください
+        run: uv sync --locked --all-extras --dev
 
       # 5. measure.py を実行
       - name: Run measure.py
