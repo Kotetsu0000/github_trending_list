@@ -1,11 +1,13 @@
 import aiohttp
+import argparse
 import asyncio
 import json
 import os
 import requests
-from bs4 import BeautifulSoup
 from typing import List, Dict
 from urllib.parse import urlparse, parse_qs
+
+from bs4 import BeautifulSoup
 
 def get_trending_languages() -> List[str]:
     """
@@ -51,46 +53,6 @@ def get_trending_languages() -> List[str]:
             languages.append(language_slug)
             
     return languages
-
-def get_trending_spoken_languages() -> List[str]:
-    """
-    GitHub TrendingページからSpoken Languageのリストを取得します。
-    URLのクエリパラメータで使用できるコード（例: 'en', 'ja'）で返されます。
-
-    Returns:
-        Spoken Languageコードの文字列リスト。
-        取得に失敗した場合は空のリストを返します。
-    """
-    url = "https://github.com/trending"
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-        }
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-    except requests.RequestException as e:
-        print(f"Error fetching URL {url}: {e}")
-        return []
-
-    soup = BeautifulSoup(response.text, 'html.parser')
-    
-    spoken_languages = []
-    # Spoken Languageドロップダウンメニューのコンテナを探す
-    spoken_language_menu = soup.find('details', id='select-menu-spoken-language')
-    if not spoken_language_menu:
-        return []
-
-    # 各Spoken Languageのリンクから言語コードを抽出
-    for lang_link in spoken_language_menu.find_all('a'):
-        href = lang_link['href']
-        parsed_url = urlparse(href)
-        query_params = parse_qs(parsed_url.query)
-        # 'spoken_language_code' パラメータの値を取得
-        lang_code = query_params.get('spoken_language_code', [None])[0]
-        if lang_code:
-            spoken_languages.append(lang_code)
-
-    return spoken_languages
 
 async def get_github_trending_repositories_async(
     session: aiohttp.ClientSession, 
@@ -171,65 +133,101 @@ def save_dict(path:str, data:dict):
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-async def main():
-    output_dir = './data'
-    countries = ['en', 'zh', 'ru', 'ja', 'pt', 'es']
-    date_ranges = ['dayly', 'weekly', 'monthly']
-    all_langs = ['all'] + get_trending_languages()
+def save_list(filepath: str, data: list[str]) -> bool:
+    """
+    文字列のリストをテキストファイルに一行ずつ保存します。
+
+    Args:
+        filepath (str): 保存先のファイルパス。
+        data (list[str]): 保存する文字列のリスト。
+
+    Returns:
+        bool: 保存に成功した場合はTrue、失敗した場合はFalse。
+    """
+    try:
+        # 'w'モードでファイルを開き、エンコーディングを'utf-8'に指定
+        with open(filepath, 'w', encoding='utf-8') as f:
+            # 各要素の末尾に改行を加えて書き込む
+            for item in data:
+                f.write(item + '\n')
+        return True
+    except IOError as e:
+        print(f"ファイルの保存中にエラーが発生しました: {e}")
+        return False
+
+def load_list(filepath: str) -> list[str] | None:
+    """
+    テキストファイルからデータを一行ずつ読み込み、文字列のリストとして返却します。
+
+    Args:
+        filepath (str): 読み込むファイルのパス。
+
+    Returns:
+        list[str] | None: 読み込んだ文字列のリスト。ファイルが存在しない場合はNone。
+    """
+    # ファイルが存在しない場合はNoneを返す
+    if not os.path.exists(filepath):
+        print(f"エラー: ファイルが見つかりません - {filepath}")
+        return None
+        
+    try:
+        # 'r'モードでファイルを開き、エンコーディングを'utf-8'に指定
+        with open(filepath, 'r', encoding='utf-8') as f:
+            # readlines()で全行をリストとして取得し、
+            # リスト内包表記で各行の末尾の改行文字を削除する
+            lines = [line.strip() for line in f.readlines()]
+        return lines
+    except IOError as e:
+        print(f"ファイルの読み込み中にエラーが発生しました: {e}")
+        return None
+
+async def main(since:str, spoken_language_code:str):
+    default = since=='daily' and spoken_language_code=='all'
+    output_file = f'./temp/{since}-{spoken_language_code}.json'
+    output_lang_file = f'./temp/lang_list.txt'
+
+    if default:
+        languages = ['all'] + get_trending_languages()
+    else:
+        languages = load_list('./temp/lang_list.txt')
+
+    if spoken_language_code=='all':
+        urls = [f"https://github.com/trending?since={since}"] + [f"https://github.com/trending/{i}?since={since}" for i in languages if i != 'all']
+    else:
+        urls = [f"https://github.com/trending?since={since}"] + [f"https://github.com/trending/{i}?since={since}&spoken_language_code={spoken_language_code}" for i in languages if i != 'all']
 
     semaphore = asyncio.Semaphore(5)
-    
+
+    async with aiohttp.ClientSession() as session:
+        tasks = [get_github_trending_repositories_async(session, url, semaphore) for url in urls]
+        print("task start")
+        results = await asyncio.gather(*tasks)
+        print("task end")
+
     output = {}
     langs = []
-    async with aiohttp.ClientSession() as session:
-        for date_range in date_ranges:
-            urls = [f"https://github.com/trending?since={date_range}"] + [f"https://github.com/trending/{i}?since={date_range}" for i in all_langs]
-            # 各URLに対する非同期タスク(コルーチン)のリストを作成
-            tasks = [get_github_trending_repositories_async(session, url, semaphore) for url in urls]
-            print("task start")
-            
-            # asyncio.gatherで全てのタスクを並列に実行し、結果を待つ
-            # resultsには各タスクの戻り値(リポジトリのリスト)が格納される
-            results = await asyncio.gather(*tasks)
-
-            print("task end")
-            current_country = 'all'
-            for result, lang in zip(results, all_langs):
-                if len(result) == 0:
-                    continue
-                for repo in result:
-                    if repo['repository_name'] in output.keys():
-                        output[repo['repository_name']]['published'].append({'language':lang, 'spoken_language_code': current_country, 'since': date_range})
-                    else:
-                        output[repo['repository_name']] = repo
-                        output[repo['repository_name']]['published'] = [{'language':lang, 'spoken_language_code': current_country, 'since': date_range}]
-                if lang != "all":
-                    langs.append(lang)
-        
-            for current_country in countries:
-                urls = [f"https://github.com/trending?since={date_range}&spoken_language_code={current_country}"] + [f"https://github.com/trending/{i}?since={date_range}&spoken_language_code={current_country}" for i in langs]
-                tasks = [get_github_trending_repositories_async(session, url, semaphore) for url in urls]
-                print("task start")
-                results = await asyncio.gather(*tasks)
-                print("task end")
-                for result, lang in zip(results, langs):
-                    for repo in result:
-                        if repo['repository_name'] in output.keys():
-                            output[repo['repository_name']]['published'].append({'language':lang, 'spoken_language_code': current_country, 'since': date_range})
-                        else:
-                            output[repo['repository_name']] = repo
-                            output[repo['repository_name']]['published'] = [{'language':lang, 'spoken_language_code': current_country, 'since': date_range}]
+    for result, language in zip(results, languages):
+        if len(result) == 0:
+            continue
+        for repo in result:
+            if repo['repository_name'] in output.keys():
+                output[repo['repository_name']]['published'].append({'language':language, 'spoken_language_code': spoken_language_code, 'since': since})
+            else:
+                output[repo['repository_name']] = repo
+                output[repo['repository_name']]['published'] = [{'language':language, 'spoken_language_code': spoken_language_code, 'since': since}]
+        if language != "all":
+            langs.append(language)
     
-    if not os.path.exists(output_dir):
-        os.mkdir(output_dir)
-    save_dict(f'{output_dir}/latest.json', list(output.values()))
-            
-            
-    print(len(langs))
+    if not os.path.exists(os.path.dirname(output_file)):
+        os.mkdir(os.path.dirname(output_file))
 
+    save_dict(output_file, list(output.values()))
+    save_list(output_lang_file, langs)
 
 if __name__ == "__main__":
-    import time
-    start = time.perf_counter()
-    asyncio.run(main())
-    print(f'time: {time.perf_counter() - start}[s]')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--since', default='daily')
+    parser.add_argument('--spoken_language_code', default='all')
+    args = parser.parse_args()
+    asyncio.run(main(args.since, args.spoken_language_code))
+# uv run gathering.py --since daily --spoken_language_code en

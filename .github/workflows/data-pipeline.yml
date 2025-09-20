@@ -1,0 +1,112 @@
+name: Data Generation Pipeline with Exclusion
+
+on:
+  workflow_dispatch: # 手動で実行
+  # push:
+  #   branches: [ main ]
+
+jobs:
+  # --- STEP 1: 初期ファイル生成 ('daily'/'all' のみ) ---
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Create initial files for daily/all
+        run: |
+          mkdir -p ./temp
+          # 'daily'/'all' の組み合わせをここで実行
+          uv run gathering.py
+
+      - name: Upload initial files (including lang_list.txt)
+        uses: actions/upload-artifact@v4
+        with:
+          name: setup-output # この中に daily_all.json と lang_list.txt が入る
+          path: ./temp/
+
+  # --- STEP 2: 残りの組み合わせで並列実行 ---
+  run-in-parallel:
+    needs: setup
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        since: ['daily', 'weekly', 'monthly']
+        spoken_language_code: ['all', 'en', 'zh', 'ru', 'ja', 'pt', 'es']
+        # 'setup'ジョブで実行済みの組み合わせを除外する
+        exclude:
+          - since: 'daily'
+            spoken_language_code: 'all'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Download initial files (for lang_list.txt)
+        uses: actions/download-artifact@v4
+        with:
+          name: setup-output
+          path: ./temp/
+
+      - name: Run script for combination
+        run: |
+          # スクリプトは ./temp/lang_list.txt を参照できる
+          uv run gathering.py --since ${{ matrix.since }} --spoken_language_code ${{ matrix.spoken_language_code }}
+
+      - name: Upload individual result
+        uses: actions/upload-artifact@v4
+        with:
+          # 生成されたJSONファイルのみをアップロード
+          name: result-${{ matrix.since }}-${{ matrix.spoken_language_code }}
+          path: ./temp/${{ matrix.since }}_${{ matrix.spoken_language_code }}.json
+
+  # --- STEP 3 & 4: 結果の集計とコミット ---
+  organize-and-commit:
+    needs: run-in-parallel # 全ての並列ジョブの完了を待つ
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python and uv
+        run: pip install uv
+
+      - name: Download all generated files
+        # nameを指定しないことで、このワークフローの全てのアーティファクトをダウンロード
+        uses: actions/download-artifact@v4
+        with:
+          path: ./downloaded-artifacts/
+
+      - name: Organize all JSON files into one directory
+        # 'setup'と'run-in-parallel'からの全JSONファイルを集める
+        run: |
+          mkdir -p ./temp
+          find ./downloaded-artifacts -type f -name "*.json" -exec mv {} ./temp/ \;
+          echo "Files to be processed by organize.py:"
+          ls -l ./temp/
+
+      - name: Run organize script
+        run: uv run organize.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if ! git diff --quiet ./data/; then
+            git add ./data/
+            git commit -m "Update latest data [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
