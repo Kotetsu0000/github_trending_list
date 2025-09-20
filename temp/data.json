@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "9001/copyparty",
+    "repository_url": "https://github.com/9001/copyparty"
+  },
+  {
     "repository_name": "Alibaba-NLP/DeepResearch",
     "repository_url": "https://github.com/Alibaba-NLP/DeepResearch"
   },
@@ -12,28 +16,16 @@
     "repository_url": "https://github.com/Gar-b-age/CookLikeHOC"
   },
   {
-    "repository_name": "LazyVim/LazyVim",
-    "repository_url": "https://github.com/LazyVim/LazyVim"
+    "repository_name": "OpenMind/OM1",
+    "repository_url": "https://github.com/OpenMind/OM1"
   },
   {
-    "repository_name": "WebGoat/WebGoat",
-    "repository_url": "https://github.com/WebGoat/WebGoat"
+    "repository_name": "OvidijusParsiunas/deep-chat",
+    "repository_url": "https://github.com/OvidijusParsiunas/deep-chat"
   },
   {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
-  },
-  {
-    "repository_name": "bitnami/charts",
-    "repository_url": "https://github.com/bitnami/charts"
-  },
-  {
-    "repository_name": "bitnami/containers",
-    "repository_url": "https://github.com/bitnami/containers"
-  },
-  {
-    "repository_name": "facebookresearch/detectron2",
-    "repository_url": "https://github.com/facebookresearch/detectron2"
+    "repository_name": "cypress-io/cypress",
+    "repository_url": "https://github.com/cypress-io/cypress"
   },
   {
     "repository_name": "flutter/flutter",
@@ -44,8 +36,12 @@
     "repository_url": "https://github.com/fmtlib/fmt"
   },
   {
-    "repository_name": "google-research/timesfm",
-    "repository_url": "https://github.com/google-research/timesfm"
+    "repository_name": "grafana/loki",
+    "repository_url": "https://github.com/grafana/loki"
+  },
+  {
+    "repository_name": "knownsec/aipyapp",
+    "repository_url": "https://github.com/knownsec/aipyapp"
   },
   {
     "repository_name": "linera-io/linera-protocol",
@@ -56,11 +52,19 @@
     "repository_url": "https://github.com/microsoft/AI-For-Beginners"
   },
   {
-    "repository_name": "microsoft/markitdown",
-    "repository_url": "https://github.com/microsoft/markitdown"
+    "repository_name": "odoo/odoo",
+    "repository_url": "https://github.com/odoo/odoo"
   },
   {
-    "repository_name": "nocodb/nocodb",
-    "repository_url": "https://github.com/nocodb/nocodb"
+    "repository_name": "tldraw/tldraw",
+    "repository_url": "https://github.com/tldraw/tldraw"
+  },
+  {
+    "repository_name": "unslothai/unsloth",
+    "repository_url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "repository_name": "winfunc/opcode",
+    "repository_url": "https://github.com/winfunc/opcode"
   }
 ]
