@@ -12,59 +12,71 @@
     "repository_url": "https://github.com/CopilotKit/CopilotKit"
   },
   {
+    "repository_name": "EbookFoundation/free-programming-books",
+    "repository_url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
     "repository_name": "Gar-b-age/CookLikeHOC",
     "repository_url": "https://github.com/Gar-b-age/CookLikeHOC"
   },
   {
-    "repository_name": "OpenMind/OM1",
-    "repository_url": "https://github.com/OpenMind/OM1"
+    "repository_name": "HKUDS/AI-Researcher",
+    "repository_url": "https://github.com/HKUDS/AI-Researcher"
   },
   {
-    "repository_name": "OvidijusParsiunas/deep-chat",
-    "repository_url": "https://github.com/OvidijusParsiunas/deep-chat"
+    "repository_name": "JetBrains/intellij-community",
+    "repository_url": "https://github.com/JetBrains/intellij-community"
   },
   {
-    "repository_name": "cypress-io/cypress",
-    "repository_url": "https://github.com/cypress-io/cypress"
+    "repository_name": "LazyVim/LazyVim",
+    "repository_url": "https://github.com/LazyVim/LazyVim"
   },
   {
-    "repository_name": "flutter/flutter",
-    "repository_url": "https://github.com/flutter/flutter"
+    "repository_name": "MatsuriDayo/NekoBoxForAndroid",
+    "repository_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid"
+  },
+  {
+    "repository_name": "WECENG/ticket-purchase",
+    "repository_url": "https://github.com/WECENG/ticket-purchase"
+  },
+  {
+    "repository_name": "WebGoat/WebGoat",
+    "repository_url": "https://github.com/WebGoat/WebGoat"
+  },
+  {
+    "repository_name": "basecamp/omarchy",
+    "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
     "repository_name": "fmtlib/fmt",
     "repository_url": "https://github.com/fmtlib/fmt"
   },
   {
-    "repository_name": "grafana/loki",
-    "repository_url": "https://github.com/grafana/loki"
-  },
-  {
-    "repository_name": "knownsec/aipyapp",
-    "repository_url": "https://github.com/knownsec/aipyapp"
-  },
-  {
-    "repository_name": "linera-io/linera-protocol",
-    "repository_url": "https://github.com/linera-io/linera-protocol"
-  },
-  {
     "repository_name": "microsoft/AI-For-Beginners",
     "repository_url": "https://github.com/microsoft/AI-For-Beginners"
   },
   {
-    "repository_name": "odoo/odoo",
-    "repository_url": "https://github.com/odoo/odoo"
+    "repository_name": "mindsdb/mindsdb",
+    "repository_url": "https://github.com/mindsdb/mindsdb"
+  },
+  {
+    "repository_name": "ml-explore/mlx-swift-examples",
+    "repository_url": "https://github.com/ml-explore/mlx-swift-examples"
   },
   {
     "repository_name": "tldraw/tldraw",
     "repository_url": "https://github.com/tldraw/tldraw"
   },
   {
-    "repository_name": "unslothai/unsloth",
-    "repository_url": "https://github.com/unslothai/unsloth"
+    "repository_name": "torvalds/linux",
+    "repository_url": "https://github.com/torvalds/linux"
   },
   {
-    "repository_name": "winfunc/opcode",
-    "repository_url": "https://github.com/winfunc/opcode"
+    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "repository_name": "ytdl-org/youtube-dl",
+    "repository_url": "https://github.com/ytdl-org/youtube-dl"
   }
 ]
