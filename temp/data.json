@@ -1,15 +1,11 @@
 [
   {
-    "repository_name": "9001/copyparty",
-    "repository_url": "https://github.com/9001/copyparty"
+    "repository_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "repository_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
   },
   {
     "repository_name": "Alibaba-NLP/DeepResearch",
     "repository_url": "https://github.com/Alibaba-NLP/DeepResearch"
-  },
-  {
-    "repository_name": "CopilotKit/CopilotKit",
-    "repository_url": "https://github.com/CopilotKit/CopilotKit"
   },
   {
     "repository_name": "EbookFoundation/free-programming-books",
@@ -20,48 +16,40 @@
     "repository_url": "https://github.com/Gar-b-age/CookLikeHOC"
   },
   {
-    "repository_name": "HKUDS/AI-Researcher",
-    "repository_url": "https://github.com/HKUDS/AI-Researcher"
+    "repository_name": "LizardByte/Sunshine",
+    "repository_url": "https://github.com/LizardByte/Sunshine"
   },
   {
-    "repository_name": "JetBrains/intellij-community",
-    "repository_url": "https://github.com/JetBrains/intellij-community"
+    "repository_name": "bevyengine/bevy",
+    "repository_url": "https://github.com/bevyengine/bevy"
   },
   {
-    "repository_name": "LazyVim/LazyVim",
-    "repository_url": "https://github.com/LazyVim/LazyVim"
+    "repository_name": "donnemartin/system-design-primer",
+    "repository_url": "https://github.com/donnemartin/system-design-primer"
   },
   {
-    "repository_name": "MatsuriDayo/NekoBoxForAndroid",
-    "repository_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid"
+    "repository_name": "elastic/elasticsearch",
+    "repository_url": "https://github.com/elastic/elasticsearch"
   },
   {
-    "repository_name": "WECENG/ticket-purchase",
-    "repository_url": "https://github.com/WECENG/ticket-purchase"
+    "repository_name": "eslint/eslint",
+    "repository_url": "https://github.com/eslint/eslint"
   },
   {
-    "repository_name": "WebGoat/WebGoat",
-    "repository_url": "https://github.com/WebGoat/WebGoat"
+    "repository_name": "freqtrade/freqtrade",
+    "repository_url": "https://github.com/freqtrade/freqtrade"
   },
   {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
+    "repository_name": "lllyasviel/Fooocus",
+    "repository_url": "https://github.com/lllyasviel/Fooocus"
   },
   {
-    "repository_name": "fmtlib/fmt",
-    "repository_url": "https://github.com/fmtlib/fmt"
+    "repository_name": "mindcraft-bots/mindcraft",
+    "repository_url": "https://github.com/mindcraft-bots/mindcraft"
   },
   {
-    "repository_name": "microsoft/AI-For-Beginners",
-    "repository_url": "https://github.com/microsoft/AI-For-Beginners"
-  },
-  {
-    "repository_name": "mindsdb/mindsdb",
-    "repository_url": "https://github.com/mindsdb/mindsdb"
-  },
-  {
-    "repository_name": "ml-explore/mlx-swift-examples",
-    "repository_url": "https://github.com/ml-explore/mlx-swift-examples"
+    "repository_name": "poteto/hiring-without-whiteboards",
+    "repository_url": "https://github.com/poteto/hiring-without-whiteboards"
   },
   {
     "repository_name": "tldraw/tldraw",
@@ -72,11 +60,19 @@
     "repository_url": "https://github.com/torvalds/linux"
   },
   {
-    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    "repository_name": "winfunc/opcode",
+    "repository_url": "https://github.com/winfunc/opcode"
+  },
+  {
+    "repository_name": "yangshun/tech-interview-handbook",
+    "repository_url": "https://github.com/yangshun/tech-interview-handbook"
   },
   {
     "repository_name": "ytdl-org/youtube-dl",
     "repository_url": "https://github.com/ytdl-org/youtube-dl"
+  },
+  {
+    "repository_name": "ziglang/zig",
+    "repository_url": "https://github.com/ziglang/zig"
   }
 ]
