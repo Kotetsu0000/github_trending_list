@@ -56,10 +56,6 @@
     "repository_url": "https://github.com/tldraw/tldraw"
   },
   {
-    "repository_name": "torvalds/linux",
-    "repository_url": "https://github.com/torvalds/linux"
-  },
-  {
     "repository_name": "winfunc/opcode",
     "repository_url": "https://github.com/winfunc/opcode"
   },
