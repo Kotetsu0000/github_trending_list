@@ -1,13 +1,5 @@
 [
   {
-    "repository_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "repository_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
-  },
-  {
-    "repository_name": "Alibaba-NLP/DeepResearch",
-    "repository_url": "https://github.com/Alibaba-NLP/DeepResearch"
-  },
-  {
     "repository_name": "EbookFoundation/free-programming-books",
     "repository_url": "https://github.com/EbookFoundation/free-programming-books"
   },
@@ -16,59 +8,67 @@
     "repository_url": "https://github.com/Gar-b-age/CookLikeHOC"
   },
   {
-    "repository_name": "LizardByte/Sunshine",
-    "repository_url": "https://github.com/LizardByte/Sunshine"
+    "repository_name": "HKUDS/AI-Researcher",
+    "repository_url": "https://github.com/HKUDS/AI-Researcher"
   },
   {
-    "repository_name": "bevyengine/bevy",
-    "repository_url": "https://github.com/bevyengine/bevy"
+    "repository_name": "Kludex/uvicorn",
+    "repository_url": "https://github.com/Kludex/uvicorn"
   },
   {
-    "repository_name": "donnemartin/system-design-primer",
-    "repository_url": "https://github.com/donnemartin/system-design-primer"
+    "repository_name": "LadybirdBrowser/ladybird",
+    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
-    "repository_name": "elastic/elasticsearch",
-    "repository_url": "https://github.com/elastic/elasticsearch"
+    "repository_name": "OpenZeppelin/openzeppelin-contracts",
+    "repository_url": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+  },
+  {
+    "repository_name": "WECENG/ticket-purchase",
+    "repository_url": "https://github.com/WECENG/ticket-purchase"
   },
   {
     "repository_name": "eslint/eslint",
     "repository_url": "https://github.com/eslint/eslint"
   },
   {
-    "repository_name": "freqtrade/freqtrade",
-    "repository_url": "https://github.com/freqtrade/freqtrade"
+    "repository_name": "fmtlib/fmt",
+    "repository_url": "https://github.com/fmtlib/fmt"
   },
   {
-    "repository_name": "lllyasviel/Fooocus",
-    "repository_url": "https://github.com/lllyasviel/Fooocus"
+    "repository_name": "foundry-rs/foundry",
+    "repository_url": "https://github.com/foundry-rs/foundry"
   },
   {
-    "repository_name": "mindcraft-bots/mindcraft",
-    "repository_url": "https://github.com/mindcraft-bots/mindcraft"
+    "repository_name": "gin-gonic/gin",
+    "repository_url": "https://github.com/gin-gonic/gin"
   },
   {
-    "repository_name": "poteto/hiring-without-whiteboards",
-    "repository_url": "https://github.com/poteto/hiring-without-whiteboards"
+    "repository_name": "gofiber/fiber",
+    "repository_url": "https://github.com/gofiber/fiber"
+  },
+  {
+    "repository_name": "helm/helm",
+    "repository_url": "https://github.com/helm/helm"
+  },
+  {
+    "repository_name": "microsoft/TypeScript",
+    "repository_url": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "repository_name": "mtdvio/every-programmer-should-know",
+    "repository_url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "repository_name": "smartcontractkit/chainlink",
+    "repository_url": "https://github.com/smartcontractkit/chainlink"
   },
   {
     "repository_name": "tldraw/tldraw",
     "repository_url": "https://github.com/tldraw/tldraw"
-  },
-  {
-    "repository_name": "winfunc/opcode",
-    "repository_url": "https://github.com/winfunc/opcode"
-  },
-  {
-    "repository_name": "yangshun/tech-interview-handbook",
-    "repository_url": "https://github.com/yangshun/tech-interview-handbook"
-  },
-  {
-    "repository_name": "ytdl-org/youtube-dl",
-    "repository_url": "https://github.com/ytdl-org/youtube-dl"
-  },
-  {
-    "repository_name": "ziglang/zig",
-    "repository_url": "https://github.com/ziglang/zig"
   }
 ]
