@@ -1,74 +1,70 @@
 [
   {
-    "repository_name": "EbookFoundation/free-programming-books",
-    "repository_url": "https://github.com/EbookFoundation/free-programming-books"
+    "repository_name": "ByteByteGoHq/system-design-101",
+    "repository_url": "https://github.com/ByteByteGoHq/system-design-101"
   },
   {
     "repository_name": "Gar-b-age/CookLikeHOC",
     "repository_url": "https://github.com/Gar-b-age/CookLikeHOC"
   },
   {
-    "repository_name": "HKUDS/AI-Researcher",
-    "repository_url": "https://github.com/HKUDS/AI-Researcher"
-  },
-  {
-    "repository_name": "Kludex/uvicorn",
-    "repository_url": "https://github.com/Kludex/uvicorn"
+    "repository_name": "HKUDS/RAG-Anything",
+    "repository_url": "https://github.com/HKUDS/RAG-Anything"
   },
   {
     "repository_name": "LadybirdBrowser/ladybird",
     "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
-    "repository_name": "OpenZeppelin/openzeppelin-contracts",
-    "repository_url": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+    "repository_name": "aliasrobotics/cai",
+    "repository_url": "https://github.com/aliasrobotics/cai"
   },
   {
-    "repository_name": "WECENG/ticket-purchase",
-    "repository_url": "https://github.com/WECENG/ticket-purchase"
+    "repository_name": "bytedance/Dolphin",
+    "repository_url": "https://github.com/bytedance/Dolphin"
   },
   {
-    "repository_name": "eslint/eslint",
-    "repository_url": "https://github.com/eslint/eslint"
+    "repository_name": "cloudflare/capnweb",
+    "repository_url": "https://github.com/cloudflare/capnweb"
   },
   {
-    "repository_name": "fmtlib/fmt",
-    "repository_url": "https://github.com/fmtlib/fmt"
+    "repository_name": "django/django",
+    "repository_url": "https://github.com/django/django"
   },
   {
-    "repository_name": "foundry-rs/foundry",
-    "repository_url": "https://github.com/foundry-rs/foundry"
+    "repository_name": "elastic/elasticsearch",
+    "repository_url": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "repository_name": "exo-explore/exo",
+    "repository_url": "https://github.com/exo-explore/exo"
+  },
+  {
+    "repository_name": "freqtrade/freqtrade",
+    "repository_url": "https://github.com/freqtrade/freqtrade"
   },
   {
     "repository_name": "gin-gonic/gin",
     "repository_url": "https://github.com/gin-gonic/gin"
   },
   {
-    "repository_name": "gofiber/fiber",
-    "repository_url": "https://github.com/gofiber/fiber"
-  },
-  {
-    "repository_name": "helm/helm",
-    "repository_url": "https://github.com/helm/helm"
-  },
-  {
-    "repository_name": "microsoft/TypeScript",
-    "repository_url": "https://github.com/microsoft/TypeScript"
+    "repository_name": "istio/istio",
+    "repository_url": "https://github.com/istio/istio"
   },
   {
     "repository_name": "mtdvio/every-programmer-should-know",
     "repository_url": "https://github.com/mtdvio/every-programmer-should-know"
   },
   {
-    "repository_name": "nvm-sh/nvm",
-    "repository_url": "https://github.com/nvm-sh/nvm"
+    "repository_name": "siyuan-note/siyuan",
+    "repository_url": "https://github.com/siyuan-note/siyuan"
   },
   {
-    "repository_name": "smartcontractkit/chainlink",
-    "repository_url": "https://github.com/smartcontractkit/chainlink"
+    "repository_name": "solana-labs/solana",
+    "repository_url": "https://github.com/solana-labs/solana"
   },
   {
-    "repository_name": "tldraw/tldraw",
-    "repository_url": "https://github.com/tldraw/tldraw"
+    "repository_name": "ultralytics/ultralytics",
+    "repository_url": "https://github.com/ultralytics/ultralytics"
   }
 ]
