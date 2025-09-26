@@ -1,66 +1,62 @@
 [
   {
-    "repository_name": "Asabeneh/30-Days-Of-Python",
-    "repository_url": "https://github.com/Asabeneh/30-Days-Of-Python"
-  },
-  {
-    "repository_name": "LadybirdBrowser/ladybird",
-    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
-  },
-  {
-    "repository_name": "Olow304/memvid",
-    "repository_url": "https://github.com/Olow304/memvid"
-  },
-  {
-    "repository_name": "OpenZeppelin/openzeppelin-contracts",
-    "repository_url": "https://github.com/OpenZeppelin/openzeppelin-contracts"
-  },
-  {
-    "repository_name": "TanStack/router",
-    "repository_url": "https://github.com/TanStack/router"
-  },
-  {
-    "repository_name": "TheAlgorithms/Python",
-    "repository_url": "https://github.com/TheAlgorithms/Python"
+    "repository_name": "HKUDS/RAG-Anything",
+    "repository_url": "https://github.com/HKUDS/RAG-Anything"
   },
   {
     "repository_name": "ZuodaoTech/everyone-can-use-english",
     "repository_url": "https://github.com/ZuodaoTech/everyone-can-use-english"
   },
   {
-    "repository_name": "cloudflare/capnweb",
-    "repository_url": "https://github.com/cloudflare/capnweb"
+    "repository_name": "basecamp/omarchy",
+    "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
-    "repository_name": "coinbase/x402",
-    "repository_url": "https://github.com/coinbase/x402"
+    "repository_name": "bytedance/Dolphin",
+    "repository_url": "https://github.com/bytedance/Dolphin"
   },
   {
-    "repository_name": "confident-ai/deepeval",
-    "repository_url": "https://github.com/confident-ai/deepeval"
+    "repository_name": "ericciarla/trendFinder",
+    "repository_url": "https://github.com/ericciarla/trendFinder"
   },
   {
-    "repository_name": "elastic/elasticsearch",
-    "repository_url": "https://github.com/elastic/elasticsearch"
+    "repository_name": "exo-explore/exo",
+    "repository_url": "https://github.com/exo-explore/exo"
   },
   {
     "repository_name": "gin-gonic/gin",
     "repository_url": "https://github.com/gin-gonic/gin"
   },
   {
+    "repository_name": "google-gemini/cookbook",
+    "repository_url": "https://github.com/google-gemini/cookbook"
+  },
+  {
+    "repository_name": "google-gemini/gemini-cli",
+    "repository_url": "https://github.com/google-gemini/gemini-cli"
+  },
+  {
     "repository_name": "humanlayer/humanlayer",
     "repository_url": "https://github.com/humanlayer/humanlayer"
+  },
+  {
+    "repository_name": "is-a-dev/register",
+    "repository_url": "https://github.com/is-a-dev/register"
+  },
+  {
+    "repository_name": "jellyfin/jellyfin",
+    "repository_url": "https://github.com/jellyfin/jellyfin"
+  },
+  {
+    "repository_name": "netdata/netdata",
+    "repository_url": "https://github.com/netdata/netdata"
   },
   {
     "repository_name": "onyx-dot-app/onyx",
     "repository_url": "https://github.com/onyx-dot-app/onyx"
   },
   {
-    "repository_name": "smartcontractkit/chainlink",
-    "repository_url": "https://github.com/smartcontractkit/chainlink"
-  },
-  {
-    "repository_name": "yt-dlp/yt-dlp",
-    "repository_url": "https://github.com/yt-dlp/yt-dlp"
+    "repository_name": "ultralytics/ultralytics",
+    "repository_url": "https://github.com/ultralytics/ultralytics"
   }
 ]
