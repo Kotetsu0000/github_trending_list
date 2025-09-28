@@ -1,47 +1,23 @@
 [
   {
-    "repository_name": "HKUDS/RAG-Anything",
-    "repository_url": "https://github.com/HKUDS/RAG-Anything"
-  },
-  {
-    "repository_name": "Olow304/memvid",
-    "repository_url": "https://github.com/Olow304/memvid"
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
     "repository_name": "ZuodaoTech/everyone-can-use-english",
     "repository_url": "https://github.com/ZuodaoTech/everyone-can-use-english"
   },
   {
-    "repository_name": "ai-dynamo/dynamo",
-    "repository_url": "https://github.com/ai-dynamo/dynamo"
-  },
-  {
     "repository_name": "basecamp/omarchy",
     "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
-    "repository_name": "coinbase/x402",
-    "repository_url": "https://github.com/coinbase/x402"
-  },
-  {
-    "repository_name": "directus/directus",
-    "repository_url": "https://github.com/directus/directus"
-  },
-  {
-    "repository_name": "dotnet/aspnetcore",
-    "repository_url": "https://github.com/dotnet/aspnetcore"
-  },
-  {
-    "repository_name": "e2b-dev/awesome-ai-agents",
-    "repository_url": "https://github.com/e2b-dev/awesome-ai-agents"
+    "repository_name": "commaai/openpilot",
+    "repository_url": "https://github.com/commaai/openpilot"
   },
   {
     "repository_name": "frappe/erpnext",
     "repository_url": "https://github.com/frappe/erpnext"
-  },
-  {
-    "repository_name": "gin-gonic/gin",
-    "repository_url": "https://github.com/gin-gonic/gin"
   },
   {
     "repository_name": "harry0703/MoneyPrinterTurbo",
@@ -52,31 +28,43 @@
     "repository_url": "https://github.com/humanlayer/humanlayer"
   },
   {
-    "repository_name": "imputnet/helium",
-    "repository_url": "https://github.com/imputnet/helium"
-  },
-  {
     "repository_name": "jellyfin/jellyfin",
     "repository_url": "https://github.com/jellyfin/jellyfin"
   },
   {
-    "repository_name": "modelcontextprotocol/typescript-sdk",
-    "repository_url": "https://github.com/modelcontextprotocol/typescript-sdk"
+    "repository_name": "kamranahmedse/developer-roadmap",
+    "repository_url": "https://github.com/kamranahmedse/developer-roadmap"
   },
   {
-    "repository_name": "oauth2-proxy/oauth2-proxy",
-    "repository_url": "https://github.com/oauth2-proxy/oauth2-proxy"
+    "repository_name": "microsoft/ai-agents-for-beginners",
+    "repository_url": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "repository_name": "microsoft/qlib",
+    "repository_url": "https://github.com/microsoft/qlib"
   },
   {
     "repository_name": "onyx-dot-app/onyx",
     "repository_url": "https://github.com/onyx-dot-app/onyx"
   },
   {
-    "repository_name": "roboflow/supervision",
-    "repository_url": "https://github.com/roboflow/supervision"
+    "repository_name": "rapid7/metasploit-framework",
+    "repository_url": "https://github.com/rapid7/metasploit-framework"
   },
   {
-    "repository_name": "wanghongenpin/proxypin",
-    "repository_url": "https://github.com/wanghongenpin/proxypin"
+    "repository_name": "rasbt/LLMs-from-scratch",
+    "repository_url": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "repository_name": "sst/opencode",
+    "repository_url": "https://github.com/sst/opencode"
+  },
+  {
+    "repository_name": "typst/typst",
+    "repository_url": "https://github.com/typst/typst"
+  },
+  {
+    "repository_name": "yt-dlp/yt-dlp",
+    "repository_url": "https://github.com/yt-dlp/yt-dlp"
   }
 ]
