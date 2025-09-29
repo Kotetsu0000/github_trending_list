@@ -1,19 +1,19 @@
 [
   {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    "repository_name": "Done-0/fuck-u-code",
+    "repository_url": "https://github.com/Done-0/fuck-u-code"
   },
   {
-    "repository_name": "ZuodaoTech/everyone-can-use-english",
-    "repository_url": "https://github.com/ZuodaoTech/everyone-can-use-english"
-  },
-  {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
+    "repository_name": "adityatelange/hugo-PaperMod",
+    "repository_url": "https://github.com/adityatelange/hugo-PaperMod"
   },
   {
     "repository_name": "commaai/openpilot",
     "repository_url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "repository_name": "florinpop17/app-ideas",
+    "repository_url": "https://github.com/florinpop17/app-ideas"
   },
   {
     "repository_name": "frappe/erpnext",
@@ -32,39 +32,35 @@
     "repository_url": "https://github.com/jellyfin/jellyfin"
   },
   {
+    "repository_name": "jsvine/pdfplumber",
+    "repository_url": "https://github.com/jsvine/pdfplumber"
+  },
+  {
     "repository_name": "kamranahmedse/developer-roadmap",
     "repository_url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "repository_name": "langgenius/dify",
+    "repository_url": "https://github.com/langgenius/dify"
   },
   {
     "repository_name": "microsoft/ai-agents-for-beginners",
     "repository_url": "https://github.com/microsoft/ai-agents-for-beginners"
   },
   {
-    "repository_name": "microsoft/qlib",
-    "repository_url": "https://github.com/microsoft/qlib"
+    "repository_name": "oauth2-proxy/oauth2-proxy",
+    "repository_url": "https://github.com/oauth2-proxy/oauth2-proxy"
   },
   {
     "repository_name": "onyx-dot-app/onyx",
     "repository_url": "https://github.com/onyx-dot-app/onyx"
   },
   {
-    "repository_name": "rapid7/metasploit-framework",
-    "repository_url": "https://github.com/rapid7/metasploit-framework"
-  },
-  {
-    "repository_name": "rasbt/LLMs-from-scratch",
-    "repository_url": "https://github.com/rasbt/LLMs-from-scratch"
+    "repository_name": "snarktank/ai-dev-tasks",
+    "repository_url": "https://github.com/snarktank/ai-dev-tasks"
   },
   {
     "repository_name": "sst/opencode",
     "repository_url": "https://github.com/sst/opencode"
-  },
-  {
-    "repository_name": "typst/typst",
-    "repository_url": "https://github.com/typst/typst"
-  },
-  {
-    "repository_name": "yt-dlp/yt-dlp",
-    "repository_url": "https://github.com/yt-dlp/yt-dlp"
   }
 ]
