@@ -1,66 +1,86 @@
 [
   {
-    "repository_name": "Done-0/fuck-u-code",
-    "repository_url": "https://github.com/Done-0/fuck-u-code"
+    "repository_name": "Lightricks/LTX-Video",
+    "repository_url": "https://github.com/Lightricks/LTX-Video"
   },
   {
-    "repository_name": "PHPMailer/PHPMailer",
-    "repository_url": "https://github.com/PHPMailer/PHPMailer"
+    "repository_name": "MudBlazor/MudBlazor",
+    "repository_url": "https://github.com/MudBlazor/MudBlazor"
   },
   {
     "repository_name": "SDWebImage/SDWebImage",
     "repository_url": "https://github.com/SDWebImage/SDWebImage"
   },
   {
-    "repository_name": "YILING0013/AI_NovelGenerator",
-    "repository_url": "https://github.com/YILING0013/AI_NovelGenerator"
+    "repository_name": "actions/runner-images",
+    "repository_url": "https://github.com/actions/runner-images"
   },
   {
     "repository_name": "anthropics/claude-agent-sdk-python",
     "repository_url": "https://github.com/anthropics/claude-agent-sdk-python"
   },
   {
-    "repository_name": "aquasecurity/trivy",
-    "repository_url": "https://github.com/aquasecurity/trivy"
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "commaai/openpilot",
-    "repository_url": "https://github.com/commaai/openpilot"
+    "repository_name": "atuinsh/desktop",
+    "repository_url": "https://github.com/atuinsh/desktop"
   },
   {
-    "repository_name": "github/awesome-copilot",
-    "repository_url": "https://github.com/github/awesome-copilot"
+    "repository_name": "chiphuyen/aie-book",
+    "repository_url": "https://github.com/chiphuyen/aie-book"
+  },
+  {
+    "repository_name": "cjpais/Handy",
+    "repository_url": "https://github.com/cjpais/Handy"
+  },
+  {
+    "repository_name": "enescingoz/awesome-n8n-templates",
+    "repository_url": "https://github.com/enescingoz/awesome-n8n-templates"
+  },
+  {
+    "repository_name": "google/tunix",
+    "repository_url": "https://github.com/google/tunix"
   },
   {
     "repository_name": "harry0703/MoneyPrinterTurbo",
     "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
-    "repository_name": "lobehub/lobe-chat",
-    "repository_url": "https://github.com/lobehub/lobe-chat"
+    "repository_name": "hsliuping/TradingAgents-CN",
+    "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
   },
   {
-    "repository_name": "lukas-blecher/LaTeX-OCR",
-    "repository_url": "https://github.com/lukas-blecher/LaTeX-OCR"
+    "repository_name": "immich-app/immich",
+    "repository_url": "https://github.com/immich-app/immich"
   },
   {
-    "repository_name": "microsoft/ai-agents-for-beginners",
-    "repository_url": "https://github.com/microsoft/ai-agents-for-beginners"
+    "repository_name": "juspay/hyperswitch",
+    "repository_url": "https://github.com/juspay/hyperswitch"
   },
   {
-    "repository_name": "mlabonne/llm-course",
-    "repository_url": "https://github.com/mlabonne/llm-course"
+    "repository_name": "kestra-io/kestra",
+    "repository_url": "https://github.com/kestra-io/kestra"
   },
   {
     "repository_name": "nextcloud/server",
     "repository_url": "https://github.com/nextcloud/server"
   },
   {
-    "repository_name": "tile-ai/tilelang",
-    "repository_url": "https://github.com/tile-ai/tilelang"
+    "repository_name": "pathwaycom/pathway",
+    "repository_url": "https://github.com/pathwaycom/pathway"
   },
   {
-    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    "repository_name": "quarkusio/quarkus",
+    "repository_url": "https://github.com/quarkusio/quarkus"
+  },
+  {
+    "repository_name": "simstudioai/sim",
+    "repository_url": "https://github.com/simstudioai/sim"
+  },
+  {
+    "repository_name": "tigerbeetle/tigerbeetle",
+    "repository_url": "https://github.com/tigerbeetle/tigerbeetle"
   }
 ]
