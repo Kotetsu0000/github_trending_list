@@ -56,6 +56,10 @@
     "repository_url": "https://github.com/nextcloud/server"
   },
   {
+    "repository_name": "tile-ai/tilelang",
+    "repository_url": "https://github.com/tile-ai/tilelang"
+  },
+  {
     "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
     "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
