@@ -1,51 +1,27 @@
 [
   {
-    "repository_name": "Lightricks/LTX-Video",
-    "repository_url": "https://github.com/Lightricks/LTX-Video"
-  },
-  {
-    "repository_name": "MudBlazor/MudBlazor",
-    "repository_url": "https://github.com/MudBlazor/MudBlazor"
+    "repository_name": "Infisical/infisical",
+    "repository_url": "https://github.com/Infisical/infisical"
   },
   {
     "repository_name": "SDWebImage/SDWebImage",
     "repository_url": "https://github.com/SDWebImage/SDWebImage"
   },
   {
-    "repository_name": "actions/runner-images",
-    "repository_url": "https://github.com/actions/runner-images"
+    "repository_name": "airweave-ai/airweave",
+    "repository_url": "https://github.com/airweave-ai/airweave"
   },
   {
-    "repository_name": "anthropics/claude-agent-sdk-python",
-    "repository_url": "https://github.com/anthropics/claude-agent-sdk-python"
+    "repository_name": "amir1376/ab-download-manager",
+    "repository_url": "https://github.com/amir1376/ab-download-manager"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
-  },
-  {
-    "repository_name": "atuinsh/desktop",
-    "repository_url": "https://github.com/atuinsh/desktop"
-  },
-  {
-    "repository_name": "chiphuyen/aie-book",
-    "repository_url": "https://github.com/chiphuyen/aie-book"
-  },
-  {
-    "repository_name": "cjpais/Handy",
-    "repository_url": "https://github.com/cjpais/Handy"
-  },
-  {
-    "repository_name": "enescingoz/awesome-n8n-templates",
-    "repository_url": "https://github.com/enescingoz/awesome-n8n-templates"
+    "repository_name": "emcie-co/parlant",
+    "repository_url": "https://github.com/emcie-co/parlant"
   },
   {
     "repository_name": "google/tunix",
     "repository_url": "https://github.com/google/tunix"
-  },
-  {
-    "repository_name": "harry0703/MoneyPrinterTurbo",
-    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
     "repository_name": "hsliuping/TradingAgents-CN",
@@ -64,6 +40,22 @@
     "repository_url": "https://github.com/kestra-io/kestra"
   },
   {
+    "repository_name": "lukas-blecher/LaTeX-OCR",
+    "repository_url": "https://github.com/lukas-blecher/LaTeX-OCR"
+  },
+  {
+    "repository_name": "meshery/meshery",
+    "repository_url": "https://github.com/meshery/meshery"
+  },
+  {
+    "repository_name": "mhogomchungu/media-downloader",
+    "repository_url": "https://github.com/mhogomchungu/media-downloader"
+  },
+  {
+    "repository_name": "microsoft/agent-framework",
+    "repository_url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "repository_name": "nextcloud/server",
     "repository_url": "https://github.com/nextcloud/server"
   },
@@ -72,15 +64,11 @@
     "repository_url": "https://github.com/pathwaycom/pathway"
   },
   {
-    "repository_name": "quarkusio/quarkus",
-    "repository_url": "https://github.com/quarkusio/quarkus"
+    "repository_name": "ripienaar/free-for-dev",
+    "repository_url": "https://github.com/ripienaar/free-for-dev"
   },
   {
-    "repository_name": "simstudioai/sim",
-    "repository_url": "https://github.com/simstudioai/sim"
-  },
-  {
-    "repository_name": "tigerbeetle/tigerbeetle",
-    "repository_url": "https://github.com/tigerbeetle/tigerbeetle"
+    "repository_name": "symfony/symfony",
+    "repository_url": "https://github.com/symfony/symfony"
   }
 ]
