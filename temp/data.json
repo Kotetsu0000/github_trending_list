@@ -1,23 +1,35 @@
 [
   {
+    "repository_name": "AykutSarac/jsoncrack.com",
+    "repository_url": "https://github.com/AykutSarac/jsoncrack.com"
+  },
+  {
     "repository_name": "Infisical/infisical",
     "repository_url": "https://github.com/Infisical/infisical"
   },
   {
-    "repository_name": "SDWebImage/SDWebImage",
-    "repository_url": "https://github.com/SDWebImage/SDWebImage"
+    "repository_name": "MotiaDev/motia",
+    "repository_url": "https://github.com/MotiaDev/motia"
+  },
+  {
+    "repository_name": "MudBlazor/MudBlazor",
+    "repository_url": "https://github.com/MudBlazor/MudBlazor"
+  },
+  {
+    "repository_name": "Stremio/stremio-web",
+    "repository_url": "https://github.com/Stremio/stremio-web"
   },
   {
     "repository_name": "airweave-ai/airweave",
     "repository_url": "https://github.com/airweave-ai/airweave"
   },
   {
-    "repository_name": "amir1376/ab-download-manager",
-    "repository_url": "https://github.com/amir1376/ab-download-manager"
+    "repository_name": "dbt-labs/dbt-core",
+    "repository_url": "https://github.com/dbt-labs/dbt-core"
   },
   {
-    "repository_name": "emcie-co/parlant",
-    "repository_url": "https://github.com/emcie-co/parlant"
+    "repository_name": "glide-browser/glide",
+    "repository_url": "https://github.com/glide-browser/glide"
   },
   {
     "repository_name": "google/tunix",
@@ -28,10 +40,6 @@
     "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
   },
   {
-    "repository_name": "immich-app/immich",
-    "repository_url": "https://github.com/immich-app/immich"
-  },
-  {
     "repository_name": "juspay/hyperswitch",
     "repository_url": "https://github.com/juspay/hyperswitch"
   },
@@ -40,35 +48,39 @@
     "repository_url": "https://github.com/kestra-io/kestra"
   },
   {
-    "repository_name": "lukas-blecher/LaTeX-OCR",
-    "repository_url": "https://github.com/lukas-blecher/LaTeX-OCR"
-  },
-  {
     "repository_name": "meshery/meshery",
     "repository_url": "https://github.com/meshery/meshery"
   },
   {
-    "repository_name": "mhogomchungu/media-downloader",
-    "repository_url": "https://github.com/mhogomchungu/media-downloader"
+    "repository_name": "microsoft/BitNet",
+    "repository_url": "https://github.com/microsoft/BitNet"
   },
   {
     "repository_name": "microsoft/agent-framework",
     "repository_url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "repository_name": "nextcloud/server",
-    "repository_url": "https://github.com/nextcloud/server"
+    "repository_name": "paaatrick/playball",
+    "repository_url": "https://github.com/paaatrick/playball"
+  },
+  {
+    "repository_name": "pathwaycom/llm-app",
+    "repository_url": "https://github.com/pathwaycom/llm-app"
   },
   {
     "repository_name": "pathwaycom/pathway",
     "repository_url": "https://github.com/pathwaycom/pathway"
   },
   {
-    "repository_name": "ripienaar/free-for-dev",
-    "repository_url": "https://github.com/ripienaar/free-for-dev"
+    "repository_name": "signalapp/libsignal",
+    "repository_url": "https://github.com/signalapp/libsignal"
   },
   {
-    "repository_name": "symfony/symfony",
-    "repository_url": "https://github.com/symfony/symfony"
+    "repository_name": "simular-ai/Agent-S",
+    "repository_url": "https://github.com/simular-ai/Agent-S"
+  },
+  {
+    "repository_name": "tigerbeetle/tigerbeetle",
+    "repository_url": "https://github.com/tigerbeetle/tigerbeetle"
   }
 ]
