@@ -1,39 +1,51 @@
 [
   {
-    "repository_name": "AykutSarac/jsoncrack.com",
-    "repository_url": "https://github.com/AykutSarac/jsoncrack.com"
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
   },
   {
     "repository_name": "Infisical/infisical",
     "repository_url": "https://github.com/Infisical/infisical"
   },
   {
-    "repository_name": "MotiaDev/motia",
-    "repository_url": "https://github.com/MotiaDev/motia"
-  },
-  {
-    "repository_name": "MudBlazor/MudBlazor",
-    "repository_url": "https://github.com/MudBlazor/MudBlazor"
-  },
-  {
     "repository_name": "Stremio/stremio-web",
     "repository_url": "https://github.com/Stremio/stremio-web"
+  },
+  {
+    "repository_name": "YaLTeR/niri",
+    "repository_url": "https://github.com/YaLTeR/niri"
+  },
+  {
+    "repository_name": "aandrew-me/ytDownloader",
+    "repository_url": "https://github.com/aandrew-me/ytDownloader"
   },
   {
     "repository_name": "airweave-ai/airweave",
     "repository_url": "https://github.com/airweave-ai/airweave"
   },
   {
-    "repository_name": "dbt-labs/dbt-core",
-    "repository_url": "https://github.com/dbt-labs/dbt-core"
+    "repository_name": "amir1376/ab-download-manager",
+    "repository_url": "https://github.com/amir1376/ab-download-manager"
+  },
+  {
+    "repository_name": "audacity/audacity",
+    "repository_url": "https://github.com/audacity/audacity"
+  },
+  {
+    "repository_name": "comfyanonymous/ComfyUI",
+    "repository_url": "https://github.com/comfyanonymous/ComfyUI"
+  },
+  {
+    "repository_name": "evcc-io/evcc",
+    "repository_url": "https://github.com/evcc-io/evcc"
+  },
+  {
+    "repository_name": "expressjs/express",
+    "repository_url": "https://github.com/expressjs/express"
   },
   {
     "repository_name": "glide-browser/glide",
     "repository_url": "https://github.com/glide-browser/glide"
-  },
-  {
-    "repository_name": "google/tunix",
-    "repository_url": "https://github.com/google/tunix"
   },
   {
     "repository_name": "hsliuping/TradingAgents-CN",
@@ -52,35 +64,19 @@
     "repository_url": "https://github.com/meshery/meshery"
   },
   {
+    "repository_name": "meshtastic/firmware",
+    "repository_url": "https://github.com/meshtastic/firmware"
+  },
+  {
     "repository_name": "microsoft/BitNet",
     "repository_url": "https://github.com/microsoft/BitNet"
-  },
-  {
-    "repository_name": "microsoft/agent-framework",
-    "repository_url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "repository_name": "paaatrick/playball",
-    "repository_url": "https://github.com/paaatrick/playball"
-  },
-  {
-    "repository_name": "pathwaycom/llm-app",
-    "repository_url": "https://github.com/pathwaycom/llm-app"
   },
   {
     "repository_name": "pathwaycom/pathway",
     "repository_url": "https://github.com/pathwaycom/pathway"
   },
   {
-    "repository_name": "signalapp/libsignal",
-    "repository_url": "https://github.com/signalapp/libsignal"
-  },
-  {
-    "repository_name": "simular-ai/Agent-S",
-    "repository_url": "https://github.com/simular-ai/Agent-S"
-  },
-  {
-    "repository_name": "tigerbeetle/tigerbeetle",
-    "repository_url": "https://github.com/tigerbeetle/tigerbeetle"
+    "repository_name": "xtekky/gpt4free",
+    "repository_url": "https://github.com/xtekky/gpt4free"
   }
 ]
