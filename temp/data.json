@@ -4,64 +4,44 @@
     "repository_url": "https://github.com/BeehiveInnovations/zen-mcp-server"
   },
   {
-    "repository_name": "FlowiseAI/Flowise",
-    "repository_url": "https://github.com/FlowiseAI/Flowise"
-  },
-  {
-    "repository_name": "Flowseal/zapret-discord-youtube",
-    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
-  },
-  {
     "repository_name": "Infisical/infisical",
     "repository_url": "https://github.com/Infisical/infisical"
   },
   {
-    "repository_name": "Morganamilo/paru",
-    "repository_url": "https://github.com/Morganamilo/paru"
+    "repository_name": "MODSetter/SurfSense",
+    "repository_url": "https://github.com/MODSetter/SurfSense"
   },
   {
     "repository_name": "Stremio/stremio-web",
     "repository_url": "https://github.com/Stremio/stremio-web"
   },
   {
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
     "repository_name": "aandrew-me/ytDownloader",
     "repository_url": "https://github.com/aandrew-me/ytDownloader"
   },
   {
-    "repository_name": "audacity/audacity",
-    "repository_url": "https://github.com/audacity/audacity"
-  },
-  {
-    "repository_name": "dgtlmoon/changedetection.io",
-    "repository_url": "https://github.com/dgtlmoon/changedetection.io"
+    "repository_name": "browserbase/stagehand",
+    "repository_url": "https://github.com/browserbase/stagehand"
   },
   {
     "repository_name": "dyad-sh/dyad",
     "repository_url": "https://github.com/dyad-sh/dyad"
   },
   {
-    "repository_name": "firefly-iii/firefly-iii",
-    "repository_url": "https://github.com/firefly-iii/firefly-iii"
-  },
-  {
-    "repository_name": "is-a-dev/register",
-    "repository_url": "https://github.com/is-a-dev/register"
-  },
-  {
-    "repository_name": "microsoft/BitNet",
-    "repository_url": "https://github.com/microsoft/BitNet"
-  },
-  {
-    "repository_name": "openai/openai-agents-python",
-    "repository_url": "https://github.com/openai/openai-agents-python"
-  },
-  {
     "repository_name": "openemr/openemr",
     "repository_url": "https://github.com/openemr/openemr"
   },
   {
-    "repository_name": "simstudioai/sim",
-    "repository_url": "https://github.com/simstudioai/sim"
+    "repository_name": "shadcn-ui/ui",
+    "repository_url": "https://github.com/shadcn-ui/ui"
+  },
+  {
+    "repository_name": "thingsboard/thingsboard",
+    "repository_url": "https://github.com/thingsboard/thingsboard"
   },
   {
     "repository_name": "trycua/cua",
