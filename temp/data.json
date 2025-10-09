@@ -1,15 +1,15 @@
 [
   {
-    "repository_name": "BeehiveInnovations/zen-mcp-server",
-    "repository_url": "https://github.com/BeehiveInnovations/zen-mcp-server"
-  },
-  {
-    "repository_name": "Infisical/infisical",
-    "repository_url": "https://github.com/Infisical/infisical"
+    "repository_name": "FlowiseAI/Flowise",
+    "repository_url": "https://github.com/FlowiseAI/Flowise"
   },
   {
     "repository_name": "MODSetter/SurfSense",
     "repository_url": "https://github.com/MODSetter/SurfSense"
+  },
+  {
+    "repository_name": "PixelGuys/Cubyz",
+    "repository_url": "https://github.com/PixelGuys/Cubyz"
   },
   {
     "repository_name": "Stremio/stremio-web",
@@ -20,31 +20,35 @@
     "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
-    "repository_name": "aandrew-me/ytDownloader",
-    "repository_url": "https://github.com/aandrew-me/ytDownloader"
+    "repository_name": "TibixDev/winboat",
+    "repository_url": "https://github.com/TibixDev/winboat"
   },
   {
     "repository_name": "browserbase/stagehand",
     "repository_url": "https://github.com/browserbase/stagehand"
   },
   {
-    "repository_name": "dyad-sh/dyad",
-    "repository_url": "https://github.com/dyad-sh/dyad"
+    "repository_name": "google/computer-use-preview",
+    "repository_url": "https://github.com/google/computer-use-preview"
   },
   {
-    "repository_name": "openemr/openemr",
-    "repository_url": "https://github.com/openemr/openemr"
+    "repository_name": "openai/openai-agents-python",
+    "repository_url": "https://github.com/openai/openai-agents-python"
   },
   {
-    "repository_name": "shadcn-ui/ui",
-    "repository_url": "https://github.com/shadcn-ui/ui"
+    "repository_name": "rust-lang/rustfmt",
+    "repository_url": "https://github.com/rust-lang/rustfmt"
   },
   {
-    "repository_name": "thingsboard/thingsboard",
-    "repository_url": "https://github.com/thingsboard/thingsboard"
+    "repository_name": "rustdesk/rustdesk",
+    "repository_url": "https://github.com/rustdesk/rustdesk"
   },
   {
-    "repository_name": "trycua/cua",
-    "repository_url": "https://github.com/trycua/cua"
+    "repository_name": "timelinize/timelinize",
+    "repository_url": "https://github.com/timelinize/timelinize"
+  },
+  {
+    "repository_name": "winapps-org/winapps",
+    "repository_url": "https://github.com/winapps-org/winapps"
   }
 ]
