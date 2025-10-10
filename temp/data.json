@@ -1,7 +1,11 @@
 [
   {
-    "repository_name": "FlowiseAI/Flowise",
-    "repository_url": "https://github.com/FlowiseAI/Flowise"
+    "repository_name": "78/xiaozhi-esp32",
+    "repository_url": "https://github.com/78/xiaozhi-esp32"
+  },
+  {
+    "repository_name": "CapSoftware/Cap",
+    "repository_url": "https://github.com/CapSoftware/Cap"
   },
   {
     "repository_name": "MODSetter/SurfSense",
@@ -24,31 +28,35 @@
     "repository_url": "https://github.com/TibixDev/winboat"
   },
   {
+    "repository_name": "WECENG/ticket-purchase",
+    "repository_url": "https://github.com/WECENG/ticket-purchase"
+  },
+  {
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
+  },
+  {
     "repository_name": "browserbase/stagehand",
     "repository_url": "https://github.com/browserbase/stagehand"
   },
   {
-    "repository_name": "google/computer-use-preview",
-    "repository_url": "https://github.com/google/computer-use-preview"
+    "repository_name": "coze-dev/coze-studio",
+    "repository_url": "https://github.com/coze-dev/coze-studio"
   },
   {
-    "repository_name": "openai/openai-agents-python",
-    "repository_url": "https://github.com/openai/openai-agents-python"
+    "repository_name": "evershopcommerce/evershop",
+    "repository_url": "https://github.com/evershopcommerce/evershop"
   },
   {
-    "repository_name": "rust-lang/rustfmt",
-    "repository_url": "https://github.com/rust-lang/rustfmt"
+    "repository_name": "microsoft/RD-Agent",
+    "repository_url": "https://github.com/microsoft/RD-Agent"
   },
   {
-    "repository_name": "rustdesk/rustdesk",
-    "repository_url": "https://github.com/rustdesk/rustdesk"
+    "repository_name": "supermemoryai/supermemory",
+    "repository_url": "https://github.com/supermemoryai/supermemory"
   },
   {
-    "repository_name": "timelinize/timelinize",
-    "repository_url": "https://github.com/timelinize/timelinize"
-  },
-  {
-    "repository_name": "winapps-org/winapps",
-    "repository_url": "https://github.com/winapps-org/winapps"
+    "repository_name": "xyflow/xyflow",
+    "repository_url": "https://github.com/xyflow/xyflow"
   }
 ]
