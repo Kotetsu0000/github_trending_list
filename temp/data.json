@@ -1,50 +1,82 @@
 [
   {
-    "repository_name": "CapSoftware/Cap",
-    "repository_url": "https://github.com/CapSoftware/Cap"
+    "repository_name": "78/xiaozhi-esp32",
+    "repository_url": "https://github.com/78/xiaozhi-esp32"
   },
   {
-    "repository_name": "MODSetter/SurfSense",
-    "repository_url": "https://github.com/MODSetter/SurfSense"
+    "repository_name": "Anduin2017/HowToCook",
+    "repository_url": "https://github.com/Anduin2017/HowToCook"
+  },
+  {
+    "repository_name": "DIYgod/RSSHub",
+    "repository_url": "https://github.com/DIYgod/RSSHub"
+  },
+  {
+    "repository_name": "DearVa/Everywhere",
+    "repository_url": "https://github.com/DearVa/Everywhere"
+  },
+  {
+    "repository_name": "Klavis-AI/klavis",
+    "repository_url": "https://github.com/Klavis-AI/klavis"
   },
   {
     "repository_name": "PixelGuys/Cubyz",
     "repository_url": "https://github.com/PixelGuys/Cubyz"
   },
   {
-    "repository_name": "QwenLM/Qwen3-VL",
-    "repository_url": "https://github.com/QwenLM/Qwen3-VL"
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
     "repository_name": "TibixDev/winboat",
     "repository_url": "https://github.com/TibixDev/winboat"
   },
   {
+    "repository_name": "WECENG/ticket-purchase",
+    "repository_url": "https://github.com/WECENG/ticket-purchase"
+  },
+  {
+    "repository_name": "alibaba/spring-ai-alibaba",
+    "repository_url": "https://github.com/alibaba/spring-ai-alibaba"
+  },
+  {
     "repository_name": "anthropics/claude-code",
     "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "clash-verge-rev/clash-verge-rev",
-    "repository_url": "https://github.com/clash-verge-rev/clash-verge-rev"
+    "repository_name": "basecamp/omarchy",
+    "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
-    "repository_name": "dataease/SQLBot",
-    "repository_url": "https://github.com/dataease/SQLBot"
+    "repository_name": "coze-dev/coze-studio",
+    "repository_url": "https://github.com/coze-dev/coze-studio"
   },
   {
     "repository_name": "davila7/claude-code-templates",
     "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
+    "repository_name": "daytonaio/daytona",
+    "repository_url": "https://github.com/daytonaio/daytona"
+  },
+  {
     "repository_name": "evershopcommerce/evershop",
     "repository_url": "https://github.com/evershopcommerce/evershop"
   },
   {
-    "repository_name": "supermemoryai/supermemory",
-    "repository_url": "https://github.com/supermemoryai/supermemory"
+    "repository_name": "huggingface/diffusers",
+    "repository_url": "https://github.com/huggingface/diffusers"
   },
   {
-    "repository_name": "timelinize/timelinize",
-    "repository_url": "https://github.com/timelinize/timelinize"
+    "repository_name": "lobehub/lobe-chat",
+    "repository_url": "https://github.com/lobehub/lobe-chat"
+  },
+  {
+    "repository_name": "opendatalab/MinerU",
+    "repository_url": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "repository_name": "oven-sh/bun",
+    "repository_url": "https://github.com/oven-sh/bun"
   }
 ]
