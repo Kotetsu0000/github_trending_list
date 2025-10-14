@@ -1,19 +1,23 @@
 [
   {
+    "repository_name": "1Panel-dev/MaxKB",
+    "repository_url": "https://github.com/1Panel-dev/MaxKB"
+  },
+  {
+    "repository_name": "GorvGoyl/Clone-Wars",
+    "repository_url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "repository_name": "KellerJordan/modded-nanogpt",
+    "repository_url": "https://github.com/KellerJordan/modded-nanogpt"
+  },
+  {
     "repository_name": "Klavis-AI/klavis",
     "repository_url": "https://github.com/Klavis-AI/klavis"
   },
   {
-    "repository_name": "PixelGuys/Cubyz",
-    "repository_url": "https://github.com/PixelGuys/Cubyz"
-  },
-  {
-    "repository_name": "Raphire/Win11Debloat",
-    "repository_url": "https://github.com/Raphire/Win11Debloat"
-  },
-  {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "alibaba/spring-ai-alibaba",
+    "repository_url": "https://github.com/alibaba/spring-ai-alibaba"
   },
   {
     "repository_name": "anthropics/prompt-eng-interactive-tutorial",
@@ -24,36 +28,28 @@
     "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
-  },
-  {
-    "repository_name": "clash-verge-rev/clash-verge-rev",
-    "repository_url": "https://github.com/clash-verge-rev/clash-verge-rev"
-  },
-  {
-    "repository_name": "coleam00/Archon",
-    "repository_url": "https://github.com/coleam00/Archon"
+    "repository_name": "chili-chips-ba/wireguard-fpga",
+    "repository_url": "https://github.com/chili-chips-ba/wireguard-fpga"
   },
   {
     "repository_name": "dair-ai/Prompt-Engineering-Guide",
     "repository_url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
   },
   {
-    "repository_name": "davila7/claude-code-templates",
-    "repository_url": "https://github.com/davila7/claude-code-templates"
-  },
-  {
-    "repository_name": "ggml-org/llama.cpp",
-    "repository_url": "https://github.com/ggml-org/llama.cpp"
+    "repository_name": "datawhalechina/happy-llm",
+    "repository_url": "https://github.com/datawhalechina/happy-llm"
   },
   {
     "repository_name": "nitrojs/nitro",
     "repository_url": "https://github.com/nitrojs/nitro"
   },
   {
-    "repository_name": "oven-sh/bun",
-    "repository_url": "https://github.com/oven-sh/bun"
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "repository_name": "opendatalab/MinerU",
+    "repository_url": "https://github.com/opendatalab/MinerU"
   },
   {
     "repository_name": "public-apis/public-apis",
