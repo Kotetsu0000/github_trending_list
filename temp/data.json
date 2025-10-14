@@ -54,5 +54,9 @@
   {
     "repository_name": "public-apis/public-apis",
     "repository_url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "repository_name": "volcengine/MineContext",
+    "repository_url": "https://github.com/volcengine/MineContext"
   }
 ]
