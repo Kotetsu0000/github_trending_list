@@ -1,19 +1,15 @@
 [
   {
-    "repository_name": "1Panel-dev/MaxKB",
-    "repository_url": "https://github.com/1Panel-dev/MaxKB"
+    "repository_name": "ChristianLempa/boilerplates",
+    "repository_url": "https://github.com/ChristianLempa/boilerplates"
   },
   {
-    "repository_name": "GorvGoyl/Clone-Wars",
-    "repository_url": "https://github.com/GorvGoyl/Clone-Wars"
+    "repository_name": "DigitalPlatDev/FreeDomain",
+    "repository_url": "https://github.com/DigitalPlatDev/FreeDomain"
   },
   {
-    "repository_name": "KellerJordan/modded-nanogpt",
-    "repository_url": "https://github.com/KellerJordan/modded-nanogpt"
-  },
-  {
-    "repository_name": "Klavis-AI/klavis",
-    "repository_url": "https://github.com/Klavis-AI/klavis"
+    "repository_name": "EvolutionAPI/evolution-api",
+    "repository_url": "https://github.com/EvolutionAPI/evolution-api"
   },
   {
     "repository_name": "alibaba/spring-ai-alibaba",
@@ -24,20 +20,40 @@
     "repository_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
   },
   {
-    "repository_name": "asgeirtj/system_prompts_leaks",
-    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "repository_name": "chili-chips-ba/wireguard-fpga",
-    "repository_url": "https://github.com/chili-chips-ba/wireguard-fpga"
+    "repository_name": "czlonkowski/n8n-mcp",
+    "repository_url": "https://github.com/czlonkowski/n8n-mcp"
   },
   {
     "repository_name": "dair-ai/Prompt-Engineering-Guide",
     "repository_url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
   },
   {
-    "repository_name": "datawhalechina/happy-llm",
-    "repository_url": "https://github.com/datawhalechina/happy-llm"
+    "repository_name": "devlikeapro/waha",
+    "repository_url": "https://github.com/devlikeapro/waha"
+  },
+  {
+    "repository_name": "enactic/openarm",
+    "repository_url": "https://github.com/enactic/openarm"
+  },
+  {
+    "repository_name": "envoyproxy/envoy",
+    "repository_url": "https://github.com/envoyproxy/envoy"
+  },
+  {
+    "repository_name": "jingyaogong/minimind",
+    "repository_url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "repository_name": "karpathy/nanoGPT",
+    "repository_url": "https://github.com/karpathy/nanoGPT"
+  },
+  {
+    "repository_name": "langchain-ai/langchainjs",
+    "repository_url": "https://github.com/langchain-ai/langchainjs"
+  },
+  {
+    "repository_name": "nanobrowser/nanobrowser",
+    "repository_url": "https://github.com/nanobrowser/nanobrowser"
   },
   {
     "repository_name": "nitrojs/nitro",
@@ -48,15 +64,7 @@
     "repository_url": "https://github.com/nvm-sh/nvm"
   },
   {
-    "repository_name": "opendatalab/MinerU",
-    "repository_url": "https://github.com/opendatalab/MinerU"
-  },
-  {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
-  },
-  {
-    "repository_name": "volcengine/MineContext",
-    "repository_url": "https://github.com/volcengine/MineContext"
+    "repository_name": "tulir/whatsmeow",
+    "repository_url": "https://github.com/tulir/whatsmeow"
   }
 ]
