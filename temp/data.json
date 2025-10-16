@@ -4,36 +4,32 @@
     "repository_url": "https://github.com/ChristianLempa/boilerplates"
   },
   {
-    "repository_name": "DigitalPlatDev/FreeDomain",
-    "repository_url": "https://github.com/DigitalPlatDev/FreeDomain"
+    "repository_name": "DataDog/datadog-agent",
+    "repository_url": "https://github.com/DataDog/datadog-agent"
   },
   {
-    "repository_name": "EvolutionAPI/evolution-api",
-    "repository_url": "https://github.com/EvolutionAPI/evolution-api"
+    "repository_name": "GorvGoyl/Clone-Wars",
+    "repository_url": "https://github.com/GorvGoyl/Clone-Wars"
   },
   {
-    "repository_name": "alibaba/spring-ai-alibaba",
-    "repository_url": "https://github.com/alibaba/spring-ai-alibaba"
+    "repository_name": "KellerJordan/modded-nanogpt",
+    "repository_url": "https://github.com/KellerJordan/modded-nanogpt"
+  },
+  {
+    "repository_name": "QwenLM/Qwen3-VL",
+    "repository_url": "https://github.com/QwenLM/Qwen3-VL"
   },
   {
     "repository_name": "anthropics/prompt-eng-interactive-tutorial",
     "repository_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
   },
   {
-    "repository_name": "czlonkowski/n8n-mcp",
-    "repository_url": "https://github.com/czlonkowski/n8n-mcp"
-  },
-  {
-    "repository_name": "dair-ai/Prompt-Engineering-Guide",
-    "repository_url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+    "repository_name": "datawhalechina/llm-cookbook",
+    "repository_url": "https://github.com/datawhalechina/llm-cookbook"
   },
   {
     "repository_name": "devlikeapro/waha",
     "repository_url": "https://github.com/devlikeapro/waha"
-  },
-  {
-    "repository_name": "enactic/openarm",
-    "repository_url": "https://github.com/enactic/openarm"
   },
   {
     "repository_name": "envoyproxy/envoy",
@@ -48,23 +44,27 @@
     "repository_url": "https://github.com/karpathy/nanoGPT"
   },
   {
-    "repository_name": "langchain-ai/langchainjs",
-    "repository_url": "https://github.com/langchain-ai/langchainjs"
+    "repository_name": "linexjlin/GPTs",
+    "repository_url": "https://github.com/linexjlin/GPTs"
   },
   {
-    "repository_name": "nanobrowser/nanobrowser",
-    "repository_url": "https://github.com/nanobrowser/nanobrowser"
-  },
-  {
-    "repository_name": "nitrojs/nitro",
-    "repository_url": "https://github.com/nitrojs/nitro"
+    "repository_name": "ntdevlabs/tiny11builder",
+    "repository_url": "https://github.com/ntdevlabs/tiny11builder"
   },
   {
     "repository_name": "nvm-sh/nvm",
     "repository_url": "https://github.com/nvm-sh/nvm"
   },
   {
-    "repository_name": "tulir/whatsmeow",
-    "repository_url": "https://github.com/tulir/whatsmeow"
+    "repository_name": "reflex-dev/reflex",
+    "repository_url": "https://github.com/reflex-dev/reflex"
+  },
+  {
+    "repository_name": "testcontainers/testcontainers-java",
+    "repository_url": "https://github.com/testcontainers/testcontainers-java"
+  },
+  {
+    "repository_name": "wmjordan/PDFPatcher",
+    "repository_url": "https://github.com/wmjordan/PDFPatcher"
   }
 ]
