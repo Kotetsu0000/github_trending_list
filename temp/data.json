@@ -40,6 +40,10 @@
     "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
+    "repository_name": "microsoft/generative-ai-for-beginners",
+    "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
     "repository_name": "modelcontextprotocol/java-sdk",
     "repository_url": "https://github.com/modelcontextprotocol/java-sdk"
   },
