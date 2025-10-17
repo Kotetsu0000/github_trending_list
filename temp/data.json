@@ -1,55 +1,47 @@
 [
   {
-    "repository_name": "ChristianLempa/boilerplates",
-    "repository_url": "https://github.com/ChristianLempa/boilerplates"
-  },
-  {
-    "repository_name": "DataDog/datadog-agent",
-    "repository_url": "https://github.com/DataDog/datadog-agent"
-  },
-  {
-    "repository_name": "GorvGoyl/Clone-Wars",
-    "repository_url": "https://github.com/GorvGoyl/Clone-Wars"
-  },
-  {
-    "repository_name": "KellerJordan/modded-nanogpt",
-    "repository_url": "https://github.com/KellerJordan/modded-nanogpt"
-  },
-  {
-    "repository_name": "QwenLM/Qwen3-VL",
-    "repository_url": "https://github.com/QwenLM/Qwen3-VL"
-  },
-  {
-    "repository_name": "anthropics/prompt-eng-interactive-tutorial",
-    "repository_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
-  },
-  {
-    "repository_name": "datawhalechina/llm-cookbook",
-    "repository_url": "https://github.com/datawhalechina/llm-cookbook"
+    "repository_name": "PaddlePaddle/PaddleOCR",
+    "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
   {
     "repository_name": "devlikeapro/waha",
     "repository_url": "https://github.com/devlikeapro/waha"
   },
   {
-    "repository_name": "envoyproxy/envoy",
-    "repository_url": "https://github.com/envoyproxy/envoy"
+    "repository_name": "dockur/windows",
+    "repository_url": "https://github.com/dockur/windows"
   },
   {
     "repository_name": "jingyaogong/minimind",
     "repository_url": "https://github.com/jingyaogong/minimind"
   },
   {
+    "repository_name": "kamranahmedse/developer-roadmap",
+    "repository_url": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
     "repository_name": "karpathy/nanoGPT",
     "repository_url": "https://github.com/karpathy/nanoGPT"
+  },
+  {
+    "repository_name": "keycloak/keycloak",
+    "repository_url": "https://github.com/keycloak/keycloak"
+  },
+  {
+    "repository_name": "lfnovo/open-notebook",
+    "repository_url": "https://github.com/lfnovo/open-notebook"
   },
   {
     "repository_name": "linexjlin/GPTs",
     "repository_url": "https://github.com/linexjlin/GPTs"
   },
   {
-    "repository_name": "ntdevlabs/tiny11builder",
-    "repository_url": "https://github.com/ntdevlabs/tiny11builder"
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "repository_name": "modelcontextprotocol/java-sdk",
+    "repository_url": "https://github.com/modelcontextprotocol/java-sdk"
   },
   {
     "repository_name": "nvm-sh/nvm",
@@ -60,11 +52,15 @@
     "repository_url": "https://github.com/reflex-dev/reflex"
   },
   {
-    "repository_name": "testcontainers/testcontainers-java",
-    "repository_url": "https://github.com/testcontainers/testcontainers-java"
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
   {
-    "repository_name": "wmjordan/PDFPatcher",
-    "repository_url": "https://github.com/wmjordan/PDFPatcher"
+    "repository_name": "stamparm/maltrail",
+    "repository_url": "https://github.com/stamparm/maltrail"
+  },
+  {
+    "repository_name": "wavetermdev/waveterm",
+    "repository_url": "https://github.com/wavetermdev/waveterm"
   }
 ]
