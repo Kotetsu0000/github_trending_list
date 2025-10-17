@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "HuLaSpark/HuLa",
+    "repository_url": "https://github.com/HuLaSpark/HuLa"
+  },
+  {
     "repository_name": "PaddlePaddle/PaddleOCR",
     "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
@@ -38,10 +42,6 @@
   {
     "repository_name": "microsoft/PowerToys",
     "repository_url": "https://github.com/microsoft/PowerToys"
-  },
-  {
-    "repository_name": "microsoft/generative-ai-for-beginners",
-    "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
   {
     "repository_name": "modelcontextprotocol/java-sdk",
