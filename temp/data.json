@@ -1,15 +1,39 @@
 [
   {
+    "repository_name": "DrewThomasson/ebook2audiobook",
+    "repository_url": "https://github.com/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+  },
+  {
     "repository_name": "PaddlePaddle/PaddleOCR",
     "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
   {
-    "repository_name": "devlikeapro/waha",
-    "repository_url": "https://github.com/devlikeapro/waha"
+    "repository_name": "TheAlgorithms/Python",
+    "repository_url": "https://github.com/TheAlgorithms/Python"
   },
   {
-    "repository_name": "dockur/windows",
-    "repository_url": "https://github.com/dockur/windows"
+    "repository_name": "ThinkInAIXYZ/deepchat",
+    "repository_url": "https://github.com/ThinkInAIXYZ/deepchat"
+  },
+  {
+    "repository_name": "anthropics/claude-cookbooks",
+    "repository_url": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "repository_name": "fastfire/deepdarkCTI",
+    "repository_url": "https://github.com/fastfire/deepdarkCTI"
+  },
+  {
+    "repository_name": "gtsteffaniak/filebrowser",
+    "repository_url": "https://github.com/gtsteffaniak/filebrowser"
+  },
+  {
+    "repository_name": "hashicorp/terraform",
+    "repository_url": "https://github.com/hashicorp/terraform"
   },
   {
     "repository_name": "jingyaogong/minimind",
@@ -20,24 +44,12 @@
     "repository_url": "https://github.com/kamranahmedse/developer-roadmap"
   },
   {
-    "repository_name": "karpathy/nanoGPT",
-    "repository_url": "https://github.com/karpathy/nanoGPT"
-  },
-  {
-    "repository_name": "keycloak/keycloak",
-    "repository_url": "https://github.com/keycloak/keycloak"
-  },
-  {
-    "repository_name": "lfnovo/open-notebook",
-    "repository_url": "https://github.com/lfnovo/open-notebook"
-  },
-  {
-    "repository_name": "linexjlin/GPTs",
-    "repository_url": "https://github.com/linexjlin/GPTs"
-  },
-  {
     "repository_name": "microsoft/PowerToys",
     "repository_url": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "repository_name": "microsoft/vcpkg",
+    "repository_url": "https://github.com/microsoft/vcpkg"
   },
   {
     "repository_name": "modelcontextprotocol/java-sdk",
@@ -48,16 +60,12 @@
     "repository_url": "https://github.com/nvm-sh/nvm"
   },
   {
-    "repository_name": "reflex-dev/reflex",
-    "repository_url": "https://github.com/reflex-dev/reflex"
+    "repository_name": "pathwaycom/pathway",
+    "repository_url": "https://github.com/pathwaycom/pathway"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
-  },
-  {
-    "repository_name": "stamparm/maltrail",
-    "repository_url": "https://github.com/stamparm/maltrail"
+    "repository_name": "storybookjs/storybook",
+    "repository_url": "https://github.com/storybookjs/storybook"
   },
   {
     "repository_name": "wavetermdev/waveterm",
