@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "HuLaSpark/HuLa",
-    "repository_url": "https://github.com/HuLaSpark/HuLa"
-  },
-  {
     "repository_name": "PaddlePaddle/PaddleOCR",
     "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
