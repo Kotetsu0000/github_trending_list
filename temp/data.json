@@ -1,5 +1,17 @@
 [
   {
+    "repository_name": "Anuken/Mindustry",
+    "repository_url": "https://github.com/Anuken/Mindustry"
+  },
+  {
+    "repository_name": "Atlas-OS/Atlas",
+    "repository_url": "https://github.com/Atlas-OS/Atlas"
+  },
+  {
+    "repository_name": "BurntSushi/ripgrep",
+    "repository_url": "https://github.com/BurntSushi/ripgrep"
+  },
+  {
     "repository_name": "DrewThomasson/ebook2audiobook",
     "repository_url": "https://github.com/DrewThomasson/ebook2audiobook"
   },
@@ -12,6 +24,10 @@
     "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
   {
+    "repository_name": "SagerNet/sing-box",
+    "repository_url": "https://github.com/SagerNet/sing-box"
+  },
+  {
     "repository_name": "Skyvern-AI/skyvern",
     "repository_url": "https://github.com/Skyvern-AI/skyvern"
   },
@@ -20,16 +36,12 @@
     "repository_url": "https://github.com/TheAlgorithms/Python"
   },
   {
-    "repository_name": "ThinkInAIXYZ/deepchat",
-    "repository_url": "https://github.com/ThinkInAIXYZ/deepchat"
-  },
-  {
     "repository_name": "anthropics/claude-cookbooks",
     "repository_url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
-    "repository_name": "atuinsh/desktop",
-    "repository_url": "https://github.com/atuinsh/desktop"
+    "repository_name": "basecamp/omarchy",
+    "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
     "repository_name": "clockworklabs/SpacetimeDB",
@@ -40,8 +52,8 @@
     "repository_url": "https://github.com/huggingface/chat-ui"
   },
   {
-    "repository_name": "jingyaogong/minimind",
-    "repository_url": "https://github.com/jingyaogong/minimind"
+    "repository_name": "huggingface/lerobot",
+    "repository_url": "https://github.com/huggingface/lerobot"
   },
   {
     "repository_name": "karpathy/micrograd",
@@ -52,31 +64,19 @@
     "repository_url": "https://github.com/lfnovo/open-notebook"
   },
   {
-    "repository_name": "microsoft/terminal",
-    "repository_url": "https://github.com/microsoft/terminal"
-  },
-  {
-    "repository_name": "microsoft/vcpkg",
-    "repository_url": "https://github.com/microsoft/vcpkg"
-  },
-  {
     "repository_name": "mountain-loop/yaak",
     "repository_url": "https://github.com/mountain-loop/yaak"
   },
   {
-    "repository_name": "myshell-ai/OpenVoice",
-    "repository_url": "https://github.com/myshell-ai/OpenVoice"
-  },
-  {
-    "repository_name": "qbittorrent/qBittorrent",
-    "repository_url": "https://github.com/qbittorrent/qBittorrent"
-  },
-  {
-    "repository_name": "reflex-dev/reflex",
-    "repository_url": "https://github.com/reflex-dev/reflex"
+    "repository_name": "tokio-rs/tokio",
+    "repository_url": "https://github.com/tokio-rs/tokio"
   },
   {
     "repository_name": "wavetermdev/waveterm",
     "repository_url": "https://github.com/wavetermdev/waveterm"
+  },
+  {
+    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
 ]
