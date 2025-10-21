@@ -8,10 +8,6 @@
     "repository_url": "https://github.com/Atlas-OS/Atlas"
   },
   {
-    "repository_name": "BurntSushi/ripgrep",
-    "repository_url": "https://github.com/BurntSushi/ripgrep"
-  },
-  {
     "repository_name": "DrewThomasson/ebook2audiobook",
     "repository_url": "https://github.com/DrewThomasson/ebook2audiobook"
   },
@@ -24,59 +20,63 @@
     "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
   {
-    "repository_name": "SagerNet/sing-box",
-    "repository_url": "https://github.com/SagerNet/sing-box"
-  },
-  {
     "repository_name": "Skyvern-AI/skyvern",
     "repository_url": "https://github.com/Skyvern-AI/skyvern"
-  },
-  {
-    "repository_name": "TheAlgorithms/Python",
-    "repository_url": "https://github.com/TheAlgorithms/Python"
   },
   {
     "repository_name": "anthropics/claude-cookbooks",
     "repository_url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
-  },
-  {
     "repository_name": "clockworklabs/SpacetimeDB",
     "repository_url": "https://github.com/clockworklabs/SpacetimeDB"
+  },
+  {
+    "repository_name": "dyad-sh/dyad",
+    "repository_url": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "repository_name": "harvard-edge/cs249r_book",
+    "repository_url": "https://github.com/harvard-edge/cs249r_book"
   },
   {
     "repository_name": "huggingface/chat-ui",
     "repository_url": "https://github.com/huggingface/chat-ui"
   },
   {
-    "repository_name": "huggingface/lerobot",
-    "repository_url": "https://github.com/huggingface/lerobot"
+    "repository_name": "is-a-dev/register",
+    "repository_url": "https://github.com/is-a-dev/register"
   },
   {
-    "repository_name": "karpathy/micrograd",
-    "repository_url": "https://github.com/karpathy/micrograd"
+    "repository_name": "jaywcjlove/awesome-mac",
+    "repository_url": "https://github.com/jaywcjlove/awesome-mac"
+  },
+  {
+    "repository_name": "k2-fsa/sherpa-onnx",
+    "repository_url": "https://github.com/k2-fsa/sherpa-onnx"
   },
   {
     "repository_name": "lfnovo/open-notebook",
     "repository_url": "https://github.com/lfnovo/open-notebook"
   },
   {
+    "repository_name": "louislam/uptime-kuma",
+    "repository_url": "https://github.com/louislam/uptime-kuma"
+  },
+  {
     "repository_name": "mountain-loop/yaak",
     "repository_url": "https://github.com/mountain-loop/yaak"
   },
   {
-    "repository_name": "tokio-rs/tokio",
-    "repository_url": "https://github.com/tokio-rs/tokio"
+    "repository_name": "oceanbase/miniob",
+    "repository_url": "https://github.com/oceanbase/miniob"
   },
   {
-    "repository_name": "wavetermdev/waveterm",
-    "repository_url": "https://github.com/wavetermdev/waveterm"
+    "repository_name": "servo/servo",
+    "repository_url": "https://github.com/servo/servo"
   },
   {
-    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    "repository_name": "sharkdp/bat",
+    "repository_url": "https://github.com/sharkdp/bat"
   }
 ]
