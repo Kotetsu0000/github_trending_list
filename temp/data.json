@@ -1,23 +1,7 @@
 [
   {
-    "repository_name": "Anuken/Mindustry",
-    "repository_url": "https://github.com/Anuken/Mindustry"
-  },
-  {
     "repository_name": "DrewThomasson/ebook2audiobook",
     "repository_url": "https://github.com/DrewThomasson/ebook2audiobook"
-  },
-  {
-    "repository_name": "EbookFoundation/free-programming-books",
-    "repository_url": "https://github.com/EbookFoundation/free-programming-books"
-  },
-  {
-    "repository_name": "PaddlePaddle/PaddleOCR",
-    "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
-  },
-  {
-    "repository_name": "Skyvern-AI/skyvern",
-    "repository_url": "https://github.com/Skyvern-AI/skyvern"
   },
   {
     "repository_name": "anthropics/claude-cookbooks",
@@ -28,8 +12,24 @@
     "repository_url": "https://github.com/clockworklabs/SpacetimeDB"
   },
   {
+    "repository_name": "drawdb-io/drawdb",
+    "repository_url": "https://github.com/drawdb-io/drawdb"
+  },
+  {
     "repository_name": "dyad-sh/dyad",
     "repository_url": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "repository_name": "emcie-co/parlant",
+    "repository_url": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "repository_name": "fishaudio/fish-speech",
+    "repository_url": "https://github.com/fishaudio/fish-speech"
+  },
+  {
+    "repository_name": "guofei9987/blind_watermark",
+    "repository_url": "https://github.com/guofei9987/blind_watermark"
   },
   {
     "repository_name": "harvard-edge/cs249r_book",
@@ -40,39 +40,31 @@
     "repository_url": "https://github.com/huggingface/chat-ui"
   },
   {
-    "repository_name": "is-a-dev/register",
-    "repository_url": "https://github.com/is-a-dev/register"
-  },
-  {
-    "repository_name": "jaywcjlove/awesome-mac",
-    "repository_url": "https://github.com/jaywcjlove/awesome-mac"
-  },
-  {
-    "repository_name": "k2-fsa/sherpa-onnx",
-    "repository_url": "https://github.com/k2-fsa/sherpa-onnx"
-  },
-  {
     "repository_name": "lfnovo/open-notebook",
     "repository_url": "https://github.com/lfnovo/open-notebook"
-  },
-  {
-    "repository_name": "louislam/uptime-kuma",
-    "repository_url": "https://github.com/louislam/uptime-kuma"
   },
   {
     "repository_name": "mountain-loop/yaak",
     "repository_url": "https://github.com/mountain-loop/yaak"
   },
   {
-    "repository_name": "oceanbase/miniob",
-    "repository_url": "https://github.com/oceanbase/miniob"
+    "repository_name": "remix-run/react-router",
+    "repository_url": "https://github.com/remix-run/react-router"
+  },
+  {
+    "repository_name": "rossant/awesome-math",
+    "repository_url": "https://github.com/rossant/awesome-math"
   },
   {
     "repository_name": "servo/servo",
     "repository_url": "https://github.com/servo/servo"
   },
   {
-    "repository_name": "sharkdp/bat",
-    "repository_url": "https://github.com/sharkdp/bat"
+    "repository_name": "tauri-apps/tauri",
+    "repository_url": "https://github.com/tauri-apps/tauri"
+  },
+  {
+    "repository_name": "zyronon/TypeWords",
+    "repository_url": "https://github.com/zyronon/TypeWords"
   }
 ]
