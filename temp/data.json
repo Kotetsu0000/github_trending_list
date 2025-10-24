@@ -4,63 +4,75 @@
     "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
+    "repository_name": "Lightricks/LTX-Video",
+    "repository_url": "https://github.com/Lightricks/LTX-Video"
+  },
+  {
+    "repository_name": "OpenMind/OM1",
+    "repository_url": "https://github.com/OpenMind/OM1"
+  },
+  {
+    "repository_name": "PowerShell/PowerShell",
+    "repository_url": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "repository_name": "directus/directus",
+    "repository_url": "https://github.com/directus/directus"
+  },
+  {
+    "repository_name": "drawdb-io/drawdb",
+    "repository_url": "https://github.com/drawdb-io/drawdb"
+  },
+  {
     "repository_name": "dyad-sh/dyad",
     "repository_url": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "repository_name": "elastic/elasticsearch",
+    "repository_url": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "repository_name": "emcie-co/parlant",
+    "repository_url": "https://github.com/emcie-co/parlant"
   },
   {
     "repository_name": "guofei9987/blind_watermark",
     "repository_url": "https://github.com/guofei9987/blind_watermark"
   },
   {
-    "repository_name": "guofei9987/scikit-opt",
-    "repository_url": "https://github.com/guofei9987/scikit-opt"
-  },
-  {
-    "repository_name": "harvard-edge/cs249r_book",
-    "repository_url": "https://github.com/harvard-edge/cs249r_book"
-  },
-  {
     "repository_name": "hoppscotch/hoppscotch",
     "repository_url": "https://github.com/hoppscotch/hoppscotch"
   },
   {
-    "repository_name": "jaywcjlove/awesome-mac",
-    "repository_url": "https://github.com/jaywcjlove/awesome-mac"
-  },
-  {
-    "repository_name": "k2-fsa/sherpa-onnx",
-    "repository_url": "https://github.com/k2-fsa/sherpa-onnx"
-  },
-  {
-    "repository_name": "louislam/uptime-kuma",
-    "repository_url": "https://github.com/louislam/uptime-kuma"
-  },
-  {
-    "repository_name": "lukasmasuch/best-of-ml-python",
-    "repository_url": "https://github.com/lukasmasuch/best-of-ml-python"
-  },
-  {
-    "repository_name": "meta-pytorch/torchforge",
-    "repository_url": "https://github.com/meta-pytorch/torchforge"
+    "repository_name": "isaac-sim/IsaacSim",
+    "repository_url": "https://github.com/isaac-sim/IsaacSim"
   },
   {
     "repository_name": "minio/minio",
     "repository_url": "https://github.com/minio/minio"
   },
   {
-    "repository_name": "mountain-loop/yaak",
-    "repository_url": "https://github.com/mountain-loop/yaak"
-  },
-  {
     "repository_name": "paperless-ngx/paperless-ngx",
     "repository_url": "https://github.com/paperless-ngx/paperless-ngx"
   },
   {
-    "repository_name": "rossant/awesome-math",
-    "repository_url": "https://github.com/rossant/awesome-math"
+    "repository_name": "rustfs/rustfs",
+    "repository_url": "https://github.com/rustfs/rustfs"
+  },
+  {
+    "repository_name": "seaweedfs/seaweedfs",
+    "repository_url": "https://github.com/seaweedfs/seaweedfs"
   },
   {
     "repository_name": "yt-dlp/yt-dlp",
     "repository_url": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "repository_name": "zephyrproject-rtos/zephyr",
+    "repository_url": "https://github.com/zephyrproject-rtos/zephyr"
+  },
+  {
+    "repository_name": "zyronon/TypeWords",
+    "repository_url": "https://github.com/zyronon/TypeWords"
   }
 ]
