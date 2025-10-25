@@ -4,36 +4,24 @@
     "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
-    "repository_name": "Lightricks/LTX-Video",
-    "repository_url": "https://github.com/Lightricks/LTX-Video"
-  },
-  {
     "repository_name": "OpenMind/OM1",
     "repository_url": "https://github.com/OpenMind/OM1"
   },
   {
-    "repository_name": "PowerShell/PowerShell",
-    "repository_url": "https://github.com/PowerShell/PowerShell"
+    "repository_name": "TheRobotStudio/SO-ARM100",
+    "repository_url": "https://github.com/TheRobotStudio/SO-ARM100"
   },
   {
-    "repository_name": "directus/directus",
-    "repository_url": "https://github.com/directus/directus"
+    "repository_name": "ashishps1/awesome-system-design-resources",
+    "repository_url": "https://github.com/ashishps1/awesome-system-design-resources"
   },
   {
-    "repository_name": "drawdb-io/drawdb",
-    "repository_url": "https://github.com/drawdb-io/drawdb"
+    "repository_name": "cjpais/Handy",
+    "repository_url": "https://github.com/cjpais/Handy"
   },
   {
-    "repository_name": "dyad-sh/dyad",
-    "repository_url": "https://github.com/dyad-sh/dyad"
-  },
-  {
-    "repository_name": "elastic/elasticsearch",
-    "repository_url": "https://github.com/elastic/elasticsearch"
-  },
-  {
-    "repository_name": "emcie-co/parlant",
-    "repository_url": "https://github.com/emcie-co/parlant"
+    "repository_name": "coinbase/x402",
+    "repository_url": "https://github.com/coinbase/x402"
   },
   {
     "repository_name": "guofei9987/blind_watermark",
@@ -44,8 +32,12 @@
     "repository_url": "https://github.com/hoppscotch/hoppscotch"
   },
   {
-    "repository_name": "isaac-sim/IsaacSim",
-    "repository_url": "https://github.com/isaac-sim/IsaacSim"
+    "repository_name": "jaywcjlove/awesome-mac",
+    "repository_url": "https://github.com/jaywcjlove/awesome-mac"
+  },
+  {
+    "repository_name": "k2-fsa/sherpa-onnx",
+    "repository_url": "https://github.com/k2-fsa/sherpa-onnx"
   },
   {
     "repository_name": "minio/minio",
@@ -56,12 +48,12 @@
     "repository_url": "https://github.com/paperless-ngx/paperless-ngx"
   },
   {
-    "repository_name": "rustfs/rustfs",
-    "repository_url": "https://github.com/rustfs/rustfs"
+    "repository_name": "public-apis/public-apis",
+    "repository_url": "https://github.com/public-apis/public-apis"
   },
   {
-    "repository_name": "seaweedfs/seaweedfs",
-    "repository_url": "https://github.com/seaweedfs/seaweedfs"
+    "repository_name": "ubicloud/ubicloud",
+    "repository_url": "https://github.com/ubicloud/ubicloud"
   },
   {
     "repository_name": "yt-dlp/yt-dlp",
@@ -70,9 +62,5 @@
   {
     "repository_name": "zephyrproject-rtos/zephyr",
     "repository_url": "https://github.com/zephyrproject-rtos/zephyr"
-  },
-  {
-    "repository_name": "zyronon/TypeWords",
-    "repository_url": "https://github.com/zyronon/TypeWords"
   }
 ]
