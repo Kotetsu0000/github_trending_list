@@ -1,47 +1,51 @@
 [
   {
+    "repository_name": "2dust/v2rayN",
+    "repository_url": "https://github.com/2dust/v2rayN"
+  },
+  {
     "repository_name": "LadybirdBrowser/ladybird",
     "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
-    "repository_name": "OpenMind/OM1",
-    "repository_url": "https://github.com/OpenMind/OM1"
+    "repository_name": "MHSanaei/3x-ui",
+    "repository_url": "https://github.com/MHSanaei/3x-ui"
   },
   {
-    "repository_name": "TheRobotStudio/SO-ARM100",
-    "repository_url": "https://github.com/TheRobotStudio/SO-ARM100"
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
-    "repository_name": "ashishps1/awesome-system-design-resources",
-    "repository_url": "https://github.com/ashishps1/awesome-system-design-resources"
+    "repository_name": "chartdb/chartdb",
+    "repository_url": "https://github.com/chartdb/chartdb"
   },
   {
     "repository_name": "cjpais/Handy",
     "repository_url": "https://github.com/cjpais/Handy"
   },
   {
+    "repository_name": "cloudcommunity/Free-Certifications",
+    "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
+  },
+  {
     "repository_name": "coinbase/x402",
     "repository_url": "https://github.com/coinbase/x402"
   },
   {
-    "repository_name": "guofei9987/blind_watermark",
-    "repository_url": "https://github.com/guofei9987/blind_watermark"
+    "repository_name": "donnemartin/system-design-primer",
+    "repository_url": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "repository_name": "go-gitea/gitea",
+    "repository_url": "https://github.com/go-gitea/gitea"
   },
   {
     "repository_name": "hoppscotch/hoppscotch",
     "repository_url": "https://github.com/hoppscotch/hoppscotch"
   },
   {
-    "repository_name": "jaywcjlove/awesome-mac",
-    "repository_url": "https://github.com/jaywcjlove/awesome-mac"
-  },
-  {
-    "repository_name": "k2-fsa/sherpa-onnx",
-    "repository_url": "https://github.com/k2-fsa/sherpa-onnx"
-  },
-  {
-    "repository_name": "minio/minio",
-    "repository_url": "https://github.com/minio/minio"
+    "repository_name": "microsoft/agent-lightning",
+    "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
     "repository_name": "paperless-ngx/paperless-ngx",
@@ -52,15 +56,7 @@
     "repository_url": "https://github.com/public-apis/public-apis"
   },
   {
-    "repository_name": "ubicloud/ubicloud",
-    "repository_url": "https://github.com/ubicloud/ubicloud"
-  },
-  {
-    "repository_name": "yt-dlp/yt-dlp",
-    "repository_url": "https://github.com/yt-dlp/yt-dlp"
-  },
-  {
-    "repository_name": "zephyrproject-rtos/zephyr",
-    "repository_url": "https://github.com/zephyrproject-rtos/zephyr"
+    "repository_name": "yeongpin/cursor-free-vip",
+    "repository_url": "https://github.com/yeongpin/cursor-free-vip"
   }
 ]
