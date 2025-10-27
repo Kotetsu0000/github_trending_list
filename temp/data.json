@@ -1,59 +1,51 @@
 [
   {
-    "repository_name": "2dust/v2rayN",
-    "repository_url": "https://github.com/2dust/v2rayN"
-  },
-  {
     "repository_name": "LadybirdBrowser/ladybird",
     "repository_url": "https://github.com/LadybirdBrowser/ladybird"
-  },
-  {
-    "repository_name": "MHSanaei/3x-ui",
-    "repository_url": "https://github.com/MHSanaei/3x-ui"
   },
   {
     "repository_name": "Shubhamsaboo/awesome-llm-apps",
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
-    "repository_name": "chartdb/chartdb",
-    "repository_url": "https://github.com/chartdb/chartdb"
+    "repository_name": "TheRobotStudio/SO-ARM100",
+    "repository_url": "https://github.com/TheRobotStudio/SO-ARM100"
   },
   {
-    "repository_name": "cjpais/Handy",
-    "repository_url": "https://github.com/cjpais/Handy"
+    "repository_name": "block/goose",
+    "repository_url": "https://github.com/block/goose"
   },
   {
-    "repository_name": "cloudcommunity/Free-Certifications",
-    "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
+    "repository_name": "bol-van/zapret",
+    "repository_url": "https://github.com/bol-van/zapret"
+  },
+  {
+    "repository_name": "codecrafters-io/build-your-own-x",
+    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
     "repository_name": "coinbase/x402",
     "repository_url": "https://github.com/coinbase/x402"
   },
   {
-    "repository_name": "donnemartin/system-design-primer",
-    "repository_url": "https://github.com/donnemartin/system-design-primer"
-  },
-  {
-    "repository_name": "go-gitea/gitea",
-    "repository_url": "https://github.com/go-gitea/gitea"
-  },
-  {
-    "repository_name": "hoppscotch/hoppscotch",
-    "repository_url": "https://github.com/hoppscotch/hoppscotch"
-  },
-  {
     "repository_name": "microsoft/agent-lightning",
     "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
-    "repository_name": "paperless-ngx/paperless-ngx",
-    "repository_url": "https://github.com/paperless-ngx/paperless-ngx"
-  },
-  {
     "repository_name": "public-apis/public-apis",
     "repository_url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "repository_name": "qeeqbox/social-analyzer",
+    "repository_url": "https://github.com/qeeqbox/social-analyzer"
+  },
+  {
+    "repository_name": "rasbt/LLMs-from-scratch",
+    "repository_url": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "repository_name": "toeverything/AFFiNE",
+    "repository_url": "https://github.com/toeverything/AFFiNE"
   },
   {
     "repository_name": "yeongpin/cursor-free-vip",
