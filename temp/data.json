@@ -1,23 +1,15 @@
 [
   {
-    "repository_name": "LadybirdBrowser/ladybird",
-    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
-  },
-  {
     "repository_name": "Shubhamsaboo/awesome-llm-apps",
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
-    "repository_name": "TheRobotStudio/SO-ARM100",
-    "repository_url": "https://github.com/TheRobotStudio/SO-ARM100"
+    "repository_name": "cjpais/Handy",
+    "repository_url": "https://github.com/cjpais/Handy"
   },
   {
-    "repository_name": "block/goose",
-    "repository_url": "https://github.com/block/goose"
-  },
-  {
-    "repository_name": "bol-van/zapret",
-    "repository_url": "https://github.com/bol-van/zapret"
+    "repository_name": "cloudcommunity/Free-Certifications",
+    "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
   },
   {
     "repository_name": "codecrafters-io/build-your-own-x",
@@ -28,16 +20,36 @@
     "repository_url": "https://github.com/coinbase/x402"
   },
   {
+    "repository_name": "harvard-edge/cs249r_book",
+    "repository_url": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "repository_name": "iam-veeramalla/aws-devops-zero-to-hero",
+    "repository_url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero"
+  },
+  {
+    "repository_name": "juanfont/headscale",
+    "repository_url": "https://github.com/juanfont/headscale"
+  },
+  {
+    "repository_name": "longbridge/gpui-component",
+    "repository_url": "https://github.com/longbridge/gpui-component"
+  },
+  {
     "repository_name": "microsoft/agent-lightning",
     "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
+    "repository_name": "patchy631/ai-engineering-hub",
+    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
   },
   {
     "repository_name": "qeeqbox/social-analyzer",
     "repository_url": "https://github.com/qeeqbox/social-analyzer"
+  },
+  {
+    "repository_name": "spipm/Depixelization_poc",
+    "repository_url": "https://github.com/spipm/Depixelization_poc"
   },
   {
     "repository_name": "toeverything/AFFiNE",
