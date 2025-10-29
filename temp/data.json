@@ -1,62 +1,50 @@
 [
   {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    "repository_name": "Beingpax/VoiceInk",
+    "repository_url": "https://github.com/Beingpax/VoiceInk"
+  },
+  {
+    "repository_name": "allenai/olmocr",
+    "repository_url": "https://github.com/allenai/olmocr"
+  },
+  {
+    "repository_name": "block/goose",
+    "repository_url": "https://github.com/block/goose"
   },
   {
     "repository_name": "cjpais/Handy",
     "repository_url": "https://github.com/cjpais/Handy"
   },
   {
-    "repository_name": "cloudcommunity/Free-Certifications",
-    "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
+    "repository_name": "dotnet/eShop",
+    "repository_url": "https://github.com/dotnet/eShop"
   },
   {
-    "repository_name": "codecrafters-io/build-your-own-x",
-    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
-  },
-  {
-    "repository_name": "coinbase/x402",
-    "repository_url": "https://github.com/coinbase/x402"
-  },
-  {
-    "repository_name": "harvard-edge/cs249r_book",
-    "repository_url": "https://github.com/harvard-edge/cs249r_book"
-  },
-  {
-    "repository_name": "iam-veeramalla/aws-devops-zero-to-hero",
-    "repository_url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero"
-  },
-  {
-    "repository_name": "juanfont/headscale",
-    "repository_url": "https://github.com/juanfont/headscale"
-  },
-  {
-    "repository_name": "longbridge/gpui-component",
-    "repository_url": "https://github.com/longbridge/gpui-component"
+    "repository_name": "microsoft/Web-Dev-For-Beginners",
+    "repository_url": "https://github.com/microsoft/Web-Dev-For-Beginners"
   },
   {
     "repository_name": "microsoft/agent-lightning",
     "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
-    "repository_name": "patchy631/ai-engineering-hub",
-    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
+    "repository_name": "open-telemetry/opentelemetry-collector",
+    "repository_url": "https://github.com/open-telemetry/opentelemetry-collector"
+  },
+  {
+    "repository_name": "protocolbuffers/protobuf",
+    "repository_url": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "repository_name": "qeeqbox/social-analyzer",
     "repository_url": "https://github.com/qeeqbox/social-analyzer"
   },
   {
-    "repository_name": "spipm/Depixelization_poc",
-    "repository_url": "https://github.com/spipm/Depixelization_poc"
+    "repository_name": "smartcontractkit/chainlink",
+    "repository_url": "https://github.com/smartcontractkit/chainlink"
   },
   {
     "repository_name": "toeverything/AFFiNE",
     "repository_url": "https://github.com/toeverything/AFFiNE"
-  },
-  {
-    "repository_name": "yeongpin/cursor-free-vip",
-    "repository_url": "https://github.com/yeongpin/cursor-free-vip"
   }
 ]
