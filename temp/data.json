@@ -1,23 +1,31 @@
 [
   {
-    "repository_name": "Beingpax/VoiceInk",
-    "repository_url": "https://github.com/Beingpax/VoiceInk"
+    "repository_name": "Project-MONAI/MONAI",
+    "repository_url": "https://github.com/Project-MONAI/MONAI"
+  },
+  {
+    "repository_name": "Tencent/WeKnora",
+    "repository_url": "https://github.com/Tencent/WeKnora"
   },
   {
     "repository_name": "allenai/olmocr",
     "repository_url": "https://github.com/allenai/olmocr"
   },
   {
-    "repository_name": "block/goose",
-    "repository_url": "https://github.com/block/goose"
+    "repository_name": "helm/helm",
+    "repository_url": "https://github.com/helm/helm"
   },
   {
-    "repository_name": "cjpais/Handy",
-    "repository_url": "https://github.com/cjpais/Handy"
+    "repository_name": "iam-veeramalla/aws-devops-zero-to-hero",
+    "repository_url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero"
   },
   {
-    "repository_name": "dotnet/eShop",
-    "repository_url": "https://github.com/dotnet/eShop"
+    "repository_name": "janhq/jan",
+    "repository_url": "https://github.com/janhq/jan"
+  },
+  {
+    "repository_name": "mem0ai/mem0",
+    "repository_url": "https://github.com/mem0ai/mem0"
   },
   {
     "repository_name": "microsoft/Web-Dev-For-Beginners",
@@ -28,23 +36,31 @@
     "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
+  },
+  {
     "repository_name": "open-telemetry/opentelemetry-collector",
     "repository_url": "https://github.com/open-telemetry/opentelemetry-collector"
   },
   {
-    "repository_name": "protocolbuffers/protobuf",
-    "repository_url": "https://github.com/protocolbuffers/protobuf"
+    "repository_name": "patchy631/ai-engineering-hub",
+    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  {
+    "repository_name": "projectdiscovery/nuclei-templates",
+    "repository_url": "https://github.com/projectdiscovery/nuclei-templates"
   },
   {
     "repository_name": "qeeqbox/social-analyzer",
     "repository_url": "https://github.com/qeeqbox/social-analyzer"
   },
   {
-    "repository_name": "smartcontractkit/chainlink",
-    "repository_url": "https://github.com/smartcontractkit/chainlink"
+    "repository_name": "storybookjs/storybook",
+    "repository_url": "https://github.com/storybookjs/storybook"
   },
   {
-    "repository_name": "toeverything/AFFiNE",
-    "repository_url": "https://github.com/toeverything/AFFiNE"
+    "repository_name": "yhirose/cpp-httplib",
+    "repository_url": "https://github.com/yhirose/cpp-httplib"
   }
 ]
