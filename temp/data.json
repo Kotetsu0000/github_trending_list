@@ -1,31 +1,23 @@
 [
   {
-    "repository_name": "Project-MONAI/MONAI",
-    "repository_url": "https://github.com/Project-MONAI/MONAI"
+    "repository_name": "666ghj/BettaFish",
+    "repository_url": "https://github.com/666ghj/BettaFish"
   },
   {
-    "repository_name": "Tencent/WeKnora",
-    "repository_url": "https://github.com/Tencent/WeKnora"
+    "repository_name": "Wei-Shaw/claude-relay-service",
+    "repository_url": "https://github.com/Wei-Shaw/claude-relay-service"
   },
   {
-    "repository_name": "allenai/olmocr",
-    "repository_url": "https://github.com/allenai/olmocr"
+    "repository_name": "dotnet/eShop",
+    "repository_url": "https://github.com/dotnet/eShop"
   },
   {
-    "repository_name": "helm/helm",
-    "repository_url": "https://github.com/helm/helm"
+    "repository_name": "fmtlib/fmt",
+    "repository_url": "https://github.com/fmtlib/fmt"
   },
   {
-    "repository_name": "iam-veeramalla/aws-devops-zero-to-hero",
-    "repository_url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero"
-  },
-  {
-    "repository_name": "janhq/jan",
-    "repository_url": "https://github.com/janhq/jan"
-  },
-  {
-    "repository_name": "mem0ai/mem0",
-    "repository_url": "https://github.com/mem0ai/mem0"
+    "repository_name": "hiyouga/LLaMA-Factory",
+    "repository_url": "https://github.com/hiyouga/LLaMA-Factory"
   },
   {
     "repository_name": "microsoft/Web-Dev-For-Beginners",
@@ -56,8 +48,12 @@
     "repository_url": "https://github.com/qeeqbox/social-analyzer"
   },
   {
-    "repository_name": "storybookjs/storybook",
-    "repository_url": "https://github.com/storybookjs/storybook"
+    "repository_name": "smartcontractkit/chainlink",
+    "repository_url": "https://github.com/smartcontractkit/chainlink"
+  },
+  {
+    "repository_name": "ventoy/Ventoy",
+    "repository_url": "https://github.com/ventoy/Ventoy"
   },
   {
     "repository_name": "yhirose/cpp-httplib",
