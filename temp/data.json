@@ -1,7 +1,15 @@
 [
   {
+    "repository_name": "1Panel-dev/MaxKB",
+    "repository_url": "https://github.com/1Panel-dev/MaxKB"
+  },
+  {
     "repository_name": "666ghj/BettaFish",
     "repository_url": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "repository_name": "DearVa/Everywhere",
+    "repository_url": "https://github.com/DearVa/Everywhere"
   },
   {
     "repository_name": "Fosowl/agenticSeek",
@@ -16,39 +24,39 @@
     "repository_url": "https://github.com/HKUDS/DeepCode"
   },
   {
-    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
-  },
-  {
-    "repository_name": "NARKOZ/hacker-scripts",
-    "repository_url": "https://github.com/NARKOZ/hacker-scripts"
-  },
-  {
-    "repository_name": "Wei-Shaw/claude-relay-service",
-    "repository_url": "https://github.com/Wei-Shaw/claude-relay-service"
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "repository_name": "charmbracelet/glow",
     "repository_url": "https://github.com/charmbracelet/glow"
   },
   {
-    "repository_name": "hmjz100/LinkSwift",
-    "repository_url": "https://github.com/hmjz100/LinkSwift"
+    "repository_name": "fastfire/deepdarkCTI",
+    "repository_url": "https://github.com/fastfire/deepdarkCTI"
   },
   {
-    "repository_name": "microsoft/agent-lightning",
-    "repository_url": "https://github.com/microsoft/agent-lightning"
+    "repository_name": "get-convex/chef",
+    "repository_url": "https://github.com/get-convex/chef"
   },
   {
-    "repository_name": "moondevonyt/moon-dev-ai-agents",
-    "repository_url": "https://github.com/moondevonyt/moon-dev-ai-agents"
+    "repository_name": "hacksider/Deep-Live-Cam",
+    "repository_url": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "repository_name": "mudler/LocalAI",
+    "repository_url": "https://github.com/mudler/LocalAI"
+  },
+  {
+    "repository_name": "pytorch/pytorch",
+    "repository_url": "https://github.com/pytorch/pytorch"
   },
   {
     "repository_name": "sst/opencode",
     "repository_url": "https://github.com/sst/opencode"
   },
   {
-    "repository_name": "suitenumerique/docs",
-    "repository_url": "https://github.com/suitenumerique/docs"
+    "repository_name": "sst/opentui",
+    "repository_url": "https://github.com/sst/opentui"
   }
 ]
