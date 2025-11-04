@@ -24,36 +24,52 @@
     "repository_url": "https://github.com/HKUDS/DeepCode"
   },
   {
-    "repository_name": "VectifyAI/PageIndex",
-    "repository_url": "https://github.com/VectifyAI/PageIndex"
+    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+  },
+  {
+    "repository_name": "PKUFlyingPig/cs-self-learning",
+    "repository_url": "https://github.com/PKUFlyingPig/cs-self-learning"
+  },
+  {
+    "repository_name": "Raphire/Win11Debloat",
+    "repository_url": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "repository_name": "Skyvern-AI/skyvern",
+    "repository_url": "https://github.com/Skyvern-AI/skyvern"
   },
   {
     "repository_name": "charmbracelet/glow",
     "repository_url": "https://github.com/charmbracelet/glow"
   },
   {
-    "repository_name": "fastfire/deepdarkCTI",
-    "repository_url": "https://github.com/fastfire/deepdarkCTI"
+    "repository_name": "cloudcommunity/Free-Certifications",
+    "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
   },
   {
-    "repository_name": "get-convex/chef",
-    "repository_url": "https://github.com/get-convex/chef"
+    "repository_name": "coleam00/ottomator-agents",
+    "repository_url": "https://github.com/coleam00/ottomator-agents"
   },
   {
-    "repository_name": "hacksider/Deep-Live-Cam",
-    "repository_url": "https://github.com/hacksider/Deep-Live-Cam"
+    "repository_name": "hmjz100/LinkSwift",
+    "repository_url": "https://github.com/hmjz100/LinkSwift"
+  },
+  {
+    "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "repository_name": "mindsdb/mindsdb",
+    "repository_url": "https://github.com/mindsdb/mindsdb"
   },
   {
     "repository_name": "mudler/LocalAI",
     "repository_url": "https://github.com/mudler/LocalAI"
   },
   {
-    "repository_name": "pytorch/pytorch",
-    "repository_url": "https://github.com/pytorch/pytorch"
-  },
-  {
-    "repository_name": "sst/opencode",
-    "repository_url": "https://github.com/sst/opencode"
+    "repository_name": "mudler/edgevpn",
+    "repository_url": "https://github.com/mudler/edgevpn"
   },
   {
     "repository_name": "sst/opentui",
