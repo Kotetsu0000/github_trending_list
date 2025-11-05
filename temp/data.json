@@ -1,35 +1,23 @@
 [
   {
-    "repository_name": "1Panel-dev/MaxKB",
-    "repository_url": "https://github.com/1Panel-dev/MaxKB"
-  },
-  {
     "repository_name": "666ghj/BettaFish",
     "repository_url": "https://github.com/666ghj/BettaFish"
   },
   {
-    "repository_name": "DearVa/Everywhere",
-    "repository_url": "https://github.com/DearVa/Everywhere"
+    "repository_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
+    "repository_url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio"
   },
   {
-    "repository_name": "Fosowl/agenticSeek",
-    "repository_url": "https://github.com/Fosowl/agenticSeek"
-  },
-  {
-    "repository_name": "GeeeekExplorer/nano-vllm",
-    "repository_url": "https://github.com/GeeeekExplorer/nano-vllm"
+    "repository_name": "GopeedLab/gopeed",
+    "repository_url": "https://github.com/GopeedLab/gopeed"
   },
   {
     "repository_name": "HKUDS/DeepCode",
     "repository_url": "https://github.com/HKUDS/DeepCode"
   },
   {
-    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
-  },
-  {
-    "repository_name": "PKUFlyingPig/cs-self-learning",
-    "repository_url": "https://github.com/PKUFlyingPig/cs-self-learning"
+    "repository_name": "NickvisionApps/Parabolic",
+    "repository_url": "https://github.com/NickvisionApps/Parabolic"
   },
   {
     "repository_name": "Raphire/Win11Debloat",
@@ -40,36 +28,44 @@
     "repository_url": "https://github.com/Skyvern-AI/skyvern"
   },
   {
-    "repository_name": "charmbracelet/glow",
-    "repository_url": "https://github.com/charmbracelet/glow"
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "repository_name": "cloudcommunity/Free-Certifications",
-    "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
+    "repository_name": "aandrew-me/ytDownloader",
+    "repository_url": "https://github.com/aandrew-me/ytDownloader"
   },
   {
     "repository_name": "coleam00/ottomator-agents",
     "repository_url": "https://github.com/coleam00/ottomator-agents"
   },
   {
-    "repository_name": "hmjz100/LinkSwift",
-    "repository_url": "https://github.com/hmjz100/LinkSwift"
-  },
-  {
     "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
     "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
   },
   {
-    "repository_name": "mindsdb/mindsdb",
-    "repository_url": "https://github.com/mindsdb/mindsdb"
+    "repository_name": "jwasham/coding-interview-university",
+    "repository_url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "repository_name": "localstack/localstack",
+    "repository_url": "https://github.com/localstack/localstack"
   },
   {
     "repository_name": "mudler/LocalAI",
     "repository_url": "https://github.com/mudler/LocalAI"
   },
   {
-    "repository_name": "mudler/edgevpn",
-    "repository_url": "https://github.com/mudler/edgevpn"
+    "repository_name": "nocobase/nocobase",
+    "repository_url": "https://github.com/nocobase/nocobase"
+  },
+  {
+    "repository_name": "prometheus/alertmanager",
+    "repository_url": "https://github.com/prometheus/alertmanager"
+  },
+  {
+    "repository_name": "sst/opencode",
+    "repository_url": "https://github.com/sst/opencode"
   },
   {
     "repository_name": "sst/opentui",
