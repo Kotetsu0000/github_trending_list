@@ -4,52 +4,40 @@
     "repository_url": "https://github.com/666ghj/BettaFish"
   },
   {
-    "repository_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
-    "repository_url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio"
+    "repository_name": "FFmpeg/asm-lessons",
+    "repository_url": "https://github.com/FFmpeg/asm-lessons"
   },
   {
-    "repository_name": "GopeedLab/gopeed",
-    "repository_url": "https://github.com/GopeedLab/gopeed"
+    "repository_name": "KotatsuApp/Kotatsu",
+    "repository_url": "https://github.com/KotatsuApp/Kotatsu"
   },
   {
-    "repository_name": "HKUDS/DeepCode",
-    "repository_url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "repository_name": "NickvisionApps/Parabolic",
-    "repository_url": "https://github.com/NickvisionApps/Parabolic"
-  },
-  {
-    "repository_name": "Raphire/Win11Debloat",
-    "repository_url": "https://github.com/Raphire/Win11Debloat"
+    "repository_name": "PKUFlyingPig/cs-self-learning",
+    "repository_url": "https://github.com/PKUFlyingPig/cs-self-learning"
   },
   {
     "repository_name": "Skyvern-AI/skyvern",
     "repository_url": "https://github.com/Skyvern-AI/skyvern"
   },
   {
-    "repository_name": "VectifyAI/PageIndex",
-    "repository_url": "https://github.com/VectifyAI/PageIndex"
+    "repository_name": "ad-on-is/rachoon",
+    "repository_url": "https://github.com/ad-on-is/rachoon"
   },
   {
-    "repository_name": "aandrew-me/ytDownloader",
-    "repository_url": "https://github.com/aandrew-me/ytDownloader"
-  },
-  {
-    "repository_name": "coleam00/ottomator-agents",
-    "repository_url": "https://github.com/coleam00/ottomator-agents"
+    "repository_name": "ggml-org/ggml",
+    "repository_url": "https://github.com/ggml-org/ggml"
   },
   {
     "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
     "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
   },
   {
-    "repository_name": "jwasham/coding-interview-university",
-    "repository_url": "https://github.com/jwasham/coding-interview-university"
-  },
-  {
     "repository_name": "localstack/localstack",
     "repository_url": "https://github.com/localstack/localstack"
+  },
+  {
+    "repository_name": "modelcontextprotocol/go-sdk",
+    "repository_url": "https://github.com/modelcontextprotocol/go-sdk"
   },
   {
     "repository_name": "mudler/LocalAI",
@@ -58,14 +46,6 @@
   {
     "repository_name": "nocobase/nocobase",
     "repository_url": "https://github.com/nocobase/nocobase"
-  },
-  {
-    "repository_name": "prometheus/alertmanager",
-    "repository_url": "https://github.com/prometheus/alertmanager"
-  },
-  {
-    "repository_name": "sst/opencode",
-    "repository_url": "https://github.com/sst/opencode"
   },
   {
     "repository_name": "sst/opentui",
