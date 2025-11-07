@@ -8,47 +8,75 @@
     "repository_url": "https://github.com/FFmpeg/asm-lessons"
   },
   {
-    "repository_name": "KotatsuApp/Kotatsu",
-    "repository_url": "https://github.com/KotatsuApp/Kotatsu"
+    "repository_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
+    "repository_url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio"
   },
   {
-    "repository_name": "PKUFlyingPig/cs-self-learning",
-    "repository_url": "https://github.com/PKUFlyingPig/cs-self-learning"
+    "repository_name": "GopeedLab/gopeed",
+    "repository_url": "https://github.com/GopeedLab/gopeed"
+  },
+  {
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
     "repository_name": "Skyvern-AI/skyvern",
     "repository_url": "https://github.com/Skyvern-AI/skyvern"
   },
   {
+    "repository_name": "TheAlgorithms/Python",
+    "repository_url": "https://github.com/TheAlgorithms/Python"
+  },
+  {
     "repository_name": "ad-on-is/rachoon",
     "repository_url": "https://github.com/ad-on-is/rachoon"
   },
   {
-    "repository_name": "ggml-org/ggml",
-    "repository_url": "https://github.com/ggml-org/ggml"
+    "repository_name": "antiwork/gumroad",
+    "repository_url": "https://github.com/antiwork/gumroad"
+  },
+  {
+    "repository_name": "awslabs/mcp",
+    "repository_url": "https://github.com/awslabs/mcp"
+  },
+  {
+    "repository_name": "blakeblackshear/frigate",
+    "repository_url": "https://github.com/blakeblackshear/frigate"
+  },
+  {
+    "repository_name": "coder/code-server",
+    "repository_url": "https://github.com/coder/code-server"
+  },
+  {
+    "repository_name": "dbeaver/dbeaver",
+    "repository_url": "https://github.com/dbeaver/dbeaver"
   },
   {
     "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
     "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
   },
   {
-    "repository_name": "localstack/localstack",
-    "repository_url": "https://github.com/localstack/localstack"
+    "repository_name": "jwasham/coding-interview-university",
+    "repository_url": "https://github.com/jwasham/coding-interview-university"
   },
   {
-    "repository_name": "modelcontextprotocol/go-sdk",
-    "repository_url": "https://github.com/modelcontextprotocol/go-sdk"
+    "repository_name": "lima-vm/lima",
+    "repository_url": "https://github.com/lima-vm/lima"
   },
   {
-    "repository_name": "mudler/LocalAI",
-    "repository_url": "https://github.com/mudler/LocalAI"
+    "repository_name": "prometheus/alertmanager",
+    "repository_url": "https://github.com/prometheus/alertmanager"
   },
   {
-    "repository_name": "nocobase/nocobase",
-    "repository_url": "https://github.com/nocobase/nocobase"
+    "repository_name": "remix-run/react-router",
+    "repository_url": "https://github.com/remix-run/react-router"
   },
   {
-    "repository_name": "sst/opentui",
-    "repository_url": "https://github.com/sst/opentui"
+    "repository_name": "simstudioai/sim",
+    "repository_url": "https://github.com/simstudioai/sim"
+  },
+  {
+    "repository_name": "usestrix/strix",
+    "repository_url": "https://github.com/usestrix/strix"
   }
 ]
