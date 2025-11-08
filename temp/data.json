@@ -8,72 +8,64 @@
     "repository_url": "https://github.com/FFmpeg/asm-lessons"
   },
   {
-    "repository_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
-    "repository_url": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio"
-  },
-  {
-    "repository_name": "GopeedLab/gopeed",
-    "repository_url": "https://github.com/GopeedLab/gopeed"
-  },
-  {
     "repository_name": "Shubhamsaboo/awesome-llm-apps",
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
-    "repository_name": "Skyvern-AI/skyvern",
-    "repository_url": "https://github.com/Skyvern-AI/skyvern"
-  },
-  {
-    "repository_name": "TheAlgorithms/Python",
-    "repository_url": "https://github.com/TheAlgorithms/Python"
+    "repository_name": "TodePond/GulfOfMexico",
+    "repository_url": "https://github.com/TodePond/GulfOfMexico"
   },
   {
     "repository_name": "ad-on-is/rachoon",
     "repository_url": "https://github.com/ad-on-is/rachoon"
   },
   {
-    "repository_name": "antiwork/gumroad",
-    "repository_url": "https://github.com/antiwork/gumroad"
+    "repository_name": "airweave-ai/airweave",
+    "repository_url": "https://github.com/airweave-ai/airweave"
   },
   {
     "repository_name": "awslabs/mcp",
     "repository_url": "https://github.com/awslabs/mcp"
   },
   {
-    "repository_name": "blakeblackshear/frigate",
-    "repository_url": "https://github.com/blakeblackshear/frigate"
-  },
-  {
-    "repository_name": "coder/code-server",
-    "repository_url": "https://github.com/coder/code-server"
-  },
-  {
     "repository_name": "dbeaver/dbeaver",
     "repository_url": "https://github.com/dbeaver/dbeaver"
   },
   {
-    "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
-    "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
-  },
-  {
-    "repository_name": "jwasham/coding-interview-university",
-    "repository_url": "https://github.com/jwasham/coding-interview-university"
+    "repository_name": "jamwithai/arxiv-paper-curator",
+    "repository_url": "https://github.com/jamwithai/arxiv-paper-curator"
   },
   {
     "repository_name": "lima-vm/lima",
     "repository_url": "https://github.com/lima-vm/lima"
   },
   {
+    "repository_name": "localstack/localstack",
+    "repository_url": "https://github.com/localstack/localstack"
+  },
+  {
+    "repository_name": "nocobase/nocobase",
+    "repository_url": "https://github.com/nocobase/nocobase"
+  },
+  {
+    "repository_name": "penpot/penpot",
+    "repository_url": "https://github.com/penpot/penpot"
+  },
+  {
     "repository_name": "prometheus/alertmanager",
     "repository_url": "https://github.com/prometheus/alertmanager"
   },
   {
-    "repository_name": "remix-run/react-router",
-    "repository_url": "https://github.com/remix-run/react-router"
+    "repository_name": "public-apis/public-apis",
+    "repository_url": "https://github.com/public-apis/public-apis"
   },
   {
-    "repository_name": "simstudioai/sim",
-    "repository_url": "https://github.com/simstudioai/sim"
+    "repository_name": "thinking-machines-lab/tinker-cookbook",
+    "repository_url": "https://github.com/thinking-machines-lab/tinker-cookbook"
+  },
+  {
+    "repository_name": "umami-software/umami",
+    "repository_url": "https://github.com/umami-software/umami"
   },
   {
     "repository_name": "usestrix/strix",
