@@ -1,63 +1,59 @@
 [
   {
-    "repository_name": "666ghj/BettaFish",
-    "repository_url": "https://github.com/666ghj/BettaFish"
+    "repository_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "repository_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
   },
   {
-    "repository_name": "FFmpeg/asm-lessons",
-    "repository_url": "https://github.com/FFmpeg/asm-lessons"
+    "repository_name": "HyDE-Project/HyDE",
+    "repository_url": "https://github.com/HyDE-Project/HyDE"
+  },
+  {
+    "repository_name": "JetBrains/kotlin",
+    "repository_url": "https://github.com/JetBrains/kotlin"
+  },
+  {
+    "repository_name": "MoonshotAI/Kimi-K2",
+    "repository_url": "https://github.com/MoonshotAI/Kimi-K2"
   },
   {
     "repository_name": "Shubhamsaboo/awesome-llm-apps",
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
-    "repository_name": "TodePond/GulfOfMexico",
-    "repository_url": "https://github.com/TodePond/GulfOfMexico"
-  },
-  {
-    "repository_name": "ad-on-is/rachoon",
-    "repository_url": "https://github.com/ad-on-is/rachoon"
+    "repository_name": "WerWolv/ImHex",
+    "repository_url": "https://github.com/WerWolv/ImHex"
   },
   {
     "repository_name": "airweave-ai/airweave",
     "repository_url": "https://github.com/airweave-ai/airweave"
   },
   {
-    "repository_name": "awslabs/mcp",
-    "repository_url": "https://github.com/awslabs/mcp"
+    "repository_name": "axios/axios",
+    "repository_url": "https://github.com/axios/axios"
   },
   {
-    "repository_name": "dbeaver/dbeaver",
-    "repository_url": "https://github.com/dbeaver/dbeaver"
+    "repository_name": "google/adk-go",
+    "repository_url": "https://github.com/google/adk-go"
   },
   {
-    "repository_name": "jamwithai/arxiv-paper-curator",
-    "repository_url": "https://github.com/jamwithai/arxiv-paper-curator"
+    "repository_name": "librespot-org/librespot",
+    "repository_url": "https://github.com/librespot-org/librespot"
   },
   {
     "repository_name": "lima-vm/lima",
     "repository_url": "https://github.com/lima-vm/lima"
   },
   {
-    "repository_name": "localstack/localstack",
-    "repository_url": "https://github.com/localstack/localstack"
-  },
-  {
-    "repository_name": "nocobase/nocobase",
-    "repository_url": "https://github.com/nocobase/nocobase"
-  },
-  {
-    "repository_name": "penpot/penpot",
-    "repository_url": "https://github.com/penpot/penpot"
+    "repository_name": "mui/material-ui",
+    "repository_url": "https://github.com/mui/material-ui"
   },
   {
     "repository_name": "prometheus/alertmanager",
     "repository_url": "https://github.com/prometheus/alertmanager"
   },
   {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
+    "repository_name": "simstudioai/sim",
+    "repository_url": "https://github.com/simstudioai/sim"
   },
   {
     "repository_name": "thinking-machines-lab/tinker-cookbook",
@@ -70,5 +66,9 @@
   {
     "repository_name": "usestrix/strix",
     "repository_url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repository_name": "ziglang/zig",
+    "repository_url": "https://github.com/ziglang/zig"
   }
 ]
