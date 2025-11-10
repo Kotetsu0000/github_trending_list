@@ -1,55 +1,43 @@
 [
   {
-    "repository_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "repository_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
-    "repository_name": "HyDE-Project/HyDE",
-    "repository_url": "https://github.com/HyDE-Project/HyDE"
+    "repository_name": "YaLTeR/niri",
+    "repository_url": "https://github.com/YaLTeR/niri"
   },
   {
-    "repository_name": "JetBrains/kotlin",
-    "repository_url": "https://github.com/JetBrains/kotlin"
+    "repository_name": "bobeff/open-source-games",
+    "repository_url": "https://github.com/bobeff/open-source-games"
   },
   {
-    "repository_name": "MoonshotAI/Kimi-K2",
-    "repository_url": "https://github.com/MoonshotAI/Kimi-K2"
-  },
-  {
-    "repository_name": "WerWolv/ImHex",
-    "repository_url": "https://github.com/WerWolv/ImHex"
-  },
-  {
-    "repository_name": "airweave-ai/airweave",
-    "repository_url": "https://github.com/airweave-ai/airweave"
-  },
-  {
-    "repository_name": "axios/axios",
-    "repository_url": "https://github.com/axios/axios"
+    "repository_name": "end-4/dots-hyprland",
+    "repository_url": "https://github.com/end-4/dots-hyprland"
   },
   {
     "repository_name": "google/adk-go",
     "repository_url": "https://github.com/google/adk-go"
   },
   {
+    "repository_name": "iptv-org/iptv",
+    "repository_url": "https://github.com/iptv-org/iptv"
+  },
+  {
     "repository_name": "librespot-org/librespot",
     "repository_url": "https://github.com/librespot-org/librespot"
   },
   {
-    "repository_name": "lima-vm/lima",
-    "repository_url": "https://github.com/lima-vm/lima"
+    "repository_name": "lzhoang2801/OpCore-Simplify",
+    "repository_url": "https://github.com/lzhoang2801/OpCore-Simplify"
   },
   {
-    "repository_name": "mui/material-ui",
-    "repository_url": "https://github.com/mui/material-ui"
+    "repository_name": "microsoft/call-center-ai",
+    "repository_url": "https://github.com/microsoft/call-center-ai"
   },
   {
-    "repository_name": "prometheus/alertmanager",
-    "repository_url": "https://github.com/prometheus/alertmanager"
-  },
-  {
-    "repository_name": "simstudioai/sim",
-    "repository_url": "https://github.com/simstudioai/sim"
+    "repository_name": "opencloud-eu/opencloud",
+    "repository_url": "https://github.com/opencloud-eu/opencloud"
   },
   {
     "repository_name": "thinking-machines-lab/tinker-cookbook",
@@ -62,9 +50,5 @@
   {
     "repository_name": "usestrix/strix",
     "repository_url": "https://github.com/usestrix/strix"
-  },
-  {
-    "repository_name": "ziglang/zig",
-    "repository_url": "https://github.com/ziglang/zig"
   }
 ]
