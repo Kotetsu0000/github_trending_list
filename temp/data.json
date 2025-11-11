@@ -1,58 +1,70 @@
 [
   {
+    "repository_name": "AtsushiSakai/PythonRobotics",
+    "repository_url": "https://github.com/AtsushiSakai/PythonRobotics"
+  },
+  {
+    "repository_name": "LizardByte/Sunshine",
+    "repository_url": "https://github.com/LizardByte/Sunshine"
+  },
+  {
     "repository_name": "TapXWorld/ChinaTextbook",
     "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
-    "repository_name": "YaLTeR/niri",
-    "repository_url": "https://github.com/YaLTeR/niri"
-  },
-  {
-    "repository_name": "Zie619/n8n-workflows",
-    "repository_url": "https://github.com/Zie619/n8n-workflows"
+    "repository_name": "WICG/email-verification-protocol",
+    "repository_url": "https://github.com/WICG/email-verification-protocol"
   },
   {
     "repository_name": "bobeff/open-source-games",
     "repository_url": "https://github.com/bobeff/open-source-games"
   },
   {
-    "repository_name": "end-4/dots-hyprland",
-    "repository_url": "https://github.com/end-4/dots-hyprland"
+    "repository_name": "davila7/claude-code-templates",
+    "repository_url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "repository_name": "dgtlmoon/changedetection.io",
+    "repository_url": "https://github.com/dgtlmoon/changedetection.io"
+  },
+  {
+    "repository_name": "google/adk-docs",
+    "repository_url": "https://github.com/google/adk-docs"
   },
   {
     "repository_name": "google/adk-go",
     "repository_url": "https://github.com/google/adk-go"
   },
   {
-    "repository_name": "iptv-org/iptv",
-    "repository_url": "https://github.com/iptv-org/iptv"
+    "repository_name": "google/adk-web",
+    "repository_url": "https://github.com/google/adk-web"
   },
   {
-    "repository_name": "librespot-org/librespot",
-    "repository_url": "https://github.com/librespot-org/librespot"
+    "repository_name": "microsoft/ai-agents-for-beginners",
+    "repository_url": "https://github.com/microsoft/ai-agents-for-beginners"
   },
   {
-    "repository_name": "lzhoang2801/OpCore-Simplify",
-    "repository_url": "https://github.com/lzhoang2801/OpCore-Simplify"
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
   },
   {
-    "repository_name": "microsoft/call-center-ai",
-    "repository_url": "https://github.com/microsoft/call-center-ai"
+    "repository_name": "sansan0/TrendRadar",
+    "repository_url": "https://github.com/sansan0/TrendRadar"
   },
   {
-    "repository_name": "opencloud-eu/opencloud",
-    "repository_url": "https://github.com/opencloud-eu/opencloud"
-  },
-  {
-    "repository_name": "thinking-machines-lab/tinker-cookbook",
-    "repository_url": "https://github.com/thinking-machines-lab/tinker-cookbook"
-  },
-  {
-    "repository_name": "umami-software/umami",
-    "repository_url": "https://github.com/umami-software/umami"
+    "repository_name": "serverless-dns/serverless-dns",
+    "repository_url": "https://github.com/serverless-dns/serverless-dns"
   },
   {
     "repository_name": "usestrix/strix",
     "repository_url": "https://github.com/usestrix/strix"
+  },
+  {
+    "repository_name": "yangshun/tech-interview-handbook",
+    "repository_url": "https://github.com/yangshun/tech-interview-handbook"
+  },
+  {
+    "repository_name": "yichuan-w/LEANN",
+    "repository_url": "https://github.com/yichuan-w/LEANN"
   }
 ]
