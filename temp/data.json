@@ -1,11 +1,11 @@
 [
   {
-    "repository_name": "GibsonAI/Memori",
-    "repository_url": "https://github.com/GibsonAI/Memori"
-  },
-  {
     "repository_name": "HKUDS/LightRAG",
     "repository_url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
+    "repository_name": "MemoriLabs/Memori",
+    "repository_url": "https://github.com/MemoriLabs/Memori"
   },
   {
     "repository_name": "MustardChef/WSABuilds",
