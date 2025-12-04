@@ -1,74 +1,70 @@
 [
   {
-    "repository_name": "HKUDS/LightRAG",
-    "repository_url": "https://github.com/HKUDS/LightRAG"
+    "repository_name": "DayuanJiang/next-ai-draw-io",
+    "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
   },
   {
-    "repository_name": "MemoriLabs/Memori",
-    "repository_url": "https://github.com/MemoriLabs/Memori"
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
   },
   {
-    "repository_name": "MustardChef/WSABuilds",
-    "repository_url": "https://github.com/MustardChef/WSABuilds"
+    "repository_name": "LadybirdBrowser/ladybird",
+    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
-    "repository_name": "TapXWorld/ChinaTextbook",
-    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+    "repository_name": "ZJU-LLMs/Foundations-of-LLMs",
+    "repository_url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
   },
   {
-    "repository_name": "Zie619/n8n-workflows",
-    "repository_url": "https://github.com/Zie619/n8n-workflows"
+    "repository_name": "ashishpatel26/500-AI-Agents-Projects",
+    "repository_url": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+  },
+  {
+    "repository_name": "basecamp/fizzy",
+    "repository_url": "https://github.com/basecamp/fizzy"
+  },
+  {
+    "repository_name": "bin456789/reinstall",
+    "repository_url": "https://github.com/bin456789/reinstall"
   },
   {
     "repository_name": "bobeff/open-source-games",
     "repository_url": "https://github.com/bobeff/open-source-games"
   },
   {
-    "repository_name": "google/adk-go",
-    "repository_url": "https://github.com/google/adk-go"
+    "repository_name": "codecrafters-io/build-your-own-x",
+    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
-    "repository_name": "iptv-org/iptv",
-    "repository_url": "https://github.com/iptv-org/iptv"
+    "repository_name": "kubernetes/kubernetes",
+    "repository_url": "https://github.com/kubernetes/kubernetes"
   },
   {
-    "repository_name": "microsoft/call-center-ai",
-    "repository_url": "https://github.com/microsoft/call-center-ai"
+    "repository_name": "lynx-family/lynx",
+    "repository_url": "https://github.com/lynx-family/lynx"
   },
   {
-    "repository_name": "milvus-io/milvus",
-    "repository_url": "https://github.com/milvus-io/milvus"
+    "repository_name": "microsoft/ML-For-Beginners",
+    "repository_url": "https://github.com/microsoft/ML-For-Beginners"
   },
   {
-    "repository_name": "nvm-sh/nvm",
-    "repository_url": "https://github.com/nvm-sh/nvm"
+    "repository_name": "openai/codex",
+    "repository_url": "https://github.com/openai/codex"
   },
   {
-    "repository_name": "playcanvas/engine",
-    "repository_url": "https://github.com/playcanvas/engine"
+    "repository_name": "oven-sh/bun",
+    "repository_url": "https://github.com/oven-sh/bun"
   },
   {
-    "repository_name": "sansan0/TrendRadar",
-    "repository_url": "https://github.com/sansan0/TrendRadar"
+    "repository_name": "sst/opencode",
+    "repository_url": "https://github.com/sst/opencode"
   },
   {
-    "repository_name": "traefik/traefik",
-    "repository_url": "https://github.com/traefik/traefik"
+    "repository_name": "trustedsec/social-engineer-toolkit",
+    "repository_url": "https://github.com/trustedsec/social-engineer-toolkit"
   },
   {
-    "repository_name": "volcengine/verl",
-    "repository_url": "https://github.com/volcengine/verl"
-  },
-  {
-    "repository_name": "wolfpld/tracy",
-    "repository_url": "https://github.com/wolfpld/tracy"
-  },
-  {
-    "repository_name": "yangshun/tech-interview-handbook",
-    "repository_url": "https://github.com/yangshun/tech-interview-handbook"
-  },
-  {
-    "repository_name": "yeongpin/cursor-free-vip",
-    "repository_url": "https://github.com/yeongpin/cursor-free-vip"
+    "repository_name": "wshobson/agents",
+    "repository_url": "https://github.com/wshobson/agents"
   }
 ]
