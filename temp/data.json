@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "CorentinTh/it-tools",
+    "repository_url": "https://github.com/CorentinTh/it-tools"
+  },
+  {
     "repository_name": "DayuanJiang/next-ai-draw-io",
     "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
   },
@@ -8,12 +12,8 @@
     "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
   },
   {
-    "repository_name": "LadybirdBrowser/ladybird",
-    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
-  },
-  {
-    "repository_name": "ZJU-LLMs/Foundations-of-LLMs",
-    "repository_url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
+    "repository_name": "TelegramMessenger/Telegram-iOS",
+    "repository_url": "https://github.com/TelegramMessenger/Telegram-iOS"
   },
   {
     "repository_name": "ashishpatel26/500-AI-Agents-Projects",
@@ -24,36 +24,24 @@
     "repository_url": "https://github.com/basecamp/fizzy"
   },
   {
-    "repository_name": "bin456789/reinstall",
-    "repository_url": "https://github.com/bin456789/reinstall"
+    "repository_name": "facebook/react",
+    "repository_url": "https://github.com/facebook/react"
   },
   {
-    "repository_name": "bobeff/open-source-games",
-    "repository_url": "https://github.com/bobeff/open-source-games"
-  },
-  {
-    "repository_name": "codecrafters-io/build-your-own-x",
-    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
-  },
-  {
-    "repository_name": "kubernetes/kubernetes",
-    "repository_url": "https://github.com/kubernetes/kubernetes"
-  },
-  {
-    "repository_name": "lynx-family/lynx",
-    "repository_url": "https://github.com/lynx-family/lynx"
-  },
-  {
-    "repository_name": "microsoft/ML-For-Beginners",
-    "repository_url": "https://github.com/microsoft/ML-For-Beginners"
-  },
-  {
-    "repository_name": "openai/codex",
-    "repository_url": "https://github.com/openai/codex"
+    "repository_name": "mtdvio/every-programmer-should-know",
+    "repository_url": "https://github.com/mtdvio/every-programmer-should-know"
   },
   {
     "repository_name": "oven-sh/bun",
     "repository_url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "repository_name": "rustfs/rustfs",
+    "repository_url": "https://github.com/rustfs/rustfs"
+  },
+  {
+    "repository_name": "sinelaw/fresh",
+    "repository_url": "https://github.com/sinelaw/fresh"
   },
   {
     "repository_name": "sst/opencode",
@@ -64,7 +52,7 @@
     "repository_url": "https://github.com/trustedsec/social-engineer-toolkit"
   },
   {
-    "repository_name": "wshobson/agents",
-    "repository_url": "https://github.com/wshobson/agents"
+    "repository_name": "vercel/next.js",
+    "repository_url": "https://github.com/vercel/next.js"
   }
 ]
