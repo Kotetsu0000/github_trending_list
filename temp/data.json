@@ -1,62 +1,66 @@
 [
   {
-    "repository_name": "CorentinTh/it-tools",
-    "repository_url": "https://github.com/CorentinTh/it-tools"
+    "repository_name": "DevCaress/guia-entrevistas-de-programacion",
+    "repository_url": "https://github.com/DevCaress/guia-entrevistas-de-programacion"
   },
   {
-    "repository_name": "DayuanJiang/next-ai-draw-io",
-    "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    "repository_name": "RosettaCommons/foundry",
+    "repository_url": "https://github.com/RosettaCommons/foundry"
   },
   {
-    "repository_name": "Flowseal/zapret-discord-youtube",
-    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+    "repository_name": "anthropics/claude-quickstarts",
+    "repository_url": "https://github.com/anthropics/claude-quickstarts"
   },
   {
-    "repository_name": "TelegramMessenger/Telegram-iOS",
-    "repository_url": "https://github.com/TelegramMessenger/Telegram-iOS"
-  },
-  {
-    "repository_name": "ashishpatel26/500-AI-Agents-Projects",
-    "repository_url": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
-  },
-  {
-    "repository_name": "basecamp/fizzy",
-    "repository_url": "https://github.com/basecamp/fizzy"
+    "repository_name": "aquasecurity/trivy",
+    "repository_url": "https://github.com/aquasecurity/trivy"
   },
   {
     "repository_name": "facebook/react",
     "repository_url": "https://github.com/facebook/react"
   },
   {
-    "repository_name": "microsoft/VibeVoice",
-    "repository_url": "https://github.com/microsoft/VibeVoice"
+    "repository_name": "golang/go",
+    "repository_url": "https://github.com/golang/go"
   },
   {
-    "repository_name": "mtdvio/every-programmer-should-know",
-    "repository_url": "https://github.com/mtdvio/every-programmer-should-know"
+    "repository_name": "lynx-family/lynx",
+    "repository_url": "https://github.com/lynx-family/lynx"
+  },
+  {
+    "repository_name": "microsoft/VibeVoice",
+    "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
     "repository_name": "oven-sh/bun",
     "repository_url": "https://github.com/oven-sh/bun"
   },
   {
+    "repository_name": "paritytech/polkadot-sdk",
+    "repository_url": "https://github.com/paritytech/polkadot-sdk"
+  },
+  {
+    "repository_name": "patchy631/ai-engineering-hub",
+    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  {
+    "repository_name": "projectdiscovery/nuclei-templates",
+    "repository_url": "https://github.com/projectdiscovery/nuclei-templates"
+  },
+  {
+    "repository_name": "psviderski/uncloud",
+    "repository_url": "https://github.com/psviderski/uncloud"
+  },
+  {
     "repository_name": "rustfs/rustfs",
     "repository_url": "https://github.com/rustfs/rustfs"
   },
   {
+    "repository_name": "sapientinc/HRM",
+    "repository_url": "https://github.com/sapientinc/HRM"
+  },
+  {
     "repository_name": "sinelaw/fresh",
     "repository_url": "https://github.com/sinelaw/fresh"
-  },
-  {
-    "repository_name": "sst/opencode",
-    "repository_url": "https://github.com/sst/opencode"
-  },
-  {
-    "repository_name": "trustedsec/social-engineer-toolkit",
-    "repository_url": "https://github.com/trustedsec/social-engineer-toolkit"
-  },
-  {
-    "repository_name": "vercel/next.js",
-    "repository_url": "https://github.com/vercel/next.js"
   }
 ]
