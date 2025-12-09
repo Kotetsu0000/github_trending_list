@@ -4,43 +4,51 @@
     "repository_url": "https://github.com/666ghj/BettaFish"
   },
   {
-    "repository_name": "anthropics/claude-quickstarts",
-    "repository_url": "https://github.com/anthropics/claude-quickstarts"
+    "repository_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "repository_url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever"
   },
   {
-    "repository_name": "cloudflare/vibesdk",
-    "repository_url": "https://github.com/cloudflare/vibesdk"
+    "repository_name": "KaijuEngine/kaiju",
+    "repository_url": "https://github.com/KaijuEngine/kaiju"
   },
   {
-    "repository_name": "lfnovo/open-notebook",
-    "repository_url": "https://github.com/lfnovo/open-notebook"
+    "repository_name": "NVIDIA/cutile-python",
+    "repository_url": "https://github.com/NVIDIA/cutile-python"
   },
   {
-    "repository_name": "microsoft/Foundry-Local",
-    "repository_url": "https://github.com/microsoft/Foundry-Local"
+    "repository_name": "dyad-sh/dyad",
+    "repository_url": "https://github.com/dyad-sh/dyad"
   },
   {
-    "repository_name": "microsoft/ML-For-Beginners",
-    "repository_url": "https://github.com/microsoft/ML-For-Beginners"
+    "repository_name": "google/adk-samples",
+    "repository_url": "https://github.com/google/adk-samples"
   },
   {
     "repository_name": "microsoft/VibeVoice",
     "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
+    "repository_name": "microsoft/generative-ai-for-beginners",
+    "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
     "repository_name": "patchy631/ai-engineering-hub",
     "repository_url": "https://github.com/patchy631/ai-engineering-hub"
   },
   {
-    "repository_name": "sinelaw/fresh",
-    "repository_url": "https://github.com/sinelaw/fresh"
+    "repository_name": "srbhr/Resume-Matcher",
+    "repository_url": "https://github.com/srbhr/Resume-Matcher"
   },
   {
-    "repository_name": "slidevjs/slidev",
-    "repository_url": "https://github.com/slidevjs/slidev"
+    "repository_name": "sst/opencode",
+    "repository_url": "https://github.com/sst/opencode"
   },
   {
-    "repository_name": "winapps-org/winapps",
-    "repository_url": "https://github.com/winapps-org/winapps"
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "zhu-xlab/GlobalBuildingAtlas",
+    "repository_url": "https://github.com/zhu-xlab/GlobalBuildingAtlas"
   }
 ]
