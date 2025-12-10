@@ -4,16 +4,24 @@
     "repository_url": "https://github.com/666ghj/BettaFish"
   },
   {
-    "repository_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
-    "repository_url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever"
-  },
-  {
     "repository_name": "KaijuEngine/kaiju",
     "repository_url": "https://github.com/KaijuEngine/kaiju"
   },
   {
-    "repository_name": "NVIDIA/cutile-python",
-    "repository_url": "https://github.com/NVIDIA/cutile-python"
+    "repository_name": "agentsmd/agents.md",
+    "repository_url": "https://github.com/agentsmd/agents.md"
+  },
+  {
+    "repository_name": "block/goose",
+    "repository_url": "https://github.com/block/goose"
+  },
+  {
+    "repository_name": "cloudflare/vibesdk",
+    "repository_url": "https://github.com/cloudflare/vibesdk"
+  },
+  {
+    "repository_name": "datawhalechina/hello-agents",
+    "repository_url": "https://github.com/datawhalechina/hello-agents"
   },
   {
     "repository_name": "dyad-sh/dyad",
@@ -24,6 +32,18 @@
     "repository_url": "https://github.com/google/adk-samples"
   },
   {
+    "repository_name": "infiniflow/ragflow",
+    "repository_url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "repository_name": "lfnovo/open-notebook",
+    "repository_url": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "repository_name": "microsoft/ML-For-Beginners",
+    "repository_url": "https://github.com/microsoft/ML-For-Beginners"
+  },
+  {
     "repository_name": "microsoft/VibeVoice",
     "repository_url": "https://github.com/microsoft/VibeVoice"
   },
@@ -32,23 +52,7 @@
     "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
   {
-    "repository_name": "patchy631/ai-engineering-hub",
-    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
-  },
-  {
-    "repository_name": "srbhr/Resume-Matcher",
-    "repository_url": "https://github.com/srbhr/Resume-Matcher"
-  },
-  {
-    "repository_name": "sst/opencode",
-    "repository_url": "https://github.com/sst/opencode"
-  },
-  {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "zhu-xlab/GlobalBuildingAtlas",
-    "repository_url": "https://github.com/zhu-xlab/GlobalBuildingAtlas"
   }
 ]
