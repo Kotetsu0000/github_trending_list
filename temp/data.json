@@ -44,6 +44,10 @@
     "repository_url": "https://github.com/sst/opencode"
   },
   {
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "repository_name": "zhu-xlab/GlobalBuildingAtlas",
     "repository_url": "https://github.com/zhu-xlab/GlobalBuildingAtlas"
   }
