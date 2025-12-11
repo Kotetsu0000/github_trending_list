@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "repository_name": "GoogleCloudPlatform/agent-starter-pack",
+    "repository_url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
+  },
+  {
+    "repository_name": "HotCakeX/Harden-Windows-Security",
+    "repository_url": "https://github.com/HotCakeX/Harden-Windows-Security"
+  },
+  {
+    "repository_name": "KaijuEngine/kaiju",
+    "repository_url": "https://github.com/KaijuEngine/kaiju"
+  },
+  {
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "repository_name": "Tencent/WeKnora",
+    "repository_url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "repository_name": "YimMenu/YimMenuV2",
+    "repository_url": "https://github.com/YimMenu/YimMenuV2"
+  },
+  {
+    "repository_name": "agentsmd/agents.md",
+    "repository_url": "https://github.com/agentsmd/agents.md"
+  },
+  {
+    "repository_name": "block/goose",
+    "repository_url": "https://github.com/block/goose"
+  },
+  {
+    "repository_name": "mindsdb/mindsdb",
+    "repository_url": "https://github.com/mindsdb/mindsdb"
+  },
+  {
+    "repository_name": "mlabonne/llm-course",
+    "repository_url": "https://github.com/mlabonne/llm-course"
+  },
+  {
+    "repository_name": "rustdesk/rustdesk",
+    "repository_url": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "repository_name": "tempoxyz/tempo",
+    "repository_url": "https://github.com/tempoxyz/tempo"
+  },
+  {
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
+  }
+]
