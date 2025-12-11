@@ -1,11 +1,27 @@
 [
   {
-    "repository_name": "666ghj/BettaFish",
-    "repository_url": "https://github.com/666ghj/BettaFish"
+    "repository_name": "GoogleCloudPlatform/agent-starter-pack",
+    "repository_url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
+  },
+  {
+    "repository_name": "HotCakeX/Harden-Windows-Security",
+    "repository_url": "https://github.com/HotCakeX/Harden-Windows-Security"
   },
   {
     "repository_name": "KaijuEngine/kaiju",
     "repository_url": "https://github.com/KaijuEngine/kaiju"
+  },
+  {
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "repository_name": "Tencent/WeKnora",
+    "repository_url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "repository_name": "YimMenu/YimMenuV2",
+    "repository_url": "https://github.com/YimMenu/YimMenuV2"
   },
   {
     "repository_name": "agentsmd/agents.md",
@@ -16,40 +32,20 @@
     "repository_url": "https://github.com/block/goose"
   },
   {
-    "repository_name": "cloudflare/vibesdk",
-    "repository_url": "https://github.com/cloudflare/vibesdk"
+    "repository_name": "mindsdb/mindsdb",
+    "repository_url": "https://github.com/mindsdb/mindsdb"
   },
   {
-    "repository_name": "datawhalechina/hello-agents",
-    "repository_url": "https://github.com/datawhalechina/hello-agents"
+    "repository_name": "mlabonne/llm-course",
+    "repository_url": "https://github.com/mlabonne/llm-course"
   },
   {
-    "repository_name": "dyad-sh/dyad",
-    "repository_url": "https://github.com/dyad-sh/dyad"
+    "repository_name": "rustdesk/rustdesk",
+    "repository_url": "https://github.com/rustdesk/rustdesk"
   },
   {
-    "repository_name": "google/adk-samples",
-    "repository_url": "https://github.com/google/adk-samples"
-  },
-  {
-    "repository_name": "infiniflow/ragflow",
-    "repository_url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "repository_name": "lfnovo/open-notebook",
-    "repository_url": "https://github.com/lfnovo/open-notebook"
-  },
-  {
-    "repository_name": "microsoft/ML-For-Beginners",
-    "repository_url": "https://github.com/microsoft/ML-For-Beginners"
-  },
-  {
-    "repository_name": "microsoft/VibeVoice",
-    "repository_url": "https://github.com/microsoft/VibeVoice"
-  },
-  {
-    "repository_name": "microsoft/generative-ai-for-beginners",
-    "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
+    "repository_name": "tempoxyz/tempo",
+    "repository_url": "https://github.com/tempoxyz/tempo"
   },
   {
     "repository_name": "thedotmack/claude-mem",
