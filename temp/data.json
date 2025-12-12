@@ -1,23 +1,15 @@
 [
   {
+    "repository_name": "DayuanJiang/next-ai-draw-io",
+    "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
+  },
+  {
     "repository_name": "GoogleCloudPlatform/agent-starter-pack",
     "repository_url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
   },
   {
     "repository_name": "HotCakeX/Harden-Windows-Security",
     "repository_url": "https://github.com/HotCakeX/Harden-Windows-Security"
-  },
-  {
-    "repository_name": "KaijuEngine/kaiju",
-    "repository_url": "https://github.com/KaijuEngine/kaiju"
-  },
-  {
-    "repository_name": "TapXWorld/ChinaTextbook",
-    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
-  },
-  {
-    "repository_name": "Tencent/WeKnora",
-    "repository_url": "https://github.com/Tencent/WeKnora"
   },
   {
     "repository_name": "YimMenu/YimMenuV2",
@@ -32,16 +24,24 @@
     "repository_url": "https://github.com/block/goose"
   },
   {
-    "repository_name": "mindsdb/mindsdb",
-    "repository_url": "https://github.com/mindsdb/mindsdb"
+    "repository_name": "datawhalechina/hello-agents",
+    "repository_url": "https://github.com/datawhalechina/hello-agents"
   },
   {
-    "repository_name": "mlabonne/llm-course",
-    "repository_url": "https://github.com/mlabonne/llm-course"
+    "repository_name": "grpc/grpc-go",
+    "repository_url": "https://github.com/grpc/grpc-go"
   },
   {
-    "repository_name": "rustdesk/rustdesk",
-    "repository_url": "https://github.com/rustdesk/rustdesk"
+    "repository_name": "infiniflow/ragflow",
+    "repository_url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "repository_name": "langgenius/dify",
+    "repository_url": "https://github.com/langgenius/dify"
+  },
+  {
+    "repository_name": "refly-ai/refly",
+    "repository_url": "https://github.com/refly-ai/refly"
   },
   {
     "repository_name": "tempoxyz/tempo",
@@ -50,5 +50,9 @@
   {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "tursodatabase/turso",
+    "repository_url": "https://github.com/tursodatabase/turso"
   }
 ]
