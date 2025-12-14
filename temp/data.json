@@ -1,43 +1,39 @@
 [
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    "repository_name": "HuLaSpark/HuLa",
+    "repository_url": "https://github.com/HuLaSpark/HuLa"
   },
   {
-    "repository_name": "CopilotKit/CopilotKit",
-    "repository_url": "https://github.com/CopilotKit/CopilotKit"
+    "repository_name": "Mebus/cupp",
+    "repository_url": "https://github.com/Mebus/cupp"
   },
   {
-    "repository_name": "DayuanJiang/next-ai-draw-io",
-    "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    "repository_name": "Morganamilo/paru",
+    "repository_url": "https://github.com/Morganamilo/paru"
   },
   {
     "repository_name": "Tencent/WeKnora",
     "repository_url": "https://github.com/Tencent/WeKnora"
   },
   {
-    "repository_name": "YimMenu/YimMenuV2",
-    "repository_url": "https://github.com/YimMenu/YimMenuV2"
-  },
-  {
-    "repository_name": "agentsmd/agents.md",
-    "repository_url": "https://github.com/agentsmd/agents.md"
+    "repository_name": "ZJU-LLMs/Foundations-of-LLMs",
+    "repository_url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
   },
   {
     "repository_name": "datawhalechina/hello-agents",
     "repository_url": "https://github.com/datawhalechina/hello-agents"
   },
   {
-    "repository_name": "karpathy/nanoGPT",
-    "repository_url": "https://github.com/karpathy/nanoGPT"
+    "repository_name": "daytonaio/daytona",
+    "repository_url": "https://github.com/daytonaio/daytona"
   },
   {
-    "repository_name": "langgenius/dify",
-    "repository_url": "https://github.com/langgenius/dify"
+    "repository_name": "mdn/content",
+    "repository_url": "https://github.com/mdn/content"
   },
   {
-    "repository_name": "mindsdb/mindsdb",
-    "repository_url": "https://github.com/mindsdb/mindsdb"
+    "repository_name": "openai/codex",
+    "repository_url": "https://github.com/openai/codex"
   },
   {
     "repository_name": "shadcn-ui/ui",
@@ -48,15 +44,19 @@
     "repository_url": "https://github.com/simstudioai/sim"
   },
   {
-    "repository_name": "spipm/Depixelization_poc",
-    "repository_url": "https://github.com/spipm/Depixelization_poc"
-  },
-  {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
   },
   {
+    "repository_name": "thinking-machines-lab/tinker-cookbook",
+    "repository_url": "https://github.com/thinking-machines-lab/tinker-cookbook"
+  },
+  {
     "repository_name": "tursodatabase/turso",
     "repository_url": "https://github.com/tursodatabase/turso"
+  },
+  {
+    "repository_name": "virattt/ai-hedge-fund",
+    "repository_url": "https://github.com/virattt/ai-hedge-fund"
   }
 ]
