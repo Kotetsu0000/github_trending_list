@@ -4,14 +4,6 @@
     "repository_url": "https://github.com/C4illin/ConvertX"
   },
   {
-    "repository_name": "CopilotKit/CopilotKit",
-    "repository_url": "https://github.com/CopilotKit/CopilotKit"
-  },
-  {
-    "repository_name": "HKUDS/DeepCode",
-    "repository_url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
     "repository_name": "Morganamilo/paru",
     "repository_url": "https://github.com/Morganamilo/paru"
   },
@@ -24,36 +16,36 @@
     "repository_url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
   },
   {
-    "repository_name": "daytonaio/daytona",
-    "repository_url": "https://github.com/daytonaio/daytona"
+    "repository_name": "eudoxia0/hashcards",
+    "repository_url": "https://github.com/eudoxia0/hashcards"
   },
   {
     "repository_name": "jellyfin/jellyfin-desktop",
     "repository_url": "https://github.com/jellyfin/jellyfin-desktop"
   },
   {
-    "repository_name": "obsproject/obs-studio",
-    "repository_url": "https://github.com/obsproject/obs-studio"
+    "repository_name": "mdn/content",
+    "repository_url": "https://github.com/mdn/content"
+  },
+  {
+    "repository_name": "mnh-jansson/open-battery-information",
+    "repository_url": "https://github.com/mnh-jansson/open-battery-information"
+  },
+  {
+    "repository_name": "nicotsx/zerobyte",
+    "repository_url": "https://github.com/nicotsx/zerobyte"
   },
   {
     "repository_name": "openai/codex",
     "repository_url": "https://github.com/openai/codex"
   },
   {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
-  },
-  {
-    "repository_name": "shadcn-ui/ui",
-    "repository_url": "https://github.com/shadcn-ui/ui"
-  },
-  {
     "repository_name": "simstudioai/sim",
     "repository_url": "https://github.com/simstudioai/sim"
   },
   {
-    "repository_name": "theOehrly/Fast-F1",
-    "repository_url": "https://github.com/theOehrly/Fast-F1"
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "repository_name": "virattt/ai-hedge-fund",
