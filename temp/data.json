@@ -1,43 +1,23 @@
 [
   {
-    "repository_name": "0xk1h0/ChatGPT_DAN",
-    "repository_url": "https://github.com/0xk1h0/ChatGPT_DAN"
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "C4illin/ConvertX",
-    "repository_url": "https://github.com/C4illin/ConvertX"
+    "repository_name": "astral-sh/ty",
+    "repository_url": "https://github.com/astral-sh/ty"
   },
   {
-    "repository_name": "Free-TV/IPTV",
-    "repository_url": "https://github.com/Free-TV/IPTV"
-  },
-  {
-    "repository_name": "NVIDIA-NeMo/Gym",
-    "repository_url": "https://github.com/NVIDIA-NeMo/Gym"
-  },
-  {
-    "repository_name": "TapXWorld/ChinaTextbook",
-    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
-  },
-  {
-    "repository_name": "jellyfin/jellyfin-desktop",
-    "repository_url": "https://github.com/jellyfin/jellyfin-desktop"
-  },
-  {
-    "repository_name": "nicotsx/zerobyte",
-    "repository_url": "https://github.com/nicotsx/zerobyte"
-  },
-  {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
+    "repository_name": "letta-ai/letta",
+    "repository_url": "https://github.com/letta-ai/letta"
   },
   {
     "repository_name": "resemble-ai/chatterbox",
     "repository_url": "https://github.com/resemble-ai/chatterbox"
   },
   {
-    "repository_name": "simstudioai/sim",
-    "repository_url": "https://github.com/simstudioai/sim"
+    "repository_name": "schollz/croc",
+    "repository_url": "https://github.com/schollz/croc"
   },
   {
     "repository_name": "virattt/ai-hedge-fund",
