@@ -1,26 +1,42 @@
 [
   {
+    "repository_name": "GreyDGL/PentestGPT",
+    "repository_url": "https://github.com/GreyDGL/PentestGPT"
+  },
+  {
+    "repository_name": "NVIDIA-NeMo/Gym",
+    "repository_url": "https://github.com/NVIDIA-NeMo/Gym"
+  },
+  {
+    "repository_name": "afshinea/stanford-cs-229-machine-learning",
+    "repository_url": "https://github.com/afshinea/stanford-cs-229-machine-learning"
+  },
+  {
     "repository_name": "anthropics/claude-code",
     "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "astral-sh/ty",
-    "repository_url": "https://github.com/astral-sh/ty"
+    "repository_name": "exo-explore/exo",
+    "repository_url": "https://github.com/exo-explore/exo"
   },
   {
-    "repository_name": "letta-ai/letta",
-    "repository_url": "https://github.com/letta-ai/letta"
+    "repository_name": "google/adk-js",
+    "repository_url": "https://github.com/google/adk-js"
   },
   {
-    "repository_name": "resemble-ai/chatterbox",
-    "repository_url": "https://github.com/resemble-ai/chatterbox"
+    "repository_name": "jaywcjlove/awesome-mac",
+    "repository_url": "https://github.com/jaywcjlove/awesome-mac"
   },
   {
-    "repository_name": "schollz/croc",
-    "repository_url": "https://github.com/schollz/croc"
+    "repository_name": "metabase/metabase",
+    "repository_url": "https://github.com/metabase/metabase"
   },
   {
-    "repository_name": "virattt/ai-hedge-fund",
-    "repository_url": "https://github.com/virattt/ai-hedge-fund"
+    "repository_name": "sgl-project/mini-sglang",
+    "repository_url": "https://github.com/sgl-project/mini-sglang"
+  },
+  {
+    "repository_name": "swisskyrepo/PayloadsAllTheThings",
+    "repository_url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
   }
 ]
