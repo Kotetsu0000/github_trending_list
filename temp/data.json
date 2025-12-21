@@ -4,36 +4,24 @@
     "repository_url": "https://github.com/GreyDGL/PentestGPT"
   },
   {
-    "repository_name": "NexaAI/nexa-sdk",
-    "repository_url": "https://github.com/NexaAI/nexa-sdk"
-  },
-  {
     "repository_name": "anthropics/claude-code",
     "repository_url": "https://github.com/anthropics/claude-code"
-  },
-  {
-    "repository_name": "astral-sh/ty",
-    "repository_url": "https://github.com/astral-sh/ty"
   },
   {
     "repository_name": "cloudcommunity/Free-Certifications",
     "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
   },
   {
+    "repository_name": "cocoindex-io/cocoindex",
+    "repository_url": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
     "repository_name": "exo-explore/exo",
     "repository_url": "https://github.com/exo-explore/exo"
   },
   {
-    "repository_name": "github/awesome-copilot",
-    "repository_url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "repository_name": "iptv-org/iptv",
-    "repository_url": "https://github.com/iptv-org/iptv"
-  },
-  {
-    "repository_name": "lintsinghua/DeepAudit",
-    "repository_url": "https://github.com/lintsinghua/DeepAudit"
+    "repository_name": "pollen-robotics/reachy_mini",
+    "repository_url": "https://github.com/pollen-robotics/reachy_mini"
   },
   {
     "repository_name": "sgl-project/mini-sglang",
@@ -42,5 +30,9 @@
   {
     "repository_name": "swisskyrepo/PayloadsAllTheThings",
     "repository_url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+  },
+  {
+    "repository_name": "trimstray/the-book-of-secret-knowledge",
+    "repository_url": "https://github.com/trimstray/the-book-of-secret-knowledge"
   }
 ]
