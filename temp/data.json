@@ -1,70 +1,58 @@
 [
   {
-    "repository_name": "GreyDGL/PentestGPT",
-    "repository_url": "https://github.com/GreyDGL/PentestGPT"
-  },
-  {
-    "repository_name": "Semperis/EntraGoat",
-    "repository_url": "https://github.com/Semperis/EntraGoat"
-  },
-  {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
-  },
-  {
     "repository_name": "cloudcommunity/Free-Certifications",
     "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
   },
   {
-    "repository_name": "cocoindex-io/cocoindex",
-    "repository_url": "https://github.com/cocoindex-io/cocoindex"
-  },
-  {
-    "repository_name": "codecrafters-io/build-your-own-x",
-    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
-  },
-  {
-    "repository_name": "danielmiessler/Fabric",
-    "repository_url": "https://github.com/danielmiessler/Fabric"
+    "repository_name": "davila7/claude-code-templates",
+    "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
     "repository_name": "exo-explore/exo",
     "repository_url": "https://github.com/exo-explore/exo"
   },
   {
-    "repository_name": "expressjs/express",
-    "repository_url": "https://github.com/expressjs/express"
-  },
-  {
     "repository_name": "google/langextract",
     "repository_url": "https://github.com/google/langextract"
   },
   {
-    "repository_name": "home-assistant/core",
-    "repository_url": "https://github.com/home-assistant/core"
+    "repository_name": "makeplane/plane",
+    "repository_url": "https://github.com/makeplane/plane"
   },
   {
-    "repository_name": "iptv-org/iptv",
-    "repository_url": "https://github.com/iptv-org/iptv"
-  },
-  {
-    "repository_name": "lintsinghua/DeepAudit",
-    "repository_url": "https://github.com/lintsinghua/DeepAudit"
-  },
-  {
-    "repository_name": "mudler/LocalAI",
-    "repository_url": "https://github.com/mudler/LocalAI"
+    "repository_name": "open-webui/open-webui",
+    "repository_url": "https://github.com/open-webui/open-webui"
   },
   {
     "repository_name": "rendercv/rendercv",
     "repository_url": "https://github.com/rendercv/rendercv"
   },
   {
+    "repository_name": "safety-research/bloom",
+    "repository_url": "https://github.com/safety-research/bloom"
+  },
+  {
+    "repository_name": "stan-smith/FossFLOW",
+    "repository_url": "https://github.com/stan-smith/FossFLOW"
+  },
+  {
     "repository_name": "swisskyrepo/PayloadsAllTheThings",
     "repository_url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
   },
   {
-    "repository_name": "tensorflow/tensorflow",
-    "repository_url": "https://github.com/tensorflow/tensorflow"
+    "repository_name": "vendure-ecommerce/vendure",
+    "repository_url": "https://github.com/vendure-ecommerce/vendure"
+  },
+  {
+    "repository_name": "vllm-project/vllm-omni",
+    "repository_url": "https://github.com/vllm-project/vllm-omni"
+  },
+  {
+    "repository_name": "xerrors/Yuxi-Know",
+    "repository_url": "https://github.com/xerrors/Yuxi-Know"
+  },
+  {
+    "repository_name": "yichuan-w/LEANN",
+    "repository_url": "https://github.com/yichuan-w/LEANN"
   }
 ]
