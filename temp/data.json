@@ -1,27 +1,39 @@
 [
   {
-    "repository_name": "cloudcommunity/Free-Certifications",
-    "repository_url": "https://github.com/cloudcommunity/Free-Certifications"
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repository_name": "apurvsinghgautam/robin",
+    "repository_url": "https://github.com/apurvsinghgautam/robin"
+  },
+  {
+    "repository_name": "danielmiessler/Fabric",
+    "repository_url": "https://github.com/danielmiessler/Fabric"
   },
   {
     "repository_name": "davila7/claude-code-templates",
     "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
-    "repository_name": "exo-explore/exo",
-    "repository_url": "https://github.com/exo-explore/exo"
+    "repository_name": "etcd-io/etcd",
+    "repository_url": "https://github.com/etcd-io/etcd"
+  },
+  {
+    "repository_name": "facebookresearch/dinov3",
+    "repository_url": "https://github.com/facebookresearch/dinov3"
   },
   {
     "repository_name": "google/langextract",
     "repository_url": "https://github.com/google/langextract"
   },
   {
-    "repository_name": "makeplane/plane",
-    "repository_url": "https://github.com/makeplane/plane"
+    "repository_name": "langgenius/dify",
+    "repository_url": "https://github.com/langgenius/dify"
   },
   {
-    "repository_name": "open-webui/open-webui",
-    "repository_url": "https://github.com/open-webui/open-webui"
+    "repository_name": "makeplane/plane",
+    "repository_url": "https://github.com/makeplane/plane"
   },
   {
     "repository_name": "rendercv/rendercv",
@@ -36,8 +48,8 @@
     "repository_url": "https://github.com/stan-smith/FossFLOW"
   },
   {
-    "repository_name": "swisskyrepo/PayloadsAllTheThings",
-    "repository_url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+    "repository_name": "twitter/the-algorithm",
+    "repository_url": "https://github.com/twitter/the-algorithm"
   },
   {
     "repository_name": "vendure-ecommerce/vendure",
@@ -46,10 +58,6 @@
   {
     "repository_name": "vllm-project/vllm-omni",
     "repository_url": "https://github.com/vllm-project/vllm-omni"
-  },
-  {
-    "repository_name": "xerrors/Yuxi-Know",
-    "repository_url": "https://github.com/xerrors/Yuxi-Know"
   },
   {
     "repository_name": "yichuan-w/LEANN",
