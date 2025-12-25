@@ -1,35 +1,7 @@
 [
   {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
-  },
-  {
-    "repository_name": "apurvsinghgautam/robin",
-    "repository_url": "https://github.com/apurvsinghgautam/robin"
-  },
-  {
-    "repository_name": "danielmiessler/Fabric",
-    "repository_url": "https://github.com/danielmiessler/Fabric"
-  },
-  {
-    "repository_name": "davila7/claude-code-templates",
-    "repository_url": "https://github.com/davila7/claude-code-templates"
-  },
-  {
-    "repository_name": "etcd-io/etcd",
-    "repository_url": "https://github.com/etcd-io/etcd"
-  },
-  {
-    "repository_name": "facebookresearch/dinov3",
-    "repository_url": "https://github.com/facebookresearch/dinov3"
-  },
-  {
-    "repository_name": "google/langextract",
-    "repository_url": "https://github.com/google/langextract"
-  },
-  {
-    "repository_name": "langgenius/dify",
-    "repository_url": "https://github.com/langgenius/dify"
+    "repository_name": "ModelTC/LightX2V",
+    "repository_url": "https://github.com/ModelTC/LightX2V"
   },
   {
     "repository_name": "makeplane/plane",
@@ -40,12 +12,8 @@
     "repository_url": "https://github.com/rendercv/rendercv"
   },
   {
-    "repository_name": "safety-research/bloom",
-    "repository_url": "https://github.com/safety-research/bloom"
-  },
-  {
-    "repository_name": "stan-smith/FossFLOW",
-    "repository_url": "https://github.com/stan-smith/FossFLOW"
+    "repository_name": "resemble-ai/chatterbox",
+    "repository_url": "https://github.com/resemble-ai/chatterbox"
   },
   {
     "repository_name": "twitter/the-algorithm",
@@ -58,6 +26,10 @@
   {
     "repository_name": "vllm-project/vllm-omni",
     "repository_url": "https://github.com/vllm-project/vllm-omni"
+  },
+  {
+    "repository_name": "xerrors/Yuxi-Know",
+    "repository_url": "https://github.com/xerrors/Yuxi-Know"
   },
   {
     "repository_name": "yichuan-w/LEANN",
