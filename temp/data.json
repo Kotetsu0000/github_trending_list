@@ -1,35 +1,23 @@
 [
   {
-    "repository_name": "ModelTC/LightX2V",
-    "repository_url": "https://github.com/ModelTC/LightX2V"
+    "repository_name": "NanmiCoder/MediaCrawler",
+    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
   },
   {
-    "repository_name": "makeplane/plane",
-    "repository_url": "https://github.com/makeplane/plane"
+    "repository_name": "apurvsinghgautam/robin",
+    "repository_url": "https://github.com/apurvsinghgautam/robin"
+  },
+  {
+    "repository_name": "flowsurface-rs/flowsurface",
+    "repository_url": "https://github.com/flowsurface-rs/flowsurface"
+  },
+  {
+    "repository_name": "langgenius/dify",
+    "repository_url": "https://github.com/langgenius/dify"
   },
   {
     "repository_name": "rendercv/rendercv",
     "repository_url": "https://github.com/rendercv/rendercv"
-  },
-  {
-    "repository_name": "resemble-ai/chatterbox",
-    "repository_url": "https://github.com/resemble-ai/chatterbox"
-  },
-  {
-    "repository_name": "twitter/the-algorithm",
-    "repository_url": "https://github.com/twitter/the-algorithm"
-  },
-  {
-    "repository_name": "vendure-ecommerce/vendure",
-    "repository_url": "https://github.com/vendure-ecommerce/vendure"
-  },
-  {
-    "repository_name": "vllm-project/vllm-omni",
-    "repository_url": "https://github.com/vllm-project/vllm-omni"
-  },
-  {
-    "repository_name": "xerrors/Yuxi-Know",
-    "repository_url": "https://github.com/xerrors/Yuxi-Know"
   },
   {
     "repository_name": "yichuan-w/LEANN",
