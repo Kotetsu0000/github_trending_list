@@ -1,5 +1,25 @@
 [
   {
+    "repository_name": "BloopAI/vibe-kanban",
+    "repository_url": "https://github.com/BloopAI/vibe-kanban"
+  },
+  {
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "repository_name": "QuantConnect/Lean",
+    "repository_url": "https://github.com/QuantConnect/Lean"
+  },
+  {
+    "repository_name": "RustPython/RustPython",
+    "repository_url": "https://github.com/RustPython/RustPython"
+  },
+  {
+    "repository_name": "Sergeydigl3/zapret-discord-youtube-linux",
+    "repository_url": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux"
+  },
+  {
     "repository_name": "Shubhamsaboo/awesome-llm-apps",
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
@@ -8,15 +28,7 @@
     "repository_url": "https://github.com/TheAlgorithms/Python"
   },
   {
-    "repository_name": "agrinman/tunnelto",
-    "repository_url": "https://github.com/agrinman/tunnelto"
-  },
-  {
-    "repository_name": "rendercv/rendercv",
-    "repository_url": "https://github.com/rendercv/rendercv"
-  },
-  {
-    "repository_name": "xerrors/Yuxi-Know",
-    "repository_url": "https://github.com/xerrors/Yuxi-Know"
+    "repository_name": "sinelaw/fresh",
+    "repository_url": "https://github.com/sinelaw/fresh"
   }
 ]
