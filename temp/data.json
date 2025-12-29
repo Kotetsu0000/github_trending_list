@@ -16,19 +16,43 @@
     "repository_url": "https://github.com/RustPython/RustPython"
   },
   {
-    "repository_name": "Sergeydigl3/zapret-discord-youtube-linux",
-    "repository_url": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux"
-  },
-  {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    "repository_name": "Stirling-Tools/Stirling-PDF",
+    "repository_url": "https://github.com/Stirling-Tools/Stirling-PDF"
   },
   {
     "repository_name": "TheAlgorithms/Python",
     "repository_url": "https://github.com/TheAlgorithms/Python"
   },
   {
+    "repository_name": "antiwork/gumroad",
+    "repository_url": "https://github.com/antiwork/gumroad"
+  },
+  {
+    "repository_name": "gitroomhq/postiz-app",
+    "repository_url": "https://github.com/gitroomhq/postiz-app"
+  },
+  {
+    "repository_name": "jellyfin/jellyfin",
+    "repository_url": "https://github.com/jellyfin/jellyfin"
+  },
+  {
+    "repository_name": "resemble-ai/chatterbox",
+    "repository_url": "https://github.com/resemble-ai/chatterbox"
+  },
+  {
+    "repository_name": "sansan0/TrendRadar",
+    "repository_url": "https://github.com/sansan0/TrendRadar"
+  },
+  {
     "repository_name": "sinelaw/fresh",
     "repository_url": "https://github.com/sinelaw/fresh"
+  },
+  {
+    "repository_name": "vanilla-wiiu/vanilla",
+    "repository_url": "https://github.com/vanilla-wiiu/vanilla"
+  },
+  {
+    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
 ]
