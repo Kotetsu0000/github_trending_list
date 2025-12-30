@@ -4,10 +4,6 @@
     "repository_url": "https://github.com/BloopAI/vibe-kanban"
   },
   {
-    "repository_name": "Flowseal/zapret-discord-youtube",
-    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
-  },
-  {
     "repository_name": "QuantConnect/Lean",
     "repository_url": "https://github.com/QuantConnect/Lean"
   },
@@ -16,40 +12,40 @@
     "repository_url": "https://github.com/RustPython/RustPython"
   },
   {
-    "repository_name": "Stirling-Tools/Stirling-PDF",
-    "repository_url": "https://github.com/Stirling-Tools/Stirling-PDF"
+    "repository_name": "alexta69/metube",
+    "repository_url": "https://github.com/alexta69/metube"
   },
   {
-    "repository_name": "TheAlgorithms/Python",
-    "repository_url": "https://github.com/TheAlgorithms/Python"
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
   },
   {
-    "repository_name": "antiwork/gumroad",
-    "repository_url": "https://github.com/antiwork/gumroad"
+    "repository_name": "cjpais/Handy",
+    "repository_url": "https://github.com/cjpais/Handy"
   },
   {
-    "repository_name": "gitroomhq/postiz-app",
-    "repository_url": "https://github.com/gitroomhq/postiz-app"
+    "repository_name": "jrouwe/JoltPhysics",
+    "repository_url": "https://github.com/jrouwe/JoltPhysics"
   },
   {
-    "repository_name": "jellyfin/jellyfin",
-    "repository_url": "https://github.com/jellyfin/jellyfin"
+    "repository_name": "louislam/uptime-kuma",
+    "repository_url": "https://github.com/louislam/uptime-kuma"
   },
   {
     "repository_name": "resemble-ai/chatterbox",
     "repository_url": "https://github.com/resemble-ai/chatterbox"
   },
   {
-    "repository_name": "sansan0/TrendRadar",
-    "repository_url": "https://github.com/sansan0/TrendRadar"
-  },
-  {
     "repository_name": "sinelaw/fresh",
     "repository_url": "https://github.com/sinelaw/fresh"
   },
   {
-    "repository_name": "vanilla-wiiu/vanilla",
-    "repository_url": "https://github.com/vanilla-wiiu/vanilla"
+    "repository_name": "sst/opencode",
+    "repository_url": "https://github.com/sst/opencode"
+  },
+  {
+    "repository_name": "timescale/pg-aiguide",
+    "repository_url": "https://github.com/timescale/pg-aiguide"
   },
   {
     "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
