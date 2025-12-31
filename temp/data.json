@@ -4,51 +4,39 @@
     "repository_url": "https://github.com/BloopAI/vibe-kanban"
   },
   {
-    "repository_name": "QuantConnect/Lean",
-    "repository_url": "https://github.com/QuantConnect/Lean"
+    "repository_name": "afkarxyz/SpotiFLAC",
+    "repository_url": "https://github.com/afkarxyz/SpotiFLAC"
   },
   {
-    "repository_name": "RustPython/RustPython",
-    "repository_url": "https://github.com/RustPython/RustPython"
+    "repository_name": "google-gemini/computer-use-preview",
+    "repository_url": "https://github.com/google-gemini/computer-use-preview"
   },
   {
-    "repository_name": "alexta69/metube",
-    "repository_url": "https://github.com/alexta69/metube"
+    "repository_name": "harvard-edge/cs249r_book",
+    "repository_url": "https://github.com/harvard-edge/cs249r_book"
   },
   {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
+    "repository_name": "nocodb/nocodb",
+    "repository_url": "https://github.com/nocodb/nocodb"
   },
   {
-    "repository_name": "cjpais/Handy",
-    "repository_url": "https://github.com/cjpais/Handy"
+    "repository_name": "openai/openai-cookbook",
+    "repository_url": "https://github.com/openai/openai-cookbook"
   },
   {
-    "repository_name": "jrouwe/JoltPhysics",
-    "repository_url": "https://github.com/jrouwe/JoltPhysics"
-  },
-  {
-    "repository_name": "louislam/uptime-kuma",
-    "repository_url": "https://github.com/louislam/uptime-kuma"
+    "repository_name": "organicmaps/organicmaps",
+    "repository_url": "https://github.com/organicmaps/organicmaps"
   },
   {
     "repository_name": "resemble-ai/chatterbox",
     "repository_url": "https://github.com/resemble-ai/chatterbox"
   },
   {
-    "repository_name": "sinelaw/fresh",
-    "repository_url": "https://github.com/sinelaw/fresh"
-  },
-  {
-    "repository_name": "sst/opencode",
-    "repository_url": "https://github.com/sst/opencode"
+    "repository_name": "sansan0/TrendRadar",
+    "repository_url": "https://github.com/sansan0/TrendRadar"
   },
   {
     "repository_name": "timescale/pg-aiguide",
     "repository_url": "https://github.com/timescale/pg-aiguide"
-  },
-  {
-    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
 ]
