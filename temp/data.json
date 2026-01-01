@@ -4,39 +4,47 @@
     "repository_url": "https://github.com/BloopAI/vibe-kanban"
   },
   {
+    "repository_name": "DayuanJiang/next-ai-draw-io",
+    "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
+  },
+  {
+    "repository_name": "HQarroum/docker-android",
+    "repository_url": "https://github.com/HQarroum/docker-android"
+  },
+  {
+    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+  },
+  {
+    "repository_name": "Polymarket/agents",
+    "repository_url": "https://github.com/Polymarket/agents"
+  },
+  {
     "repository_name": "afkarxyz/SpotiFLAC",
     "repository_url": "https://github.com/afkarxyz/SpotiFLAC"
   },
   {
-    "repository_name": "google-gemini/computer-use-preview",
-    "repository_url": "https://github.com/google-gemini/computer-use-preview"
+    "repository_name": "awslabs/amazon-bedrock-agentcore-samples",
+    "repository_url": "https://github.com/awslabs/amazon-bedrock-agentcore-samples"
   },
   {
     "repository_name": "harvard-edge/cs249r_book",
     "repository_url": "https://github.com/harvard-edge/cs249r_book"
   },
   {
-    "repository_name": "nocodb/nocodb",
-    "repository_url": "https://github.com/nocodb/nocodb"
-  },
-  {
-    "repository_name": "openai/openai-cookbook",
-    "repository_url": "https://github.com/openai/openai-cookbook"
+    "repository_name": "livekit/agents",
+    "repository_url": "https://github.com/livekit/agents"
   },
   {
     "repository_name": "organicmaps/organicmaps",
     "repository_url": "https://github.com/organicmaps/organicmaps"
   },
   {
-    "repository_name": "resemble-ai/chatterbox",
-    "repository_url": "https://github.com/resemble-ai/chatterbox"
+    "repository_name": "usememos/memos",
+    "repository_url": "https://github.com/usememos/memos"
   },
   {
-    "repository_name": "sansan0/TrendRadar",
-    "repository_url": "https://github.com/sansan0/TrendRadar"
-  },
-  {
-    "repository_name": "timescale/pg-aiguide",
-    "repository_url": "https://github.com/timescale/pg-aiguide"
+    "repository_name": "yichuan-w/LEANN",
+    "repository_url": "https://github.com/yichuan-w/LEANN"
   }
 ]
