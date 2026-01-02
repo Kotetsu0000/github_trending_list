@@ -1,50 +1,38 @@
 [
   {
-    "repository_name": "BloopAI/vibe-kanban",
-    "repository_url": "https://github.com/BloopAI/vibe-kanban"
-  },
-  {
-    "repository_name": "DayuanJiang/next-ai-draw-io",
-    "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    "repository_name": "GitHubDaily/GitHubDaily",
+    "repository_url": "https://github.com/GitHubDaily/GitHubDaily"
   },
   {
     "repository_name": "HQarroum/docker-android",
     "repository_url": "https://github.com/HQarroum/docker-android"
   },
   {
-    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+    "repository_name": "Koenkk/zigbee2mqtt",
+    "repository_url": "https://github.com/Koenkk/zigbee2mqtt"
   },
   {
-    "repository_name": "Polymarket/agents",
-    "repository_url": "https://github.com/Polymarket/agents"
+    "repository_name": "SYSTRAN/faster-whisper",
+    "repository_url": "https://github.com/SYSTRAN/faster-whisper"
   },
   {
-    "repository_name": "afkarxyz/SpotiFLAC",
-    "repository_url": "https://github.com/afkarxyz/SpotiFLAC"
+    "repository_name": "nocodb/nocodb",
+    "repository_url": "https://github.com/nocodb/nocodb"
   },
   {
-    "repository_name": "awslabs/amazon-bedrock-agentcore-samples",
-    "repository_url": "https://github.com/awslabs/amazon-bedrock-agentcore-samples"
+    "repository_name": "openai/openai-cookbook",
+    "repository_url": "https://github.com/openai/openai-cookbook"
   },
   {
-    "repository_name": "harvard-edge/cs249r_book",
-    "repository_url": "https://github.com/harvard-edge/cs249r_book"
+    "repository_name": "ourongxing/newsnow",
+    "repository_url": "https://github.com/ourongxing/newsnow"
   },
   {
-    "repository_name": "livekit/agents",
-    "repository_url": "https://github.com/livekit/agents"
-  },
-  {
-    "repository_name": "organicmaps/organicmaps",
-    "repository_url": "https://github.com/organicmaps/organicmaps"
+    "repository_name": "rossant/awesome-math",
+    "repository_url": "https://github.com/rossant/awesome-math"
   },
   {
     "repository_name": "usememos/memos",
     "repository_url": "https://github.com/usememos/memos"
-  },
-  {
-    "repository_name": "yichuan-w/LEANN",
-    "repository_url": "https://github.com/yichuan-w/LEANN"
   }
 ]
