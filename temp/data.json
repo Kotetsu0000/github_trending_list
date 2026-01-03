@@ -1,35 +1,31 @@
 [
   {
-    "repository_name": "GitHubDaily/GitHubDaily",
-    "repository_url": "https://github.com/GitHubDaily/GitHubDaily"
-  },
-  {
     "repository_name": "HQarroum/docker-android",
     "repository_url": "https://github.com/HQarroum/docker-android"
   },
   {
-    "repository_name": "Koenkk/zigbee2mqtt",
-    "repository_url": "https://github.com/Koenkk/zigbee2mqtt"
+    "repository_name": "OpenBB-finance/OpenBB",
+    "repository_url": "https://github.com/OpenBB-finance/OpenBB"
   },
   {
-    "repository_name": "SYSTRAN/faster-whisper",
-    "repository_url": "https://github.com/SYSTRAN/faster-whisper"
+    "repository_name": "beancount/beancount",
+    "repository_url": "https://github.com/beancount/beancount"
   },
   {
-    "repository_name": "nocodb/nocodb",
-    "repository_url": "https://github.com/nocodb/nocodb"
+    "repository_name": "maplibre/maplibre-gl-js",
+    "repository_url": "https://github.com/maplibre/maplibre-gl-js"
   },
   {
-    "repository_name": "openai/openai-cookbook",
-    "repository_url": "https://github.com/openai/openai-cookbook"
+    "repository_name": "nukeop/nuclear",
+    "repository_url": "https://github.com/nukeop/nuclear"
   },
   {
     "repository_name": "ourongxing/newsnow",
     "repository_url": "https://github.com/ourongxing/newsnow"
   },
   {
-    "repository_name": "rossant/awesome-math",
-    "repository_url": "https://github.com/rossant/awesome-math"
+    "repository_name": "pathwaycom/pathway",
+    "repository_url": "https://github.com/pathwaycom/pathway"
   },
   {
     "repository_name": "usememos/memos",
