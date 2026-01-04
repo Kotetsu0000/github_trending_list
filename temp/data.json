@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "5rahim/seanime",
+    "repository_url": "https://github.com/5rahim/seanime"
+  },
+  {
     "repository_name": "HQarroum/docker-android",
     "repository_url": "https://github.com/HQarroum/docker-android"
   },
@@ -8,27 +12,31 @@
     "repository_url": "https://github.com/OpenBB-finance/OpenBB"
   },
   {
-    "repository_name": "beancount/beancount",
-    "repository_url": "https://github.com/beancount/beancount"
+    "repository_name": "anomalyco/opencode",
+    "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
-    "repository_name": "maplibre/maplibre-gl-js",
-    "repository_url": "https://github.com/maplibre/maplibre-gl-js"
+    "repository_name": "nocodb/nocodb",
+    "repository_url": "https://github.com/nocodb/nocodb"
   },
   {
-    "repository_name": "nukeop/nuclear",
-    "repository_url": "https://github.com/nukeop/nuclear"
+    "repository_name": "openai/openai-cookbook",
+    "repository_url": "https://github.com/openai/openai-cookbook"
   },
   {
     "repository_name": "ourongxing/newsnow",
     "repository_url": "https://github.com/ourongxing/newsnow"
   },
   {
-    "repository_name": "pathwaycom/pathway",
-    "repository_url": "https://github.com/pathwaycom/pathway"
+    "repository_name": "python/cpython",
+    "repository_url": "https://github.com/python/cpython"
   },
   {
     "repository_name": "usememos/memos",
     "repository_url": "https://github.com/usememos/memos"
+  },
+  {
+    "repository_name": "virattt/ai-hedge-fund",
+    "repository_url": "https://github.com/virattt/ai-hedge-fund"
   }
 ]
