@@ -1,11 +1,7 @@
 [
   {
-    "repository_name": "5rahim/seanime",
-    "repository_url": "https://github.com/5rahim/seanime"
-  },
-  {
-    "repository_name": "HQarroum/docker-android",
-    "repository_url": "https://github.com/HQarroum/docker-android"
+    "repository_name": "3b1b/manim",
+    "repository_url": "https://github.com/3b1b/manim"
   },
   {
     "repository_name": "OpenBB-finance/OpenBB",
@@ -16,12 +12,16 @@
     "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
-    "repository_name": "nocodb/nocodb",
-    "repository_url": "https://github.com/nocodb/nocodb"
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "openai/openai-cookbook",
-    "repository_url": "https://github.com/openai/openai-cookbook"
+    "repository_name": "maplibre/maplibre-gl-js",
+    "repository_url": "https://github.com/maplibre/maplibre-gl-js"
+  },
+  {
+    "repository_name": "microsoft/VibeVoice",
+    "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
     "repository_name": "ourongxing/newsnow",
