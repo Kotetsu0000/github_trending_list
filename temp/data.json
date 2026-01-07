@@ -1,42 +1,54 @@
 [
   {
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "repository_name": "DrewThomasson/ebook2audiobook",
+    "repository_url": "https://github.com/DrewThomasson/ebook2audiobook"
+  },
+  {
     "repository_name": "Lissy93/web-check",
     "repository_url": "https://github.com/Lissy93/web-check"
   },
   {
-    "repository_name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
-    "repository_url": "https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment"
+    "repository_name": "MiroMindAI/MiroThinker",
+    "repository_url": "https://github.com/MiroMindAI/MiroThinker"
   },
   {
-    "repository_name": "VectifyAI/PageIndex",
-    "repository_url": "https://github.com/VectifyAI/PageIndex"
+    "repository_name": "anthropics/prompt-eng-interactive-tutorial",
+    "repository_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
   },
   {
-    "repository_name": "anthropics/claude-code-action",
-    "repository_url": "https://github.com/anthropics/claude-code-action"
-  },
-  {
-    "repository_name": "bobbyiliev/introduction-to-bash-scripting",
-    "repository_url": "https://github.com/bobbyiliev/introduction-to-bash-scripting"
-  },
-  {
-    "repository_name": "kirodotdev/Kiro",
-    "repository_url": "https://github.com/kirodotdev/Kiro"
+    "repository_name": "google/googletest",
+    "repository_url": "https://github.com/google/googletest"
   },
   {
     "repository_name": "marcelscruz/public-apis",
     "repository_url": "https://github.com/marcelscruz/public-apis"
   },
   {
-    "repository_name": "microsoft/BitNet",
-    "repository_url": "https://github.com/microsoft/BitNet"
+    "repository_name": "memvid/memvid",
+    "repository_url": "https://github.com/memvid/memvid"
   },
   {
     "repository_name": "microsoft/PowerToys",
     "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
+    "repository_name": "patchy631/ai-engineering-hub",
+    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  {
+    "repository_name": "prateek-chaubey/YTPro",
+    "repository_url": "https://github.com/prateek-chaubey/YTPro"
+  },
+  {
     "repository_name": "protocolbuffers/protobuf",
     "repository_url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
   }
 ]
