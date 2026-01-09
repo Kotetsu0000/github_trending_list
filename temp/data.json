@@ -40,6 +40,10 @@
     "repository_url": "https://github.com/netbirdio/netbird"
   },
   {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
     "repository_name": "tailwindlabs/tailwindcss",
     "repository_url": "https://github.com/tailwindlabs/tailwindcss"
   }
