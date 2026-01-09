@@ -1,62 +1,46 @@
 [
   {
+    "repository_name": "C4illin/ConvertX",
+    "repository_url": "https://github.com/C4illin/ConvertX"
+  },
+  {
     "repository_name": "ChromeDevTools/chrome-devtools-mcp",
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "HKUDS/VideoRAG",
-    "repository_url": "https://github.com/HKUDS/VideoRAG"
+    "repository_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "repository_url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever"
   },
   {
     "repository_name": "Lightricks/ComfyUI-LTXVideo",
     "repository_url": "https://github.com/Lightricks/ComfyUI-LTXVideo"
   },
   {
-    "repository_name": "Lissy93/web-check",
-    "repository_url": "https://github.com/Lissy93/web-check"
-  },
-  {
     "repository_name": "MiroMindAI/MiroThinker",
     "repository_url": "https://github.com/MiroMindAI/MiroThinker"
   },
   {
-    "repository_name": "NVlabs/alpasim",
-    "repository_url": "https://github.com/NVlabs/alpasim"
-  },
-  {
-    "repository_name": "NevaMind-AI/memU",
-    "repository_url": "https://github.com/NevaMind-AI/memU"
+    "repository_name": "anomalyco/opencode",
+    "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
     "repository_name": "anthropics/claude-code",
     "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "apache/superset",
-    "repository_url": "https://github.com/apache/superset"
+    "repository_name": "bytedance/UI-TARS-desktop",
+    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
   },
   {
     "repository_name": "google/googletest",
     "repository_url": "https://github.com/google/googletest"
   },
   {
-    "repository_name": "memvid/memvid",
-    "repository_url": "https://github.com/memvid/memvid"
+    "repository_name": "netbirdio/netbird",
+    "repository_url": "https://github.com/netbirdio/netbird"
   },
   {
-    "repository_name": "nothings/stb",
-    "repository_url": "https://github.com/nothings/stb"
-  },
-  {
-    "repository_name": "protocolbuffers/protobuf",
-    "repository_url": "https://github.com/protocolbuffers/protobuf"
-  },
-  {
-    "repository_name": "thedotmack/claude-mem",
-    "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "xpipe-io/xpipe",
-    "repository_url": "https://github.com/xpipe-io/xpipe"
+    "repository_name": "tailwindlabs/tailwindcss",
+    "repository_url": "https://github.com/tailwindlabs/tailwindcss"
   }
 ]
