@@ -8,20 +8,12 @@
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
-    "repository_url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever"
-  },
-  {
-    "repository_name": "Lightricks/ComfyUI-LTXVideo",
-    "repository_url": "https://github.com/Lightricks/ComfyUI-LTXVideo"
-  },
-  {
     "repository_name": "MiroMindAI/MiroThinker",
     "repository_url": "https://github.com/MiroMindAI/MiroThinker"
   },
   {
-    "repository_name": "anomalyco/opencode",
-    "repository_url": "https://github.com/anomalyco/opencode"
+    "repository_name": "NevaMind-AI/memU",
+    "repository_url": "https://github.com/NevaMind-AI/memU"
   },
   {
     "repository_name": "anthropics/claude-code",
@@ -32,19 +24,31 @@
     "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
   },
   {
+    "repository_name": "github/awesome-copilot",
+    "repository_url": "https://github.com/github/awesome-copilot"
+  },
+  {
     "repository_name": "google/googletest",
     "repository_url": "https://github.com/google/googletest"
   },
   {
-    "repository_name": "netbirdio/netbird",
-    "repository_url": "https://github.com/netbirdio/netbird"
+    "repository_name": "hacksider/Deep-Live-Cam",
+    "repository_url": "https://github.com/hacksider/Deep-Live-Cam"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "tailwindlabs/tailwindcss",
-    "repository_url": "https://github.com/tailwindlabs/tailwindcss"
+    "repository_name": "opf/openproject",
+    "repository_url": "https://github.com/opf/openproject"
+  },
+  {
+    "repository_name": "twentyhq/twenty",
+    "repository_url": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "repository_name": "xpipe-io/xpipe",
+    "repository_url": "https://github.com/xpipe-io/xpipe"
   }
 ]
