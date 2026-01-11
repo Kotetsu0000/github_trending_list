@@ -4,16 +4,8 @@
     "repository_url": "https://github.com/C4illin/ConvertX"
   },
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-  },
-  {
-    "repository_name": "MiroMindAI/MiroThinker",
-    "repository_url": "https://github.com/MiroMindAI/MiroThinker"
-  },
-  {
-    "repository_name": "NevaMind-AI/memU",
-    "repository_url": "https://github.com/NevaMind-AI/memU"
+    "repository_name": "anomalyco/opencode",
+    "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
     "repository_name": "anthropics/claude-code",
@@ -24,31 +16,39 @@
     "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
   },
   {
-    "repository_name": "github/awesome-copilot",
-    "repository_url": "https://github.com/github/awesome-copilot"
+    "repository_name": "davila7/claude-code-templates",
+    "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
-    "repository_name": "google/googletest",
-    "repository_url": "https://github.com/google/googletest"
+    "repository_name": "frankbria/ralph-claude-code",
+    "repository_url": "https://github.com/frankbria/ralph-claude-code"
   },
   {
-    "repository_name": "hacksider/Deep-Live-Cam",
-    "repository_url": "https://github.com/hacksider/Deep-Live-Cam"
+    "repository_name": "gyoridavid/ai_agents_az",
+    "repository_url": "https://github.com/gyoridavid/ai_agents_az"
+  },
+  {
+    "repository_name": "home-assistant/home-assistant.io",
+    "repository_url": "https://github.com/home-assistant/home-assistant.io"
+  },
+  {
+    "repository_name": "makeplane/plane",
+    "repository_url": "https://github.com/makeplane/plane"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "opf/openproject",
-    "repository_url": "https://github.com/opf/openproject"
+    "repository_name": "simstudioai/sim",
+    "repository_url": "https://github.com/simstudioai/sim"
   },
   {
     "repository_name": "twentyhq/twenty",
     "repository_url": "https://github.com/twentyhq/twenty"
   },
   {
-    "repository_name": "xpipe-io/xpipe",
-    "repository_url": "https://github.com/xpipe-io/xpipe"
+    "repository_name": "twitter/twemoji",
+    "repository_url": "https://github.com/twitter/twemoji"
   }
 ]
