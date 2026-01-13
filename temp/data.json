@@ -1,50 +1,38 @@
 [
   {
-    "repository_name": "DioxusLabs/dioxus",
-    "repository_url": "https://github.com/DioxusLabs/dioxus"
+    "repository_name": "Free-TV/IPTV",
+    "repository_url": "https://github.com/Free-TV/IPTV"
   },
   {
-    "repository_name": "NanmiCoder/MediaCrawler",
-    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
+    "repository_name": "adam-maj/tiny-gpu",
+    "repository_url": "https://github.com/adam-maj/tiny-gpu"
   },
   {
-    "repository_name": "OpenBMB/ChatDev",
-    "repository_url": "https://github.com/OpenBMB/ChatDev"
+    "repository_name": "blakeblackshear/frigate",
+    "repository_url": "https://github.com/blakeblackshear/frigate"
   },
   {
-    "repository_name": "bytedance/UI-TARS-desktop",
-    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
-  },
-  {
-    "repository_name": "frankbria/ralph-claude-code",
-    "repository_url": "https://github.com/frankbria/ralph-claude-code"
-  },
-  {
-    "repository_name": "hacksider/Deep-Live-Cam",
-    "repository_url": "https://github.com/hacksider/Deep-Live-Cam"
+    "repository_name": "chidiwilliams/buzz",
+    "repository_url": "https://github.com/chidiwilliams/buzz"
   },
   {
     "repository_name": "home-assistant/home-assistant.io",
     "repository_url": "https://github.com/home-assistant/home-assistant.io"
   },
   {
-    "repository_name": "iptv-org/iptv",
-    "repository_url": "https://github.com/iptv-org/iptv"
-  },
-  {
-    "repository_name": "mpv-player/mpv",
-    "repository_url": "https://github.com/mpv-player/mpv"
+    "repository_name": "icloud-photos-downloader/icloud_photos_downloader",
+    "repository_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "opf/openproject",
-    "repository_url": "https://github.com/opf/openproject"
+    "repository_name": "onlook-dev/onlook",
+    "repository_url": "https://github.com/onlook-dev/onlook"
   },
   {
-    "repository_name": "ruvnet/claude-flow",
-    "repository_url": "https://github.com/ruvnet/claude-flow"
+    "repository_name": "twitter/the-algorithm",
+    "repository_url": "https://github.com/twitter/the-algorithm"
   }
 ]
