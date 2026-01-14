@@ -1,38 +1,30 @@
 [
   {
-    "repository_name": "Free-TV/IPTV",
-    "repository_url": "https://github.com/Free-TV/IPTV"
+    "repository_name": "dev-sec/ansible-collection-hardening",
+    "repository_url": "https://github.com/dev-sec/ansible-collection-hardening"
   },
   {
-    "repository_name": "adam-maj/tiny-gpu",
-    "repository_url": "https://github.com/adam-maj/tiny-gpu"
+    "repository_name": "grab/cursor-talk-to-figma-mcp",
+    "repository_url": "https://github.com/grab/cursor-talk-to-figma-mcp"
   },
   {
-    "repository_name": "blakeblackshear/frigate",
-    "repository_url": "https://github.com/blakeblackshear/frigate"
-  },
-  {
-    "repository_name": "chidiwilliams/buzz",
-    "repository_url": "https://github.com/chidiwilliams/buzz"
-  },
-  {
-    "repository_name": "home-assistant/home-assistant.io",
-    "repository_url": "https://github.com/home-assistant/home-assistant.io"
-  },
-  {
-    "repository_name": "icloud-photos-downloader/icloud_photos_downloader",
-    "repository_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader"
+    "repository_name": "mudler/LocalAI",
+    "repository_url": "https://github.com/mudler/LocalAI"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "onlook-dev/onlook",
-    "repository_url": "https://github.com/onlook-dev/onlook"
+    "repository_name": "rancher/rancher",
+    "repository_url": "https://github.com/rancher/rancher"
   },
   {
     "repository_name": "twitter/the-algorithm",
     "repository_url": "https://github.com/twitter/the-algorithm"
+  },
+  {
+    "repository_name": "zoicware/RemoveWindowsAI",
+    "repository_url": "https://github.com/zoicware/RemoveWindowsAI"
   }
 ]
