@@ -1,11 +1,19 @@
 [
   {
-    "repository_name": "dev-sec/ansible-collection-hardening",
-    "repository_url": "https://github.com/dev-sec/ansible-collection-hardening"
+    "repository_name": "blakeblackshear/frigate",
+    "repository_url": "https://github.com/blakeblackshear/frigate"
   },
   {
-    "repository_name": "grab/cursor-talk-to-figma-mcp",
-    "repository_url": "https://github.com/grab/cursor-talk-to-figma-mcp"
+    "repository_name": "cilium/cilium",
+    "repository_url": "https://github.com/cilium/cilium"
+  },
+  {
+    "repository_name": "eigent-ai/eigent",
+    "repository_url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "repository_name": "google-ai-edge/mediapipe",
+    "repository_url": "https://github.com/google-ai-edge/mediapipe"
   },
   {
     "repository_name": "mudler/LocalAI",
@@ -16,15 +24,19 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "rancher/rancher",
-    "repository_url": "https://github.com/rancher/rancher"
+    "repository_name": "puckeditor/puck",
+    "repository_url": "https://github.com/puckeditor/puck"
   },
   {
     "repository_name": "twitter/the-algorithm",
     "repository_url": "https://github.com/twitter/the-algorithm"
   },
   {
-    "repository_name": "zoicware/RemoveWindowsAI",
-    "repository_url": "https://github.com/zoicware/RemoveWindowsAI"
+    "repository_name": "ultralytics/ultralytics",
+    "repository_url": "https://github.com/ultralytics/ultralytics"
+  },
+  {
+    "repository_name": "wavetermdev/waveterm",
+    "repository_url": "https://github.com/wavetermdev/waveterm"
   }
 ]
