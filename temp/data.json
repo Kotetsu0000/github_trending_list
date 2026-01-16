@@ -1,23 +1,27 @@
 [
   {
-    "repository_name": "blakeblackshear/frigate",
-    "repository_url": "https://github.com/blakeblackshear/frigate"
+    "repository_name": "Gentleman-Programming/Gentleman.Dots",
+    "repository_url": "https://github.com/Gentleman-Programming/Gentleman.Dots"
   },
   {
-    "repository_name": "cilium/cilium",
-    "repository_url": "https://github.com/cilium/cilium"
+    "repository_name": "agentsmd/agents.md",
+    "repository_url": "https://github.com/agentsmd/agents.md"
+  },
+  {
+    "repository_name": "cjpais/Handy",
+    "repository_url": "https://github.com/cjpais/Handy"
   },
   {
     "repository_name": "eigent-ai/eigent",
     "repository_url": "https://github.com/eigent-ai/eigent"
   },
   {
-    "repository_name": "google-ai-edge/mediapipe",
-    "repository_url": "https://github.com/google-ai-edge/mediapipe"
+    "repository_name": "google/langextract",
+    "repository_url": "https://github.com/google/langextract"
   },
   {
-    "repository_name": "mudler/LocalAI",
-    "repository_url": "https://github.com/mudler/LocalAI"
+    "repository_name": "iOfficeAI/AionUi",
+    "repository_url": "https://github.com/iOfficeAI/AionUi"
   },
   {
     "repository_name": "obra/superpowers",
@@ -28,15 +32,7 @@
     "repository_url": "https://github.com/puckeditor/puck"
   },
   {
-    "repository_name": "twitter/the-algorithm",
-    "repository_url": "https://github.com/twitter/the-algorithm"
-  },
-  {
     "repository_name": "ultralytics/ultralytics",
     "repository_url": "https://github.com/ultralytics/ultralytics"
-  },
-  {
-    "repository_name": "wavetermdev/waveterm",
-    "repository_url": "https://github.com/wavetermdev/waveterm"
   }
 ]
