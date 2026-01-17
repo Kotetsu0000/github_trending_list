@@ -1,19 +1,7 @@
 [
   {
-    "repository_name": "Gentleman-Programming/Gentleman.Dots",
-    "repository_url": "https://github.com/Gentleman-Programming/Gentleman.Dots"
-  },
-  {
-    "repository_name": "OpenDCAI/Paper2Any",
-    "repository_url": "https://github.com/OpenDCAI/Paper2Any"
-  },
-  {
-    "repository_name": "agentsmd/agents.md",
-    "repository_url": "https://github.com/agentsmd/agents.md"
-  },
-  {
-    "repository_name": "cjpais/Handy",
-    "repository_url": "https://github.com/cjpais/Handy"
+    "repository_name": "afkarxyz/SpotiFLAC",
+    "repository_url": "https://github.com/afkarxyz/SpotiFLAC"
   },
   {
     "repository_name": "eigent-ai/eigent",
@@ -34,9 +22,5 @@
   {
     "repository_name": "puckeditor/puck",
     "repository_url": "https://github.com/puckeditor/puck"
-  },
-  {
-    "repository_name": "ultralytics/ultralytics",
-    "repository_url": "https://github.com/ultralytics/ultralytics"
   }
 ]
