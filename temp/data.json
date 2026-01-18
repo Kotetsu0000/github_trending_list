@@ -1,7 +1,15 @@
 [
   {
-    "repository_name": "eigent-ai/eigent",
-    "repository_url": "https://github.com/eigent-ai/eigent"
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "repository_name": "Mebus/cupp",
+    "repository_url": "https://github.com/Mebus/cupp"
+  },
+  {
+    "repository_name": "OpenBMB/VoxCPM",
+    "repository_url": "https://github.com/OpenBMB/VoxCPM"
   },
   {
     "repository_name": "google/langextract",
@@ -12,11 +20,19 @@
     "repository_url": "https://github.com/iOfficeAI/AionUi"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "nautechsystems/nautilus_trader",
+    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
   },
   {
-    "repository_name": "puckeditor/puck",
-    "repository_url": "https://github.com/puckeditor/puck"
+    "repository_name": "tobi/try",
+    "repository_url": "https://github.com/tobi/try"
+  },
+  {
+    "repository_name": "yichuan-w/LEANN",
+    "repository_url": "https://github.com/yichuan-w/LEANN"
+  },
+  {
+    "repository_name": "yt-dlp/yt-dlp",
+    "repository_url": "https://github.com/yt-dlp/yt-dlp"
   }
 ]
