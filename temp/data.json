@@ -1,15 +1,19 @@
 [
   {
-    "repository_name": "Flowseal/zapret-discord-youtube",
-    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
-  },
-  {
-    "repository_name": "Mebus/cupp",
-    "repository_url": "https://github.com/Mebus/cupp"
+    "repository_name": "DavidXanatos/TaskExplorer",
+    "repository_url": "https://github.com/DavidXanatos/TaskExplorer"
   },
   {
     "repository_name": "OpenBMB/VoxCPM",
     "repository_url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "repository_name": "ahujasid/blender-mcp",
+    "repository_url": "https://github.com/ahujasid/blender-mcp"
+  },
+  {
+    "repository_name": "czlonkowski/n8n-mcp",
+    "repository_url": "https://github.com/czlonkowski/n8n-mcp"
   },
   {
     "repository_name": "google/langextract",
@@ -24,15 +28,7 @@
     "repository_url": "https://github.com/nautechsystems/nautilus_trader"
   },
   {
-    "repository_name": "tobi/try",
-    "repository_url": "https://github.com/tobi/try"
-  },
-  {
     "repository_name": "yichuan-w/LEANN",
     "repository_url": "https://github.com/yichuan-w/LEANN"
-  },
-  {
-    "repository_name": "yt-dlp/yt-dlp",
-    "repository_url": "https://github.com/yt-dlp/yt-dlp"
   }
 ]
