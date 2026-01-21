@@ -1,30 +1,34 @@
 [
   {
-    "repository_name": "AlexxIT/go2rtc",
-    "repository_url": "https://github.com/AlexxIT/go2rtc"
+    "repository_name": "EveryInc/compound-engineering-plugin",
+    "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
   },
   {
-    "repository_name": "DavidXanatos/TaskExplorer",
-    "repository_url": "https://github.com/DavidXanatos/TaskExplorer"
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "repository_name": "google/langextract",
-    "repository_url": "https://github.com/google/langextract"
-  },
-  {
-    "repository_name": "iOfficeAI/AionUi",
-    "repository_url": "https://github.com/iOfficeAI/AionUi"
-  },
-  {
-    "repository_name": "lukasz-madon/awesome-remote-job",
-    "repository_url": "https://github.com/lukasz-madon/awesome-remote-job"
+    "repository_name": "microsoft/Data-Science-For-Beginners",
+    "repository_url": "https://github.com/microsoft/Data-Science-For-Beginners"
   },
   {
     "repository_name": "microsoft/agent-lightning",
     "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
+    "repository_name": "tambo-ai/tambo",
+    "repository_url": "https://github.com/tambo-ai/tambo"
+  },
+  {
     "repository_name": "tobi/try",
     "repository_url": "https://github.com/tobi/try"
+  },
+  {
+    "repository_name": "twitter/the-algorithm",
+    "repository_url": "https://github.com/twitter/the-algorithm"
+  },
+  {
+    "repository_name": "xai-org/grok-1",
+    "repository_url": "https://github.com/xai-org/grok-1"
   }
 ]
