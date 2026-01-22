@@ -24,6 +24,10 @@
     "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
+    "repository_name": "nexmoe/VidBee",
+    "repository_url": "https://github.com/nexmoe/VidBee"
+  },
+  {
     "repository_name": "remotion-dev/remotion",
     "repository_url": "https://github.com/remotion-dev/remotion"
   },
