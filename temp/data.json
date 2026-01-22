@@ -1,11 +1,19 @@
 [
   {
-    "repository_name": "EveryInc/compound-engineering-plugin",
-    "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
+    "repository_name": "block/goose",
+    "repository_url": "https://github.com/block/goose"
   },
   {
-    "repository_name": "VectifyAI/PageIndex",
-    "repository_url": "https://github.com/VectifyAI/PageIndex"
+    "repository_name": "deepseek-ai/FlashMLA",
+    "repository_url": "https://github.com/deepseek-ai/FlashMLA"
+  },
+  {
+    "repository_name": "iOfficeAI/AionUi",
+    "repository_url": "https://github.com/iOfficeAI/AionUi"
+  },
+  {
+    "repository_name": "mastra-ai/mastra",
+    "repository_url": "https://github.com/mastra-ai/mastra"
   },
   {
     "repository_name": "microsoft/Data-Science-For-Beginners",
@@ -16,16 +24,16 @@
     "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
-    "repository_name": "tambo-ai/tambo",
-    "repository_url": "https://github.com/tambo-ai/tambo"
-  },
-  {
-    "repository_name": "tobi/try",
-    "repository_url": "https://github.com/tobi/try"
+    "repository_name": "remotion-dev/remotion",
+    "repository_url": "https://github.com/remotion-dev/remotion"
   },
   {
     "repository_name": "twitter/the-algorithm",
     "repository_url": "https://github.com/twitter/the-algorithm"
+  },
+  {
+    "repository_name": "virattt/dexter",
+    "repository_url": "https://github.com/virattt/dexter"
   },
   {
     "repository_name": "xai-org/grok-1",
