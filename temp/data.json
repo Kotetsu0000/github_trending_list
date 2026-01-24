@@ -1,23 +1,19 @@
 [
   {
-    "repository_name": "Asabeneh/30-Days-Of-Python",
-    "repository_url": "https://github.com/Asabeneh/30-Days-Of-Python"
+    "repository_name": "AI4Finance-Foundation/FinRobot",
+    "repository_url": "https://github.com/AI4Finance-Foundation/FinRobot"
   },
   {
-    "repository_name": "KellerJordan/modded-nanogpt",
-    "repository_url": "https://github.com/KellerJordan/modded-nanogpt"
+    "repository_name": "Blaizzy/mlx-audio",
+    "repository_url": "https://github.com/Blaizzy/mlx-audio"
   },
   {
     "repository_name": "OpenBMB/UltraRAG",
     "repository_url": "https://github.com/OpenBMB/UltraRAG"
   },
   {
-    "repository_name": "ai-dynamo/dynamo",
-    "repository_url": "https://github.com/ai-dynamo/dynamo"
-  },
-  {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "repository_name": "block/goose",
@@ -28,27 +24,19 @@
     "repository_url": "https://github.com/browser-use/browser-use"
   },
   {
-    "repository_name": "deepseek-ai/FlashMLA",
-    "repository_url": "https://github.com/deepseek-ai/FlashMLA"
-  },
-  {
-    "repository_name": "github/copilot-cli",
-    "repository_url": "https://github.com/github/copilot-cli"
-  },
-  {
-    "repository_name": "lyogavin/airllm",
-    "repository_url": "https://github.com/lyogavin/airllm"
-  },
-  {
-    "repository_name": "microsoft/Data-Science-For-Beginners",
-    "repository_url": "https://github.com/microsoft/Data-Science-For-Beginners"
-  },
-  {
     "repository_name": "microsoft/VibeVoice",
     "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
+    "repository_name": "putyy/res-downloader",
+    "repository_url": "https://github.com/putyy/res-downloader"
+  },
+  {
     "repository_name": "remotion-dev/remotion",
     "repository_url": "https://github.com/remotion-dev/remotion"
+  },
+  {
+    "repository_name": "simstudioai/sim",
+    "repository_url": "https://github.com/simstudioai/sim"
   }
 ]
