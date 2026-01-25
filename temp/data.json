@@ -8,6 +8,10 @@
     "repository_url": "https://github.com/OpenBMB/UltraRAG"
   },
   {
+    "repository_name": "Psiphon-Inc/conduit",
+    "repository_url": "https://github.com/Psiphon-Inc/conduit"
+  },
+  {
     "repository_name": "VectifyAI/PageIndex",
     "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
