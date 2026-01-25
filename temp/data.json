@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "AI4Finance-Foundation/FinRobot",
-    "repository_url": "https://github.com/AI4Finance-Foundation/FinRobot"
-  },
-  {
     "repository_name": "Blaizzy/mlx-audio",
     "repository_url": "https://github.com/Blaizzy/mlx-audio"
   },
@@ -16,27 +12,23 @@
     "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "repository_name": "block/goose",
-    "repository_url": "https://github.com/block/goose"
-  },
-  {
-    "repository_name": "browser-use/browser-use",
-    "repository_url": "https://github.com/browser-use/browser-use"
-  },
-  {
     "repository_name": "microsoft/VibeVoice",
     "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
-    "repository_name": "putyy/res-downloader",
-    "repository_url": "https://github.com/putyy/res-downloader"
+    "repository_name": "openai/codex",
+    "repository_url": "https://github.com/openai/codex"
+  },
+  {
+    "repository_name": "qarmin/czkawka",
+    "repository_url": "https://github.com/qarmin/czkawka"
   },
   {
     "repository_name": "remotion-dev/remotion",
     "repository_url": "https://github.com/remotion-dev/remotion"
   },
   {
-    "repository_name": "simstudioai/sim",
-    "repository_url": "https://github.com/simstudioai/sim"
+    "repository_name": "supermemoryai/supermemory",
+    "repository_url": "https://github.com/supermemoryai/supermemory"
   }
 ]
