@@ -1,30 +1,46 @@
 [
   {
-    "repository_name": "Blaizzy/mlx-audio",
-    "repository_url": "https://github.com/Blaizzy/mlx-audio"
+    "repository_name": "GetStream/Vision-Agents",
+    "repository_url": "https://github.com/GetStream/Vision-Agents"
   },
   {
-    "repository_name": "Free-TV/IPTV",
-    "repository_url": "https://github.com/Free-TV/IPTV"
+    "repository_name": "MoonshotAI/kimi-cli",
+    "repository_url": "https://github.com/MoonshotAI/kimi-cli"
   },
   {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    "repository_name": "NevaMind-AI/memU",
+    "repository_url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "repository_name": "asgeirtj/system_prompts_leaks",
+    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
     "repository_name": "badlogic/pi-mono",
     "repository_url": "https://github.com/badlogic/pi-mono"
   },
   {
+    "repository_name": "bambulab/BambuStudio",
+    "repository_url": "https://github.com/bambulab/BambuStudio"
+  },
+  {
     "repository_name": "hashicorp/vault",
     "repository_url": "https://github.com/hashicorp/vault"
   },
   {
-    "repository_name": "ln-dev7/square-ui",
-    "repository_url": "https://github.com/ln-dev7/square-ui"
+    "repository_name": "kubernetes/ingress-nginx",
+    "repository_url": "https://github.com/kubernetes/ingress-nginx"
   },
   {
-    "repository_name": "supermemoryai/supermemory",
-    "repository_url": "https://github.com/supermemoryai/supermemory"
+    "repository_name": "lobehub/lobehub",
+    "repository_url": "https://github.com/lobehub/lobehub"
+  },
+  {
+    "repository_name": "protocolbuffers/protobuf",
+    "repository_url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "repository_name": "ran-j/PS2Recomp",
+    "repository_url": "https://github.com/ran-j/PS2Recomp"
   }
 ]
