@@ -20,6 +20,10 @@
     "repository_url": "https://github.com/hashicorp/vault"
   },
   {
+    "repository_name": "ln-dev7/square-ui",
+    "repository_url": "https://github.com/ln-dev7/square-ui"
+  },
+  {
     "repository_name": "supermemoryai/supermemory",
     "repository_url": "https://github.com/supermemoryai/supermemory"
   }
