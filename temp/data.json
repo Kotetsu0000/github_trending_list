@@ -1,15 +1,23 @@
 [
   {
-    "repository_name": "GetStream/Vision-Agents",
-    "repository_url": "https://github.com/GetStream/Vision-Agents"
-  },
-  {
     "repository_name": "MoonshotAI/kimi-cli",
     "repository_url": "https://github.com/MoonshotAI/kimi-cli"
   },
   {
     "repository_name": "NevaMind-AI/memU",
     "repository_url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "repository_name": "TeamNewPipe/NewPipe",
+    "repository_url": "https://github.com/TeamNewPipe/NewPipe"
+  },
+  {
+    "repository_name": "anomalyco/opencode-anthropic-auth",
+    "repository_url": "https://github.com/anomalyco/opencode-anthropic-auth"
   },
   {
     "repository_name": "asgeirtj/system_prompts_leaks",
@@ -20,20 +28,16 @@
     "repository_url": "https://github.com/badlogic/pi-mono"
   },
   {
-    "repository_name": "bambulab/BambuStudio",
-    "repository_url": "https://github.com/bambulab/BambuStudio"
-  },
-  {
     "repository_name": "hashicorp/vault",
     "repository_url": "https://github.com/hashicorp/vault"
   },
   {
-    "repository_name": "kubernetes/ingress-nginx",
-    "repository_url": "https://github.com/kubernetes/ingress-nginx"
-  },
-  {
     "repository_name": "lobehub/lobehub",
     "repository_url": "https://github.com/lobehub/lobehub"
+  },
+  {
+    "repository_name": "microsoft/playwright-cli",
+    "repository_url": "https://github.com/microsoft/playwright-cli"
   },
   {
     "repository_name": "modelcontextprotocol/ext-apps",
@@ -44,11 +48,11 @@
     "repository_url": "https://github.com/moltbot/moltbot"
   },
   {
-    "repository_name": "protocolbuffers/protobuf",
-    "repository_url": "https://github.com/protocolbuffers/protobuf"
+    "repository_name": "pedroslopez/whatsapp-web.js",
+    "repository_url": "https://github.com/pedroslopez/whatsapp-web.js"
   },
   {
-    "repository_name": "ran-j/PS2Recomp",
-    "repository_url": "https://github.com/ran-j/PS2Recomp"
+    "repository_name": "protocolbuffers/protobuf",
+    "repository_url": "https://github.com/protocolbuffers/protobuf"
   }
 ]
