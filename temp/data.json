@@ -36,6 +36,14 @@
     "repository_url": "https://github.com/lobehub/lobehub"
   },
   {
+    "repository_name": "modelcontextprotocol/ext-apps",
+    "repository_url": "https://github.com/modelcontextprotocol/ext-apps"
+  },
+  {
+    "repository_name": "moltbot/moltbot",
+    "repository_url": "https://github.com/moltbot/moltbot"
+  },
+  {
     "repository_name": "protocolbuffers/protobuf",
     "repository_url": "https://github.com/protocolbuffers/protobuf"
   },
