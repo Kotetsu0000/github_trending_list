@@ -1,47 +1,35 @@
 [
   {
-    "repository_name": "MoonshotAI/kimi-cli",
-    "repository_url": "https://github.com/MoonshotAI/kimi-cli"
+    "repository_name": "AlexanderGrooff/mermaid-ascii",
+    "repository_url": "https://github.com/AlexanderGrooff/mermaid-ascii"
   },
   {
-    "repository_name": "NevaMind-AI/memU",
-    "repository_url": "https://github.com/NevaMind-AI/memU"
+    "repository_name": "PaddlePaddle/PaddleOCR",
+    "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
   {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    "repository_name": "ThePrimeagen/99",
+    "repository_url": "https://github.com/ThePrimeagen/99"
   },
   {
-    "repository_name": "TeamNewPipe/NewPipe",
-    "repository_url": "https://github.com/TeamNewPipe/NewPipe"
+    "repository_name": "anthropics/claude-plugins-official",
+    "repository_url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
-    "repository_name": "anomalyco/opencode-anthropic-auth",
-    "repository_url": "https://github.com/anomalyco/opencode-anthropic-auth"
+    "repository_name": "cline/cline",
+    "repository_url": "https://github.com/cline/cline"
   },
   {
-    "repository_name": "asgeirtj/system_prompts_leaks",
-    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
+    "repository_name": "microsoft/BitNet",
+    "repository_url": "https://github.com/microsoft/BitNet"
   },
   {
-    "repository_name": "badlogic/pi-mono",
-    "repository_url": "https://github.com/badlogic/pi-mono"
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
-    "repository_name": "hashicorp/vault",
-    "repository_url": "https://github.com/hashicorp/vault"
-  },
-  {
-    "repository_name": "lobehub/lobehub",
-    "repository_url": "https://github.com/lobehub/lobehub"
-  },
-  {
-    "repository_name": "microsoft/playwright-cli",
-    "repository_url": "https://github.com/microsoft/playwright-cli"
-  },
-  {
-    "repository_name": "modelcontextprotocol/ext-apps",
-    "repository_url": "https://github.com/modelcontextprotocol/ext-apps"
+    "repository_name": "microsoft/agent-lightning",
+    "repository_url": "https://github.com/microsoft/agent-lightning"
   },
   {
     "repository_name": "openclaw/openclaw",
@@ -52,7 +40,11 @@
     "repository_url": "https://github.com/pedroslopez/whatsapp-web.js"
   },
   {
-    "repository_name": "protocolbuffers/protobuf",
-    "repository_url": "https://github.com/protocolbuffers/protobuf"
+    "repository_name": "reconurge/flowsint",
+    "repository_url": "https://github.com/reconurge/flowsint"
+  },
+  {
+    "repository_name": "termux/termux-app",
+    "repository_url": "https://github.com/termux/termux-app"
   }
 ]
