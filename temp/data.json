@@ -1,31 +1,23 @@
 [
   {
-    "repository_name": "AlexanderGrooff/mermaid-ascii",
-    "repository_url": "https://github.com/AlexanderGrooff/mermaid-ascii"
-  },
-  {
-    "repository_name": "PaddlePaddle/PaddleOCR",
-    "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
-  },
-  {
     "repository_name": "ThePrimeagen/99",
     "repository_url": "https://github.com/ThePrimeagen/99"
   },
   {
-    "repository_name": "anthropics/claude-plugins-official",
-    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+    "repository_name": "amantus-ai/vibetunnel",
+    "repository_url": "https://github.com/amantus-ai/vibetunnel"
   },
   {
-    "repository_name": "cline/cline",
-    "repository_url": "https://github.com/cline/cline"
+    "repository_name": "badlogic/pi-mono",
+    "repository_url": "https://github.com/badlogic/pi-mono"
   },
   {
-    "repository_name": "microsoft/BitNet",
-    "repository_url": "https://github.com/microsoft/BitNet"
+    "repository_name": "j178/prek",
+    "repository_url": "https://github.com/j178/prek"
   },
   {
-    "repository_name": "microsoft/PowerToys",
-    "repository_url": "https://github.com/microsoft/PowerToys"
+    "repository_name": "kovidgoyal/calibre",
+    "repository_url": "https://github.com/kovidgoyal/calibre"
   },
   {
     "repository_name": "microsoft/agent-lightning",
@@ -36,15 +28,19 @@
     "repository_url": "https://github.com/openclaw/openclaw"
   },
   {
-    "repository_name": "pedroslopez/whatsapp-web.js",
-    "repository_url": "https://github.com/pedroslopez/whatsapp-web.js"
+    "repository_name": "pedramamini/Maestro",
+    "repository_url": "https://github.com/pedramamini/Maestro"
   },
   {
-    "repository_name": "reconurge/flowsint",
-    "repository_url": "https://github.com/reconurge/flowsint"
+    "repository_name": "steipete/CodexBar",
+    "repository_url": "https://github.com/steipete/CodexBar"
   },
   {
-    "repository_name": "termux/termux-app",
-    "repository_url": "https://github.com/termux/termux-app"
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "vita-epfl/Stable-Video-Infinity",
+    "repository_url": "https://github.com/vita-epfl/Stable-Video-Infinity"
   }
 ]
