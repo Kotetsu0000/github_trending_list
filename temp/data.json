@@ -1,46 +1,50 @@
 [
   {
+    "repository_name": "OpenBMB/ChatDev",
+    "repository_url": "https://github.com/OpenBMB/ChatDev"
+  },
+  {
     "repository_name": "ThePrimeagen/99",
     "repository_url": "https://github.com/ThePrimeagen/99"
   },
   {
-    "repository_name": "amantus-ai/vibetunnel",
-    "repository_url": "https://github.com/amantus-ai/vibetunnel"
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "repository_name": "autobrr/qui",
+    "repository_url": "https://github.com/autobrr/qui"
   },
   {
     "repository_name": "badlogic/pi-mono",
     "repository_url": "https://github.com/badlogic/pi-mono"
   },
   {
-    "repository_name": "j178/prek",
-    "repository_url": "https://github.com/j178/prek"
+    "repository_name": "karpathy/nanochat",
+    "repository_url": "https://github.com/karpathy/nanochat"
   },
   {
     "repository_name": "kovidgoyal/calibre",
     "repository_url": "https://github.com/kovidgoyal/calibre"
   },
   {
-    "repository_name": "microsoft/agent-lightning",
-    "repository_url": "https://github.com/microsoft/agent-lightning"
+    "repository_name": "langchain-ai/rag-from-scratch",
+    "repository_url": "https://github.com/langchain-ai/rag-from-scratch"
   },
   {
-    "repository_name": "openclaw/openclaw",
-    "repository_url": "https://github.com/openclaw/openclaw"
+    "repository_name": "netbirdio/netbird",
+    "repository_url": "https://github.com/netbirdio/netbird"
   },
   {
     "repository_name": "pedramamini/Maestro",
     "repository_url": "https://github.com/pedramamini/Maestro"
   },
   {
-    "repository_name": "steipete/CodexBar",
-    "repository_url": "https://github.com/steipete/CodexBar"
+    "repository_name": "termux/termux-app",
+    "repository_url": "https://github.com/termux/termux-app"
   },
   {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "vita-epfl/Stable-Video-Infinity",
-    "repository_url": "https://github.com/vita-epfl/Stable-Video-Infinity"
   }
 ]
