@@ -4,20 +4,8 @@
     "repository_url": "https://github.com/OpenBMB/ChatDev"
   },
   {
-    "repository_name": "ThePrimeagen/99",
-    "repository_url": "https://github.com/ThePrimeagen/99"
-  },
-  {
-    "repository_name": "VectifyAI/PageIndex",
-    "repository_url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "repository_name": "autobrr/qui",
-    "repository_url": "https://github.com/autobrr/qui"
-  },
-  {
-    "repository_name": "badlogic/pi-mono",
-    "repository_url": "https://github.com/badlogic/pi-mono"
+    "repository_name": "automazeio/ccpm",
+    "repository_url": "https://github.com/automazeio/ccpm"
   },
   {
     "repository_name": "karpathy/nanochat",
@@ -28,23 +16,31 @@
     "repository_url": "https://github.com/kovidgoyal/calibre"
   },
   {
-    "repository_name": "langchain-ai/rag-from-scratch",
-    "repository_url": "https://github.com/langchain-ai/rag-from-scratch"
+    "repository_name": "masoncl/review-prompts",
+    "repository_url": "https://github.com/masoncl/review-prompts"
   },
   {
-    "repository_name": "netbirdio/netbird",
-    "repository_url": "https://github.com/netbirdio/netbird"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "openai/skills",
+    "repository_url": "https://github.com/openai/skills"
   },
   {
     "repository_name": "pedramamini/Maestro",
     "repository_url": "https://github.com/pedramamini/Maestro"
   },
   {
-    "repository_name": "termux/termux-app",
-    "repository_url": "https://github.com/termux/termux-app"
-  },
-  {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "virattt/dexter",
+    "repository_url": "https://github.com/virattt/dexter"
+  },
+  {
+    "repository_name": "vm0-ai/vm0",
+    "repository_url": "https://github.com/vm0-ai/vm0"
   }
 ]
