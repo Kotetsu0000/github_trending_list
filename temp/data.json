@@ -1,27 +1,39 @@
 [
   {
+    "repository_name": "Canner/WrenAI",
+    "repository_url": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "repository_name": "LadybirdBrowser/ladybird",
+    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
     "repository_name": "OpenBMB/ChatDev",
     "repository_url": "https://github.com/OpenBMB/ChatDev"
   },
   {
-    "repository_name": "automazeio/ccpm",
-    "repository_url": "https://github.com/automazeio/ccpm"
+    "repository_name": "ankitects/anki",
+    "repository_url": "https://github.com/ankitects/anki"
   },
   {
-    "repository_name": "karpathy/nanochat",
-    "repository_url": "https://github.com/karpathy/nanochat"
+    "repository_name": "disler/claude-code-hooks-mastery",
+    "repository_url": "https://github.com/disler/claude-code-hooks-mastery"
   },
   {
-    "repository_name": "kovidgoyal/calibre",
-    "repository_url": "https://github.com/kovidgoyal/calibre"
+    "repository_name": "likec4/likec4",
+    "repository_url": "https://github.com/likec4/likec4"
   },
   {
-    "repository_name": "masoncl/review-prompts",
-    "repository_url": "https://github.com/masoncl/review-prompts"
+    "repository_name": "microsoft/qlib",
+    "repository_url": "https://github.com/microsoft/qlib"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "repository_name": "open-telemetry/opentelemetry-collector-contrib",
+    "repository_url": "https://github.com/open-telemetry/opentelemetry-collector-contrib"
   },
   {
     "repository_name": "openai/skills",
@@ -34,13 +46,5 @@
   {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "virattt/dexter",
-    "repository_url": "https://github.com/virattt/dexter"
-  },
-  {
-    "repository_name": "vm0-ai/vm0",
-    "repository_url": "https://github.com/vm0-ai/vm0"
   }
 ]
