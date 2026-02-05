@@ -1,50 +1,46 @@
 [
   {
-    "repository_name": "Canner/WrenAI",
-    "repository_url": "https://github.com/Canner/WrenAI"
+    "repository_name": "ZeroTworu/anet",
+    "repository_url": "https://github.com/ZeroTworu/anet"
   },
   {
-    "repository_name": "LadybirdBrowser/ladybird",
-    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
+    "repository_name": "aquasecurity/trivy",
+    "repository_url": "https://github.com/aquasecurity/trivy"
   },
   {
-    "repository_name": "OpenBMB/ChatDev",
-    "repository_url": "https://github.com/OpenBMB/ChatDev"
+    "repository_name": "bytedance/UI-TARS-desktop",
+    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
   },
   {
-    "repository_name": "ankitects/anki",
-    "repository_url": "https://github.com/ankitects/anki"
+    "repository_name": "fish-shell/fish-shell",
+    "repository_url": "https://github.com/fish-shell/fish-shell"
   },
   {
-    "repository_name": "disler/claude-code-hooks-mastery",
-    "repository_url": "https://github.com/disler/claude-code-hooks-mastery"
+    "repository_name": "j178/prek",
+    "repository_url": "https://github.com/j178/prek"
   },
   {
-    "repository_name": "likec4/likec4",
-    "repository_url": "https://github.com/likec4/likec4"
-  },
-  {
-    "repository_name": "microsoft/qlib",
-    "repository_url": "https://github.com/microsoft/qlib"
+    "repository_name": "linshenkx/prompt-optimizer",
+    "repository_url": "https://github.com/linshenkx/prompt-optimizer"
   },
   {
     "repository_name": "nvm-sh/nvm",
     "repository_url": "https://github.com/nvm-sh/nvm"
   },
   {
-    "repository_name": "open-telemetry/opentelemetry-collector-contrib",
-    "repository_url": "https://github.com/open-telemetry/opentelemetry-collector-contrib"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
   },
   {
-    "repository_name": "pedramamini/Maestro",
-    "repository_url": "https://github.com/pedramamini/Maestro"
-  },
-  {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "topoteretes/cognee",
+    "repository_url": "https://github.com/topoteretes/cognee"
   }
 ]
