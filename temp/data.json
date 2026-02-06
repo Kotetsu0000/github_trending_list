@@ -1,5 +1,13 @@
 [
   {
+    "repository_name": "DataExpert-io/data-engineer-handbook",
+    "repository_url": "https://github.com/DataExpert-io/data-engineer-handbook"
+  },
+  {
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
     "repository_name": "ZeroTworu/anet",
     "repository_url": "https://github.com/ZeroTworu/anet"
   },
@@ -12,35 +20,15 @@
     "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
   },
   {
-    "repository_name": "fish-shell/fish-shell",
-    "repository_url": "https://github.com/fish-shell/fish-shell"
-  },
-  {
-    "repository_name": "j178/prek",
-    "repository_url": "https://github.com/j178/prek"
-  },
-  {
-    "repository_name": "linshenkx/prompt-optimizer",
-    "repository_url": "https://github.com/linshenkx/prompt-optimizer"
+    "repository_name": "likec4/likec4",
+    "repository_url": "https://github.com/likec4/likec4"
   },
   {
     "repository_name": "nvm-sh/nvm",
     "repository_url": "https://github.com/nvm-sh/nvm"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
-  },
-  {
-    "repository_name": "thedotmack/claude-mem",
-    "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "topoteretes/cognee",
-    "repository_url": "https://github.com/topoteretes/cognee"
   }
 ]
