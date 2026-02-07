@@ -1,34 +1,50 @@
 [
   {
-    "repository_name": "DataExpert-io/data-engineer-handbook",
-    "repository_url": "https://github.com/DataExpert-io/data-engineer-handbook"
+    "repository_name": "ComposioHQ/awesome-claude-skills",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
   },
   {
-    "repository_name": "Flowseal/zapret-discord-youtube",
-    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+    "repository_name": "KeygraphHQ/shannon",
+    "repository_url": "https://github.com/KeygraphHQ/shannon"
   },
   {
-    "repository_name": "ZeroTworu/anet",
-    "repository_url": "https://github.com/ZeroTworu/anet"
+    "repository_name": "OpenBMB/MiniCPM-o",
+    "repository_url": "https://github.com/OpenBMB/MiniCPM-o"
   },
   {
     "repository_name": "aquasecurity/trivy",
     "repository_url": "https://github.com/aquasecurity/trivy"
   },
   {
-    "repository_name": "bytedance/UI-TARS-desktop",
-    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
+    "repository_name": "gitbutlerapp/gitbutler",
+    "repository_url": "https://github.com/gitbutlerapp/gitbutler"
   },
   {
     "repository_name": "likec4/likec4",
     "repository_url": "https://github.com/likec4/likec4"
   },
   {
-    "repository_name": "nvm-sh/nvm",
-    "repository_url": "https://github.com/nvm-sh/nvm"
+    "repository_name": "microsoft/litebox",
+    "repository_url": "https://github.com/microsoft/litebox"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
+  },
+  {
+    "repository_name": "p-e-w/heretic",
+    "repository_url": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "repository_name": "viarotel-org/escrcpy",
+    "repository_url": "https://github.com/viarotel-org/escrcpy"
+  },
+  {
+    "repository_name": "wavetermdev/waveterm",
+    "repository_url": "https://github.com/wavetermdev/waveterm"
   }
 ]
