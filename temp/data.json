@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "ComposioHQ/awesome-claude-skills",
-    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
-  },
-  {
     "repository_name": "KeygraphHQ/shannon",
     "repository_url": "https://github.com/KeygraphHQ/shannon"
   },
@@ -12,12 +8,20 @@
     "repository_url": "https://github.com/OpenBMB/MiniCPM-o"
   },
   {
-    "repository_name": "aquasecurity/trivy",
-    "repository_url": "https://github.com/aquasecurity/trivy"
-  },
-  {
     "repository_name": "gitbutlerapp/gitbutler",
     "repository_url": "https://github.com/gitbutlerapp/gitbutler"
+  },
+  {
+    "repository_name": "google/langextract",
+    "repository_url": "https://github.com/google/langextract"
+  },
+  {
+    "repository_name": "home-assistant/addons",
+    "repository_url": "https://github.com/home-assistant/addons"
+  },
+  {
+    "repository_name": "iOfficeAI/AionUi",
+    "repository_url": "https://github.com/iOfficeAI/AionUi"
   },
   {
     "repository_name": "likec4/likec4",
@@ -36,15 +40,11 @@
     "repository_url": "https://github.com/openai/skills"
   },
   {
-    "repository_name": "p-e-w/heretic",
-    "repository_url": "https://github.com/p-e-w/heretic"
+    "repository_name": "pydantic/monty",
+    "repository_url": "https://github.com/pydantic/monty"
   },
   {
-    "repository_name": "viarotel-org/escrcpy",
-    "repository_url": "https://github.com/viarotel-org/escrcpy"
-  },
-  {
-    "repository_name": "wavetermdev/waveterm",
-    "repository_url": "https://github.com/wavetermdev/waveterm"
+    "repository_name": "virattt/dexter",
+    "repository_url": "https://github.com/virattt/dexter"
   }
 ]
