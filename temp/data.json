@@ -1,11 +1,11 @@
 [
   {
-    "repository_name": "DrewThomasson/ebook2audiobook",
-    "repository_url": "https://github.com/DrewThomasson/ebook2audiobook"
-  },
-  {
     "repository_name": "EveryInc/compound-engineering-plugin",
     "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "repository_name": "Jeffallan/claude-skills",
+    "repository_url": "https://github.com/Jeffallan/claude-skills"
   },
   {
     "repository_name": "KeygraphHQ/shannon",
@@ -16,6 +16,18 @@
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
+    "repository_name": "carlvellotti/claude-code-pm-course",
+    "repository_url": "https://github.com/carlvellotti/claude-code-pm-course"
+  },
+  {
+    "repository_name": "cheahjs/free-llm-api-resources",
+    "repository_url": "https://github.com/cheahjs/free-llm-api-resources"
+  },
+  {
+    "repository_name": "drawdb-io/drawdb",
+    "repository_url": "https://github.com/drawdb-io/drawdb"
+  },
+  {
     "repository_name": "gitbutlerapp/gitbutler",
     "repository_url": "https://github.com/gitbutlerapp/gitbutler"
   },
@@ -24,24 +36,16 @@
     "repository_url": "https://github.com/github/gh-aw"
   },
   {
+    "repository_name": "google/langextract",
+    "repository_url": "https://github.com/google/langextract"
+  },
+  {
     "repository_name": "hsliuping/TradingAgents-CN",
     "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
   },
   {
     "repository_name": "iOfficeAI/AionUi",
     "repository_url": "https://github.com/iOfficeAI/AionUi"
-  },
-  {
-    "repository_name": "microsoft/litebox",
-    "repository_url": "https://github.com/microsoft/litebox"
-  },
-  {
-    "repository_name": "openai/skills",
-    "repository_url": "https://github.com/openai/skills"
-  },
-  {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
   },
   {
     "repository_name": "pydantic/monty",
