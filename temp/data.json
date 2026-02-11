@@ -1,35 +1,15 @@
 [
   {
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
     "repository_name": "EveryInc/compound-engineering-plugin",
     "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
   },
   {
-    "repository_name": "Jeffallan/claude-skills",
-    "repository_url": "https://github.com/Jeffallan/claude-skills"
-  },
-  {
-    "repository_name": "KeygraphHQ/shannon",
-    "repository_url": "https://github.com/KeygraphHQ/shannon"
-  },
-  {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-  },
-  {
-    "repository_name": "carlvellotti/claude-code-pm-course",
-    "repository_url": "https://github.com/carlvellotti/claude-code-pm-course"
-  },
-  {
     "repository_name": "cheahjs/free-llm-api-resources",
     "repository_url": "https://github.com/cheahjs/free-llm-api-resources"
-  },
-  {
-    "repository_name": "drawdb-io/drawdb",
-    "repository_url": "https://github.com/drawdb-io/drawdb"
-  },
-  {
-    "repository_name": "gitbutlerapp/gitbutler",
-    "repository_url": "https://github.com/gitbutlerapp/gitbutler"
   },
   {
     "repository_name": "github/gh-aw",
@@ -40,19 +20,11 @@
     "repository_url": "https://github.com/google/langextract"
   },
   {
-    "repository_name": "hsliuping/TradingAgents-CN",
-    "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
-    "repository_name": "iOfficeAI/AionUi",
-    "repository_url": "https://github.com/iOfficeAI/AionUi"
-  },
-  {
-    "repository_name": "pydantic/monty",
-    "repository_url": "https://github.com/pydantic/monty"
-  },
-  {
-    "repository_name": "virattt/dexter",
-    "repository_url": "https://github.com/virattt/dexter"
+    "repository_name": "patchy631/ai-engineering-hub",
+    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
   }
 ]
