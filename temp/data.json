@@ -4,12 +4,24 @@
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "EveryInc/compound-engineering-plugin",
-    "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
+    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
   },
   {
-    "repository_name": "cheahjs/free-llm-api-resources",
-    "repository_url": "https://github.com/cheahjs/free-llm-api-resources"
+    "repository_name": "Jeffallan/claude-skills",
+    "repository_url": "https://github.com/Jeffallan/claude-skills"
+  },
+  {
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "repository_name": "cinnyapp/cinny",
+    "repository_url": "https://github.com/cinnyapp/cinny"
+  },
+  {
+    "repository_name": "danielmiessler/Personal_AI_Infrastructure",
+    "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
   },
   {
     "repository_name": "github/gh-aw",
@@ -20,11 +32,23 @@
     "repository_url": "https://github.com/google/langextract"
   },
   {
+    "repository_name": "iOfficeAI/AionUi",
+    "repository_url": "https://github.com/iOfficeAI/AionUi"
+  },
+  {
     "repository_name": "microsoft/PowerToys",
     "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
-    "repository_name": "patchy631/ai-engineering-hub",
-    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
+    "repository_name": "rowboatlabs/rowboat",
+    "repository_url": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "repository_name": "tambo-ai/tambo",
+    "repository_url": "https://github.com/tambo-ai/tambo"
+  },
+  {
+    "repository_name": "unslothai/unsloth",
+    "repository_url": "https://github.com/unslothai/unsloth"
   }
 ]
