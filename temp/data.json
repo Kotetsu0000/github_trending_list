@@ -4,51 +4,39 @@
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
+    "repository_name": "DebugSwift/DebugSwift",
+    "repository_url": "https://github.com/DebugSwift/DebugSwift"
+  },
+  {
     "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
     "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
   },
   {
-    "repository_name": "Jeffallan/claude-skills",
-    "repository_url": "https://github.com/Jeffallan/claude-skills"
+    "repository_name": "SynkraAI/aios-core",
+    "repository_url": "https://github.com/SynkraAI/aios-core"
   },
   {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    "repository_name": "THUDM/slime",
+    "repository_url": "https://github.com/THUDM/slime"
   },
   {
-    "repository_name": "cinnyapp/cinny",
-    "repository_url": "https://github.com/cinnyapp/cinny"
+    "repository_name": "TelegramMessenger/MTProxy",
+    "repository_url": "https://github.com/TelegramMessenger/MTProxy"
+  },
+  {
+    "repository_name": "cheahjs/free-llm-api-resources",
+    "repository_url": "https://github.com/cheahjs/free-llm-api-resources"
   },
   {
     "repository_name": "danielmiessler/Personal_AI_Infrastructure",
     "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
   },
   {
-    "repository_name": "github/gh-aw",
-    "repository_url": "https://github.com/github/gh-aw"
+    "repository_name": "google-deepmind/superhuman",
+    "repository_url": "https://github.com/google-deepmind/superhuman"
   },
   {
-    "repository_name": "google/langextract",
-    "repository_url": "https://github.com/google/langextract"
-  },
-  {
-    "repository_name": "iOfficeAI/AionUi",
-    "repository_url": "https://github.com/iOfficeAI/AionUi"
-  },
-  {
-    "repository_name": "microsoft/PowerToys",
-    "repository_url": "https://github.com/microsoft/PowerToys"
-  },
-  {
-    "repository_name": "rowboatlabs/rowboat",
-    "repository_url": "https://github.com/rowboatlabs/rowboat"
-  },
-  {
-    "repository_name": "tambo-ai/tambo",
-    "repository_url": "https://github.com/tambo-ai/tambo"
-  },
-  {
-    "repository_name": "unslothai/unsloth",
-    "repository_url": "https://github.com/unslothai/unsloth"
+    "repository_name": "patchy631/ai-engineering-hub",
+    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
   }
 ]
