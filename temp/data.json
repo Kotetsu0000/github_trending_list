@@ -4,39 +4,43 @@
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "DebugSwift/DebugSwift",
-    "repository_url": "https://github.com/DebugSwift/DebugSwift"
-  },
-  {
-    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
-  },
-  {
     "repository_name": "SynkraAI/aios-core",
     "repository_url": "https://github.com/SynkraAI/aios-core"
   },
   {
-    "repository_name": "THUDM/slime",
-    "repository_url": "https://github.com/THUDM/slime"
+    "repository_name": "Zipstack/unstract",
+    "repository_url": "https://github.com/Zipstack/unstract"
   },
   {
-    "repository_name": "TelegramMessenger/MTProxy",
-    "repository_url": "https://github.com/TelegramMessenger/MTProxy"
+    "repository_name": "alibaba/zvec",
+    "repository_url": "https://github.com/alibaba/zvec"
   },
   {
-    "repository_name": "cheahjs/free-llm-api-resources",
-    "repository_url": "https://github.com/cheahjs/free-llm-api-resources"
+    "repository_name": "cinnyapp/cinny",
+    "repository_url": "https://github.com/cinnyapp/cinny"
   },
   {
-    "repository_name": "danielmiessler/Personal_AI_Infrastructure",
-    "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    "repository_name": "letta-ai/letta-code",
+    "repository_url": "https://github.com/letta-ai/letta-code"
   },
   {
-    "repository_name": "google-deepmind/superhuman",
-    "repository_url": "https://github.com/google-deepmind/superhuman"
+    "repository_name": "minio/minio",
+    "repository_url": "https://github.com/minio/minio"
   },
   {
-    "repository_name": "patchy631/ai-engineering-hub",
-    "repository_url": "https://github.com/patchy631/ai-engineering-hub"
+    "repository_name": "rowboatlabs/rowboat",
+    "repository_url": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "repository_name": "ruby/ruby",
+    "repository_url": "https://github.com/ruby/ruby"
+  },
+  {
+    "repository_name": "ruvnet/wifi-densepose",
+    "repository_url": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "repository_name": "tambo-ai/tambo",
+    "repository_url": "https://github.com/tambo-ai/tambo"
   }
 ]
