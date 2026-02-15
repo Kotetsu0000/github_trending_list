@@ -8,39 +8,39 @@
     "repository_url": "https://github.com/SynkraAI/aios-core"
   },
   {
-    "repository_name": "Zipstack/unstract",
-    "repository_url": "https://github.com/Zipstack/unstract"
-  },
-  {
     "repository_name": "alibaba/zvec",
     "repository_url": "https://github.com/alibaba/zvec"
   },
   {
-    "repository_name": "cinnyapp/cinny",
-    "repository_url": "https://github.com/cinnyapp/cinny"
+    "repository_name": "brave/brave-browser",
+    "repository_url": "https://github.com/brave/brave-browser"
   },
   {
-    "repository_name": "letta-ai/letta-code",
-    "repository_url": "https://github.com/letta-ai/letta-code"
+    "repository_name": "github/gh-aw",
+    "repository_url": "https://github.com/github/gh-aw"
   },
   {
-    "repository_name": "minio/minio",
-    "repository_url": "https://github.com/minio/minio"
+    "repository_name": "moonshine-ai/moonshine",
+    "repository_url": "https://github.com/moonshine-ai/moonshine"
+  },
+  {
+    "repository_name": "nautechsystems/nautilus_trader",
+    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "repository_name": "openclaw/openclaw",
+    "repository_url": "https://github.com/openclaw/openclaw"
   },
   {
     "repository_name": "rowboatlabs/rowboat",
     "repository_url": "https://github.com/rowboatlabs/rowboat"
   },
   {
-    "repository_name": "ruby/ruby",
-    "repository_url": "https://github.com/ruby/ruby"
-  },
-  {
     "repository_name": "ruvnet/wifi-densepose",
     "repository_url": "https://github.com/ruvnet/wifi-densepose"
   },
   {
-    "repository_name": "tambo-ai/tambo",
-    "repository_url": "https://github.com/tambo-ai/tambo"
+    "repository_name": "steipete/gogcli",
+    "repository_url": "https://github.com/steipete/gogcli"
   }
 ]
