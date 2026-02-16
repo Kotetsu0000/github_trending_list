@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-  },
-  {
     "repository_name": "SynkraAI/aios-core",
     "repository_url": "https://github.com/SynkraAI/aios-core"
   },
@@ -12,16 +8,16 @@
     "repository_url": "https://github.com/alibaba/zvec"
   },
   {
-    "repository_name": "brave/brave-browser",
-    "repository_url": "https://github.com/brave/brave-browser"
+    "repository_name": "hummingbot/hummingbot",
+    "repository_url": "https://github.com/hummingbot/hummingbot"
   },
   {
-    "repository_name": "github/gh-aw",
-    "repository_url": "https://github.com/github/gh-aw"
+    "repository_name": "letta-ai/letta-code",
+    "repository_url": "https://github.com/letta-ai/letta-code"
   },
   {
-    "repository_name": "moonshine-ai/moonshine",
-    "repository_url": "https://github.com/moonshine-ai/moonshine"
+    "repository_name": "maxritter/claude-pilot",
+    "repository_url": "https://github.com/maxritter/claude-pilot"
   },
   {
     "repository_name": "nautechsystems/nautilus_trader",
@@ -38,6 +34,10 @@
   {
     "repository_name": "ruvnet/wifi-densepose",
     "repository_url": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "repository_name": "seerr-team/seerr",
+    "repository_url": "https://github.com/seerr-team/seerr"
   },
   {
     "repository_name": "steipete/gogcli",
