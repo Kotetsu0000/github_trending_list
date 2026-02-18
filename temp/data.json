@@ -1,31 +1,31 @@
 [
   {
+    "repository_name": "ComposioHQ/composio",
+    "repository_url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "repository_name": "HailToDodongo/pyrite64",
+    "repository_url": "https://github.com/HailToDodongo/pyrite64"
+  },
+  {
+    "repository_name": "NirDiamant/RAG_Techniques",
+    "repository_url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
     "repository_name": "OpenCTI-Platform/opencti",
     "repository_url": "https://github.com/OpenCTI-Platform/opencti"
   },
   {
-    "repository_name": "SynkraAI/aios-core",
-    "repository_url": "https://github.com/SynkraAI/aios-core"
+    "repository_name": "QwenLM/qwen-code",
+    "repository_url": "https://github.com/QwenLM/qwen-code"
   },
   {
     "repository_name": "alibaba/zvec",
     "repository_url": "https://github.com/alibaba/zvec"
   },
   {
-    "repository_name": "anthropics/claude-quickstarts",
-    "repository_url": "https://github.com/anthropics/claude-quickstarts"
-  },
-  {
-    "repository_name": "ashishps1/awesome-system-design-resources",
-    "repository_url": "https://github.com/ashishps1/awesome-system-design-resources"
-  },
-  {
-    "repository_name": "davila7/claude-code-templates",
-    "repository_url": "https://github.com/davila7/claude-code-templates"
-  },
-  {
-    "repository_name": "hummingbot/hummingbot",
-    "repository_url": "https://github.com/hummingbot/hummingbot"
+    "repository_name": "harvard-edge/cs249r_book",
+    "repository_url": "https://github.com/harvard-edge/cs249r_book"
   },
   {
     "repository_name": "obra/superpowers",
@@ -40,15 +40,7 @@
     "repository_url": "https://github.com/p-e-w/heretic"
   },
   {
-    "repository_name": "seerr-team/seerr",
-    "repository_url": "https://github.com/seerr-team/seerr"
-  },
-  {
-    "repository_name": "steipete/gogcli",
-    "repository_url": "https://github.com/steipete/gogcli"
-  },
-  {
-    "repository_name": "steipete/summarize",
-    "repository_url": "https://github.com/steipete/summarize"
+    "repository_name": "p2r3/convert",
+    "repository_url": "https://github.com/p2r3/convert"
   }
 ]
