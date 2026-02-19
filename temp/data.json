@@ -1,27 +1,11 @@
 [
   {
-    "repository_name": "ComposioHQ/composio",
-    "repository_url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "repository_name": "HailToDodongo/pyrite64",
     "repository_url": "https://github.com/HailToDodongo/pyrite64"
   },
   {
-    "repository_name": "NirDiamant/RAG_Techniques",
-    "repository_url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "repository_name": "OpenCTI-Platform/opencti",
-    "repository_url": "https://github.com/OpenCTI-Platform/opencti"
-  },
-  {
-    "repository_name": "QwenLM/qwen-code",
-    "repository_url": "https://github.com/QwenLM/qwen-code"
-  },
-  {
-    "repository_name": "alibaba/zvec",
-    "repository_url": "https://github.com/alibaba/zvec"
+    "repository_name": "freemocap/freemocap",
+    "repository_url": "https://github.com/freemocap/freemocap"
   },
   {
     "repository_name": "harvard-edge/cs249r_book",
@@ -32,15 +16,15 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
+    "repository_name": "open-mercato/open-mercato",
+    "repository_url": "https://github.com/open-mercato/open-mercato"
+  },
+  {
     "repository_name": "openclaw/openclaw",
     "repository_url": "https://github.com/openclaw/openclaw"
   },
   {
     "repository_name": "p-e-w/heretic",
     "repository_url": "https://github.com/p-e-w/heretic"
-  },
-  {
-    "repository_name": "p2r3/convert",
-    "repository_url": "https://github.com/p2r3/convert"
   }
 ]
