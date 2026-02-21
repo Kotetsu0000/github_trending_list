@@ -1,47 +1,39 @@
 [
   {
-    "repository_name": "ComposioHQ/composio",
-    "repository_url": "https://github.com/ComposioHQ/composio"
+    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
   },
   {
-    "repository_name": "Effect-TS/effect-smol",
-    "repository_url": "https://github.com/Effect-TS/effect-smol"
+    "repository_name": "PowerShell/PowerShell",
+    "repository_url": "https://github.com/PowerShell/PowerShell"
   },
   {
-    "repository_name": "HailToDodongo/pyrite64",
-    "repository_url": "https://github.com/HailToDodongo/pyrite64"
+    "repository_name": "RichardAtCT/claude-code-telegram",
+    "repository_url": "https://github.com/RichardAtCT/claude-code-telegram"
   },
   {
-    "repository_name": "PostHog/posthog",
-    "repository_url": "https://github.com/PostHog/posthog"
+    "repository_name": "Stremio/stremio-web",
+    "repository_url": "https://github.com/Stremio/stremio-web"
   },
   {
-    "repository_name": "anthropics/claude-plugins-official",
-    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+    "repository_name": "abhigyanpatwari/GitNexus",
+    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
-    "repository_name": "aquasecurity/trivy",
-    "repository_url": "https://github.com/aquasecurity/trivy"
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "blackboardsh/electrobun",
-    "repository_url": "https://github.com/blackboardsh/electrobun"
+    "repository_name": "cloudflare/agents",
+    "repository_url": "https://github.com/cloudflare/agents"
   },
   {
-    "repository_name": "databricks-solutions/ai-dev-kit",
-    "repository_url": "https://github.com/databricks-solutions/ai-dev-kit"
+    "repository_name": "ggml-org/ggml",
+    "repository_url": "https://github.com/ggml-org/ggml"
   },
   {
-    "repository_name": "eslint/eslint",
-    "repository_url": "https://github.com/eslint/eslint"
-  },
-  {
-    "repository_name": "freemocap/freemocap",
-    "repository_url": "https://github.com/freemocap/freemocap"
-  },
-  {
-    "repository_name": "google-research/timesfm",
-    "repository_url": "https://github.com/google-research/timesfm"
+    "repository_name": "hiddify/hiddify-app",
+    "repository_url": "https://github.com/hiddify/hiddify-app"
   },
   {
     "repository_name": "huggingface/skills",
@@ -52,8 +44,8 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "roboflow/trackers",
-    "repository_url": "https://github.com/roboflow/trackers"
+    "repository_name": "stan-smith/FossFLOW",
+    "repository_url": "https://github.com/stan-smith/FossFLOW"
   },
   {
     "repository_name": "vxcontrol/pentagi",
