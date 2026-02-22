@@ -1,15 +1,7 @@
 [
   {
-    "repository_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "repository_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
-  },
-  {
-    "repository_name": "PowerShell/PowerShell",
-    "repository_url": "https://github.com/PowerShell/PowerShell"
-  },
-  {
-    "repository_name": "RichardAtCT/claude-code-telegram",
-    "repository_url": "https://github.com/RichardAtCT/claude-code-telegram"
+    "repository_name": "OpenBB-finance/OpenBB",
+    "repository_url": "https://github.com/OpenBB-finance/OpenBB"
   },
   {
     "repository_name": "Stremio/stremio-web",
@@ -28,20 +20,8 @@
     "repository_url": "https://github.com/cloudflare/agents"
   },
   {
-    "repository_name": "ggml-org/ggml",
-    "repository_url": "https://github.com/ggml-org/ggml"
-  },
-  {
-    "repository_name": "hiddify/hiddify-app",
-    "repository_url": "https://github.com/hiddify/hiddify-app"
-  },
-  {
     "repository_name": "huggingface/skills",
     "repository_url": "https://github.com/huggingface/skills"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "stan-smith/FossFLOW",
@@ -50,5 +30,9 @@
   {
     "repository_name": "vxcontrol/pentagi",
     "repository_url": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
 ]
