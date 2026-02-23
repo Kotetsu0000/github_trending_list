@@ -1,5 +1,13 @@
 [
   {
+    "repository_name": "CompVis/stable-diffusion",
+    "repository_url": "https://github.com/CompVis/stable-diffusion"
+  },
+  {
+    "repository_name": "NevaMind-AI/memU",
+    "repository_url": "https://github.com/NevaMind-AI/memU"
+  },
+  {
     "repository_name": "OpenBB-finance/OpenBB",
     "repository_url": "https://github.com/OpenBB-finance/OpenBB"
   },
@@ -8,28 +16,40 @@
     "repository_url": "https://github.com/Stremio/stremio-web"
   },
   {
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "repository_name": "abhigyanpatwari/GitNexus",
     "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "clash-verge-rev/clash-verge-rev",
+    "repository_url": "https://github.com/clash-verge-rev/clash-verge-rev"
   },
   {
     "repository_name": "cloudflare/agents",
     "repository_url": "https://github.com/cloudflare/agents"
   },
   {
+    "repository_name": "f/prompts.chat",
+    "repository_url": "https://github.com/f/prompts.chat"
+  },
+  {
     "repository_name": "huggingface/skills",
     "repository_url": "https://github.com/huggingface/skills"
   },
   {
-    "repository_name": "stan-smith/FossFLOW",
-    "repository_url": "https://github.com/stan-smith/FossFLOW"
+    "repository_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "repository_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
   },
   {
-    "repository_name": "vxcontrol/pentagi",
-    "repository_url": "https://github.com/vxcontrol/pentagi"
+    "repository_name": "siteboon/claudecodeui",
+    "repository_url": "https://github.com/siteboon/claudecodeui"
+  },
+  {
+    "repository_name": "stan-smith/FossFLOW",
+    "repository_url": "https://github.com/stan-smith/FossFLOW"
   },
   {
     "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
