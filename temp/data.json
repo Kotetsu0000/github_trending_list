@@ -4,28 +4,40 @@
     "repository_url": "https://github.com/D4Vinci/Scrapling"
   },
   {
-    "repository_name": "GVCLab/PersonaLive",
-    "repository_url": "https://github.com/GVCLab/PersonaLive"
+    "repository_name": "NVIDIA/Megatron-LM",
+    "repository_url": "https://github.com/NVIDIA/Megatron-LM"
   },
   {
-    "repository_name": "HunxByts/GhostTrack",
-    "repository_url": "https://github.com/HunxByts/GhostTrack"
-  },
-  {
-    "repository_name": "LadybirdBrowser/ladybird",
-    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
-  },
-  {
-    "repository_name": "OpenBB-finance/OpenBB",
-    "repository_url": "https://github.com/OpenBB-finance/OpenBB"
+    "repository_name": "NevaMind-AI/memU",
+    "repository_url": "https://github.com/NevaMind-AI/memU"
   },
   {
     "repository_name": "VectifyAI/PageIndex",
     "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
   {
+    "repository_name": "abhigyanpatwari/GitNexus",
+    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "repository_name": "bytedance/deer-flow",
+    "repository_url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "repository_name": "datawhalechina/hello-agents",
+    "repository_url": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
     "repository_name": "huggingface/skills",
     "repository_url": "https://github.com/huggingface/skills"
+  },
+  {
+    "repository_name": "katanemo/plano",
+    "repository_url": "https://github.com/katanemo/plano"
+  },
+  {
+    "repository_name": "liyupi/ai-guide",
+    "repository_url": "https://github.com/liyupi/ai-guide"
   },
   {
     "repository_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
@@ -36,12 +48,16 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "openemr/openemr",
-    "repository_url": "https://github.com/openemr/openemr"
-  },
-  {
     "repository_name": "ruvnet/ruvector",
     "repository_url": "https://github.com/ruvnet/ruvector"
+  },
+  {
+    "repository_name": "shareAI-lab/learn-claude-code",
+    "repository_url": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "repository_name": "siteboon/claudecodeui",
+    "repository_url": "https://github.com/siteboon/claudecodeui"
   },
   {
     "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
