@@ -1,15 +1,27 @@
 [
   {
-    "repository_name": "D4Vinci/Scrapling",
-    "repository_url": "https://github.com/D4Vinci/Scrapling"
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repository_name": "PaddlePaddle/Paddle",
+    "repository_url": "https://github.com/PaddlePaddle/Paddle"
+  },
+  {
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
     "repository_name": "Wei-Shaw/claude-relay-service",
     "repository_url": "https://github.com/Wei-Shaw/claude-relay-service"
   },
   {
-    "repository_name": "abhigyanpatwari/GitNexus",
-    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
+    "repository_name": "Wei-Shaw/sub2api",
+    "repository_url": "https://github.com/Wei-Shaw/sub2api"
+  },
+  {
+    "repository_name": "X-PLUG/MobileAgent",
+    "repository_url": "https://github.com/X-PLUG/MobileAgent"
   },
   {
     "repository_name": "alibaba/OpenSandbox",
@@ -24,8 +36,8 @@
     "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
-    "repository_name": "datawhalechina/hello-agents",
-    "repository_url": "https://github.com/datawhalechina/hello-agents"
+    "repository_name": "datagouv/datagouv-mcp",
+    "repository_url": "https://github.com/datagouv/datagouv-mcp"
   },
   {
     "repository_name": "moeru-ai/airi",
@@ -36,10 +48,6 @@
     "repository_url": "https://github.com/moonshine-ai/moonshine"
   },
   {
-    "repository_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-    "repository_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
-  },
-  {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
@@ -48,12 +56,8 @@
     "repository_url": "https://github.com/ruvnet/ruflo"
   },
   {
-    "repository_name": "ruvnet/ruvector",
-    "repository_url": "https://github.com/ruvnet/ruvector"
-  },
-  {
-    "repository_name": "steipete/CodexBar",
-    "repository_url": "https://github.com/steipete/CodexBar"
+    "repository_name": "superset-sh/superset",
+    "repository_url": "https://github.com/superset-sh/superset"
   },
   {
     "repository_name": "tukaani-project/xz",
