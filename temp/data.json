@@ -56,6 +56,10 @@
     "repository_url": "https://github.com/ruvnet/ruflo"
   },
   {
+    "repository_name": "ruvnet/wifi-densepose",
+    "repository_url": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
     "repository_name": "superset-sh/superset",
     "repository_url": "https://github.com/superset-sh/superset"
   },
