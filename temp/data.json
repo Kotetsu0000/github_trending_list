@@ -1,23 +1,15 @@
 [
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
+    "repository_name": "K-Dense-AI/claude-scientific-skills",
+    "repository_url": "https://github.com/K-Dense-AI/claude-scientific-skills"
   },
   {
-    "repository_name": "PaddlePaddle/Paddle",
-    "repository_url": "https://github.com/PaddlePaddle/Paddle"
+    "repository_name": "NevaMind-AI/memU",
+    "repository_url": "https://github.com/NevaMind-AI/memU"
   },
   {
     "repository_name": "Shubhamsaboo/awesome-llm-apps",
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-  },
-  {
-    "repository_name": "Wei-Shaw/claude-relay-service",
-    "repository_url": "https://github.com/Wei-Shaw/claude-relay-service"
-  },
-  {
-    "repository_name": "Wei-Shaw/sub2api",
-    "repository_url": "https://github.com/Wei-Shaw/sub2api"
   },
   {
     "repository_name": "X-PLUG/MobileAgent",
@@ -28,28 +20,24 @@
     "repository_url": "https://github.com/alibaba/OpenSandbox"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "basecamp/omarchy",
+    "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
     "repository_name": "bytedance/deer-flow",
     "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
-    "repository_name": "datagouv/datagouv-mcp",
-    "repository_url": "https://github.com/datagouv/datagouv-mcp"
+    "repository_name": "datawhalechina/hello-agents",
+    "repository_url": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "repository_name": "microsoft/markitdown",
+    "repository_url": "https://github.com/microsoft/markitdown"
   },
   {
     "repository_name": "moeru-ai/airi",
     "repository_url": "https://github.com/moeru-ai/airi"
-  },
-  {
-    "repository_name": "moonshine-ai/moonshine",
-    "repository_url": "https://github.com/moonshine-ai/moonshine"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "ruvnet/ruflo",
@@ -62,9 +50,5 @@
   {
     "repository_name": "superset-sh/superset",
     "repository_url": "https://github.com/superset-sh/superset"
-  },
-  {
-    "repository_name": "tukaani-project/xz",
-    "repository_url": "https://github.com/tukaani-project/xz"
   }
 ]
