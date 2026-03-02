@@ -4,32 +4,12 @@
     "repository_url": "https://github.com/K-Dense-AI/claude-scientific-skills"
   },
   {
-    "repository_name": "NevaMind-AI/memU",
-    "repository_url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-  },
-  {
-    "repository_name": "X-PLUG/MobileAgent",
-    "repository_url": "https://github.com/X-PLUG/MobileAgent"
-  },
-  {
     "repository_name": "alibaba/OpenSandbox",
     "repository_url": "https://github.com/alibaba/OpenSandbox"
   },
   {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
-  },
-  {
-    "repository_name": "bytedance/deer-flow",
-    "repository_url": "https://github.com/bytedance/deer-flow"
-  },
-  {
-    "repository_name": "datawhalechina/hello-agents",
-    "repository_url": "https://github.com/datawhalechina/hello-agents"
+    "repository_name": "anthropics/prompt-eng-interactive-tutorial",
+    "repository_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
   },
   {
     "repository_name": "microsoft/markitdown",
@@ -46,6 +26,10 @@
   {
     "repository_name": "ruvnet/wifi-densepose",
     "repository_url": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "repository_name": "servo/servo",
+    "repository_url": "https://github.com/servo/servo"
   },
   {
     "repository_name": "superset-sh/superset",
