@@ -1,19 +1,31 @@
 [
   {
+    "repository_name": "CodebuffAI/codebuff",
+    "repository_url": "https://github.com/CodebuffAI/codebuff"
+  },
+  {
     "repository_name": "K-Dense-AI/claude-scientific-skills",
     "repository_url": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "repository_name": "LMCache/LMCache",
+    "repository_url": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "repository_name": "agentscope-ai/ReMe",
+    "repository_url": "https://github.com/agentscope-ai/ReMe"
+  },
+  {
+    "repository_name": "agentscope-ai/agentscope",
+    "repository_url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "repository_name": "alibaba/OpenSandbox",
     "repository_url": "https://github.com/alibaba/OpenSandbox"
   },
   {
-    "repository_name": "anthropics/prompt-eng-interactive-tutorial",
-    "repository_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
-  },
-  {
-    "repository_name": "microsoft/markitdown",
-    "repository_url": "https://github.com/microsoft/markitdown"
+    "repository_name": "aquasecurity/trivy",
+    "repository_url": "https://github.com/aquasecurity/trivy"
   },
   {
     "repository_name": "moeru-ai/airi",
@@ -22,14 +34,6 @@
   {
     "repository_name": "ruvnet/RuView",
     "repository_url": "https://github.com/ruvnet/RuView"
-  },
-  {
-    "repository_name": "ruvnet/ruflo",
-    "repository_url": "https://github.com/ruvnet/ruflo"
-  },
-  {
-    "repository_name": "servo/servo",
-    "repository_url": "https://github.com/servo/servo"
   },
   {
     "repository_name": "superset-sh/superset",
