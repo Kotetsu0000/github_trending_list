@@ -20,12 +20,12 @@
     "repository_url": "https://github.com/moeru-ai/airi"
   },
   {
-    "repository_name": "ruvnet/ruflo",
-    "repository_url": "https://github.com/ruvnet/ruflo"
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
   },
   {
-    "repository_name": "ruvnet/wifi-densepose",
-    "repository_url": "https://github.com/ruvnet/wifi-densepose"
+    "repository_name": "ruvnet/ruflo",
+    "repository_url": "https://github.com/ruvnet/ruflo"
   },
   {
     "repository_name": "servo/servo",
