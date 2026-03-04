@@ -4,12 +4,24 @@
     "repository_url": "https://github.com/CodebuffAI/codebuff"
   },
   {
+    "repository_name": "FlowiseAI/Flowise",
+    "repository_url": "https://github.com/FlowiseAI/Flowise"
+  },
+  {
+    "repository_name": "FujiwaraChoki/MoneyPrinterV2",
+    "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "repository_name": "ItzCrazyKns/Perplexica",
+    "repository_url": "https://github.com/ItzCrazyKns/Perplexica"
+  },
+  {
     "repository_name": "K-Dense-AI/claude-scientific-skills",
     "repository_url": "https://github.com/K-Dense-AI/claude-scientific-skills"
   },
   {
-    "repository_name": "LMCache/LMCache",
-    "repository_url": "https://github.com/LMCache/LMCache"
+    "repository_name": "KeygraphHQ/shannon",
+    "repository_url": "https://github.com/KeygraphHQ/shannon"
   },
   {
     "repository_name": "agentscope-ai/ReMe",
@@ -36,11 +48,7 @@
     "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
-    "repository_name": "ruvnet/RuView",
-    "repository_url": "https://github.com/ruvnet/RuView"
-  },
-  {
-    "repository_name": "superset-sh/superset",
-    "repository_url": "https://github.com/superset-sh/superset"
+    "repository_name": "nautechsystems/nautilus_trader",
+    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
   }
 ]
