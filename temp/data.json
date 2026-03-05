@@ -16,6 +16,10 @@
     "repository_url": "https://github.com/TheCraigHewitt/seomachine"
   },
   {
+    "repository_name": "agentscope-ai/ReMe",
+    "repository_url": "https://github.com/agentscope-ai/ReMe"
+  },
+  {
     "repository_name": "aquasecurity/trivy",
     "repository_url": "https://github.com/aquasecurity/trivy"
   },
