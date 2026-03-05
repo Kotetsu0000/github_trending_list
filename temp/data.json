@@ -4,36 +4,32 @@
     "repository_url": "https://github.com/CodebuffAI/codebuff"
   },
   {
-    "repository_name": "FlowiseAI/Flowise",
-    "repository_url": "https://github.com/FlowiseAI/Flowise"
-  },
-  {
     "repository_name": "FujiwaraChoki/MoneyPrinterV2",
     "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
-  },
-  {
-    "repository_name": "ItzCrazyKns/Perplexica",
-    "repository_url": "https://github.com/ItzCrazyKns/Perplexica"
-  },
-  {
-    "repository_name": "K-Dense-AI/claude-scientific-skills",
-    "repository_url": "https://github.com/K-Dense-AI/claude-scientific-skills"
   },
   {
     "repository_name": "KeygraphHQ/shannon",
     "repository_url": "https://github.com/KeygraphHQ/shannon"
   },
   {
-    "repository_name": "agentscope-ai/agentscope",
-    "repository_url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "repository_name": "alibaba/OpenSandbox",
-    "repository_url": "https://github.com/alibaba/OpenSandbox"
+    "repository_name": "TheCraigHewitt/seomachine",
+    "repository_url": "https://github.com/TheCraigHewitt/seomachine"
   },
   {
     "repository_name": "aquasecurity/trivy",
     "repository_url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "repository_name": "inclusionAI/AReaL",
+    "repository_url": "https://github.com/inclusionAI/AReaL"
+  },
+  {
+    "repository_name": "microsoft/hve-core",
+    "repository_url": "https://github.com/microsoft/hve-core"
+  },
+  {
+    "repository_name": "microsoft/mcp-for-beginners",
+    "repository_url": "https://github.com/microsoft/mcp-for-beginners"
   },
   {
     "repository_name": "moeru-ai/airi",
@@ -42,9 +38,5 @@
   {
     "repository_name": "msitarzewski/agency-agents",
     "repository_url": "https://github.com/msitarzewski/agency-agents"
-  },
-  {
-    "repository_name": "nautechsystems/nautilus_trader",
-    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
   }
 ]
