@@ -16,10 +16,6 @@
     "repository_url": "https://github.com/TheCraigHewitt/seomachine"
   },
   {
-    "repository_name": "agentscope-ai/ReMe",
-    "repository_url": "https://github.com/agentscope-ai/ReMe"
-  },
-  {
     "repository_name": "aquasecurity/trivy",
     "repository_url": "https://github.com/aquasecurity/trivy"
   },
@@ -30,10 +26,6 @@
   {
     "repository_name": "microsoft/hve-core",
     "repository_url": "https://github.com/microsoft/hve-core"
-  },
-  {
-    "repository_name": "microsoft/mcp-for-beginners",
-    "repository_url": "https://github.com/microsoft/mcp-for-beginners"
   },
   {
     "repository_name": "moeru-ai/airi",
