@@ -1,35 +1,27 @@
 [
   {
-    "repository_name": "Ed1s0nZ/CyberStrikeAI",
-    "repository_url": "https://github.com/Ed1s0nZ/CyberStrikeAI"
+    "repository_name": "666ghj/MiroFish",
+    "repository_url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "repository_name": "GoogleCloudPlatform/generative-ai",
+    "repository_url": "https://github.com/GoogleCloudPlatform/generative-ai"
   },
   {
     "repository_name": "QwenLM/Qwen-Agent",
     "repository_url": "https://github.com/QwenLM/Qwen-Agent"
   },
   {
-    "repository_name": "TheCraigHewitt/seomachine",
-    "repository_url": "https://github.com/TheCraigHewitt/seomachine"
+    "repository_name": "agentjido/jido",
+    "repository_url": "https://github.com/agentjido/jido"
   },
   {
-    "repository_name": "aidenybai/react-grab",
-    "repository_url": "https://github.com/aidenybai/react-grab"
-  },
-  {
-    "repository_name": "inclusionAI/AReaL",
-    "repository_url": "https://github.com/inclusionAI/AReaL"
-  },
-  {
-    "repository_name": "lingfengQAQ/webnovel-writer",
-    "repository_url": "https://github.com/lingfengQAQ/webnovel-writer"
+    "repository_name": "alibaba/page-agent",
+    "repository_url": "https://github.com/alibaba/page-agent"
   },
   {
     "repository_name": "microsoft/hve-core",
     "repository_url": "https://github.com/microsoft/hve-core"
-  },
-  {
-    "repository_name": "moeru-ai/airi",
-    "repository_url": "https://github.com/moeru-ai/airi"
   },
   {
     "repository_name": "msitarzewski/agency-agents",
@@ -38,6 +30,14 @@
   {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
+  },
+  {
+    "repository_name": "shadcn-ui/ui",
+    "repository_url": "https://github.com/shadcn-ui/ui"
+  },
+  {
+    "repository_name": "toeverything/AFFiNE",
+    "repository_url": "https://github.com/toeverything/AFFiNE"
   },
   {
     "repository_name": "virattt/ai-hedge-fund",
