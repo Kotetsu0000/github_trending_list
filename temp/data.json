@@ -24,6 +24,10 @@
     "repository_url": "https://github.com/microsoft/hve-core"
   },
   {
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
   },
