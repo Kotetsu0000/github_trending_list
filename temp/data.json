@@ -4,36 +4,40 @@
     "repository_url": "https://github.com/666ghj/MiroFish"
   },
   {
+    "repository_name": "Ed1s0nZ/CyberStrikeAI",
+    "repository_url": "https://github.com/Ed1s0nZ/CyberStrikeAI"
+  },
+  {
     "repository_name": "GoogleCloudPlatform/generative-ai",
     "repository_url": "https://github.com/GoogleCloudPlatform/generative-ai"
   },
   {
-    "repository_name": "QwenLM/Qwen-Agent",
-    "repository_url": "https://github.com/QwenLM/Qwen-Agent"
-  },
-  {
-    "repository_name": "agentjido/jido",
-    "repository_url": "https://github.com/agentjido/jido"
-  },
-  {
-    "repository_name": "alibaba/page-agent",
-    "repository_url": "https://github.com/alibaba/page-agent"
-  },
-  {
-    "repository_name": "microsoft/hve-core",
-    "repository_url": "https://github.com/microsoft/hve-core"
-  },
-  {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
+    "repository_name": "is-a-dev/register",
+    "repository_url": "https://github.com/is-a-dev/register"
   },
   {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
   },
   {
+    "repository_name": "openclaw/openclaw",
+    "repository_url": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "repository_name": "pbakaus/impeccable",
+    "repository_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
     "repository_name": "shadcn-ui/ui",
     "repository_url": "https://github.com/shadcn-ui/ui"
+  },
+  {
+    "repository_name": "shareAI-lab/learn-claude-code",
+    "repository_url": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "repository_name": "teng-lin/notebooklm-py",
+    "repository_url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "repository_name": "toeverything/AFFiNE",
