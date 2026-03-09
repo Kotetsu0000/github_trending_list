@@ -1,23 +1,39 @@
 [
   {
-    "repository_name": "666ghj/MiroFish",
-    "repository_url": "https://github.com/666ghj/MiroFish"
+    "repository_name": "666ghj/BettaFish",
+    "repository_url": "https://github.com/666ghj/BettaFish"
   },
   {
-    "repository_name": "Ed1s0nZ/CyberStrikeAI",
-    "repository_url": "https://github.com/Ed1s0nZ/CyberStrikeAI"
+    "repository_name": "666ghj/MiroFish",
+    "repository_url": "https://github.com/666ghj/MiroFish"
   },
   {
     "repository_name": "GoogleCloudPlatform/generative-ai",
     "repository_url": "https://github.com/GoogleCloudPlatform/generative-ai"
   },
   {
-    "repository_name": "is-a-dev/register",
-    "repository_url": "https://github.com/is-a-dev/register"
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "openai/skills",
-    "repository_url": "https://github.com/openai/skills"
+    "repository_name": "Raphire/Win11Debloat",
+    "repository_url": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "repository_name": "alibaba/page-agent",
+    "repository_url": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "repository_name": "alirezarezvani/claude-skills",
+    "repository_url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "repository_name": "karpathy/nanochat",
+    "repository_url": "https://github.com/karpathy/nanochat"
+  },
+  {
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
     "repository_name": "openclaw/openclaw",
@@ -28,23 +44,7 @@
     "repository_url": "https://github.com/pbakaus/impeccable"
   },
   {
-    "repository_name": "shadcn-ui/ui",
-    "repository_url": "https://github.com/shadcn-ui/ui"
-  },
-  {
-    "repository_name": "shareAI-lab/learn-claude-code",
-    "repository_url": "https://github.com/shareAI-lab/learn-claude-code"
-  },
-  {
     "repository_name": "teng-lin/notebooklm-py",
     "repository_url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "repository_name": "toeverything/AFFiNE",
-    "repository_url": "https://github.com/toeverything/AFFiNE"
-  },
-  {
-    "repository_name": "virattt/ai-hedge-fund",
-    "repository_url": "https://github.com/virattt/ai-hedge-fund"
   }
 ]
