@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "666ghj/BettaFish",
-    "repository_url": "https://github.com/666ghj/BettaFish"
-  },
-  {
     "repository_name": "666ghj/MiroFish",
     "repository_url": "https://github.com/666ghj/MiroFish"
   },
@@ -16,16 +12,12 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "Raphire/Win11Debloat",
-    "repository_url": "https://github.com/Raphire/Win11Debloat"
-  },
-  {
     "repository_name": "alibaba/page-agent",
     "repository_url": "https://github.com/alibaba/page-agent"
   },
   {
-    "repository_name": "alirezarezvani/claude-skills",
-    "repository_url": "https://github.com/alirezarezvani/claude-skills"
+    "repository_name": "bytedance/deer-flow",
+    "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
     "repository_name": "karpathy/nanochat",
@@ -36,6 +28,10 @@
     "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
     "repository_name": "openclaw/openclaw",
     "repository_url": "https://github.com/openclaw/openclaw"
   },
@@ -44,7 +40,15 @@
     "repository_url": "https://github.com/pbakaus/impeccable"
   },
   {
-    "repository_name": "teng-lin/notebooklm-py",
-    "repository_url": "https://github.com/teng-lin/notebooklm-py"
+    "repository_name": "promptfoo/promptfoo",
+    "repository_url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "repository_name": "sepinf-inc/IPED",
+    "repository_url": "https://github.com/sepinf-inc/IPED"
+  },
+  {
+    "repository_name": "virattt/ai-hedge-fund",
+    "repository_url": "https://github.com/virattt/ai-hedge-fund"
   }
 ]
