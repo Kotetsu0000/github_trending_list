@@ -1,35 +1,19 @@
 [
   {
-    "repository_name": "AstrBotDevs/AstrBot",
-    "repository_url": "https://github.com/AstrBotDevs/AstrBot"
-  },
-  {
     "repository_name": "InsForge/InsForge",
     "repository_url": "https://github.com/InsForge/InsForge"
-  },
-  {
-    "repository_name": "alibaba/page-agent",
-    "repository_url": "https://github.com/alibaba/page-agent"
   },
   {
     "repository_name": "anthropics/claude-plugins-official",
     "repository_url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
-    "repository_name": "dolthub/dolt",
-    "repository_url": "https://github.com/dolthub/dolt"
+    "repository_name": "dimensionalOS/dimos",
+    "repository_url": "https://github.com/dimensionalOS/dimos"
   },
   {
     "repository_name": "fishaudio/fish-speech",
     "repository_url": "https://github.com/fishaudio/fish-speech"
-  },
-  {
-    "repository_name": "google-ai-edge/LiteRT",
-    "repository_url": "https://github.com/google-ai-edge/LiteRT"
-  },
-  {
-    "repository_name": "google/A2UI",
-    "repository_url": "https://github.com/google/A2UI"
   },
   {
     "repository_name": "langflow-ai/openrag",
@@ -40,10 +24,6 @@
     "repository_url": "https://github.com/lightpanda-io/browser"
   },
   {
-    "repository_name": "microsoft/BitNet",
-    "repository_url": "https://github.com/microsoft/BitNet"
-  },
-  {
     "repository_name": "msitarzewski/agency-agents",
     "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
@@ -52,15 +32,11 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "promptfoo/promptfoo",
-    "repository_url": "https://github.com/promptfoo/promptfoo"
+    "repository_name": "p-e-w/heretic",
+    "repository_url": "https://github.com/p-e-w/heretic"
   },
   {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
-  },
-  {
-    "repository_name": "vectorize-io/hindsight",
-    "repository_url": "https://github.com/vectorize-io/hindsight"
+    "repository_name": "volcengine/OpenViking",
+    "repository_url": "https://github.com/volcengine/OpenViking"
   }
 ]
