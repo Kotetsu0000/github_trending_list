@@ -1,31 +1,27 @@
 [
   {
+    "repository_name": "666ghj/MiroFish",
+    "repository_url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "repository_name": "Crosstalk-Solutions/project-nomad",
+    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
     "repository_name": "InsForge/InsForge",
     "repository_url": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "repository_name": "abhigyanpatwari/GitNexus",
+    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
     "repository_name": "anthropics/claude-plugins-official",
     "repository_url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
-    "repository_name": "dimensionalOS/dimos",
-    "repository_url": "https://github.com/dimensionalOS/dimos"
-  },
-  {
-    "repository_name": "fishaudio/fish-speech",
-    "repository_url": "https://github.com/fishaudio/fish-speech"
-  },
-  {
-    "repository_name": "langflow-ai/openrag",
-    "repository_url": "https://github.com/langflow-ai/openrag"
-  },
-  {
     "repository_name": "lightpanda-io/browser",
     "repository_url": "https://github.com/lightpanda-io/browser"
-  },
-  {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
     "repository_name": "obra/superpowers",
@@ -36,8 +32,20 @@
     "repository_url": "https://github.com/p-e-w/heretic"
   },
   {
-    "repository_name": "pbakaus/impeccable",
-    "repository_url": "https://github.com/pbakaus/impeccable"
+    "repository_name": "shanraisshan/claude-code-best-practice",
+    "repository_url": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "repository_name": "shareAI-lab/learn-claude-code",
+    "repository_url": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "repository_name": "topoteretes/cognee",
+    "repository_url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "repository_name": "voidzero-dev/vite-plus",
+    "repository_url": "https://github.com/voidzero-dev/vite-plus"
   },
   {
     "repository_name": "volcengine/OpenViking",
