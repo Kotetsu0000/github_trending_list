@@ -1,50 +1,26 @@
 [
   {
-    "repository_name": "666ghj/MiroFish",
-    "repository_url": "https://github.com/666ghj/MiroFish"
-  },
-  {
-    "repository_name": "Crosstalk-Solutions/project-nomad",
-    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
-  },
-  {
-    "repository_name": "YishenTu/claudian",
-    "repository_url": "https://github.com/YishenTu/claudian"
-  },
-  {
     "repository_name": "abhigyanpatwari/GitNexus",
     "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "repository_name": "cloudflare/workerd",
+    "repository_url": "https://github.com/cloudflare/workerd"
+  },
+  {
+    "repository_name": "codecrafters-io/build-your-own-x",
+    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "repository_name": "jarrodwatts/claude-hud",
+    "repository_url": "https://github.com/jarrodwatts/claude-hud"
   },
   {
     "repository_name": "langchain-ai/deepagents",
     "repository_url": "https://github.com/langchain-ai/deepagents"
   },
   {
-    "repository_name": "lightpanda-io/browser",
-    "repository_url": "https://github.com/lightpanda-io/browser"
-  },
-  {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
-    "repository_name": "p-e-w/heretic",
-    "repository_url": "https://github.com/p-e-w/heretic"
-  },
-  {
-    "repository_name": "shareAI-lab/learn-claude-code",
-    "repository_url": "https://github.com/shareAI-lab/learn-claude-code"
-  },
-  {
-    "repository_name": "thedotmack/claude-mem",
-    "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "voidzero-dev/vite-plus",
-    "repository_url": "https://github.com/voidzero-dev/vite-plus"
-  },
-  {
-    "repository_name": "volcengine/OpenViking",
-    "repository_url": "https://github.com/volcengine/OpenViking"
   }
 ]
