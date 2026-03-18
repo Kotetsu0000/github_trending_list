@@ -1,26 +1,26 @@
 [
   {
-    "repository_name": "abhigyanpatwari/GitNexus",
-    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
-  },
-  {
-    "repository_name": "cloudflare/workerd",
-    "repository_url": "https://github.com/cloudflare/workerd"
-  },
-  {
-    "repository_name": "codecrafters-io/build-your-own-x",
-    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
-  },
-  {
     "repository_name": "jarrodwatts/claude-hud",
     "repository_url": "https://github.com/jarrodwatts/claude-hud"
   },
   {
-    "repository_name": "langchain-ai/deepagents",
-    "repository_url": "https://github.com/langchain-ai/deepagents"
+    "repository_name": "langchain-ai/open-swe",
+    "repository_url": "https://github.com/langchain-ai/open-swe"
+  },
+  {
+    "repository_name": "newton-physics/newton",
+    "repository_url": "https://github.com/newton-physics/newton"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "shadps4-emu/shadPS4",
+    "repository_url": "https://github.com/shadps4-emu/shadPS4"
+  },
+  {
+    "repository_name": "unslothai/unsloth",
+    "repository_url": "https://github.com/unslothai/unsloth"
   }
 ]
