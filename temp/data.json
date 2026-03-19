@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "repository_name": "FujiwaraChoki/MoneyPrinterV2",
+    "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "repository_name": "gsd-build/get-shit-done",
+    "repository_url": "https://github.com/gsd-build/get-shit-done"
+  },
+  {
+    "repository_name": "jarrodwatts/claude-hud",
+    "repository_url": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "repository_name": "langchain-ai/open-swe",
+    "repository_url": "https://github.com/langchain-ai/open-swe"
+  },
+  {
+    "repository_name": "louis-e/arnis",
+    "repository_url": "https://github.com/louis-e/arnis"
+  },
+  {
+    "repository_name": "mobile-dev-inc/Maestro",
+    "repository_url": "https://github.com/mobile-dev-inc/Maestro"
+  },
+  {
+    "repository_name": "newton-physics/newton",
+    "repository_url": "https://github.com/newton-physics/newton"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "opendataloader-project/opendataloader-pdf",
+    "repository_url": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "repository_name": "shareAI-lab/learn-claude-code",
+    "repository_url": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "repository_name": "unslothai/unsloth",
+    "repository_url": "https://github.com/unslothai/unsloth"
+  }
+]
