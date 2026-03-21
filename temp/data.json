@@ -1,38 +1,38 @@
 [
   {
-    "repository_name": "TauricResearch/TradingAgents",
-    "repository_url": "https://github.com/TauricResearch/TradingAgents"
+    "repository_name": "Crosstalk-Solutions/project-nomad",
+    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "repository_name": "FujiwaraChoki/MoneyPrinterV2",
+    "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "repository_name": "aquasecurity/trivy",
+    "repository_url": "https://github.com/aquasecurity/trivy"
   },
   {
     "repository_name": "jarrodwatts/claude-hud",
     "repository_url": "https://github.com/jarrodwatts/claude-hud"
   },
   {
-    "repository_name": "langchain-ai/open-swe",
-    "repository_url": "https://github.com/langchain-ai/open-swe"
-  },
-  {
     "repository_name": "louis-e/arnis",
     "repository_url": "https://github.com/louis-e/arnis"
-  },
-  {
-    "repository_name": "newton-physics/newton",
-    "repository_url": "https://github.com/newton-physics/newton"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "opendataloader-project/opendataloader-pdf",
     "repository_url": "https://github.com/opendataloader-project/opendataloader-pdf"
   },
   {
-    "repository_name": "openrocket/openrocket",
-    "repository_url": "https://github.com/openrocket/openrocket"
+    "repository_name": "protocolbuffers/protobuf",
+    "repository_url": "https://github.com/protocolbuffers/protobuf"
   },
   {
-    "repository_name": "vas3k/TaxHacker",
-    "repository_url": "https://github.com/vas3k/TaxHacker"
+    "repository_name": "systemd/systemd",
+    "repository_url": "https://github.com/systemd/systemd"
+  },
+  {
+    "repository_name": "vllm-project/vllm-omni",
+    "repository_url": "https://github.com/vllm-project/vllm-omni"
   }
 ]
