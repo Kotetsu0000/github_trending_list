@@ -8,8 +8,40 @@
     "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
   },
   {
+    "repository_name": "HKUDS/LightRAG",
+    "repository_url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "repository_name": "affaan-m/everything-claude-code",
+    "repository_url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
     "repository_name": "aquasecurity/trivy",
     "repository_url": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "repository_name": "browser-use/browser-use",
+    "repository_url": "https://github.com/browser-use/browser-use"
+  },
+  {
+    "repository_name": "bytedance/deer-flow",
+    "repository_url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "repository_name": "harry0703/MoneyPrinterTurbo",
+    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "repository_name": "hsliuping/TradingAgents-CN",
+    "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
+  },
+  {
+    "repository_name": "jamwithai/production-agentic-rag-course",
+    "repository_url": "https://github.com/jamwithai/production-agentic-rag-course"
   },
   {
     "repository_name": "jarrodwatts/claude-hud",
@@ -20,19 +52,11 @@
     "repository_url": "https://github.com/louis-e/arnis"
   },
   {
-    "repository_name": "opendataloader-project/opendataloader-pdf",
-    "repository_url": "https://github.com/opendataloader-project/opendataloader-pdf"
-  },
-  {
-    "repository_name": "protocolbuffers/protobuf",
-    "repository_url": "https://github.com/protocolbuffers/protobuf"
-  },
-  {
     "repository_name": "systemd/systemd",
     "repository_url": "https://github.com/systemd/systemd"
   },
   {
-    "repository_name": "vllm-project/vllm-omni",
-    "repository_url": "https://github.com/vllm-project/vllm-omni"
+    "repository_name": "vxcontrol/pentagi",
+    "repository_url": "https://github.com/vxcontrol/pentagi"
   }
 ]
