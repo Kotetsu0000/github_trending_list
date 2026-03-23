@@ -8,8 +8,8 @@
     "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
   },
   {
-    "repository_name": "HKUDS/LightRAG",
-    "repository_url": "https://github.com/HKUDS/LightRAG"
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "repository_name": "TauricResearch/TradingAgents",
@@ -20,10 +20,6 @@
     "repository_url": "https://github.com/affaan-m/everything-claude-code"
   },
   {
-    "repository_name": "aquasecurity/trivy",
-    "repository_url": "https://github.com/aquasecurity/trivy"
-  },
-  {
     "repository_name": "browser-use/browser-use",
     "repository_url": "https://github.com/browser-use/browser-use"
   },
@@ -32,28 +28,32 @@
     "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
-    "repository_name": "harry0703/MoneyPrinterTurbo",
-    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    "repository_name": "czlonkowski/n8n-mcp",
+    "repository_url": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "repository_name": "hesreallyhim/awesome-claude-code",
+    "repository_url": "https://github.com/hesreallyhim/awesome-claude-code"
   },
   {
     "repository_name": "hsliuping/TradingAgents-CN",
     "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
   },
   {
-    "repository_name": "jamwithai/production-agentic-rag-course",
-    "repository_url": "https://github.com/jamwithai/production-agentic-rag-course"
+    "repository_name": "iptv-org/iptv",
+    "repository_url": "https://github.com/iptv-org/iptv"
   },
   {
-    "repository_name": "jarrodwatts/claude-hud",
-    "repository_url": "https://github.com/jarrodwatts/claude-hud"
+    "repository_name": "jingyaogong/minimind",
+    "repository_url": "https://github.com/jingyaogong/minimind"
   },
   {
-    "repository_name": "louis-e/arnis",
-    "repository_url": "https://github.com/louis-e/arnis"
+    "repository_name": "kepano/obsidian-skills",
+    "repository_url": "https://github.com/kepano/obsidian-skills"
   },
   {
-    "repository_name": "systemd/systemd",
-    "repository_url": "https://github.com/systemd/systemd"
+    "repository_name": "tinygrad/tinygrad",
+    "repository_url": "https://github.com/tinygrad/tinygrad"
   },
   {
     "repository_name": "vxcontrol/pentagi",
