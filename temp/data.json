@@ -16,20 +16,16 @@
     "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
-    "repository_name": "affaan-m/everything-claude-code",
-    "repository_url": "https://github.com/affaan-m/everything-claude-code"
-  },
-  {
-    "repository_name": "browser-use/browser-use",
-    "repository_url": "https://github.com/browser-use/browser-use"
+    "repository_name": "aquasecurity/trivy",
+    "repository_url": "https://github.com/aquasecurity/trivy"
   },
   {
     "repository_name": "bytedance/deer-flow",
     "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
-    "repository_name": "czlonkowski/n8n-mcp",
-    "repository_url": "https://github.com/czlonkowski/n8n-mcp"
+    "repository_name": "harry0703/MoneyPrinterTurbo",
+    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
     "repository_name": "hesreallyhim/awesome-claude-code",
@@ -40,23 +36,23 @@
     "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
   },
   {
-    "repository_name": "iptv-org/iptv",
-    "repository_url": "https://github.com/iptv-org/iptv"
+    "repository_name": "mvanhorn/last30days-skill",
+    "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
-    "repository_name": "jingyaogong/minimind",
-    "repository_url": "https://github.com/jingyaogong/minimind"
+    "repository_name": "pascalorg/editor",
+    "repository_url": "https://github.com/pascalorg/editor"
   },
   {
-    "repository_name": "kepano/obsidian-skills",
-    "repository_url": "https://github.com/kepano/obsidian-skills"
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
   },
   {
-    "repository_name": "tinygrad/tinygrad",
-    "repository_url": "https://github.com/tinygrad/tinygrad"
+    "repository_name": "ruvnet/ruflo",
+    "repository_url": "https://github.com/ruvnet/ruflo"
   },
   {
-    "repository_name": "vxcontrol/pentagi",
-    "repository_url": "https://github.com/vxcontrol/pentagi"
+    "repository_name": "supermemoryai/supermemory",
+    "repository_url": "https://github.com/supermemoryai/supermemory"
   }
 ]
