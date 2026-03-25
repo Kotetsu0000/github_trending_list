@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "BerriAI/litellm",
+    "repository_url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "repository_name": "Crosstalk-Solutions/project-nomad",
     "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
   },
@@ -8,28 +12,8 @@
     "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
   },
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
-  },
-  {
-    "repository_name": "TauricResearch/TradingAgents",
-    "repository_url": "https://github.com/TauricResearch/TradingAgents"
-  },
-  {
-    "repository_name": "aquasecurity/trivy",
-    "repository_url": "https://github.com/aquasecurity/trivy"
-  },
-  {
     "repository_name": "bytedance/deer-flow",
     "repository_url": "https://github.com/bytedance/deer-flow"
-  },
-  {
-    "repository_name": "harry0703/MoneyPrinterTurbo",
-    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
-  },
-  {
-    "repository_name": "hesreallyhim/awesome-claude-code",
-    "repository_url": "https://github.com/hesreallyhim/awesome-claude-code"
   },
   {
     "repository_name": "hsliuping/TradingAgents-CN",
@@ -54,5 +38,9 @@
   {
     "repository_name": "supermemoryai/supermemory",
     "repository_url": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "repository_name": "usestrix/strix",
+    "repository_url": "https://github.com/usestrix/strix"
   }
 ]
