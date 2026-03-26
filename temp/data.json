@@ -1,50 +1,38 @@
 [
   {
-    "repository_name": "BerriAI/litellm",
-    "repository_url": "https://github.com/BerriAI/litellm"
+    "repository_name": "Vaibhavs10/insanely-fast-whisper",
+    "repository_url": "https://github.com/Vaibhavs10/insanely-fast-whisper"
   },
   {
-    "repository_name": "Crosstalk-Solutions/project-nomad",
-    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    "repository_name": "Yeachan-Heo/oh-my-claudecode",
+    "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
   },
   {
-    "repository_name": "FujiwaraChoki/MoneyPrinterV2",
-    "repository_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+    "repository_name": "agentscope-ai/agentscope",
+    "repository_url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "repository_name": "bytedance/deer-flow",
     "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
-    "repository_name": "hsliuping/TradingAgents-CN",
-    "repository_url": "https://github.com/hsliuping/TradingAgents-CN"
-  },
-  {
-    "repository_name": "letta-ai/claude-subconscious",
-    "repository_url": "https://github.com/letta-ai/claude-subconscious"
+    "repository_name": "datalab-to/chandra",
+    "repository_url": "https://github.com/datalab-to/chandra"
   },
   {
     "repository_name": "mvanhorn/last30days-skill",
     "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
-    "repository_name": "pascalorg/editor",
-    "repository_url": "https://github.com/pascalorg/editor"
-  },
-  {
     "repository_name": "ruvnet/RuView",
     "repository_url": "https://github.com/ruvnet/RuView"
   },
   {
-    "repository_name": "ruvnet/ruflo",
-    "repository_url": "https://github.com/ruvnet/ruflo"
+    "repository_name": "twentyhq/twenty",
+    "repository_url": "https://github.com/twentyhq/twenty"
   },
   {
-    "repository_name": "supermemoryai/supermemory",
-    "repository_url": "https://github.com/supermemoryai/supermemory"
-  },
-  {
-    "repository_name": "usestrix/strix",
-    "repository_url": "https://github.com/usestrix/strix"
+    "repository_name": "virattt/dexter",
+    "repository_url": "https://github.com/virattt/dexter"
   }
 ]
