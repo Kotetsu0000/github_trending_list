@@ -26,9 +26,5 @@
   {
     "repository_name": "openai/codex",
     "repository_url": "https://github.com/openai/codex"
-  },
-  {
-    "repository_name": "shanraisshan/claude-code-best-practice",
-    "repository_url": "https://github.com/shanraisshan/claude-code-best-practice"
   }
 ]
