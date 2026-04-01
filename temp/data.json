@@ -1,27 +1,19 @@
 [
   {
-    "repository_name": "Dimillian/Skills",
-    "repository_url": "https://github.com/Dimillian/Skills"
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
+    "repository_name": "axios/axios",
+    "repository_url": "https://github.com/axios/axios"
   },
   {
-    "repository_name": "OpenBMB/ChatDev",
-    "repository_url": "https://github.com/OpenBMB/ChatDev"
+    "repository_name": "f/prompts.chat",
+    "repository_url": "https://github.com/f/prompts.chat"
   },
   {
-    "repository_name": "PaddlePaddle/PaddleOCR",
-    "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
-  },
-  {
-    "repository_name": "Yeachan-Heo/oh-my-claudecode",
-    "repository_url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-  },
-  {
-    "repository_name": "jwasham/coding-interview-university",
-    "repository_url": "https://github.com/jwasham/coding-interview-university"
+    "repository_name": "google-research/timesfm",
+    "repository_url": "https://github.com/google-research/timesfm"
   },
   {
     "repository_name": "luongnv89/claude-howto",
@@ -32,27 +24,11 @@
     "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
-    "repository_name": "microsoft/agent-lightning",
-    "repository_url": "https://github.com/microsoft/agent-lightning"
-  },
-  {
-    "repository_name": "neovim/neovim",
-    "repository_url": "https://github.com/neovim/neovim"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "openai/codex",
+    "repository_url": "https://github.com/openai/codex"
   },
   {
     "repository_name": "shanraisshan/claude-code-best-practice",
     "repository_url": "https://github.com/shanraisshan/claude-code-best-practice"
-  },
-  {
-    "repository_name": "sherlock-project/sherlock",
-    "repository_url": "https://github.com/sherlock-project/sherlock"
-  },
-  {
-    "repository_name": "vas3k/TaxHacker",
-    "repository_url": "https://github.com/vas3k/TaxHacker"
   }
 ]
