@@ -26,5 +26,9 @@
   {
     "repository_name": "openai/codex",
     "repository_url": "https://github.com/openai/codex"
+  },
+  {
+    "repository_name": "zai-org/GLM-OCR",
+    "repository_url": "https://github.com/zai-org/GLM-OCR"
   }
 ]
