@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "Yeachan-Heo/oh-my-codex",
+    "repository_url": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
     "repository_name": "anthropics/claude-code",
     "repository_url": "https://github.com/anthropics/claude-code"
   },
