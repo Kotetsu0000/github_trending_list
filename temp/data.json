@@ -4,35 +4,15 @@
     "repository_url": "https://github.com/Yeachan-Heo/oh-my-codex"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "asgeirtj/system_prompts_leaks",
+    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
-    "repository_name": "axios/axios",
-    "repository_url": "https://github.com/axios/axios"
+    "repository_name": "sherlock-project/sherlock",
+    "repository_url": "https://github.com/sherlock-project/sherlock"
   },
   {
-    "repository_name": "f/prompts.chat",
-    "repository_url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "repository_name": "google-research/timesfm",
-    "repository_url": "https://github.com/google-research/timesfm"
-  },
-  {
-    "repository_name": "luongnv89/claude-howto",
-    "repository_url": "https://github.com/luongnv89/claude-howto"
-  },
-  {
-    "repository_name": "microsoft/VibeVoice",
-    "repository_url": "https://github.com/microsoft/VibeVoice"
-  },
-  {
-    "repository_name": "openai/codex",
-    "repository_url": "https://github.com/openai/codex"
-  },
-  {
-    "repository_name": "zai-org/GLM-OCR",
-    "repository_url": "https://github.com/zai-org/GLM-OCR"
+    "repository_name": "siddharthvaddem/openscreen",
+    "repository_url": "https://github.com/siddharthvaddem/openscreen"
   }
 ]
