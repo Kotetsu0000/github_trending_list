@@ -1,23 +1,31 @@
 [
   {
-    "repository_name": "Blaizzy/mlx-vlm",
-    "repository_url": "https://github.com/Blaizzy/mlx-vlm"
+    "repository_name": "KeygraphHQ/shannon",
+    "repository_url": "https://github.com/KeygraphHQ/shannon"
   },
   {
-    "repository_name": "badlogic/pi-mono",
-    "repository_url": "https://github.com/badlogic/pi-mono"
+    "repository_name": "NVIDIA/personaplex",
+    "repository_url": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repository_name": "TelegramMessenger/Telegram-iOS",
+    "repository_url": "https://github.com/TelegramMessenger/Telegram-iOS"
+  },
+  {
+    "repository_name": "abhigyanpatwari/GitNexus",
+    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
     "repository_name": "block/goose",
     "repository_url": "https://github.com/block/goose"
   },
   {
-    "repository_name": "dmtrKovalenko/fff.nvim",
-    "repository_url": "https://github.com/dmtrKovalenko/fff.nvim"
-  },
-  {
-    "repository_name": "freeCodeCamp/freeCodeCamp",
-    "repository_url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    "repository_name": "ggml-org/llama.cpp",
+    "repository_url": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "repository_name": "google-ai-edge/LiteRT-LM",
@@ -28,15 +36,23 @@
     "repository_url": "https://github.com/google-ai-edge/gallery"
   },
   {
-    "repository_name": "onyx-dot-app/onyx",
-    "repository_url": "https://github.com/onyx-dot-app/onyx"
+    "repository_name": "immich-app/immich",
+    "repository_url": "https://github.com/immich-app/immich"
+  },
+  {
+    "repository_name": "kepano/obsidian-skills",
+    "repository_url": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "repository_name": "ollama/ollama",
+    "repository_url": "https://github.com/ollama/ollama"
   },
   {
     "repository_name": "siddharthvaddem/openscreen",
     "repository_url": "https://github.com/siddharthvaddem/openscreen"
   },
   {
-    "repository_name": "telegramdesktop/tdesktop",
-    "repository_url": "https://github.com/telegramdesktop/tdesktop"
+    "repository_name": "tobi/qmd",
+    "repository_url": "https://github.com/tobi/qmd"
   }
 ]
