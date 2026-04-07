@@ -1,31 +1,27 @@
 [
   {
-    "repository_name": "KeygraphHQ/shannon",
-    "repository_url": "https://github.com/KeygraphHQ/shannon"
+    "repository_name": "HKUDS/DeepTutor",
+    "repository_url": "https://github.com/HKUDS/DeepTutor"
   },
   {
     "repository_name": "NVIDIA/personaplex",
     "repository_url": "https://github.com/NVIDIA/personaplex"
   },
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
-  },
-  {
-    "repository_name": "TelegramMessenger/Telegram-iOS",
-    "repository_url": "https://github.com/TelegramMessenger/Telegram-iOS"
-  },
-  {
-    "repository_name": "aaif-goose/goose",
-    "repository_url": "https://github.com/aaif-goose/goose"
+    "repository_name": "TheCraigHewitt/seomachine",
+    "repository_url": "https://github.com/TheCraigHewitt/seomachine"
   },
   {
     "repository_name": "abhigyanpatwari/GitNexus",
     "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
-    "repository_name": "ggml-org/llama.cpp",
-    "repository_url": "https://github.com/ggml-org/llama.cpp"
+    "repository_name": "elebumm/RedditVideoMakerBot",
+    "repository_url": "https://github.com/elebumm/RedditVideoMakerBot"
+  },
+  {
+    "repository_name": "forrestchang/andrej-karpathy-skills",
+    "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
   },
   {
     "repository_name": "google-ai-edge/LiteRT-LM",
@@ -34,22 +30,6 @@
   {
     "repository_name": "google-ai-edge/gallery",
     "repository_url": "https://github.com/google-ai-edge/gallery"
-  },
-  {
-    "repository_name": "immich-app/immich",
-    "repository_url": "https://github.com/immich-app/immich"
-  },
-  {
-    "repository_name": "kepano/obsidian-skills",
-    "repository_url": "https://github.com/kepano/obsidian-skills"
-  },
-  {
-    "repository_name": "ollama/ollama",
-    "repository_url": "https://github.com/ollama/ollama"
-  },
-  {
-    "repository_name": "siddharthvaddem/openscreen",
-    "repository_url": "https://github.com/siddharthvaddem/openscreen"
   },
   {
     "repository_name": "tobi/qmd",
