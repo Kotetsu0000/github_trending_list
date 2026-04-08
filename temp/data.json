@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "HKUDS/DeepTutor",
-    "repository_url": "https://github.com/HKUDS/DeepTutor"
-  },
-  {
     "repository_name": "NVIDIA/personaplex",
     "repository_url": "https://github.com/NVIDIA/personaplex"
   },
@@ -24,6 +20,10 @@
     "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
   },
   {
+    "repository_name": "goharbor/harbor",
+    "repository_url": "https://github.com/goharbor/harbor"
+  },
+  {
     "repository_name": "google-ai-edge/LiteRT-LM",
     "repository_url": "https://github.com/google-ai-edge/LiteRT-LM"
   },
@@ -32,7 +32,15 @@
     "repository_url": "https://github.com/google-ai-edge/gallery"
   },
   {
-    "repository_name": "tobi/qmd",
-    "repository_url": "https://github.com/tobi/qmd"
+    "repository_name": "newton-physics/newton",
+    "repository_url": "https://github.com/newton-physics/newton"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "virattt/ai-hedge-fund",
+    "repository_url": "https://github.com/virattt/ai-hedge-fund"
   }
 ]
