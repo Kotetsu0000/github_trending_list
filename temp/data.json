@@ -1,46 +1,42 @@
 [
   {
-    "repository_name": "NVIDIA/personaplex",
-    "repository_url": "https://github.com/NVIDIA/personaplex"
+    "repository_name": "HKUDS/DeepTutor",
+    "repository_url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repository_name": "OpenBMB/VoxCPM",
+    "repository_url": "https://github.com/OpenBMB/VoxCPM"
   },
   {
     "repository_name": "TheCraigHewitt/seomachine",
     "repository_url": "https://github.com/TheCraigHewitt/seomachine"
   },
   {
-    "repository_name": "abhigyanpatwari/GitNexus",
-    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
+    "repository_name": "YishenTu/claudian",
+    "repository_url": "https://github.com/YishenTu/claudian"
   },
   {
-    "repository_name": "elebumm/RedditVideoMakerBot",
-    "repository_url": "https://github.com/elebumm/RedditVideoMakerBot"
+    "repository_name": "coleam00/Archon",
+    "repository_url": "https://github.com/coleam00/Archon"
   },
   {
     "repository_name": "forrestchang/andrej-karpathy-skills",
     "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
   },
   {
-    "repository_name": "goharbor/harbor",
-    "repository_url": "https://github.com/goharbor/harbor"
-  },
-  {
-    "repository_name": "google-ai-edge/LiteRT-LM",
-    "repository_url": "https://github.com/google-ai-edge/LiteRT-LM"
-  },
-  {
-    "repository_name": "google-ai-edge/gallery",
-    "repository_url": "https://github.com/google-ai-edge/gallery"
-  },
-  {
-    "repository_name": "newton-physics/newton",
-    "repository_url": "https://github.com/newton-physics/newton"
-  },
-  {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "virattt/ai-hedge-fund",
-    "repository_url": "https://github.com/virattt/ai-hedge-fund"
+    "repository_name": "opendataloader-project/opendataloader-pdf",
+    "repository_url": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
   }
 ]
