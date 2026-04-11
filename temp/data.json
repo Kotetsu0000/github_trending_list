@@ -8,16 +8,24 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
+    "repository_name": "OpenBMB/VoxCPM",
+    "repository_url": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "repository_name": "alexpate/awesome-design-systems",
+    "repository_url": "https://github.com/alexpate/awesome-design-systems"
+  },
+  {
     "repository_name": "coleam00/Archon",
     "repository_url": "https://github.com/coleam00/Archon"
   },
   {
     "repository_name": "forrestchang/andrej-karpathy-skills",
     "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
-  },
-  {
-    "repository_name": "jqlang/jq",
-    "repository_url": "https://github.com/jqlang/jq"
   },
   {
     "repository_name": "microsoft/markitdown",
@@ -34,10 +42,6 @@
   {
     "repository_name": "opendataloader-project/opendataloader-pdf",
     "repository_url": "https://github.com/opendataloader-project/opendataloader-pdf"
-  },
-  {
-    "repository_name": "rowboatlabs/rowboat",
-    "repository_url": "https://github.com/rowboatlabs/rowboat"
   },
   {
     "repository_name": "shanraisshan/claude-code-best-practice",
