@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "HKUDS/DeepTutor",
-    "repository_url": "https://github.com/HKUDS/DeepTutor"
-  },
-  {
     "repository_name": "NousResearch/hermes-agent",
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
@@ -16,8 +12,8 @@
     "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
-    "repository_name": "alexpate/awesome-design-systems",
-    "repository_url": "https://github.com/alexpate/awesome-design-systems"
+    "repository_name": "ahujasid/blender-mcp",
+    "repository_url": "https://github.com/ahujasid/blender-mcp"
   },
   {
     "repository_name": "coleam00/Archon",
@@ -36,12 +32,8 @@
     "repository_url": "https://github.com/multica-ai/multica"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
-    "repository_name": "opendataloader-project/opendataloader-pdf",
-    "repository_url": "https://github.com/opendataloader-project/opendataloader-pdf"
+    "repository_name": "rustfs/rustfs",
+    "repository_url": "https://github.com/rustfs/rustfs"
   },
   {
     "repository_name": "shanraisshan/claude-code-best-practice",
@@ -50,5 +42,17 @@
   {
     "repository_name": "shiyu-coder/Kronos",
     "repository_url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repository_name": "snarktank/ralph",
+    "repository_url": "https://github.com/snarktank/ralph"
+  },
+  {
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "virattt/ai-hedge-fund",
+    "repository_url": "https://github.com/virattt/ai-hedge-fund"
   }
 ]
