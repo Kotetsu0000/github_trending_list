@@ -4,16 +4,16 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "OpenBMB/VoxCPM",
-    "repository_url": "https://github.com/OpenBMB/VoxCPM"
-  },
-  {
     "repository_name": "TapXWorld/ChinaTextbook",
     "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
     "repository_name": "ahujasid/blender-mcp",
     "repository_url": "https://github.com/ahujasid/blender-mcp"
+  },
+  {
+    "repository_name": "anthropics/claude-cookbooks",
+    "repository_url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
     "repository_name": "coleam00/Archon",
@@ -24,16 +24,24 @@
     "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
   },
   {
+    "repository_name": "gsd-build/get-shit-done",
+    "repository_url": "https://github.com/gsd-build/get-shit-done"
+  },
+  {
+    "repository_name": "hacksider/Deep-Live-Cam",
+    "repository_url": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "repository_name": "jamiepine/voicebox",
+    "repository_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
     "repository_name": "microsoft/markitdown",
     "repository_url": "https://github.com/microsoft/markitdown"
   },
   {
     "repository_name": "multica-ai/multica",
     "repository_url": "https://github.com/multica-ai/multica"
-  },
-  {
-    "repository_name": "rustfs/rustfs",
-    "repository_url": "https://github.com/rustfs/rustfs"
   },
   {
     "repository_name": "shanraisshan/claude-code-best-practice",
