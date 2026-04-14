@@ -4,32 +4,16 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "TapXWorld/ChinaTextbook",
-    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
-  },
-  {
-    "repository_name": "ahujasid/blender-mcp",
-    "repository_url": "https://github.com/ahujasid/blender-mcp"
-  },
-  {
     "repository_name": "anthropics/claude-cookbooks",
     "repository_url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
-    "repository_name": "coleam00/Archon",
-    "repository_url": "https://github.com/coleam00/Archon"
+    "repository_name": "chrislgarry/Apollo-11",
+    "repository_url": "https://github.com/chrislgarry/Apollo-11"
   },
   {
     "repository_name": "forrestchang/andrej-karpathy-skills",
     "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
-  },
-  {
-    "repository_name": "gsd-build/get-shit-done",
-    "repository_url": "https://github.com/gsd-build/get-shit-done"
-  },
-  {
-    "repository_name": "hacksider/Deep-Live-Cam",
-    "repository_url": "https://github.com/hacksider/Deep-Live-Cam"
   },
   {
     "repository_name": "jamiepine/voicebox",
@@ -40,8 +24,12 @@
     "repository_url": "https://github.com/microsoft/markitdown"
   },
   {
-    "repository_name": "multica-ai/multica",
-    "repository_url": "https://github.com/multica-ai/multica"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "pascalorg/editor",
+    "repository_url": "https://github.com/pascalorg/editor"
   },
   {
     "repository_name": "shanraisshan/claude-code-best-practice",
@@ -50,10 +38,6 @@
   {
     "repository_name": "shiyu-coder/Kronos",
     "repository_url": "https://github.com/shiyu-coder/Kronos"
-  },
-  {
-    "repository_name": "snarktank/ralph",
-    "repository_url": "https://github.com/snarktank/ralph"
   },
   {
     "repository_name": "thedotmack/claude-mem",
