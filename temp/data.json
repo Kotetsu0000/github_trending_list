@@ -1,11 +1,11 @@
 [
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
+    "repository_name": "Donchitos/Claude-Code-Game-Studios",
+    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
   },
   {
-    "repository_name": "anthropics/claude-cookbooks",
-    "repository_url": "https://github.com/anthropics/claude-cookbooks"
+    "repository_name": "Lordog/dive-into-llms",
+    "repository_url": "https://github.com/Lordog/dive-into-llms"
   },
   {
     "repository_name": "chrislgarry/Apollo-11",
@@ -16,12 +16,16 @@
     "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
   },
   {
+    "repository_name": "google/magika",
+    "repository_url": "https://github.com/google/magika"
+  },
+  {
     "repository_name": "jamiepine/voicebox",
     "repository_url": "https://github.com/jamiepine/voicebox"
   },
   {
-    "repository_name": "microsoft/markitdown",
-    "repository_url": "https://github.com/microsoft/markitdown"
+    "repository_name": "lsdefine/GenericAgent",
+    "repository_url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "repository_name": "obra/superpowers",
@@ -32,16 +36,16 @@
     "repository_url": "https://github.com/pascalorg/editor"
   },
   {
-    "repository_name": "shanraisshan/claude-code-best-practice",
-    "repository_url": "https://github.com/shanraisshan/claude-code-best-practice"
-  },
-  {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
+    "repository_name": "public-apis/public-apis",
+    "repository_url": "https://github.com/public-apis/public-apis"
   },
   {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "vercel-labs/open-agents",
+    "repository_url": "https://github.com/vercel-labs/open-agents"
   },
   {
     "repository_name": "virattt/ai-hedge-fund",
