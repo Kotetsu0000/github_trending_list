@@ -1,15 +1,15 @@
 [
   {
-    "repository_name": "Donchitos/Claude-Code-Game-Studios",
-    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+    "repository_name": "BasedHardware/omi",
+    "repository_url": "https://github.com/BasedHardware/omi"
+  },
+  {
+    "repository_name": "EvoMap/evolver",
+    "repository_url": "https://github.com/EvoMap/evolver"
   },
   {
     "repository_name": "Lordog/dive-into-llms",
     "repository_url": "https://github.com/Lordog/dive-into-llms"
-  },
-  {
-    "repository_name": "chrislgarry/Apollo-11",
-    "repository_url": "https://github.com/chrislgarry/Apollo-11"
   },
   {
     "repository_name": "forrestchang/andrej-karpathy-skills",
@@ -28,27 +28,27 @@
     "repository_url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "openai/openai-agents-python",
+    "repository_url": "https://github.com/openai/openai-agents-python"
   },
   {
-    "repository_name": "pascalorg/editor",
-    "repository_url": "https://github.com/pascalorg/editor"
-  },
-  {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
+    "repository_name": "steipete/wacli",
+    "repository_url": "https://github.com/steipete/wacli"
   },
   {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
   },
   {
+    "repository_name": "topoteretes/cognee",
+    "repository_url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "repository_name": "vercel-labs/open-agents",
     "repository_url": "https://github.com/vercel-labs/open-agents"
   },
   {
-    "repository_name": "virattt/ai-hedge-fund",
-    "repository_url": "https://github.com/virattt/ai-hedge-fund"
+    "repository_name": "z-lab/dflash",
+    "repository_url": "https://github.com/z-lab/dflash"
   }
 ]
