@@ -4,6 +4,14 @@
     "repository_url": "https://github.com/BasedHardware/omi"
   },
   {
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "repository_name": "Donchitos/Claude-Code-Game-Studios",
+    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  },
+  {
     "repository_name": "EvoMap/evolver",
     "repository_url": "https://github.com/EvoMap/evolver"
   },
@@ -16,8 +24,8 @@
     "repository_url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
   },
   {
-    "repository_name": "forrestchang/andrej-karpathy-skills",
-    "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    "repository_name": "Tracer-Cloud/opensre",
+    "repository_url": "https://github.com/Tracer-Cloud/opensre"
   },
   {
     "repository_name": "google/magika",
@@ -32,24 +40,20 @@
     "repository_url": "https://github.com/lsdefine/GenericAgent"
   },
   {
+    "repository_name": "lukilabs/craft-agents-oss",
+    "repository_url": "https://github.com/lukilabs/craft-agents-oss"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
     "repository_name": "openai/openai-agents-python",
     "repository_url": "https://github.com/openai/openai-agents-python"
   },
   {
-    "repository_name": "steipete/wacli",
-    "repository_url": "https://github.com/steipete/wacli"
-  },
-  {
-    "repository_name": "thedotmack/claude-mem",
-    "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "topoteretes/cognee",
-    "repository_url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "repository_name": "vercel-labs/open-agents",
-    "repository_url": "https://github.com/vercel-labs/open-agents"
+    "repository_name": "pingdotgg/t3code",
+    "repository_url": "https://github.com/pingdotgg/t3code"
   },
   {
     "repository_name": "z-lab/dflash",
