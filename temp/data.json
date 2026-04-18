@@ -4,14 +4,6 @@
     "repository_url": "https://github.com/BasedHardware/omi"
   },
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-  },
-  {
-    "repository_name": "Donchitos/Claude-Code-Game-Studios",
-    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
-  },
-  {
     "repository_name": "EvoMap/evolver",
     "repository_url": "https://github.com/EvoMap/evolver"
   },
@@ -24,39 +16,27 @@
     "repository_url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
   },
   {
-    "repository_name": "Tracer-Cloud/opensre",
-    "repository_url": "https://github.com/Tracer-Cloud/opensre"
+    "repository_name": "aaddrick/claude-desktop-debian",
+    "repository_url": "https://github.com/aaddrick/claude-desktop-debian"
   },
   {
-    "repository_name": "google/magika",
-    "repository_url": "https://github.com/google/magika"
-  },
-  {
-    "repository_name": "jamiepine/voicebox",
-    "repository_url": "https://github.com/jamiepine/voicebox"
-  },
-  {
-    "repository_name": "lsdefine/GenericAgent",
-    "repository_url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "repository_name": "lukilabs/craft-agents-oss",
-    "repository_url": "https://github.com/lukilabs/craft-agents-oss"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "deepseek-ai/DeepGEMM",
+    "repository_url": "https://github.com/deepseek-ai/DeepGEMM"
   },
   {
     "repository_name": "openai/openai-agents-python",
     "repository_url": "https://github.com/openai/openai-agents-python"
   },
   {
-    "repository_name": "pingdotgg/t3code",
-    "repository_url": "https://github.com/pingdotgg/t3code"
+    "repository_name": "rustdesk/rustdesk",
+    "repository_url": "https://github.com/rustdesk/rustdesk"
   },
   {
-    "repository_name": "z-lab/dflash",
-    "repository_url": "https://github.com/z-lab/dflash"
+    "repository_name": "thunderbird/thunderbolt",
+    "repository_url": "https://github.com/thunderbird/thunderbolt"
+  },
+  {
+    "repository_name": "tractorjuice/arc-kit",
+    "repository_url": "https://github.com/tractorjuice/arc-kit"
   }
 ]
