@@ -1,19 +1,19 @@
 [
   {
-    "repository_name": "BasedHardware/omi",
-    "repository_url": "https://github.com/BasedHardware/omi"
-  },
-  {
-    "repository_name": "Donchitos/Claude-Code-Game-Studios",
-    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
-  },
-  {
-    "repository_name": "EvoMap/evolver",
-    "repository_url": "https://github.com/EvoMap/evolver"
-  },
-  {
     "repository_name": "Fincept-Corporation/FinceptTerminal",
     "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "repository_name": "XTLS/Xray-core",
+    "repository_url": "https://github.com/XTLS/Xray-core"
+  },
+  {
+    "repository_name": "deepseek-ai/DeepGEMM",
+    "repository_url": "https://github.com/deepseek-ai/DeepGEMM"
+  },
+  {
+    "repository_name": "koala73/worldmonitor",
+    "repository_url": "https://github.com/koala73/worldmonitor"
   },
   {
     "repository_name": "openai/openai-agents-python",
@@ -24,8 +24,8 @@
     "repository_url": "https://github.com/paperless-ngx/paperless-ngx"
   },
   {
-    "repository_name": "pingdotgg/t3code",
-    "repository_url": "https://github.com/pingdotgg/t3code"
+    "repository_name": "pi-hole/pi-hole",
+    "repository_url": "https://github.com/pi-hole/pi-hole"
   },
   {
     "repository_name": "ruvnet/RuView",
