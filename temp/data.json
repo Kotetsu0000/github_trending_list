@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "AIDC-AI/Pixelle-Video",
+    "repository_url": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
     "repository_name": "Fincept-Corporation/FinceptTerminal",
     "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal"
   },
@@ -8,16 +12,24 @@
     "repository_url": "https://github.com/HKUDS/RAG-Anything"
   },
   {
-    "repository_name": "VoltAgent/awesome-agent-skills",
-    "repository_url": "https://github.com/VoltAgent/awesome-agent-skills"
+    "repository_name": "KeygraphHQ/shannon",
+    "repository_url": "https://github.com/KeygraphHQ/shannon"
   },
   {
-    "repository_name": "dayanch96/YTLite",
-    "repository_url": "https://github.com/dayanch96/YTLite"
+    "repository_name": "Z4nzu/hackingtool",
+    "repository_url": "https://github.com/Z4nzu/hackingtool"
   },
   {
-    "repository_name": "microsoft/ai-agents-for-beginners",
-    "repository_url": "https://github.com/microsoft/ai-agents-for-beginners"
+    "repository_name": "koala73/worldmonitor",
+    "repository_url": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "repository_name": "langfuse/langfuse",
+    "repository_url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "repository_name": "open-metadata/OpenMetadata",
+    "repository_url": "https://github.com/open-metadata/OpenMetadata"
   },
   {
     "repository_name": "ruvnet/RuView",
@@ -28,8 +40,8 @@
     "repository_url": "https://github.com/sansan0/TrendRadar"
   },
   {
-    "repository_name": "thunderbird/thunderbolt",
-    "repository_url": "https://github.com/thunderbird/thunderbolt"
+    "repository_name": "vercel-labs/skills",
+    "repository_url": "https://github.com/vercel-labs/skills"
   },
   {
     "repository_name": "zilliztech/claude-context",
