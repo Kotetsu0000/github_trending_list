@@ -4,12 +4,16 @@
     "repository_url": "https://github.com/Alishahryar1/free-claude-code"
   },
   {
+    "repository_name": "CJackHwang/ds2api",
+    "repository_url": "https://github.com/CJackHwang/ds2api"
+  },
+  {
     "repository_name": "ComposioHQ/awesome-codex-skills",
     "repository_url": "https://github.com/ComposioHQ/awesome-codex-skills"
   },
   {
-    "repository_name": "PostHog/posthog",
-    "repository_url": "https://github.com/PostHog/posthog"
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
     "repository_name": "Z4nzu/hackingtool",
@@ -20,35 +24,31 @@
     "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
-    "repository_name": "codecrafters-io/build-your-own-x",
-    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
+    "repository_name": "davila7/claude-code-templates",
+    "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
-    "repository_name": "curl/curl",
-    "repository_url": "https://github.com/curl/curl"
+    "repository_name": "deepseek-ai/DeepSeek-V3",
+    "repository_url": "https://github.com/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "repository_name": "donnemartin/system-design-primer",
+    "repository_url": "https://github.com/donnemartin/system-design-primer"
   },
   {
     "repository_name": "gastownhall/beads",
     "repository_url": "https://github.com/gastownhall/beads"
   },
   {
-    "repository_name": "home-assistant/core",
-    "repository_url": "https://github.com/home-assistant/core"
-  },
-  {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "microsoft/typescript-go",
-    "repository_url": "https://github.com/microsoft/typescript-go"
+    "repository_name": "microsoft/VibeVoice",
+    "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
-    "repository_name": "openclaw/openclaw",
-    "repository_url": "https://github.com/openclaw/openclaw"
-  },
-  {
-    "repository_name": "trycua/cua",
-    "repository_url": "https://github.com/trycua/cua"
+    "repository_name": "penpot/penpot",
+    "repository_url": "https://github.com/penpot/penpot"
   }
 ]
