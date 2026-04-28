@@ -12,12 +12,12 @@
     "repository_url": "https://github.com/ComposioHQ/awesome-codex-skills"
   },
   {
-    "repository_name": "TauricResearch/TradingAgents",
-    "repository_url": "https://github.com/TauricResearch/TradingAgents"
+    "repository_name": "EbookFoundation/free-programming-books",
+    "repository_url": "https://github.com/EbookFoundation/free-programming-books"
   },
   {
-    "repository_name": "Z4nzu/hackingtool",
-    "repository_url": "https://github.com/Z4nzu/hackingtool"
+    "repository_name": "HunxByts/GhostTrack",
+    "repository_url": "https://github.com/HunxByts/GhostTrack"
   },
   {
     "repository_name": "abhigyanpatwari/GitNexus",
@@ -28,16 +28,16 @@
     "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
-    "repository_name": "deepseek-ai/DeepSeek-V3",
-    "repository_url": "https://github.com/deepseek-ai/DeepSeek-V3"
-  },
-  {
     "repository_name": "donnemartin/system-design-primer",
     "repository_url": "https://github.com/donnemartin/system-design-primer"
   },
   {
-    "repository_name": "gastownhall/beads",
-    "repository_url": "https://github.com/gastownhall/beads"
+    "repository_name": "fspecii/ace-step-ui",
+    "repository_url": "https://github.com/fspecii/ace-step-ui"
+  },
+  {
+    "repository_name": "iamgio/quarkdown",
+    "repository_url": "https://github.com/iamgio/quarkdown"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -48,7 +48,7 @@
     "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
-    "repository_name": "penpot/penpot",
-    "repository_url": "https://github.com/penpot/penpot"
+    "repository_name": "public-apis/public-apis",
+    "repository_url": "https://github.com/public-apis/public-apis"
   }
 ]
