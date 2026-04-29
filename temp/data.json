@@ -1,7 +1,7 @@
 [
   {
-    "repository_name": "Alishahryar1/free-claude-code",
-    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
+    "repository_name": "1jehuang/jcode",
+    "repository_url": "https://github.com/1jehuang/jcode"
   },
   {
     "repository_name": "CJackHwang/ds2api",
@@ -20,35 +20,47 @@
     "repository_url": "https://github.com/HunxByts/GhostTrack"
   },
   {
+    "repository_name": "ZhuLinsen/daily_stock_analysis",
+    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
     "repository_name": "abhigyanpatwari/GitNexus",
     "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
-    "repository_name": "davila7/claude-code-templates",
-    "repository_url": "https://github.com/davila7/claude-code-templates"
+    "repository_name": "gorhill/uBlock",
+    "repository_url": "https://github.com/gorhill/uBlock"
   },
   {
-    "repository_name": "donnemartin/system-design-primer",
-    "repository_url": "https://github.com/donnemartin/system-design-primer"
+    "repository_name": "iv-org/invidious",
+    "repository_url": "https://github.com/iv-org/invidious"
   },
   {
-    "repository_name": "fspecii/ace-step-ui",
-    "repository_url": "https://github.com/fspecii/ace-step-ui"
-  },
-  {
-    "repository_name": "iamgio/quarkdown",
-    "repository_url": "https://github.com/iamgio/quarkdown"
+    "repository_name": "lukilabs/craft-agents-oss",
+    "repository_url": "https://github.com/lukilabs/craft-agents-oss"
   },
   {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
+  },
+  {
     "repository_name": "microsoft/VibeVoice",
     "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "soxoj/maigret",
+    "repository_url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "repository_name": "warpdotdev/warp",
+    "repository_url": "https://github.com/warpdotdev/warp"
   }
 ]
