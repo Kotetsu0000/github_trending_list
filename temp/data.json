@@ -4,8 +4,16 @@
     "repository_url": "https://github.com/1jehuang/jcode"
   },
   {
+    "repository_name": "D4Vinci/Scrapling",
+    "repository_url": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
     "repository_name": "Flowseal/zapret-discord-youtube",
     "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "repository_name": "ShareX/ShareX",
+    "repository_url": "https://github.com/ShareX/ShareX"
   },
   {
     "repository_name": "TauricResearch/TradingAgents",
@@ -16,23 +24,15 @@
     "repository_url": "https://github.com/browserbase/skills"
   },
   {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
+    "repository_name": "jwasham/coding-interview-university",
+    "repository_url": "https://github.com/jwasham/coding-interview-university"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
-    "repository_name": "simstudioai/sim",
-    "repository_url": "https://github.com/simstudioai/sim"
+    "repository_name": "ruvnet/ruflo",
+    "repository_url": "https://github.com/ruvnet/ruflo"
   },
   {
     "repository_name": "soxoj/maigret",
     "repository_url": "https://github.com/soxoj/maigret"
-  },
-  {
-    "repository_name": "warpdotdev/warp",
-    "repository_url": "https://github.com/warpdotdev/warp"
   }
 ]
