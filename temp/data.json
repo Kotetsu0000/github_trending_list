@@ -4,8 +4,8 @@
     "repository_url": "https://github.com/1jehuang/jcode"
   },
   {
-    "repository_name": "AIDC-AI/Pixelle-Video",
-    "repository_url": "https://github.com/AIDC-AI/Pixelle-Video"
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
   },
   {
     "repository_name": "Hmbown/DeepSeek-TUI",
@@ -20,12 +20,32 @@
     "repository_url": "https://github.com/browserbase/skills"
   },
   {
+    "repository_name": "cocoindex-io/cocoindex",
+    "repository_url": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
     "repository_name": "czlonkowski/n8n-mcp",
     "repository_url": "https://github.com/czlonkowski/n8n-mcp"
   },
   {
-    "repository_name": "openwrt/openwrt",
-    "repository_url": "https://github.com/openwrt/openwrt"
+    "repository_name": "docusealco/docuseal",
+    "repository_url": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "repository_name": "fspecii/ace-step-ui",
+    "repository_url": "https://github.com/fspecii/ace-step-ui"
+  },
+  {
+    "repository_name": "jellyfin/jellyfin",
+    "repository_url": "https://github.com/jellyfin/jellyfin"
+  },
+  {
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repository_name": "qbittorrent/qBittorrent",
+    "repository_url": "https://github.com/qbittorrent/qBittorrent"
   },
   {
     "repository_name": "ruvnet/ruflo",
@@ -34,5 +54,9 @@
   {
     "repository_name": "soxoj/maigret",
     "repository_url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "repository_name": "virattt/dexter",
+    "repository_url": "https://github.com/virattt/dexter"
   }
 ]
