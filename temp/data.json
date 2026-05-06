@@ -1,19 +1,19 @@
 [
   {
-    "repository_name": "AIDC-AI/Pixelle-Video",
-    "repository_url": "https://github.com/AIDC-AI/Pixelle-Video"
-  },
-  {
-    "repository_name": "Arindam200/awesome-ai-apps",
-    "repository_url": "https://github.com/Arindam200/awesome-ai-apps"
-  },
-  {
     "repository_name": "D4Vinci/Scrapling",
     "repository_url": "https://github.com/D4Vinci/Scrapling"
   },
   {
     "repository_name": "Hmbown/DeepSeek-TUI",
     "repository_url": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "repository_name": "InsForge/InsForge",
+    "repository_url": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "repository_name": "LadybirdBrowser/ladybird",
+    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
     "repository_name": "LearningCircuit/local-deep-research",
@@ -24,40 +24,36 @@
     "repository_url": "https://github.com/PriorLabs/TabPFN"
   },
   {
-    "repository_name": "browserbase/skills",
-    "repository_url": "https://github.com/browserbase/skills"
+    "repository_name": "addyosmani/agent-skills",
+    "repository_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repository_name": "anthropics/financial-services",
+    "repository_url": "https://github.com/anthropics/financial-services"
   },
   {
     "repository_name": "bwya77/vscode-dark-islands",
     "repository_url": "https://github.com/bwya77/vscode-dark-islands"
   },
   {
-    "repository_name": "cocoindex-io/cocoindex",
-    "repository_url": "https://github.com/cocoindex-io/cocoindex"
+    "repository_name": "bytedance/deer-flow",
+    "repository_url": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "repository_name": "cheahjs/free-llm-api-resources",
+    "repository_url": "https://github.com/cheahjs/free-llm-api-resources"
   },
   {
     "repository_name": "docusealco/docuseal",
     "repository_url": "https://github.com/docusealco/docuseal"
   },
   {
-    "repository_name": "forrestchang/andrej-karpathy-skills",
-    "repository_url": "https://github.com/forrestchang/andrej-karpathy-skills"
-  },
-  {
-    "repository_name": "jwasham/coding-interview-university",
-    "repository_url": "https://github.com/jwasham/coding-interview-university"
-  },
-  {
-    "repository_name": "mksglu/context-mode",
-    "repository_url": "https://github.com/mksglu/context-mode"
-  },
-  {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
-  },
-  {
     "repository_name": "ruvnet/ruflo",
     "repository_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
   {
     "repository_name": "virattt/dexter",
