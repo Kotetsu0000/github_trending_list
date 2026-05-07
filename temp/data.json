@@ -1,11 +1,7 @@
 [
   {
-    "repository_name": "BigBodyCobain/Shadowbroker",
-    "repository_url": "https://github.com/BigBodyCobain/Shadowbroker"
-  },
-  {
-    "repository_name": "D4Vinci/Scrapling",
-    "repository_url": "https://github.com/D4Vinci/Scrapling"
+    "repository_name": "Augani/openreel-video",
+    "repository_url": "https://github.com/Augani/openreel-video"
   },
   {
     "repository_name": "Hmbown/DeepSeek-TUI",
@@ -16,16 +12,20 @@
     "repository_url": "https://github.com/InsForge/InsForge"
   },
   {
-    "repository_name": "LadybirdBrowser/ladybird",
-    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
-  },
-  {
     "repository_name": "LearningCircuit/local-deep-research",
     "repository_url": "https://github.com/LearningCircuit/local-deep-research"
   },
   {
     "repository_name": "PriorLabs/TabPFN",
     "repository_url": "https://github.com/PriorLabs/TabPFN"
+  },
+  {
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "repository_name": "aaif-goose/goose",
+    "repository_url": "https://github.com/aaif-goose/goose"
   },
   {
     "repository_name": "addyosmani/agent-skills",
@@ -36,31 +36,19 @@
     "repository_url": "https://github.com/anthropics/financial-services"
   },
   {
-    "repository_name": "bwya77/vscode-dark-islands",
-    "repository_url": "https://github.com/bwya77/vscode-dark-islands"
-  },
-  {
-    "repository_name": "bytedance/deer-flow",
-    "repository_url": "https://github.com/bytedance/deer-flow"
-  },
-  {
-    "repository_name": "cheahjs/free-llm-api-resources",
-    "repository_url": "https://github.com/cheahjs/free-llm-api-resources"
+    "repository_name": "decolua/9router",
+    "repository_url": "https://github.com/decolua/9router"
   },
   {
     "repository_name": "docusealco/docuseal",
     "repository_url": "https://github.com/docusealco/docuseal"
   },
   {
-    "repository_name": "ruvnet/ruflo",
-    "repository_url": "https://github.com/ruvnet/ruflo"
+    "repository_name": "vercel-labs/open-agents",
+    "repository_url": "https://github.com/vercel-labs/open-agents"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
-  },
-  {
-    "repository_name": "virattt/dexter",
-    "repository_url": "https://github.com/virattt/dexter"
+    "repository_name": "z-lab/dflash",
+    "repository_url": "https://github.com/z-lab/dflash"
   }
 ]
