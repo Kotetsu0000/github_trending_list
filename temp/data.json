@@ -1,19 +1,11 @@
 [
   {
-    "repository_name": "CloakHQ/CloakBrowser",
-    "repository_url": "https://github.com/CloakHQ/CloakBrowser"
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "HKUDS/AI-Trader",
-    "repository_url": "https://github.com/HKUDS/AI-Trader"
-  },
-  {
-    "repository_name": "Hmbown/DeepSeek-TUI",
-    "repository_url": "https://github.com/Hmbown/DeepSeek-TUI"
-  },
-  {
-    "repository_name": "LearningCircuit/local-deep-research",
-    "repository_url": "https://github.com/LearningCircuit/local-deep-research"
+    "repository_name": "Lordog/dive-into-llms",
+    "repository_url": "https://github.com/Lordog/dive-into-llms"
   },
   {
     "repository_name": "addyosmani/agent-skills",
@@ -24,8 +16,12 @@
     "repository_url": "https://github.com/anthropics/financial-services"
   },
   {
-    "repository_name": "awslabs/aidlc-workflows",
-    "repository_url": "https://github.com/awslabs/aidlc-workflows"
+    "repository_name": "bytedance/UI-TARS-desktop",
+    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "repository_name": "datawhalechina/easy-vibe",
+    "repository_url": "https://github.com/datawhalechina/easy-vibe"
   },
   {
     "repository_name": "datawhalechina/hello-agents",
@@ -36,15 +32,23 @@
     "repository_url": "https://github.com/decolua/9router"
   },
   {
-    "repository_name": "flutter/skills",
-    "repository_url": "https://github.com/flutter/skills"
+    "repository_name": "masterking32/MasterDnsVPN",
+    "repository_url": "https://github.com/masterking32/MasterDnsVPN"
   },
   {
-    "repository_name": "lobehub/lobehub",
-    "repository_url": "https://github.com/lobehub/lobehub"
+    "repository_name": "oracle-devrel/oracle-ai-developer-hub",
+    "repository_url": "https://github.com/oracle-devrel/oracle-ai-developer-hub"
   },
   {
-    "repository_name": "z-lab/dflash",
-    "repository_url": "https://github.com/z-lab/dflash"
+    "repository_name": "playcanvas/supersplat",
+    "repository_url": "https://github.com/playcanvas/supersplat"
+  },
+  {
+    "repository_name": "rohitg00/agentmemory",
+    "repository_url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "repository_name": "rowboatlabs/rowboat",
+    "repository_url": "https://github.com/rowboatlabs/rowboat"
   }
 ]
