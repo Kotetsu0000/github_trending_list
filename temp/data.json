@@ -1,39 +1,31 @@
 [
   {
-    "repository_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "repository_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
-  },
-  {
     "repository_name": "CloakHQ/CloakBrowser",
     "repository_url": "https://github.com/CloakHQ/CloakBrowser"
   },
   {
-    "repository_name": "Lordog/dive-into-llms",
-    "repository_url": "https://github.com/Lordog/dive-into-llms"
+    "repository_name": "HKUDS/AI-Trader",
+    "repository_url": "https://github.com/HKUDS/AI-Trader"
   },
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
+    "repository_name": "anonfaded/FadCam",
+    "repository_url": "https://github.com/anonfaded/FadCam"
   },
   {
-    "repository_name": "bytedance/UI-TARS-desktop",
-    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
+    "repository_name": "apernet/hysteria",
+    "repository_url": "https://github.com/apernet/hysteria"
   },
   {
-    "repository_name": "datawhalechina/easy-vibe",
-    "repository_url": "https://github.com/datawhalechina/easy-vibe"
+    "repository_name": "datawhalechina/hello-agents",
+    "repository_url": "https://github.com/datawhalechina/hello-agents"
   },
   {
-    "repository_name": "decolua/9router",
-    "repository_url": "https://github.com/decolua/9router"
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "millionco/react-doctor",
     "repository_url": "https://github.com/millionco/react-doctor"
-  },
-  {
-    "repository_name": "playcanvas/supersplat",
-    "repository_url": "https://github.com/playcanvas/supersplat"
   },
   {
     "repository_name": "rasbt/LLMs-from-scratch",
