@@ -1,23 +1,39 @@
 [
   {
+    "repository_name": "ArthurBrussee/brush",
+    "repository_url": "https://github.com/ArthurBrussee/brush"
+  },
+  {
     "repository_name": "CloakHQ/CloakBrowser",
     "repository_url": "https://github.com/CloakHQ/CloakBrowser"
   },
   {
-    "repository_name": "HKUDS/AI-Trader",
-    "repository_url": "https://github.com/HKUDS/AI-Trader"
+    "repository_name": "Greedeks/GTweak",
+    "repository_url": "https://github.com/Greedeks/GTweak"
   },
   {
-    "repository_name": "anonfaded/FadCam",
-    "repository_url": "https://github.com/anonfaded/FadCam"
+    "repository_name": "K-Dense-AI/scientific-agent-skills",
+    "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
     "repository_name": "apernet/hysteria",
     "repository_url": "https://github.com/apernet/hysteria"
   },
   {
-    "repository_name": "datawhalechina/hello-agents",
-    "repository_url": "https://github.com/datawhalechina/hello-agents"
+    "repository_name": "danielmiessler/Personal_AI_Infrastructure",
+    "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+  },
+  {
+    "repository_name": "github/spec-kit",
+    "repository_url": "https://github.com/github/spec-kit"
+  },
+  {
+    "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "repository_name": "influxdata/telegraf",
+    "repository_url": "https://github.com/influxdata/telegraf"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -28,6 +44,10 @@
     "repository_url": "https://github.com/millionco/react-doctor"
   },
   {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
     "repository_name": "rasbt/LLMs-from-scratch",
     "repository_url": "https://github.com/rasbt/LLMs-from-scratch"
   },
@@ -36,8 +56,20 @@
     "repository_url": "https://github.com/rohitg00/agentmemory"
   },
   {
+    "repository_name": "supertone-inc/supertonic",
+    "repository_url": "https://github.com/supertone-inc/supertonic"
+  },
+  {
     "repository_name": "tinyhumansai/openhuman",
     "repository_url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "repository_name": "ton-blockchain/acton",
+    "repository_url": "https://github.com/ton-blockchain/acton"
+  },
+  {
+    "repository_name": "trycua/cua",
+    "repository_url": "https://github.com/trycua/cua"
   },
   {
     "repository_name": "yikart/AiToEarn",
