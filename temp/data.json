@@ -1,31 +1,27 @@
 [
   {
-    "repository_name": "ArthurBrussee/brush",
-    "repository_url": "https://github.com/ArthurBrussee/brush"
-  },
-  {
     "repository_name": "CloakHQ/CloakBrowser",
     "repository_url": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "repository_name": "Genymobile/scrcpy",
+    "repository_url": "https://github.com/Genymobile/scrcpy"
   },
   {
     "repository_name": "K-Dense-AI/scientific-agent-skills",
     "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
-    "repository_name": "apernet/hysteria",
-    "repository_url": "https://github.com/apernet/hysteria"
+    "repository_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "repository_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
   },
   {
-    "repository_name": "danielmiessler/Personal_AI_Infrastructure",
-    "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    "repository_name": "garrytan/gstack",
+    "repository_url": "https://github.com/garrytan/gstack"
   },
   {
     "repository_name": "github/spec-kit",
     "repository_url": "https://github.com/github/spec-kit"
-  },
-  {
-    "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
-    "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
   },
   {
     "repository_name": "influxdata/telegraf",
@@ -36,20 +32,24 @@
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "millionco/react-doctor",
-    "repository_url": "https://github.com/millionco/react-doctor"
-  },
-  {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "rasbt/LLMs-from-scratch",
-    "repository_url": "https://github.com/rasbt/LLMs-from-scratch"
+    "repository_name": "roboflow/supervision",
+    "repository_url": "https://github.com/roboflow/supervision"
   },
   {
     "repository_name": "rohitg00/agentmemory",
     "repository_url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
   {
     "repository_name": "supertone-inc/supertonic",
@@ -58,17 +58,5 @@
   {
     "repository_name": "tinyhumansai/openhuman",
     "repository_url": "https://github.com/tinyhumansai/openhuman"
-  },
-  {
-    "repository_name": "ton-blockchain/acton",
-    "repository_url": "https://github.com/ton-blockchain/acton"
-  },
-  {
-    "repository_name": "trycua/cua",
-    "repository_url": "https://github.com/trycua/cua"
-  },
-  {
-    "repository_name": "yikart/AiToEarn",
-    "repository_url": "https://github.com/yikart/AiToEarn"
   }
 ]
