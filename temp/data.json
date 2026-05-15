@@ -1,13 +1,5 @@
 [
   {
-    "repository_name": "CloakHQ/CloakBrowser",
-    "repository_url": "https://github.com/CloakHQ/CloakBrowser"
-  },
-  {
-    "repository_name": "Genymobile/scrcpy",
-    "repository_url": "https://github.com/Genymobile/scrcpy"
-  },
-  {
     "repository_name": "K-Dense-AI/scientific-agent-skills",
     "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -16,16 +8,20 @@
     "repository_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
   },
   {
-    "repository_name": "garrytan/gstack",
-    "repository_url": "https://github.com/garrytan/gstack"
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
   },
   {
-    "repository_name": "github/spec-kit",
-    "repository_url": "https://github.com/github/spec-kit"
+    "repository_name": "czlonkowski/n8n-mcp",
+    "repository_url": "https://github.com/czlonkowski/n8n-mcp"
   },
   {
     "repository_name": "influxdata/telegraf",
     "repository_url": "https://github.com/influxdata/telegraf"
+  },
+  {
+    "repository_name": "joeseesun/qiaomu-anything-to-notebooklm",
+    "repository_url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -36,20 +32,12 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "roboflow/supervision",
-    "repository_url": "https://github.com/roboflow/supervision"
-  },
-  {
-    "repository_name": "rohitg00/agentmemory",
-    "repository_url": "https://github.com/rohitg00/agentmemory"
+    "repository_name": "oven-sh/bun",
+    "repository_url": "https://github.com/oven-sh/bun"
   },
   {
     "repository_name": "ruvnet/RuView",
     "repository_url": "https://github.com/ruvnet/RuView"
-  },
-  {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
   {
     "repository_name": "supertone-inc/supertonic",
