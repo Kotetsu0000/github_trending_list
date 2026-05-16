@@ -1,31 +1,15 @@
 [
   {
+    "repository_name": "Anil-matcha/Open-Generative-AI",
+    "repository_url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
     "repository_name": "K-Dense-AI/scientific-agent-skills",
     "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
-    "repository_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "repository_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
-  },
-  {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
-  },
-  {
-    "repository_name": "czlonkowski/n8n-mcp",
-    "repository_url": "https://github.com/czlonkowski/n8n-mcp"
-  },
-  {
-    "repository_name": "influxdata/telegraf",
-    "repository_url": "https://github.com/influxdata/telegraf"
-  },
-  {
-    "repository_name": "joeseesun/qiaomu-anything-to-notebooklm",
-    "repository_url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
-  },
-  {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
+    "repository_name": "colbymchenry/codegraph",
+    "repository_url": "https://github.com/colbymchenry/codegraph"
   },
   {
     "repository_name": "obra/superpowers",
@@ -34,6 +18,10 @@
   {
     "repository_name": "oven-sh/bun",
     "repository_url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "repository_name": "pranshuparmar/witr",
+    "repository_url": "https://github.com/pranshuparmar/witr"
   },
   {
     "repository_name": "ruvnet/RuView",
