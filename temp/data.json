@@ -1,67 +1,55 @@
 [
   {
-    "repository_name": "Anil-matcha/Open-Generative-AI",
-    "repository_url": "https://github.com/Anil-matcha/Open-Generative-AI"
-  },
-  {
     "repository_name": "BigBodyCobain/Shadowbroker",
     "repository_url": "https://github.com/BigBodyCobain/Shadowbroker"
+  },
+  {
+    "repository_name": "CloakHQ/CloakBrowser",
+    "repository_url": "https://github.com/CloakHQ/CloakBrowser"
   },
   {
     "repository_name": "HKUDS/CLI-Anything",
     "repository_url": "https://github.com/HKUDS/CLI-Anything"
   },
   {
+    "repository_name": "Imbad0202/academic-research-skills",
+    "repository_url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
     "repository_name": "K-Dense-AI/scientific-agent-skills",
     "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
-    "repository_name": "KeygraphHQ/shannon",
-    "repository_url": "https://github.com/KeygraphHQ/shannon"
+    "repository_name": "NVlabs/Sana",
+    "repository_url": "https://github.com/NVlabs/Sana"
   },
   {
-    "repository_name": "Light-Heart-Labs/DreamServer",
-    "repository_url": "https://github.com/Light-Heart-Labs/DreamServer"
+    "repository_name": "ZhuLinsen/daily_stock_analysis",
+    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
   },
   {
-    "repository_name": "NirDiamant/agents-towards-production",
-    "repository_url": "https://github.com/NirDiamant/agents-towards-production"
+    "repository_name": "ggml-org/llama.cpp",
+    "repository_url": "https://github.com/ggml-org/llama.cpp"
   },
   {
-    "repository_name": "TryGhost/Ghost",
-    "repository_url": "https://github.com/TryGhost/Ghost"
-  },
-  {
-    "repository_name": "calcom/cal.diy",
-    "repository_url": "https://github.com/calcom/cal.diy"
-  },
-  {
-    "repository_name": "colbymchenry/codegraph",
-    "repository_url": "https://github.com/colbymchenry/codegraph"
-  },
-  {
-    "repository_name": "dograh-hq/dograh",
-    "repository_url": "https://github.com/dograh-hq/dograh"
-  },
-  {
-    "repository_name": "knadh/listmonk",
-    "repository_url": "https://github.com/knadh/listmonk"
-  },
-  {
-    "repository_name": "medusajs/medusa",
-    "repository_url": "https://github.com/medusajs/medusa"
+    "repository_name": "humanlayer/12-factor-agents",
+    "repository_url": "https://github.com/humanlayer/12-factor-agents"
   },
   {
     "repository_name": "microsoft/ai-agents-for-beginners",
     "repository_url": "https://github.com/microsoft/ai-agents-for-beginners"
   },
   {
-    "repository_name": "oven-sh/bun",
-    "repository_url": "https://github.com/oven-sh/bun"
-  },
-  {
     "repository_name": "plausible/analytics",
     "repository_url": "https://github.com/plausible/analytics"
+  },
+  {
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repository_name": "supertone-inc/supertonic",
+    "repository_url": "https://github.com/supertone-inc/supertonic"
   },
   {
     "repository_name": "tech-leads-club/agent-skills",
