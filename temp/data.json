@@ -1,35 +1,39 @@
 [
   {
-    "repository_name": "BigBodyCobain/Shadowbroker",
-    "repository_url": "https://github.com/BigBodyCobain/Shadowbroker"
+    "repository_name": "Alishahryar1/free-claude-code",
+    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
   },
   {
     "repository_name": "CloakHQ/CloakBrowser",
     "repository_url": "https://github.com/CloakHQ/CloakBrowser"
   },
   {
+    "repository_name": "Diolinux/PhotoGIMP",
+    "repository_url": "https://github.com/Diolinux/PhotoGIMP"
+  },
+  {
     "repository_name": "HKUDS/CLI-Anything",
     "repository_url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repository_name": "HKUDS/ViMax",
+    "repository_url": "https://github.com/HKUDS/ViMax"
   },
   {
     "repository_name": "Imbad0202/academic-research-skills",
     "repository_url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
-    "repository_name": "K-Dense-AI/scientific-agent-skills",
-    "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    "repository_name": "anthropics/claude-plugins-official",
+    "repository_url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
-    "repository_name": "NVlabs/Sana",
-    "repository_url": "https://github.com/NVlabs/Sana"
+    "repository_name": "colbymchenry/codegraph",
+    "repository_url": "https://github.com/colbymchenry/codegraph"
   },
   {
-    "repository_name": "ZhuLinsen/daily_stock_analysis",
-    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
-  },
-  {
-    "repository_name": "ggml-org/llama.cpp",
-    "repository_url": "https://github.com/ggml-org/llama.cpp"
+    "repository_name": "frappe/erpnext",
+    "repository_url": "https://github.com/frappe/erpnext"
   },
   {
     "repository_name": "humanlayer/12-factor-agents",
@@ -40,20 +44,28 @@
     "repository_url": "https://github.com/microsoft/ai-agents-for-beginners"
   },
   {
-    "repository_name": "plausible/analytics",
-    "repository_url": "https://github.com/plausible/analytics"
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
-    "repository_name": "ruvnet/RuView",
-    "repository_url": "https://github.com/ruvnet/RuView"
+    "repository_name": "multica-ai/andrej-karpathy-skills",
+    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
   },
   {
-    "repository_name": "supertone-inc/supertonic",
-    "repository_url": "https://github.com/supertone-inc/supertonic"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "tech-leads-club/agent-skills",
-    "repository_url": "https://github.com/tech-leads-club/agent-skills"
+    "repository_name": "pascalorg/editor",
+    "repository_url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "repository_name": "rohitg00/agentmemory",
+    "repository_url": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "repository_name": "rtk-ai/rtk",
+    "repository_url": "https://github.com/rtk-ai/rtk"
   },
   {
     "repository_name": "tinyhumansai/openhuman",
