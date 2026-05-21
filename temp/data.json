@@ -1,19 +1,31 @@
 [
   {
-    "repository_name": "HKUDS/CLI-Anything",
-    "repository_url": "https://github.com/HKUDS/CLI-Anything"
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "HKUDS/ViMax",
-    "repository_url": "https://github.com/HKUDS/ViMax"
+    "repository_name": "HKUDS/CLI-Anything",
+    "repository_url": "https://github.com/HKUDS/CLI-Anything"
   },
   {
     "repository_name": "Imbad0202/academic-research-skills",
     "repository_url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
+    "repository_name": "Lum1104/Understand-Anything",
+    "repository_url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "repository_name": "alireza0/s-ui",
+    "repository_url": "https://github.com/alireza0/s-ui"
+  },
+  {
     "repository_name": "anthropics/claude-plugins-official",
     "repository_url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "repository_name": "antoinezambelli/forge",
+    "repository_url": "https://github.com/antoinezambelli/forge"
   },
   {
     "repository_name": "can1357/oh-my-pi",
@@ -24,8 +36,8 @@
     "repository_url": "https://github.com/colbymchenry/codegraph"
   },
   {
-    "repository_name": "ggml-org/llama.cpp",
-    "repository_url": "https://github.com/ggml-org/llama.cpp"
+    "repository_name": "dotnet/skills",
+    "repository_url": "https://github.com/dotnet/skills"
   },
   {
     "repository_name": "msitarzewski/agency-agents",
@@ -36,35 +48,31 @@
     "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "multica-ai/multica",
+    "repository_url": "https://github.com/multica-ai/multica"
   },
   {
-    "repository_name": "opentoonz/opentoonz",
-    "repository_url": "https://github.com/opentoonz/opentoonz"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "rmyndharis/OpenWA",
     "repository_url": "https://github.com/rmyndharis/OpenWA"
   },
   {
-    "repository_name": "rohitg00/agentmemory",
-    "repository_url": "https://github.com/rohitg00/agentmemory"
-  },
-  {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "tinyhumansai/openhuman",
-    "repository_url": "https://github.com/tinyhumansai/openhuman"
+    "repository_name": "teng-lin/notebooklm-py",
+    "repository_url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "repository_name": "trimstray/the-book-of-secret-knowledge",
+    "repository_url": "https://github.com/trimstray/the-book-of-secret-knowledge"
   },
   {
     "repository_name": "truelockmc/streambert",
     "repository_url": "https://github.com/truelockmc/streambert"
-  },
-  {
-    "repository_name": "zakirullin/files.md",
-    "repository_url": "https://github.com/zakirullin/files.md"
   }
 ]
