@@ -4,28 +4,20 @@
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "HKUDS/CLI-Anything",
-    "repository_url": "https://github.com/HKUDS/CLI-Anything"
-  },
-  {
-    "repository_name": "Imbad0202/academic-research-skills",
-    "repository_url": "https://github.com/Imbad0202/academic-research-skills"
+    "repository_name": "Fincept-Corporation/FinceptTerminal",
+    "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal"
   },
   {
     "repository_name": "Lum1104/Understand-Anything",
     "repository_url": "https://github.com/Lum1104/Understand-Anything"
   },
   {
-    "repository_name": "alireza0/s-ui",
-    "repository_url": "https://github.com/alireza0/s-ui"
-  },
-  {
     "repository_name": "anthropics/claude-plugins-official",
     "repository_url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
-    "repository_name": "antoinezambelli/forge",
-    "repository_url": "https://github.com/antoinezambelli/forge"
+    "repository_name": "byJoey/cfnew",
+    "repository_url": "https://github.com/byJoey/cfnew"
   },
   {
     "repository_name": "can1357/oh-my-pi",
@@ -40,39 +32,27 @@
     "repository_url": "https://github.com/dotnet/skills"
   },
   {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
+    "repository_name": "karpathy/nn-zero-to-hero",
+    "repository_url": "https://github.com/karpathy/nn-zero-to-hero"
   },
   {
-    "repository_name": "multica-ai/andrej-karpathy-skills",
-    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
-  },
-  {
-    "repository_name": "multica-ai/multica",
-    "repository_url": "https://github.com/multica-ai/multica"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
-    "repository_name": "rmyndharis/OpenWA",
-    "repository_url": "https://github.com/rmyndharis/OpenWA"
+    "repository_name": "odoo/odoo",
+    "repository_url": "https://github.com/odoo/odoo"
   },
   {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "teng-lin/notebooklm-py",
-    "repository_url": "https://github.com/teng-lin/notebooklm-py"
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
   },
   {
     "repository_name": "trimstray/the-book-of-secret-knowledge",
     "repository_url": "https://github.com/trimstray/the-book-of-secret-knowledge"
   },
   {
-    "repository_name": "truelockmc/streambert",
-    "repository_url": "https://github.com/truelockmc/streambert"
+    "repository_name": "yt-dlp/yt-dlp",
+    "repository_url": "https://github.com/yt-dlp/yt-dlp"
   }
 ]
