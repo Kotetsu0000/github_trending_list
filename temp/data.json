@@ -1,23 +1,31 @@
 [
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    "repository_name": "666ghj/MiroFish",
+    "repository_url": "https://github.com/666ghj/MiroFish"
   },
   {
-    "repository_name": "Fincept-Corporation/FinceptTerminal",
-    "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+    "repository_name": "Alishahryar1/free-claude-code",
+    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
   },
   {
     "repository_name": "Lum1104/Understand-Anything",
     "repository_url": "https://github.com/Lum1104/Understand-Anything"
   },
   {
-    "repository_name": "NVlabs/LongLive",
-    "repository_url": "https://github.com/NVlabs/LongLive"
-  },
-  {
     "repository_name": "anthropics/claude-plugins-official",
     "repository_url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "repository_name": "anthropics/knowledge-work-plugins",
+    "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repository_name": "blakeblackshear/frigate",
+    "repository_url": "https://github.com/blakeblackshear/frigate"
+  },
+  {
+    "repository_name": "codecrafters-io/build-your-own-x",
+    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
     "repository_name": "colbymchenry/codegraph",
@@ -28,8 +36,12 @@
     "repository_url": "https://github.com/dotnet/skills"
   },
   {
-    "repository_name": "janestreet/magic-trace",
-    "repository_url": "https://github.com/janestreet/magic-trace"
+    "repository_name": "earendil-works/pi",
+    "repository_url": "https://github.com/earendil-works/pi"
+  },
+  {
+    "repository_name": "manaflow-ai/cmux",
+    "repository_url": "https://github.com/manaflow-ai/cmux"
   },
   {
     "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -44,23 +56,11 @@
     "repository_url": "https://github.com/multica-ai/multica"
   },
   {
-    "repository_name": "odoo/odoo",
-    "repository_url": "https://github.com/odoo/odoo"
-  },
-  {
-    "repository_name": "presenton/presenton",
-    "repository_url": "https://github.com/presenton/presenton"
-  },
-  {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "trimstray/the-book-of-secret-knowledge",
-    "repository_url": "https://github.com/trimstray/the-book-of-secret-knowledge"
-  },
-  {
-    "repository_name": "yt-dlp/yt-dlp",
-    "repository_url": "https://github.com/yt-dlp/yt-dlp"
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
   }
 ]
