@@ -1,47 +1,51 @@
 [
   {
-    "repository_name": "666ghj/MiroFish",
-    "repository_url": "https://github.com/666ghj/MiroFish"
+    "repository_name": "Axorax/awesome-free-apps",
+    "repository_url": "https://github.com/Axorax/awesome-free-apps"
   },
   {
-    "repository_name": "Alishahryar1/free-claude-code",
-    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
+    "repository_name": "Fincept-Corporation/FinceptTerminal",
+    "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "repository_name": "Leonxlnx/taste-skill",
+    "repository_url": "https://github.com/Leonxlnx/taste-skill"
   },
   {
     "repository_name": "Lum1104/Understand-Anything",
     "repository_url": "https://github.com/Lum1104/Understand-Anything"
   },
   {
-    "repository_name": "anthropics/claude-plugins-official",
-    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repository_name": "anthropics/claude-cookbooks",
+    "repository_url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
     "repository_name": "anthropics/knowledge-work-plugins",
     "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
   },
   {
-    "repository_name": "blakeblackshear/frigate",
-    "repository_url": "https://github.com/blakeblackshear/frigate"
-  },
-  {
-    "repository_name": "codecrafters-io/build-your-own-x",
-    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
-  },
-  {
     "repository_name": "colbymchenry/codegraph",
     "repository_url": "https://github.com/colbymchenry/codegraph"
   },
   {
-    "repository_name": "dotnet/skills",
-    "repository_url": "https://github.com/dotnet/skills"
+    "repository_name": "garrytan/gstack",
+    "repository_url": "https://github.com/garrytan/gstack"
   },
   {
-    "repository_name": "earendil-works/pi",
-    "repository_url": "https://github.com/earendil-works/pi"
+    "repository_name": "hardikpandya/stop-slop",
+    "repository_url": "https://github.com/hardikpandya/stop-slop"
   },
   {
     "repository_name": "manaflow-ai/cmux",
     "repository_url": "https://github.com/manaflow-ai/cmux"
+  },
+  {
+    "repository_name": "moeru-ai/airi",
+    "repository_url": "https://github.com/moeru-ai/airi"
   },
   {
     "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -52,8 +56,8 @@
     "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
   },
   {
-    "repository_name": "multica-ai/multica",
-    "repository_url": "https://github.com/multica-ai/multica"
+    "repository_name": "paperless-ngx/paperless-ngx",
+    "repository_url": "https://github.com/paperless-ngx/paperless-ngx"
   },
   {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
