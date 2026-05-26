@@ -4,8 +4,8 @@
     "repository_url": "https://github.com/Axorax/awesome-free-apps"
   },
   {
-    "repository_name": "Fincept-Corporation/FinceptTerminal",
-    "repository_url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+    "repository_name": "DigitalPlatDev/FreeDomain",
+    "repository_url": "https://github.com/DigitalPlatDev/FreeDomain"
   },
   {
     "repository_name": "Leonxlnx/taste-skill",
@@ -16,55 +16,43 @@
     "repository_url": "https://github.com/Lum1104/Understand-Anything"
   },
   {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
+    "repository_name": "Open-Dev-Society/OpenStock",
+    "repository_url": "https://github.com/Open-Dev-Society/OpenStock"
   },
   {
-    "repository_name": "anthropics/claude-cookbooks",
-    "repository_url": "https://github.com/anthropics/claude-cookbooks"
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
     "repository_name": "anthropics/knowledge-work-plugins",
     "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
   },
   {
-    "repository_name": "colbymchenry/codegraph",
-    "repository_url": "https://github.com/colbymchenry/codegraph"
-  },
-  {
-    "repository_name": "garrytan/gstack",
-    "repository_url": "https://github.com/garrytan/gstack"
-  },
-  {
     "repository_name": "hardikpandya/stop-slop",
     "repository_url": "https://github.com/hardikpandya/stop-slop"
   },
   {
-    "repository_name": "manaflow-ai/cmux",
-    "repository_url": "https://github.com/manaflow-ai/cmux"
-  },
-  {
-    "repository_name": "moeru-ai/airi",
-    "repository_url": "https://github.com/moeru-ai/airi"
+    "repository_name": "jellyfin/jellyfin",
+    "repository_url": "https://github.com/jellyfin/jellyfin"
   },
   {
     "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
     "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
   },
   {
-    "repository_name": "multica-ai/andrej-karpathy-skills",
-    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
-  },
-  {
-    "repository_name": "paperless-ngx/paperless-ngx",
-    "repository_url": "https://github.com/paperless-ngx/paperless-ngx"
-  },
-  {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
+    "repository_name": "st-tech/ppf-contact-solver",
+    "repository_url": "https://github.com/st-tech/ppf-contact-solver"
+  },
+  {
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "twentyhq/twenty",
+    "repository_url": "https://github.com/twentyhq/twenty"
   }
 ]
