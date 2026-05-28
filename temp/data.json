@@ -1,15 +1,11 @@
 [
   {
-    "repository_name": "Axorax/awesome-free-apps",
-    "repository_url": "https://github.com/Axorax/awesome-free-apps"
-  },
-  {
-    "repository_name": "Chachamaru127/claude-code-harness",
-    "repository_url": "https://github.com/Chachamaru127/claude-code-harness"
-  },
-  {
     "repository_name": "DigitalPlatDev/FreeDomain",
     "repository_url": "https://github.com/DigitalPlatDev/FreeDomain"
+  },
+  {
+    "repository_name": "EveryInc/compound-engineering-plugin",
+    "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
   },
   {
     "repository_name": "Leonxlnx/taste-skill",
@@ -20,16 +16,24 @@
     "repository_url": "https://github.com/Lum1104/Understand-Anything"
   },
   {
+    "repository_name": "OpenMOSS/MOSS-TTS",
+    "repository_url": "https://github.com/OpenMOSS/MOSS-TTS"
+  },
+  {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "anthropics/knowledge-work-plugins",
-    "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
   },
   {
     "repository_name": "byoungd/English-level-up-tips",
     "repository_url": "https://github.com/byoungd/English-level-up-tips"
+  },
+  {
+    "repository_name": "codecrafters-io/build-your-own-x",
+    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
     "repository_name": "hardikpandya/stop-slop",
@@ -40,31 +44,23 @@
     "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
-    "repository_name": "iii-hq/iii",
-    "repository_url": "https://github.com/iii-hq/iii"
-  },
-  {
-    "repository_name": "moeru-ai/airi",
-    "repository_url": "https://github.com/moeru-ai/airi"
-  },
-  {
-    "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
-    "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    "repository_name": "microsoft/markitdown",
+    "repository_url": "https://github.com/microsoft/markitdown"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "p-e-w/heretic",
-    "repository_url": "https://github.com/p-e-w/heretic"
-  },
-  {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
+    "repository_name": "revfactory/harness",
+    "repository_url": "https://github.com/revfactory/harness"
   },
   {
     "repository_name": "twentyhq/twenty",
     "repository_url": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "repository_name": "unclecode/crawl4ai",
+    "repository_url": "https://github.com/unclecode/crawl4ai"
   }
 ]
