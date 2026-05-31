@@ -4,8 +4,8 @@
     "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
   },
   {
-    "repository_name": "DataTalksClub/data-engineering-zoomcamp",
-    "repository_url": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
+    "repository_name": "D4Vinci/Scrapling",
+    "repository_url": "https://github.com/D4Vinci/Scrapling"
   },
   {
     "repository_name": "EveryInc/compound-engineering-plugin",
@@ -20,40 +20,20 @@
     "repository_url": "https://github.com/OpenBMB/VoxCPM"
   },
   {
-    "repository_name": "OpenMOSS/MOSS-TTS",
-    "repository_url": "https://github.com/OpenMOSS/MOSS-TTS"
-  },
-  {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
-  },
-  {
     "repository_name": "anthropics/claude-code",
     "repository_url": "https://github.com/anthropics/claude-code"
-  },
-  {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
-  },
-  {
-    "repository_name": "chen08209/FlClash",
-    "repository_url": "https://github.com/chen08209/FlClash"
   },
   {
     "repository_name": "codecrafters-io/build-your-own-x",
     "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
-    "repository_name": "cursor/plugins",
-    "repository_url": "https://github.com/cursor/plugins"
+    "repository_name": "emmabostian/developer-portfolios",
+    "repository_url": "https://github.com/emmabostian/developer-portfolios"
   },
   {
-    "repository_name": "dreammis/social-auto-upload",
-    "repository_url": "https://github.com/dreammis/social-auto-upload"
-  },
-  {
-    "repository_name": "galilai-group/stable-worldmodel",
-    "repository_url": "https://github.com/galilai-group/stable-worldmodel"
+    "repository_name": "github/docs",
+    "repository_url": "https://github.com/github/docs"
   },
   {
     "repository_name": "harry0703/MoneyPrinterTurbo",
@@ -64,15 +44,19 @@
     "repository_url": "https://github.com/microsoft/markitdown"
   },
   {
+    "repository_name": "nesquena/hermes-webui",
+    "repository_url": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "repository_name": "nicobailon/pi-subagents",
+    "repository_url": "https://github.com/nicobailon/pi-subagents"
+  },
+  {
     "repository_name": "revfactory/harness",
     "repository_url": "https://github.com/revfactory/harness"
   },
   {
-    "repository_name": "run-llama/liteparse",
-    "repository_url": "https://github.com/run-llama/liteparse"
-  },
-  {
-    "repository_name": "ruvnet/RuView",
-    "repository_url": "https://github.com/ruvnet/RuView"
+    "repository_name": "supermemoryai/supermemory",
+    "repository_url": "https://github.com/supermemoryai/supermemory"
   }
 ]
