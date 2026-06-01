@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "Crosstalk-Solutions/project-nomad",
-    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
-  },
-  {
     "repository_name": "D4Vinci/Scrapling",
     "repository_url": "https://github.com/D4Vinci/Scrapling"
   },
@@ -20,20 +16,24 @@
     "repository_url": "https://github.com/OpenBMB/VoxCPM"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "repository_name": "can1357/oh-my-pi",
+    "repository_url": "https://github.com/can1357/oh-my-pi"
   },
   {
     "repository_name": "codecrafters-io/build-your-own-x",
     "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
-    "repository_name": "emmabostian/developer-portfolios",
-    "repository_url": "https://github.com/emmabostian/developer-portfolios"
+    "repository_name": "dmtrKovalenko/fff",
+    "repository_url": "https://github.com/dmtrKovalenko/fff"
   },
   {
-    "repository_name": "github/docs",
-    "repository_url": "https://github.com/github/docs"
+    "repository_name": "godotengine/godot",
+    "repository_url": "https://github.com/godotengine/godot"
   },
   {
     "repository_name": "harry0703/MoneyPrinterTurbo",
@@ -48,12 +48,20 @@
     "repository_url": "https://github.com/nesquena/hermes-webui"
   },
   {
-    "repository_name": "nicobailon/pi-subagents",
-    "repository_url": "https://github.com/nicobailon/pi-subagents"
+    "repository_name": "p-e-w/heretic",
+    "repository_url": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "repository_name": "pbakaus/impeccable",
+    "repository_url": "https://github.com/pbakaus/impeccable"
   },
   {
     "repository_name": "revfactory/harness",
     "repository_url": "https://github.com/revfactory/harness"
+  },
+  {
+    "repository_name": "stefan-jansen/machine-learning-for-trading",
+    "repository_url": "https://github.com/stefan-jansen/machine-learning-for-trading"
   },
   {
     "repository_name": "supermemoryai/supermemory",
