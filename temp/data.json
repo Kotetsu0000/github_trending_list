@@ -1,11 +1,7 @@
 [
   {
-    "repository_name": "D4Vinci/Scrapling",
-    "repository_url": "https://github.com/D4Vinci/Scrapling"
-  },
-  {
-    "repository_name": "HKUDS/Vibe-Trading",
-    "repository_url": "https://github.com/HKUDS/Vibe-Trading"
+    "repository_name": "NVIDIA/cosmos",
+    "repository_url": "https://github.com/NVIDIA/cosmos"
   },
   {
     "repository_name": "NousResearch/hermes-agent",
@@ -14,6 +10,10 @@
   {
     "repository_name": "Open-LLM-VTuber/Open-LLM-VTuber",
     "repository_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "repository_name": "PaddlePaddle/PaddleOCR",
+    "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
   },
   {
     "repository_name": "affaan-m/ECC",
@@ -28,31 +28,31 @@
     "repository_url": "https://github.com/chopratejas/headroom"
   },
   {
+    "repository_name": "github/copilot-sdk",
+    "repository_url": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "repository_name": "github/spec-kit",
+    "repository_url": "https://github.com/github/spec-kit"
+  },
+  {
     "repository_name": "jwasham/coding-interview-university",
     "repository_url": "https://github.com/jwasham/coding-interview-university"
   },
   {
-    "repository_name": "lyogavin/airllm",
-    "repository_url": "https://github.com/lyogavin/airllm"
+    "repository_name": "lfnovo/open-notebook",
+    "repository_url": "https://github.com/lfnovo/open-notebook"
   },
   {
-    "repository_name": "microsoft/markitdown",
-    "repository_url": "https://github.com/microsoft/markitdown"
+    "repository_name": "mvanhorn/last30days-skill",
+    "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
-    "repository_name": "nesquena/hermes-webui",
-    "repository_url": "https://github.com/nesquena/hermes-webui"
+    "repository_name": "openclaw/openclaw-windows-node",
+    "repository_url": "https://github.com/openclaw/openclaw-windows-node"
   },
   {
-    "repository_name": "odoo/odoo",
-    "repository_url": "https://github.com/odoo/odoo"
-  },
-  {
-    "repository_name": "opendataloader-project/opendataloader-pdf",
-    "repository_url": "https://github.com/opendataloader-project/opendataloader-pdf"
-  },
-  {
-    "repository_name": "supermemoryai/supermemory",
-    "repository_url": "https://github.com/supermemoryai/supermemory"
+    "repository_name": "reconurge/flowsint",
+    "repository_url": "https://github.com/reconurge/flowsint"
   }
 ]
