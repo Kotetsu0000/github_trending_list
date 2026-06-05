@@ -62,5 +62,9 @@
   {
     "repository_name": "openclaw/openclaw-windows-node",
     "repository_url": "https://github.com/openclaw/openclaw-windows-node"
+  },
+  {
+    "repository_name": "withastro/flue",
+    "repository_url": "https://github.com/withastro/flue"
   }
 ]
