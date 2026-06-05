@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "NVIDIA/cosmos",
-    "repository_url": "https://github.com/NVIDIA/cosmos"
-  },
-  {
     "repository_name": "NousResearch/hermes-agent",
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
