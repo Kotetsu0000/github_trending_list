@@ -1,5 +1,21 @@
 [
   {
+    "repository_name": "666ghj/MiroFish",
+    "repository_url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "repository_name": "CopilotKit/CopilotKit",
+    "repository_url": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "repository_name": "HKUDS/Vibe-Trading",
+    "repository_url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repository_name": "MemPalace/mempalace",
+    "repository_url": "https://github.com/MemPalace/mempalace"
+  },
+  {
     "repository_name": "NVIDIA/cosmos",
     "repository_url": "https://github.com/NVIDIA/cosmos"
   },
@@ -8,12 +24,12 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "Open-LLM-VTuber/Open-LLM-VTuber",
-    "repository_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
-  },
-  {
     "repository_name": "PaddlePaddle/PaddleOCR",
     "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "repository_name": "Panniantong/Agent-Reach",
+    "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
     "repository_name": "affaan-m/ECC",
@@ -32,10 +48,6 @@
     "repository_url": "https://github.com/github/copilot-sdk"
   },
   {
-    "repository_name": "github/spec-kit",
-    "repository_url": "https://github.com/github/spec-kit"
-  },
-  {
     "repository_name": "jwasham/coding-interview-university",
     "repository_url": "https://github.com/jwasham/coding-interview-university"
   },
@@ -48,11 +60,11 @@
     "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
-    "repository_name": "openclaw/openclaw-windows-node",
-    "repository_url": "https://github.com/openclaw/openclaw-windows-node"
+    "repository_name": "openai/plugins",
+    "repository_url": "https://github.com/openai/plugins"
   },
   {
-    "repository_name": "reconurge/flowsint",
-    "repository_url": "https://github.com/reconurge/flowsint"
+    "repository_name": "openclaw/openclaw-windows-node",
+    "repository_url": "https://github.com/openclaw/openclaw-windows-node"
   }
 ]
