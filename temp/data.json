@@ -1,23 +1,11 @@
 [
   {
-    "repository_name": "666ghj/MiroFish",
-    "repository_url": "https://github.com/666ghj/MiroFish"
-  },
-  {
     "repository_name": "CopilotKit/CopilotKit",
     "repository_url": "https://github.com/CopilotKit/CopilotKit"
   },
   {
     "repository_name": "MemPalace/mempalace",
     "repository_url": "https://github.com/MemPalace/mempalace"
-  },
-  {
-    "repository_name": "NVIDIA/cosmos",
-    "repository_url": "https://github.com/NVIDIA/cosmos"
-  },
-  {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "repository_name": "PaddlePaddle/PaddleOCR",
@@ -28,43 +16,59 @@
     "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
-  },
-  {
     "repository_name": "aquasecurity/trivy",
     "repository_url": "https://github.com/aquasecurity/trivy"
   },
   {
-    "repository_name": "chopratejas/headroom",
-    "repository_url": "https://github.com/chopratejas/headroom"
+    "repository_name": "danielmiessler/Personal_AI_Infrastructure",
+    "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
   },
   {
-    "repository_name": "github/copilot-sdk",
-    "repository_url": "https://github.com/github/copilot-sdk"
-  },
-  {
-    "repository_name": "jwasham/coding-interview-university",
-    "repository_url": "https://github.com/jwasham/coding-interview-university"
+    "repository_name": "golang/go",
+    "repository_url": "https://github.com/golang/go"
   },
   {
     "repository_name": "lfnovo/open-notebook",
     "repository_url": "https://github.com/lfnovo/open-notebook"
   },
   {
+    "repository_name": "microsoft/VibeVoice",
+    "repository_url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "repository_name": "microsoft/mxc",
+    "repository_url": "https://github.com/microsoft/mxc"
+  },
+  {
     "repository_name": "mvanhorn/last30days-skill",
     "repository_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "repository_name": "nginx/nginx",
+    "repository_url": "https://github.com/nginx/nginx"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "openai/plugins",
     "repository_url": "https://github.com/openai/plugins"
   },
   {
-    "repository_name": "openclaw/openclaw-windows-node",
-    "repository_url": "https://github.com/openclaw/openclaw-windows-node"
+    "repository_name": "openai/whisper",
+    "repository_url": "https://github.com/openai/whisper"
   },
   {
-    "repository_name": "withastro/flue",
-    "repository_url": "https://github.com/withastro/flue"
+    "repository_name": "santifer/career-ops",
+    "repository_url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "repository_name": "sveltejs/svelte",
+    "repository_url": "https://github.com/sveltejs/svelte"
+  },
+  {
+    "repository_name": "vitejs/vite",
+    "repository_url": "https://github.com/vitejs/vite"
   }
 ]
