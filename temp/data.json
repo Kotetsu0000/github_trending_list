@@ -1,74 +1,62 @@
 [
   {
-    "repository_name": "CopilotKit/CopilotKit",
-    "repository_url": "https://github.com/CopilotKit/CopilotKit"
+    "repository_name": "Crosstalk-Solutions/project-nomad",
+    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
   },
   {
-    "repository_name": "MemPalace/mempalace",
-    "repository_url": "https://github.com/MemPalace/mempalace"
+    "repository_name": "HunxByts/GhostTrack",
+    "repository_url": "https://github.com/HunxByts/GhostTrack"
   },
   {
-    "repository_name": "PaddlePaddle/PaddleOCR",
-    "repository_url": "https://github.com/PaddlePaddle/PaddleOCR"
+    "repository_name": "Leonxlnx/taste-skill",
+    "repository_url": "https://github.com/Leonxlnx/taste-skill"
   },
   {
-    "repository_name": "Panniantong/Agent-Reach",
-    "repository_url": "https://github.com/Panniantong/Agent-Reach"
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "aquasecurity/trivy",
-    "repository_url": "https://github.com/aquasecurity/trivy"
+    "repository_name": "RyanCodrai/turbovec",
+    "repository_url": "https://github.com/RyanCodrai/turbovec"
   },
   {
-    "repository_name": "danielmiessler/Personal_AI_Infrastructure",
-    "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
-    "repository_name": "golang/go",
-    "repository_url": "https://github.com/golang/go"
+    "repository_name": "aaif-goose/goose",
+    "repository_url": "https://github.com/aaif-goose/goose"
+  },
+  {
+    "repository_name": "ggml-org/llama.cpp",
+    "repository_url": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "repository_name": "lfnovo/open-notebook",
     "repository_url": "https://github.com/lfnovo/open-notebook"
   },
   {
-    "repository_name": "microsoft/VibeVoice",
-    "repository_url": "https://github.com/microsoft/VibeVoice"
-  },
-  {
-    "repository_name": "microsoft/mxc",
-    "repository_url": "https://github.com/microsoft/mxc"
+    "repository_name": "microsoft/pg_durable",
+    "repository_url": "https://github.com/microsoft/pg_durable"
   },
   {
     "repository_name": "mvanhorn/last30days-skill",
     "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
-    "repository_name": "nginx/nginx",
-    "repository_url": "https://github.com/nginx/nginx"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
     "repository_name": "openai/plugins",
     "repository_url": "https://github.com/openai/plugins"
   },
   {
-    "repository_name": "openai/whisper",
-    "repository_url": "https://github.com/openai/whisper"
+    "repository_name": "opencv/opencv",
+    "repository_url": "https://github.com/opencv/opencv"
   },
   {
-    "repository_name": "santifer/career-ops",
-    "repository_url": "https://github.com/santifer/career-ops"
+    "repository_name": "refactoringhq/tolaria",
+    "repository_url": "https://github.com/refactoringhq/tolaria"
   },
   {
-    "repository_name": "sveltejs/svelte",
-    "repository_url": "https://github.com/sveltejs/svelte"
-  },
-  {
-    "repository_name": "vitejs/vite",
-    "repository_url": "https://github.com/vitejs/vite"
+    "repository_name": "yikart/AiToEarn",
+    "repository_url": "https://github.com/yikart/AiToEarn"
   }
 ]
