@@ -1,19 +1,19 @@
 [
   {
-    "repository_name": "Crosstalk-Solutions/project-nomad",
-    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    "repository_name": "Andyyyy64/whichllm",
+    "repository_url": "https://github.com/Andyyyy64/whichllm"
   },
   {
-    "repository_name": "HunxByts/GhostTrack",
-    "repository_url": "https://github.com/HunxByts/GhostTrack"
+    "repository_name": "CopilotKit/CopilotKit",
+    "repository_url": "https://github.com/CopilotKit/CopilotKit"
   },
   {
-    "repository_name": "Leonxlnx/taste-skill",
-    "repository_url": "https://github.com/Leonxlnx/taste-skill"
+    "repository_name": "MemPalace/mempalace",
+    "repository_url": "https://github.com/MemPalace/mempalace"
   },
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
+    "repository_name": "Panniantong/Agent-Reach",
+    "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
     "repository_name": "RyanCodrai/turbovec",
@@ -28,16 +28,16 @@
     "repository_url": "https://github.com/aaif-goose/goose"
   },
   {
-    "repository_name": "ggml-org/llama.cpp",
-    "repository_url": "https://github.com/ggml-org/llama.cpp"
+    "repository_name": "danielmiessler/Personal_AI_Infrastructure",
+    "repository_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
   },
   {
-    "repository_name": "lfnovo/open-notebook",
-    "repository_url": "https://github.com/lfnovo/open-notebook"
+    "repository_name": "google/skills",
+    "repository_url": "https://github.com/google/skills"
   },
   {
-    "repository_name": "microsoft/pg_durable",
-    "repository_url": "https://github.com/microsoft/pg_durable"
+    "repository_name": "luongnv89/claude-howto",
+    "repository_url": "https://github.com/luongnv89/claude-howto"
   },
   {
     "repository_name": "mvanhorn/last30days-skill",
@@ -48,15 +48,19 @@
     "repository_url": "https://github.com/openai/plugins"
   },
   {
-    "repository_name": "opencv/opencv",
-    "repository_url": "https://github.com/opencv/opencv"
+    "repository_name": "phuryn/pm-skills",
+    "repository_url": "https://github.com/phuryn/pm-skills"
   },
   {
     "repository_name": "refactoringhq/tolaria",
     "repository_url": "https://github.com/refactoringhq/tolaria"
   },
   {
-    "repository_name": "yikart/AiToEarn",
-    "repository_url": "https://github.com/yikart/AiToEarn"
+    "repository_name": "roboflow/supervision",
+    "repository_url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "repository_name": "santifer/career-ops",
+    "repository_url": "https://github.com/santifer/career-ops"
   }
 ]
