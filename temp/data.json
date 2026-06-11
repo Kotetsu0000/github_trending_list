@@ -1,43 +1,55 @@
 [
   {
-    "repository_name": "FareedKhan-dev/train-llm-from-scratch",
-    "repository_url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+    "repository_name": "NVIDIA/SkillSpector",
+    "repository_url": "https://github.com/NVIDIA/SkillSpector"
   },
   {
-    "repository_name": "activeloopai/hivemind",
-    "repository_url": "https://github.com/activeloopai/hivemind"
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
+    "repository_name": "alchaincyf/zhangxuefeng-skill",
+    "repository_url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+  },
+  {
     "repository_name": "apple/container",
     "repository_url": "https://github.com/apple/container"
   },
   {
-    "repository_name": "google/skills",
-    "repository_url": "https://github.com/google/skills"
+    "repository_name": "bannedbook/fanqiang",
+    "repository_url": "https://github.com/bannedbook/fanqiang"
   },
   {
-    "repository_name": "harry0703/MoneyPrinterTurbo",
-    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    "repository_name": "chatwoot/chatwoot",
+    "repository_url": "https://github.com/chatwoot/chatwoot"
   },
   {
-    "repository_name": "luongnv89/claude-howto",
-    "repository_url": "https://github.com/luongnv89/claude-howto"
+    "repository_name": "hexo-ai/sia",
+    "repository_url": "https://github.com/hexo-ai/sia"
+  },
+  {
+    "repository_name": "kenn-io/agentsview",
+    "repository_url": "https://github.com/kenn-io/agentsview"
   },
   {
     "repository_name": "masterking32/MasterDnsVPN",
     "repository_url": "https://github.com/masterking32/MasterDnsVPN"
   },
   {
+    "repository_name": "mattermost/mattermost",
+    "repository_url": "https://github.com/mattermost/mattermost"
+  },
+  {
     "repository_name": "maziyarpanahi/openmed",
     "repository_url": "https://github.com/maziyarpanahi/openmed"
   },
   {
-    "repository_name": "mvanhorn/last30days-skill",
-    "repository_url": "https://github.com/mvanhorn/last30days-skill"
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
     "repository_name": "obra/superpowers",
@@ -52,12 +64,8 @@
     "repository_url": "https://github.com/refactoringhq/tolaria"
   },
   {
-    "repository_name": "roboflow/supervision",
-    "repository_url": "https://github.com/roboflow/supervision"
-  },
-  {
-    "repository_name": "ruvnet/RuView",
-    "repository_url": "https://github.com/ruvnet/RuView"
+    "repository_name": "restic/restic",
+    "repository_url": "https://github.com/restic/restic"
   },
   {
     "repository_name": "soxoj/maigret",
