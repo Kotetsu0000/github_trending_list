@@ -1,39 +1,19 @@
 [
   {
-    "repository_name": "NVIDIA/SkillSpector",
-    "repository_url": "https://github.com/NVIDIA/SkillSpector"
-  },
-  {
-    "repository_name": "TapXWorld/ChinaTextbook",
-    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+    "repository_name": "LMCache/LMCache",
+    "repository_url": "https://github.com/LMCache/LMCache"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "alchaincyf/zhangxuefeng-skill",
-    "repository_url": "https://github.com/alchaincyf/zhangxuefeng-skill"
-  },
-  {
     "repository_name": "apple/container",
     "repository_url": "https://github.com/apple/container"
   },
   {
-    "repository_name": "bannedbook/fanqiang",
-    "repository_url": "https://github.com/bannedbook/fanqiang"
-  },
-  {
-    "repository_name": "chatwoot/chatwoot",
-    "repository_url": "https://github.com/chatwoot/chatwoot"
-  },
-  {
-    "repository_name": "hexo-ai/sia",
-    "repository_url": "https://github.com/hexo-ai/sia"
-  },
-  {
-    "repository_name": "kenn-io/agentsview",
-    "repository_url": "https://github.com/kenn-io/agentsview"
+    "repository_name": "iptv-org/iptv",
+    "repository_url": "https://github.com/iptv-org/iptv"
   },
   {
     "repository_name": "masterking32/MasterDnsVPN",
@@ -48,8 +28,16 @@
     "repository_url": "https://github.com/maziyarpanahi/openmed"
   },
   {
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
+  },
+  {
     "repository_name": "msitarzewski/agency-agents",
     "repository_url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repository_name": "music-assistant/server",
+    "repository_url": "https://github.com/music-assistant/server"
   },
   {
     "repository_name": "obra/superpowers",
@@ -62,17 +50,5 @@
   {
     "repository_name": "refactoringhq/tolaria",
     "repository_url": "https://github.com/refactoringhq/tolaria"
-  },
-  {
-    "repository_name": "restic/restic",
-    "repository_url": "https://github.com/restic/restic"
-  },
-  {
-    "repository_name": "soxoj/maigret",
-    "repository_url": "https://github.com/soxoj/maigret"
-  },
-  {
-    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
 ]
