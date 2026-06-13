@@ -4,36 +4,40 @@
     "repository_url": "https://github.com/LMCache/LMCache"
   },
   {
+    "repository_name": "NVIDIA/SkillSpector",
+    "repository_url": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repository_name": "andrewyng/aisuite",
+    "repository_url": "https://github.com/andrewyng/aisuite"
   },
   {
     "repository_name": "apple/container",
     "repository_url": "https://github.com/apple/container"
   },
   {
+    "repository_name": "bannedbook/fanqiang",
+    "repository_url": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "repository_name": "chatwoot/chatwoot",
+    "repository_url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
     "repository_name": "iptv-org/iptv",
     "repository_url": "https://github.com/iptv-org/iptv"
   },
   {
-    "repository_name": "masterking32/MasterDnsVPN",
-    "repository_url": "https://github.com/masterking32/MasterDnsVPN"
-  },
-  {
-    "repository_name": "mattermost/mattermost",
-    "repository_url": "https://github.com/mattermost/mattermost"
-  },
-  {
-    "repository_name": "maziyarpanahi/openmed",
-    "repository_url": "https://github.com/maziyarpanahi/openmed"
+    "repository_name": "kenn-io/agentsview",
+    "repository_url": "https://github.com/kenn-io/agentsview"
   },
   {
     "repository_name": "microsoft/PowerToys",
     "repository_url": "https://github.com/microsoft/PowerToys"
-  },
-  {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
     "repository_name": "music-assistant/server",
@@ -44,11 +48,11 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "phuryn/pm-skills",
-    "repository_url": "https://github.com/phuryn/pm-skills"
+    "repository_name": "swc-project/swc",
+    "repository_url": "https://github.com/swc-project/swc"
   },
   {
-    "repository_name": "refactoringhq/tolaria",
-    "repository_url": "https://github.com/refactoringhq/tolaria"
+    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
 ]
