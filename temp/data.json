@@ -1,58 +1,62 @@
 [
   {
-    "repository_name": "LMCache/LMCache",
-    "repository_url": "https://github.com/LMCache/LMCache"
+    "repository_name": "Free-TV/IPTV",
+    "repository_url": "https://github.com/Free-TV/IPTV"
+  },
+  {
+    "repository_name": "GorvGoyl/Clone-Wars",
+    "repository_url": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "repository_name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "repository_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
   },
   {
     "repository_name": "NVIDIA/SkillSpector",
     "repository_url": "https://github.com/NVIDIA/SkillSpector"
   },
   {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
-  },
-  {
     "repository_name": "andrewyng/aisuite",
     "repository_url": "https://github.com/andrewyng/aisuite"
-  },
-  {
-    "repository_name": "apple/container",
-    "repository_url": "https://github.com/apple/container"
-  },
-  {
-    "repository_name": "bannedbook/fanqiang",
-    "repository_url": "https://github.com/bannedbook/fanqiang"
   },
   {
     "repository_name": "chatwoot/chatwoot",
     "repository_url": "https://github.com/chatwoot/chatwoot"
   },
   {
+    "repository_name": "cypress-io/cypress",
+    "repository_url": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "repository_name": "freeCodeCamp/freeCodeCamp",
+    "repository_url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
     "repository_name": "iptv-org/iptv",
     "repository_url": "https://github.com/iptv-org/iptv"
   },
   {
-    "repository_name": "kenn-io/agentsview",
-    "repository_url": "https://github.com/kenn-io/agentsview"
-  },
-  {
-    "repository_name": "microsoft/PowerToys",
-    "repository_url": "https://github.com/microsoft/PowerToys"
+    "repository_name": "meshery/meshery",
+    "repository_url": "https://github.com/meshery/meshery"
   },
   {
     "repository_name": "music-assistant/server",
     "repository_url": "https://github.com/music-assistant/server"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "puppeteer/puppeteer",
+    "repository_url": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "repository_name": "pytest-dev/pytest",
+    "repository_url": "https://github.com/pytest-dev/pytest"
+  },
+  {
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
   {
     "repository_name": "swc-project/swc",
     "repository_url": "https://github.com/swc-project/swc"
-  },
-  {
-    "repository_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "repository_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
   }
 ]
