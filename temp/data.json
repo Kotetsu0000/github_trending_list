@@ -1,27 +1,19 @@
 [
   {
-    "repository_name": "Free-TV/IPTV",
-    "repository_url": "https://github.com/Free-TV/IPTV"
+    "repository_name": "OpenBMB/VoxCPM",
+    "repository_url": "https://github.com/OpenBMB/VoxCPM"
   },
   {
-    "repository_name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-    "repository_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
+    "repository_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "repository_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
   },
   {
-    "repository_name": "NVIDIA/SkillSpector",
-    "repository_url": "https://github.com/NVIDIA/SkillSpector"
+    "repository_name": "alibaba/zvec",
+    "repository_url": "https://github.com/alibaba/zvec"
   },
   {
-    "repository_name": "Panniantong/Agent-Reach",
-    "repository_url": "https://github.com/Panniantong/Agent-Reach"
-  },
-  {
-    "repository_name": "Raphire/Win11Debloat",
-    "repository_url": "https://github.com/Raphire/Win11Debloat"
-  },
-  {
-    "repository_name": "chatwoot/chatwoot",
-    "repository_url": "https://github.com/chatwoot/chatwoot"
+    "repository_name": "cypress-io/cypress",
+    "repository_url": "https://github.com/cypress-io/cypress"
   },
   {
     "repository_name": "freeCodeCamp/freeCodeCamp",
@@ -32,43 +24,31 @@
     "repository_url": "https://github.com/iptv-org/iptv"
   },
   {
-    "repository_name": "itsfatduck/optimizerDuck",
-    "repository_url": "https://github.com/itsfatduck/optimizerDuck"
-  },
-  {
-    "repository_name": "jwasham/coding-interview-university",
-    "repository_url": "https://github.com/jwasham/coding-interview-university"
-  },
-  {
-    "repository_name": "krahets/hello-algo",
-    "repository_url": "https://github.com/krahets/hello-algo"
-  },
-  {
     "repository_name": "meshery/meshery",
     "repository_url": "https://github.com/meshery/meshery"
-  },
-  {
-    "repository_name": "mikeroyal/Self-Hosting-Guide",
-    "repository_url": "https://github.com/mikeroyal/Self-Hosting-Guide"
   },
   {
     "repository_name": "music-assistant/server",
     "repository_url": "https://github.com/music-assistant/server"
   },
   {
-    "repository_name": "rohitg00/ai-engineering-from-scratch",
-    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    "repository_name": "n0-computer/iroh",
+    "repository_url": "https://github.com/n0-computer/iroh"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
+    "repository_name": "puppeteer/puppeteer",
+    "repository_url": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "repository_name": "rmyndharis/OpenWA",
+    "repository_url": "https://github.com/rmyndharis/OpenWA"
+  },
+  {
+    "repository_name": "swc-project/swc",
+    "repository_url": "https://github.com/swc-project/swc"
   },
   {
     "repository_name": "teslamate-org/teslamate",
     "repository_url": "https://github.com/teslamate-org/teslamate"
-  },
-  {
-    "repository_name": "trycua/cua",
-    "repository_url": "https://github.com/trycua/cua"
   }
 ]
