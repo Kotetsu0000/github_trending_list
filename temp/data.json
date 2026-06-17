@@ -1,54 +1,82 @@
 [
   {
-    "repository_name": "OpenBMB/VoxCPM",
-    "repository_url": "https://github.com/OpenBMB/VoxCPM"
+    "repository_name": "DeusData/codebase-memory-mcp",
+    "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "repository_name": "Panniantong/Agent-Reach",
+    "repository_url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "repository_name": "RocketChat/Rocket.Chat",
+    "repository_url": "https://github.com/RocketChat/Rocket.Chat"
   },
   {
     "repository_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "repository_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
   },
   {
-    "repository_name": "alibaba/zvec",
-    "repository_url": "https://github.com/alibaba/zvec"
+    "repository_name": "alexzhang13/rlm",
+    "repository_url": "https://github.com/alexzhang13/rlm"
   },
   {
-    "repository_name": "cypress-io/cypress",
-    "repository_url": "https://github.com/cypress-io/cypress"
+    "repository_name": "bytedance/UI-TARS-desktop",
+    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "repository_name": "calesthio/OpenMontage",
+    "repository_url": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "repository_name": "chatwoot/chatwoot",
+    "repository_url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "repository_name": "continuedev/continue",
+    "repository_url": "https://github.com/continuedev/continue"
   },
   {
     "repository_name": "freeCodeCamp/freeCodeCamp",
     "repository_url": "https://github.com/freeCodeCamp/freeCodeCamp"
   },
   {
-    "repository_name": "iptv-org/iptv",
-    "repository_url": "https://github.com/iptv-org/iptv"
+    "repository_name": "google-research/timesfm",
+    "repository_url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "repository_name": "krahets/hello-algo",
+    "repository_url": "https://github.com/krahets/hello-algo"
+  },
+  {
+    "repository_name": "makeplane/plane",
+    "repository_url": "https://github.com/makeplane/plane"
+  },
+  {
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "meshery/meshery",
     "repository_url": "https://github.com/meshery/meshery"
   },
   {
-    "repository_name": "music-assistant/server",
-    "repository_url": "https://github.com/music-assistant/server"
-  },
-  {
     "repository_name": "n0-computer/iroh",
     "repository_url": "https://github.com/n0-computer/iroh"
   },
   {
-    "repository_name": "puppeteer/puppeteer",
-    "repository_url": "https://github.com/puppeteer/puppeteer"
+    "repository_name": "nautechsystems/nautilus_trader",
+    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
   },
   {
-    "repository_name": "rmyndharis/OpenWA",
-    "repository_url": "https://github.com/rmyndharis/OpenWA"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "swc-project/swc",
-    "repository_url": "https://github.com/swc-project/swc"
+    "repository_name": "penpot/penpot",
+    "repository_url": "https://github.com/penpot/penpot"
   },
   {
-    "repository_name": "teslamate-org/teslamate",
-    "repository_url": "https://github.com/teslamate-org/teslamate"
+    "repository_name": "yairm210/Unciv",
+    "repository_url": "https://github.com/yairm210/Unciv"
   }
 ]
