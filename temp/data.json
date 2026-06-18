@@ -4,36 +4,32 @@
     "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
   },
   {
-    "repository_name": "Panniantong/Agent-Reach",
-    "repository_url": "https://github.com/Panniantong/Agent-Reach"
+    "repository_name": "Kilo-Org/kilocode",
+    "repository_url": "https://github.com/Kilo-Org/kilocode"
   },
   {
-    "repository_name": "RocketChat/Rocket.Chat",
-    "repository_url": "https://github.com/RocketChat/Rocket.Chat"
+    "repository_name": "Kong/insomnia",
+    "repository_url": "https://github.com/Kong/insomnia"
+  },
+  {
+    "repository_name": "LibreTranslate/LibreTranslate",
+    "repository_url": "https://github.com/LibreTranslate/LibreTranslate"
+  },
+  {
+    "repository_name": "Lightricks/LTX-2",
+    "repository_url": "https://github.com/Lightricks/LTX-2"
   },
   {
     "repository_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "repository_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
   },
   {
-    "repository_name": "alexzhang13/rlm",
-    "repository_url": "https://github.com/alexzhang13/rlm"
+    "repository_name": "alibaba/zvec",
+    "repository_url": "https://github.com/alibaba/zvec"
   },
   {
-    "repository_name": "bytedance/UI-TARS-desktop",
-    "repository_url": "https://github.com/bytedance/UI-TARS-desktop"
-  },
-  {
-    "repository_name": "calesthio/OpenMontage",
-    "repository_url": "https://github.com/calesthio/OpenMontage"
-  },
-  {
-    "repository_name": "chatwoot/chatwoot",
-    "repository_url": "https://github.com/chatwoot/chatwoot"
-  },
-  {
-    "repository_name": "continuedev/continue",
-    "repository_url": "https://github.com/continuedev/continue"
+    "repository_name": "dotnet/aspnetcore",
+    "repository_url": "https://github.com/dotnet/aspnetcore"
   },
   {
     "repository_name": "freeCodeCamp/freeCodeCamp",
@@ -44,39 +40,27 @@
     "repository_url": "https://github.com/google-research/timesfm"
   },
   {
-    "repository_name": "krahets/hello-algo",
-    "repository_url": "https://github.com/krahets/hello-algo"
-  },
-  {
     "repository_name": "makeplane/plane",
     "repository_url": "https://github.com/makeplane/plane"
-  },
-  {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
-  },
-  {
-    "repository_name": "meshery/meshery",
-    "repository_url": "https://github.com/meshery/meshery"
   },
   {
     "repository_name": "n0-computer/iroh",
     "repository_url": "https://github.com/n0-computer/iroh"
   },
   {
-    "repository_name": "nautechsystems/nautilus_trader",
-    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
-  },
-  {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "penpot/penpot",
-    "repository_url": "https://github.com/penpot/penpot"
+    "repository_name": "owainlewis/awesome-artificial-intelligence",
+    "repository_url": "https://github.com/owainlewis/awesome-artificial-intelligence"
   },
   {
-    "repository_name": "yairm210/Unciv",
-    "repository_url": "https://github.com/yairm210/Unciv"
+    "repository_name": "withastro/flue",
+    "repository_url": "https://github.com/withastro/flue"
+  },
+  {
+    "repository_name": "zai-org/GLM-5",
+    "repository_url": "https://github.com/zai-org/GLM-5"
   }
 ]
