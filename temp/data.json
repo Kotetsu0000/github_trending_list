@@ -1,47 +1,39 @@
 [
   {
-    "repository_name": "DeusData/codebase-memory-mcp",
-    "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
+    "repository_name": "BuilderIO/agent-native",
+    "repository_url": "https://github.com/BuilderIO/agent-native"
   },
   {
-    "repository_name": "Kilo-Org/kilocode",
-    "repository_url": "https://github.com/Kilo-Org/kilocode"
+    "repository_name": "DeusData/codebase-memory-mcp",
+    "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
   },
   {
     "repository_name": "Kong/insomnia",
     "repository_url": "https://github.com/Kong/insomnia"
   },
   {
-    "repository_name": "LibreTranslate/LibreTranslate",
-    "repository_url": "https://github.com/LibreTranslate/LibreTranslate"
-  },
-  {
     "repository_name": "Lightricks/LTX-2",
     "repository_url": "https://github.com/Lightricks/LTX-2"
   },
   {
-    "repository_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "repository_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    "repository_name": "aishwaryanr/awesome-generative-ai-guide",
+    "repository_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
   },
   {
-    "repository_name": "alibaba/zvec",
-    "repository_url": "https://github.com/alibaba/zvec"
+    "repository_name": "calesthio/OpenMontage",
+    "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
-    "repository_name": "dotnet/aspnetcore",
-    "repository_url": "https://github.com/dotnet/aspnetcore"
-  },
-  {
-    "repository_name": "freeCodeCamp/freeCodeCamp",
-    "repository_url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    "repository_name": "chopratejas/headroom",
+    "repository_url": "https://github.com/chopratejas/headroom"
   },
   {
     "repository_name": "google-research/timesfm",
     "repository_url": "https://github.com/google-research/timesfm"
   },
   {
-    "repository_name": "makeplane/plane",
-    "repository_url": "https://github.com/makeplane/plane"
+    "repository_name": "koala73/worldmonitor",
+    "repository_url": "https://github.com/koala73/worldmonitor"
   },
   {
     "repository_name": "n0-computer/iroh",
@@ -52,8 +44,12 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "owainlewis/awesome-artificial-intelligence",
-    "repository_url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+    "repository_name": "palmier-io/palmier-pro",
+    "repository_url": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "repository_name": "penpot/penpot",
+    "repository_url": "https://github.com/penpot/penpot"
   },
   {
     "repository_name": "withastro/flue",
