@@ -1,23 +1,19 @@
 [
   {
-    "repository_name": "BuilderIO/agent-native",
-    "repository_url": "https://github.com/BuilderIO/agent-native"
+    "repository_name": "1jehuang/jcode",
+    "repository_url": "https://github.com/1jehuang/jcode"
   },
   {
     "repository_name": "DeusData/codebase-memory-mcp",
     "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
   },
   {
+    "repository_name": "Kilo-Org/kilocode",
+    "repository_url": "https://github.com/Kilo-Org/kilocode"
+  },
+  {
     "repository_name": "Kong/insomnia",
     "repository_url": "https://github.com/Kong/insomnia"
-  },
-  {
-    "repository_name": "Lightricks/LTX-2",
-    "repository_url": "https://github.com/Lightricks/LTX-2"
-  },
-  {
-    "repository_name": "aishwaryanr/awesome-generative-ai-guide",
-    "repository_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
   },
   {
     "repository_name": "calesthio/OpenMontage",
@@ -32,16 +28,16 @@
     "repository_url": "https://github.com/google-research/timesfm"
   },
   {
-    "repository_name": "koala73/worldmonitor",
-    "repository_url": "https://github.com/koala73/worldmonitor"
+    "repository_name": "jamiepine/voicebox",
+    "repository_url": "https://github.com/jamiepine/voicebox"
   },
   {
-    "repository_name": "n0-computer/iroh",
-    "repository_url": "https://github.com/n0-computer/iroh"
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "owainlewis/awesome-artificial-intelligence",
+    "repository_url": "https://github.com/owainlewis/awesome-artificial-intelligence"
   },
   {
     "repository_name": "palmier-io/palmier-pro",
@@ -52,11 +48,23 @@
     "repository_url": "https://github.com/penpot/penpot"
   },
   {
-    "repository_name": "withastro/flue",
-    "repository_url": "https://github.com/withastro/flue"
+    "repository_name": "pppscn/SmsForwarder",
+    "repository_url": "https://github.com/pppscn/SmsForwarder"
   },
   {
-    "repository_name": "zai-org/GLM-5",
-    "repository_url": "https://github.com/zai-org/GLM-5"
+    "repository_name": "tursodatabase/turso",
+    "repository_url": "https://github.com/tursodatabase/turso"
+  },
+  {
+    "repository_name": "tw93/Pake",
+    "repository_url": "https://github.com/tw93/Pake"
+  },
+  {
+    "repository_name": "twentyhq/twenty",
+    "repository_url": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "repository_name": "withastro/flue",
+    "repository_url": "https://github.com/withastro/flue"
   }
 ]
