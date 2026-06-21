@@ -1,19 +1,23 @@
 [
   {
-    "repository_name": "1jehuang/jcode",
-    "repository_url": "https://github.com/1jehuang/jcode"
-  },
-  {
     "repository_name": "DeusData/codebase-memory-mcp",
     "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
   },
   {
-    "repository_name": "Kilo-Org/kilocode",
-    "repository_url": "https://github.com/Kilo-Org/kilocode"
+    "repository_name": "ZhuLinsen/daily_stock_analysis",
+    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
   },
   {
-    "repository_name": "Kong/insomnia",
-    "repository_url": "https://github.com/Kong/insomnia"
+    "repository_name": "asgeirtj/system_prompts_leaks",
+    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "repository_name": "byoungd/English-level-up-tips",
+    "repository_url": "https://github.com/byoungd/English-level-up-tips"
+  },
+  {
+    "repository_name": "bytedance/deer-flow",
+    "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
     "repository_name": "calesthio/OpenMontage",
@@ -24,20 +28,20 @@
     "repository_url": "https://github.com/chopratejas/headroom"
   },
   {
-    "repository_name": "google-research/timesfm",
-    "repository_url": "https://github.com/google-research/timesfm"
-  },
-  {
-    "repository_name": "jamiepine/voicebox",
-    "repository_url": "https://github.com/jamiepine/voicebox"
+    "repository_name": "koala73/worldmonitor",
+    "repository_url": "https://github.com/koala73/worldmonitor"
   },
   {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "owainlewis/awesome-artificial-intelligence",
-    "repository_url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+    "repository_name": "mikumifa/biliTickerBuy",
+    "repository_url": "https://github.com/mikumifa/biliTickerBuy"
+  },
+  {
+    "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
   },
   {
     "repository_name": "palmier-io/palmier-pro",
@@ -48,19 +52,15 @@
     "repository_url": "https://github.com/penpot/penpot"
   },
   {
-    "repository_name": "pppscn/SmsForwarder",
-    "repository_url": "https://github.com/pppscn/SmsForwarder"
+    "repository_name": "smicallef/spiderfoot",
+    "repository_url": "https://github.com/smicallef/spiderfoot"
+  },
+  {
+    "repository_name": "topoteretes/cognee",
+    "repository_url": "https://github.com/topoteretes/cognee"
   },
   {
     "repository_name": "tursodatabase/turso",
     "repository_url": "https://github.com/tursodatabase/turso"
-  },
-  {
-    "repository_name": "twentyhq/twenty",
-    "repository_url": "https://github.com/twentyhq/twenty"
-  },
-  {
-    "repository_name": "withastro/flue",
-    "repository_url": "https://github.com/withastro/flue"
   }
 ]
