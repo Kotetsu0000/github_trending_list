@@ -4,16 +4,16 @@
     "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
   },
   {
+    "repository_name": "JCodesMore/ai-website-cloner-template",
+    "repository_url": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "repository_name": "Stirling-Tools/Stirling-PDF",
+    "repository_url": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
     "repository_name": "ZhuLinsen/daily_stock_analysis",
     "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
-  },
-  {
-    "repository_name": "asgeirtj/system_prompts_leaks",
-    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "repository_name": "byoungd/English-level-up-tips",
-    "repository_url": "https://github.com/byoungd/English-level-up-tips"
   },
   {
     "repository_name": "bytedance/deer-flow",
@@ -24,20 +24,28 @@
     "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
-    "repository_name": "chopratejas/headroom",
-    "repository_url": "https://github.com/chopratejas/headroom"
+    "repository_name": "firecrawl/firecrawl",
+    "repository_url": "https://github.com/firecrawl/firecrawl"
   },
   {
-    "repository_name": "koala73/worldmonitor",
-    "repository_url": "https://github.com/koala73/worldmonitor"
+    "repository_name": "garrytan/gstack",
+    "repository_url": "https://github.com/garrytan/gstack"
+  },
+  {
+    "repository_name": "heygen-com/hyperframes",
+    "repository_url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "repository_name": "jamiepine/voicebox",
+    "repository_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repository_name": "lyogavin/airllm",
+    "repository_url": "https://github.com/lyogavin/airllm"
   },
   {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
-  },
-  {
-    "repository_name": "mikumifa/biliTickerBuy",
-    "repository_url": "https://github.com/mikumifa/biliTickerBuy"
   },
   {
     "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -50,14 +58,6 @@
   {
     "repository_name": "penpot/penpot",
     "repository_url": "https://github.com/penpot/penpot"
-  },
-  {
-    "repository_name": "smicallef/spiderfoot",
-    "repository_url": "https://github.com/smicallef/spiderfoot"
-  },
-  {
-    "repository_name": "topoteretes/cognee",
-    "repository_url": "https://github.com/topoteretes/cognee"
   },
   {
     "repository_name": "tursodatabase/turso",
