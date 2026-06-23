@@ -8,12 +8,24 @@
     "repository_url": "https://github.com/JCodesMore/ai-website-cloner-template"
   },
   {
-    "repository_name": "Stirling-Tools/Stirling-PDF",
-    "repository_url": "https://github.com/Stirling-Tools/Stirling-PDF"
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "repository_name": "ZhuLinsen/daily_stock_analysis",
     "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repository_name": "anthropics/claude-plugins-official",
+    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "repository_name": "byoungd/English-level-up-tips",
+    "repository_url": "https://github.com/byoungd/English-level-up-tips"
   },
   {
     "repository_name": "bytedance/deer-flow",
@@ -24,28 +36,16 @@
     "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
-    "repository_name": "firecrawl/firecrawl",
-    "repository_url": "https://github.com/firecrawl/firecrawl"
-  },
-  {
     "repository_name": "garrytan/gstack",
     "repository_url": "https://github.com/garrytan/gstack"
-  },
-  {
-    "repository_name": "heygen-com/hyperframes",
-    "repository_url": "https://github.com/heygen-com/hyperframes"
   },
   {
     "repository_name": "jamiepine/voicebox",
     "repository_url": "https://github.com/jamiepine/voicebox"
   },
   {
-    "repository_name": "lyogavin/airllm",
-    "repository_url": "https://github.com/lyogavin/airllm"
-  },
-  {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
+    "repository_name": "koala73/worldmonitor",
+    "repository_url": "https://github.com/koala73/worldmonitor"
   },
   {
     "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -56,11 +56,11 @@
     "repository_url": "https://github.com/palmier-io/palmier-pro"
   },
   {
-    "repository_name": "penpot/penpot",
-    "repository_url": "https://github.com/penpot/penpot"
+    "repository_name": "revfactory/harness",
+    "repository_url": "https://github.com/revfactory/harness"
   },
   {
-    "repository_name": "tursodatabase/turso",
-    "repository_url": "https://github.com/tursodatabase/turso"
+    "repository_name": "shanraisshan/claude-code-best-practice",
+    "repository_url": "https://github.com/shanraisshan/claude-code-best-practice"
   }
 ]
