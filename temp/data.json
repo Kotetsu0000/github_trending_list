@@ -1,54 +1,62 @@
 [
   {
-    "repository_name": "Flowseal/zapret-discord-youtube",
-    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+    "repository_name": "Free-TV/IPTV",
+    "repository_url": "https://github.com/Free-TV/IPTV"
+  },
+  {
+    "repository_name": "IceWhaleTech/CasaOS",
+    "repository_url": "https://github.com/IceWhaleTech/CasaOS"
   },
   {
     "repository_name": "JCodesMore/ai-website-cloner-template",
     "repository_url": "https://github.com/JCodesMore/ai-website-cloner-template"
   },
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
+    "repository_name": "NanmiCoder/MediaCrawler",
+    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
   },
   {
-    "repository_name": "ZhuLinsen/daily_stock_analysis",
-    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
-  },
-  {
-    "repository_name": "andreknieriem/headunit-revived",
-    "repository_url": "https://github.com/andreknieriem/headunit-revived"
+    "repository_name": "alibaba/page-agent",
+    "repository_url": "https://github.com/alibaba/page-agent"
   },
   {
     "repository_name": "apple/container",
     "repository_url": "https://github.com/apple/container"
   },
   {
+    "repository_name": "aws/agent-toolkit-for-aws",
+    "repository_url": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  {
     "repository_name": "calesthio/OpenMontage",
     "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
-    "repository_name": "flutter/flutter",
-    "repository_url": "https://github.com/flutter/flutter"
+    "repository_name": "garrytan/gstack",
+    "repository_url": "https://github.com/garrytan/gstack"
   },
   {
     "repository_name": "google-labs-code/design.md",
     "repository_url": "https://github.com/google-labs-code/design.md"
   },
   {
-    "repository_name": "interviewstreet/hiring-agent",
-    "repository_url": "https://github.com/interviewstreet/hiring-agent"
+    "repository_name": "mauriceboe/TREK",
+    "repository_url": "https://github.com/mauriceboe/TREK"
   },
   {
-    "repository_name": "kunchenguid/no-mistakes",
-    "repository_url": "https://github.com/kunchenguid/no-mistakes"
+    "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
   },
   {
-    "repository_name": "revfactory/harness",
-    "repository_url": "https://github.com/revfactory/harness"
+    "repository_name": "opendatalab/MinerU",
+    "repository_url": "https://github.com/opendatalab/MinerU"
   },
   {
-    "repository_name": "stablyai/orca",
-    "repository_url": "https://github.com/stablyai/orca"
+    "repository_name": "shanraisshan/claude-code-best-practice",
+    "repository_url": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "repository_name": "xbtlin/ai-berkshire",
+    "repository_url": "https://github.com/xbtlin/ai-berkshire"
   }
 ]
