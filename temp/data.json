@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "Free-TV/IPTV",
-    "repository_url": "https://github.com/Free-TV/IPTV"
-  },
-  {
     "repository_name": "IceWhaleTech/CasaOS",
     "repository_url": "https://github.com/IceWhaleTech/CasaOS"
   },
@@ -16,12 +12,12 @@
     "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
   },
   {
-    "repository_name": "alibaba/page-agent",
-    "repository_url": "https://github.com/alibaba/page-agent"
+    "repository_name": "Panniantong/Agent-Reach",
+    "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
-    "repository_name": "apple/container",
-    "repository_url": "https://github.com/apple/container"
+    "repository_name": "alchaincyf/zhangxuefeng-skill",
+    "repository_url": "https://github.com/alchaincyf/zhangxuefeng-skill"
   },
   {
     "repository_name": "aws/agent-toolkit-for-aws",
@@ -32,8 +28,8 @@
     "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
-    "repository_name": "every-app/open-seo",
-    "repository_url": "https://github.com/every-app/open-seo"
+    "repository_name": "commaai/openpilot",
+    "repository_url": "https://github.com/commaai/openpilot"
   },
   {
     "repository_name": "garrytan/gstack",
@@ -44,20 +40,28 @@
     "repository_url": "https://github.com/google-labs-code/design.md"
   },
   {
-    "repository_name": "mauriceboe/TREK",
-    "repository_url": "https://github.com/mauriceboe/TREK"
+    "repository_name": "grafana/grafana",
+    "repository_url": "https://github.com/grafana/grafana"
   },
   {
-    "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
-    "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    "repository_name": "kunchenguid/no-mistakes",
+    "repository_url": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "repository_name": "mauriceboe/TREK",
+    "repository_url": "https://github.com/mauriceboe/TREK"
   },
   {
     "repository_name": "opendatalab/MinerU",
     "repository_url": "https://github.com/opendatalab/MinerU"
   },
   {
-    "repository_name": "shanraisshan/claude-code-best-practice",
-    "repository_url": "https://github.com/shanraisshan/claude-code-best-practice"
+    "repository_name": "ripienaar/free-for-dev",
+    "repository_url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "repository_name": "simplex-chat/simplex-chat",
+    "repository_url": "https://github.com/simplex-chat/simplex-chat"
   },
   {
     "repository_name": "xbtlin/ai-berkshire",
