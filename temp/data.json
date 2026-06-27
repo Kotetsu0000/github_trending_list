@@ -1,5 +1,17 @@
 [
   {
+    "repository_name": "Anil-matcha/Open-Generative-AI",
+    "repository_url": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "repository_name": "Fission-AI/OpenSpec",
+    "repository_url": "https://github.com/Fission-AI/OpenSpec"
+  },
+  {
+    "repository_name": "HKUDS/Vibe-Trading",
+    "repository_url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
     "repository_name": "IceWhaleTech/CasaOS",
     "repository_url": "https://github.com/IceWhaleTech/CasaOS"
   },
@@ -12,24 +24,20 @@
     "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
   },
   {
-    "repository_name": "Panniantong/Agent-Reach",
-    "repository_url": "https://github.com/Panniantong/Agent-Reach"
-  },
-  {
-    "repository_name": "alchaincyf/zhangxuefeng-skill",
-    "repository_url": "https://github.com/alchaincyf/zhangxuefeng-skill"
-  },
-  {
-    "repository_name": "aws/agent-toolkit-for-aws",
-    "repository_url": "https://github.com/aws/agent-toolkit-for-aws"
-  },
-  {
-    "repository_name": "calesthio/OpenMontage",
-    "repository_url": "https://github.com/calesthio/OpenMontage"
+    "repository_name": "anomalyco/opencode",
+    "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
     "repository_name": "commaai/openpilot",
     "repository_url": "https://github.com/commaai/openpilot"
+  },
+  {
+    "repository_name": "dbt-labs/dbt-core",
+    "repository_url": "https://github.com/dbt-labs/dbt-core"
+  },
+  {
+    "repository_name": "every-app/open-seo",
+    "repository_url": "https://github.com/every-app/open-seo"
   },
   {
     "repository_name": "garrytan/gstack",
@@ -40,20 +48,20 @@
     "repository_url": "https://github.com/google-labs-code/design.md"
   },
   {
-    "repository_name": "grafana/grafana",
-    "repository_url": "https://github.com/grafana/grafana"
+    "repository_name": "hugohe3/ppt-master",
+    "repository_url": "https://github.com/hugohe3/ppt-master"
   },
   {
-    "repository_name": "kunchenguid/no-mistakes",
-    "repository_url": "https://github.com/kunchenguid/no-mistakes"
+    "repository_name": "keycloak/keycloak",
+    "repository_url": "https://github.com/keycloak/keycloak"
   },
   {
-    "repository_name": "mauriceboe/TREK",
-    "repository_url": "https://github.com/mauriceboe/TREK"
+    "repository_name": "luongnv89/claude-howto",
+    "repository_url": "https://github.com/luongnv89/claude-howto"
   },
   {
-    "repository_name": "opendatalab/MinerU",
-    "repository_url": "https://github.com/opendatalab/MinerU"
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
     "repository_name": "ripienaar/free-for-dev",
@@ -62,6 +70,10 @@
   {
     "repository_name": "simplex-chat/simplex-chat",
     "repository_url": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "repository_name": "topoteretes/cognee",
+    "repository_url": "https://github.com/topoteretes/cognee"
   },
   {
     "repository_name": "xbtlin/ai-berkshire",
