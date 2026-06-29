@@ -1,19 +1,11 @@
 [
   {
-    "repository_name": "ByteByteGoHq/system-design-101",
-    "repository_url": "https://github.com/ByteByteGoHq/system-design-101"
-  },
-  {
-    "repository_name": "DeusData/codebase-memory-mcp",
-    "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
-  },
-  {
     "repository_name": "HKUDS/Vibe-Trading",
     "repository_url": "https://github.com/HKUDS/Vibe-Trading"
   },
   {
-    "repository_name": "Robbyant/lingbot-map",
-    "repository_url": "https://github.com/Robbyant/lingbot-map"
+    "repository_name": "Unclecheng-li/VulnClaw",
+    "repository_url": "https://github.com/Unclecheng-li/VulnClaw"
   },
   {
     "repository_name": "altic-dev/FluidVoice",
@@ -32,8 +24,16 @@
     "repository_url": "https://github.com/cupy/cupy"
   },
   {
-    "repository_name": "opendatalab/MinerU",
-    "repository_url": "https://github.com/opendatalab/MinerU"
+    "repository_name": "logto-io/logto",
+    "repository_url": "https://github.com/logto-io/logto"
+  },
+  {
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repository_name": "refactoringhq/tolaria",
+    "repository_url": "https://github.com/refactoringhq/tolaria"
   },
   {
     "repository_name": "ripienaar/free-for-dev",
@@ -44,8 +44,12 @@
     "repository_url": "https://github.com/simplex-chat/simplex-chat"
   },
   {
-    "repository_name": "usestrix/strix",
-    "repository_url": "https://github.com/usestrix/strix"
+    "repository_name": "soxoj/maigret",
+    "repository_url": "https://github.com/soxoj/maigret"
+  },
+  {
+    "repository_name": "veracrypt/VeraCrypt",
+    "repository_url": "https://github.com/veracrypt/VeraCrypt"
   },
   {
     "repository_name": "xbtlin/ai-berkshire",
