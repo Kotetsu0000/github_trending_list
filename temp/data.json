@@ -1,15 +1,15 @@
 [
   {
-    "repository_name": "0xNyk/council-of-high-intelligence",
-    "repository_url": "https://github.com/0xNyk/council-of-high-intelligence"
-  },
-  {
     "repository_name": "HKUDS/Vibe-Trading",
     "repository_url": "https://github.com/HKUDS/Vibe-Trading"
   },
   {
-    "repository_name": "Unclecheng-li/VulnClaw",
-    "repository_url": "https://github.com/Unclecheng-li/VulnClaw"
+    "repository_name": "Mebus/cupp",
+    "repository_url": "https://github.com/Mebus/cupp"
+  },
+  {
+    "repository_name": "Robbyant/lingbot-map",
+    "repository_url": "https://github.com/Robbyant/lingbot-map"
   },
   {
     "repository_name": "altic-dev/FluidVoice",
@@ -20,40 +20,48 @@
     "repository_url": "https://github.com/browser-use/video-use"
   },
   {
-    "repository_name": "commaai/openpilot",
-    "repository_url": "https://github.com/commaai/openpilot"
+    "repository_name": "diegosouzapw/OmniRoute",
+    "repository_url": "https://github.com/diegosouzapw/OmniRoute"
   },
   {
-    "repository_name": "cupy/cupy",
-    "repository_url": "https://github.com/cupy/cupy"
+    "repository_name": "facebook/astryx",
+    "repository_url": "https://github.com/facebook/astryx"
   },
   {
-    "repository_name": "logto-io/logto",
-    "repository_url": "https://github.com/logto-io/logto"
+    "repository_name": "google/agents-cli",
+    "repository_url": "https://github.com/google/agents-cli"
+  },
+  {
+    "repository_name": "microsoft/AI-For-Beginners",
+    "repository_url": "https://github.com/microsoft/AI-For-Beginners"
   },
   {
     "repository_name": "msitarzewski/agency-agents",
     "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
-    "repository_name": "refactoringhq/tolaria",
-    "repository_url": "https://github.com/refactoringhq/tolaria"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "ogulcancelik/herdr",
+    "repository_url": "https://github.com/ogulcancelik/herdr"
   },
   {
     "repository_name": "ripienaar/free-for-dev",
     "repository_url": "https://github.com/ripienaar/free-for-dev"
   },
   {
+    "repository_name": "roboflow/supervision",
+    "repository_url": "https://github.com/roboflow/supervision"
+  },
+  {
     "repository_name": "simplex-chat/simplex-chat",
     "repository_url": "https://github.com/simplex-chat/simplex-chat"
   },
   {
-    "repository_name": "soxoj/maigret",
-    "repository_url": "https://github.com/soxoj/maigret"
-  },
-  {
-    "repository_name": "veracrypt/VeraCrypt",
-    "repository_url": "https://github.com/veracrypt/VeraCrypt"
+    "repository_name": "usestrix/strix",
+    "repository_url": "https://github.com/usestrix/strix"
   },
   {
     "repository_name": "xbtlin/ai-berkshire",
