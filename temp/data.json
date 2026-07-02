@@ -1,55 +1,43 @@
 [
   {
-    "repository_name": "0xNyk/council-of-high-intelligence",
-    "repository_url": "https://github.com/0xNyk/council-of-high-intelligence"
-  },
-  {
-    "repository_name": "CoreBunch/Instatic",
-    "repository_url": "https://github.com/CoreBunch/Instatic"
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
     "repository_name": "HKUDS/Vibe-Trading",
     "repository_url": "https://github.com/HKUDS/Vibe-Trading"
   },
   {
-    "repository_name": "Mebus/cupp",
-    "repository_url": "https://github.com/Mebus/cupp"
+    "repository_name": "JuliusBrussee/caveman",
+    "repository_url": "https://github.com/JuliusBrussee/caveman"
   },
   {
-    "repository_name": "TencentCloud/CubeSandbox",
-    "repository_url": "https://github.com/TencentCloud/CubeSandbox"
+    "repository_name": "actions/checkout",
+    "repository_url": "https://github.com/actions/checkout"
   },
   {
-    "repository_name": "Unclecheng-li/VulnClaw",
-    "repository_url": "https://github.com/Unclecheng-li/VulnClaw"
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "allenai/olmocr",
-    "repository_url": "https://github.com/allenai/olmocr"
-  },
-  {
-    "repository_name": "altic-dev/FluidVoice",
-    "repository_url": "https://github.com/altic-dev/FluidVoice"
+    "repository_name": "agentskills/agentskills",
+    "repository_url": "https://github.com/agentskills/agentskills"
   },
   {
     "repository_name": "browser-use/video-use",
     "repository_url": "https://github.com/browser-use/video-use"
   },
   {
-    "repository_name": "diegosouzapw/OmniRoute",
-    "repository_url": "https://github.com/diegosouzapw/OmniRoute"
-  },
-  {
-    "repository_name": "facebook/astryx",
-    "repository_url": "https://github.com/facebook/astryx"
+    "repository_name": "harvard-edge/cs249r_book",
+    "repository_url": "https://github.com/harvard-edge/cs249r_book"
   },
   {
     "repository_name": "hasaneyldrm/exercises-dataset",
     "repository_url": "https://github.com/hasaneyldrm/exercises-dataset"
   },
   {
-    "repository_name": "logto-io/logto",
-    "repository_url": "https://github.com/logto-io/logto"
+    "repository_name": "langflow-ai/langflow",
+    "repository_url": "https://github.com/langflow-ai/langflow"
   },
   {
     "repository_name": "microsoft/AI-For-Beginners",
@@ -60,23 +48,27 @@
     "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
-    "repository_name": "ogulcancelik/herdr",
-    "repository_url": "https://github.com/ogulcancelik/herdr"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "refactoringhq/tolaria",
-    "repository_url": "https://github.com/refactoringhq/tolaria"
+    "repository_name": "openai/codex-plugin-cc",
+    "repository_url": "https://github.com/openai/codex-plugin-cc"
   },
   {
-    "repository_name": "togatoga/karukan",
-    "repository_url": "https://github.com/togatoga/karukan"
+    "repository_name": "pytorch/pytorch",
+    "repository_url": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "repository_name": "ryanmcdermott/clean-code-javascript",
+    "repository_url": "https://github.com/ryanmcdermott/clean-code-javascript"
+  },
+  {
+    "repository_name": "santifer/career-ops",
+    "repository_url": "https://github.com/santifer/career-ops"
   },
   {
     "repository_name": "usestrix/strix",
     "repository_url": "https://github.com/usestrix/strix"
-  },
-  {
-    "repository_name": "yikart/AiToEarn",
-    "repository_url": "https://github.com/yikart/AiToEarn"
   }
 ]
