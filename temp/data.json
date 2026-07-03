@@ -4,40 +4,44 @@
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "HKUDS/Vibe-Trading",
-    "repository_url": "https://github.com/HKUDS/Vibe-Trading"
-  },
-  {
     "repository_name": "JuliusBrussee/caveman",
     "repository_url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repository_name": "TencentCloud/CubeSandbox",
+    "repository_url": "https://github.com/TencentCloud/CubeSandbox"
   },
   {
     "repository_name": "actions/checkout",
     "repository_url": "https://github.com/actions/checkout"
   },
   {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
-  },
-  {
     "repository_name": "agentskills/agentskills",
     "repository_url": "https://github.com/agentskills/agentskills"
   },
   {
-    "repository_name": "browser-use/video-use",
-    "repository_url": "https://github.com/browser-use/video-use"
+    "repository_name": "ansible/ansible",
+    "repository_url": "https://github.com/ansible/ansible"
+  },
+  {
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "repository_name": "apache/maven",
+    "repository_url": "https://github.com/apache/maven"
+  },
+  {
+    "repository_name": "elastic/elasticsearch",
+    "repository_url": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "repository_name": "facebook/astryx",
+    "repository_url": "https://github.com/facebook/astryx"
   },
   {
     "repository_name": "harvard-edge/cs249r_book",
     "repository_url": "https://github.com/harvard-edge/cs249r_book"
-  },
-  {
-    "repository_name": "hasaneyldrm/exercises-dataset",
-    "repository_url": "https://github.com/hasaneyldrm/exercises-dataset"
-  },
-  {
-    "repository_name": "langflow-ai/langflow",
-    "repository_url": "https://github.com/langflow-ai/langflow"
   },
   {
     "repository_name": "msitarzewski/agency-agents",
@@ -48,6 +52,10 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
+    "repository_name": "ogulcancelik/herdr",
+    "repository_url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
     "repository_name": "openai/codex-plugin-cc",
     "repository_url": "https://github.com/openai/codex-plugin-cc"
   },
@@ -56,12 +64,16 @@
     "repository_url": "https://github.com/pytorch/pytorch"
   },
   {
-    "repository_name": "ryanmcdermott/clean-code-javascript",
-    "repository_url": "https://github.com/ryanmcdermott/clean-code-javascript"
+    "repository_name": "rommapp/romm",
+    "repository_url": "https://github.com/rommapp/romm"
   },
   {
-    "repository_name": "santifer/career-ops",
-    "repository_url": "https://github.com/santifer/career-ops"
+    "repository_name": "safishamsi/graphify",
+    "repository_url": "https://github.com/safishamsi/graphify"
+  },
+  {
+    "repository_name": "supabase/supabase",
+    "repository_url": "https://github.com/supabase/supabase"
   },
   {
     "repository_name": "usestrix/strix",
