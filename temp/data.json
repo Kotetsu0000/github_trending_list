@@ -4,52 +4,56 @@
     "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
+    "repository_name": "CoplayDev/unity-mcp",
+    "repository_url": "https://github.com/CoplayDev/unity-mcp"
+  },
+  {
     "repository_name": "JuliusBrussee/caveman",
     "repository_url": "https://github.com/JuliusBrussee/caveman"
   },
   {
-    "repository_name": "TencentCloud/CubeSandbox",
-    "repository_url": "https://github.com/TencentCloud/CubeSandbox"
-  },
-  {
-    "repository_name": "actions/checkout",
-    "repository_url": "https://github.com/actions/checkout"
+    "repository_name": "Zackriya-Solutions/meetily",
+    "repository_url": "https://github.com/Zackriya-Solutions/meetily"
   },
   {
     "repository_name": "agentskills/agentskills",
     "repository_url": "https://github.com/agentskills/agentskills"
   },
   {
-    "repository_name": "ansible/ansible",
-    "repository_url": "https://github.com/ansible/ansible"
+    "repository_name": "alibaba/page-agent",
+    "repository_url": "https://github.com/alibaba/page-agent"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "alirezarezvani/claude-skills",
+    "repository_url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
-    "repository_name": "apache/maven",
-    "repository_url": "https://github.com/apache/maven"
+    "repository_name": "asgeirtj/system_prompts_leaks",
+    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
-    "repository_name": "elastic/elasticsearch",
-    "repository_url": "https://github.com/elastic/elasticsearch"
+    "repository_name": "chthollyphile/folia-major",
+    "repository_url": "https://github.com/chthollyphile/folia-major"
   },
   {
-    "repository_name": "facebook/astryx",
-    "repository_url": "https://github.com/facebook/astryx"
+    "repository_name": "crynta/terax-ai",
+    "repository_url": "https://github.com/crynta/terax-ai"
+  },
+  {
+    "repository_name": "dotnet/skills",
+    "repository_url": "https://github.com/dotnet/skills"
   },
   {
     "repository_name": "harvard-edge/cs249r_book",
     "repository_url": "https://github.com/harvard-edge/cs249r_book"
   },
   {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
+    "repository_name": "immich-app/immich",
+    "repository_url": "https://github.com/immich-app/immich"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "ogulcancelik/herdr",
@@ -60,16 +64,8 @@
     "repository_url": "https://github.com/openai/codex-plugin-cc"
   },
   {
-    "repository_name": "pytorch/pytorch",
-    "repository_url": "https://github.com/pytorch/pytorch"
-  },
-  {
     "repository_name": "rommapp/romm",
     "repository_url": "https://github.com/rommapp/romm"
-  },
-  {
-    "repository_name": "supabase/supabase",
-    "repository_url": "https://github.com/supabase/supabase"
   },
   {
     "repository_name": "usestrix/strix",
