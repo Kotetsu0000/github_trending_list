@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-  },
-  {
     "repository_name": "CoplayDev/unity-mcp",
     "repository_url": "https://github.com/CoplayDev/unity-mcp"
   },
@@ -12,12 +8,16 @@
     "repository_url": "https://github.com/JuliusBrussee/caveman"
   },
   {
-    "repository_name": "Zackriya-Solutions/meetily",
-    "repository_url": "https://github.com/Zackriya-Solutions/meetily"
+    "repository_name": "Leonxlnx/taste-skill",
+    "repository_url": "https://github.com/Leonxlnx/taste-skill"
   },
   {
-    "repository_name": "agentskills/agentskills",
-    "repository_url": "https://github.com/agentskills/agentskills"
+    "repository_name": "OthmanAdi/planning-with-files",
+    "repository_url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "repository_name": "Zackriya-Solutions/meetily",
+    "repository_url": "https://github.com/Zackriya-Solutions/meetily"
   },
   {
     "repository_name": "alibaba/page-agent",
@@ -28,32 +28,40 @@
     "repository_url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
+  },
+  {
     "repository_name": "asgeirtj/system_prompts_leaks",
     "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
-    "repository_name": "chthollyphile/folia-major",
-    "repository_url": "https://github.com/chthollyphile/folia-major"
-  },
-  {
-    "repository_name": "crynta/terax-ai",
-    "repository_url": "https://github.com/crynta/terax-ai"
+    "repository_name": "coreyhaines31/marketingskills",
+    "repository_url": "https://github.com/coreyhaines31/marketingskills"
   },
   {
     "repository_name": "dotnet/skills",
     "repository_url": "https://github.com/dotnet/skills"
   },
   {
+    "repository_name": "facebook/astryx",
+    "repository_url": "https://github.com/facebook/astryx"
+  },
+  {
+    "repository_name": "gastownhall/gastown",
+    "repository_url": "https://github.com/gastownhall/gastown"
+  },
+  {
     "repository_name": "harvard-edge/cs249r_book",
     "repository_url": "https://github.com/harvard-edge/cs249r_book"
   },
   {
-    "repository_name": "immich-app/immich",
-    "repository_url": "https://github.com/immich-app/immich"
+    "repository_name": "hesreallyhim/awesome-claude-code",
+    "repository_url": "https://github.com/hesreallyhim/awesome-claude-code"
   },
   {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
+    "repository_name": "immich-app/immich",
+    "repository_url": "https://github.com/immich-app/immich"
   },
   {
     "repository_name": "ogulcancelik/herdr",
@@ -66,6 +74,14 @@
   {
     "repository_name": "rommapp/romm",
     "repository_url": "https://github.com/rommapp/romm"
+  },
+  {
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repository_name": "steipete/CodexBar",
+    "repository_url": "https://github.com/steipete/CodexBar"
   },
   {
     "repository_name": "usestrix/strix",
