@@ -1,7 +1,7 @@
 [
   {
-    "repository_name": "AhmadIbrahiim/Website-downloader",
-    "repository_url": "https://github.com/AhmadIbrahiim/Website-downloader"
+    "repository_name": "Diolinux/PhotoGIMP",
+    "repository_url": "https://github.com/Diolinux/PhotoGIMP"
   },
   {
     "repository_name": "MadsLorentzen/ai-job-search",
@@ -12,12 +12,20 @@
     "repository_url": "https://github.com/TencentCloud/CubeSandbox"
   },
   {
-    "repository_name": "Zackriya-Solutions/meetily",
-    "repository_url": "https://github.com/Zackriya-Solutions/meetily"
+    "repository_name": "TencentCloud/TencentDB-Agent-Memory",
+    "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repository_name": "alibaba/zvec",
+    "repository_url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "repository_name": "argoproj/argo-cd",
+    "repository_url": "https://github.com/argoproj/argo-cd"
   },
   {
     "repository_name": "asgeirtj/system_prompts_leaks",
@@ -28,27 +36,27 @@
     "repository_url": "https://github.com/bradautomates/claude-video"
   },
   {
-    "repository_name": "dotnet/skills",
-    "repository_url": "https://github.com/dotnet/skills"
-  },
-  {
-    "repository_name": "hesreallyhim/awesome-claude-code",
-    "repository_url": "https://github.com/hesreallyhim/awesome-claude-code"
-  },
-  {
     "repository_name": "iOfficeAI/OfficeCLI",
     "repository_url": "https://github.com/iOfficeAI/OfficeCLI"
   },
   {
-    "repository_name": "kyutai-labs/pocket-tts",
-    "repository_url": "https://github.com/kyutai-labs/pocket-tts"
+    "repository_name": "mvanhorn/last30days-skill",
+    "repository_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "prisma/prisma",
+    "repository_url": "https://github.com/prisma/prisma"
   },
   {
     "repository_name": "ruvnet/RuView",
     "repository_url": "https://github.com/ruvnet/RuView"
   },
   {
-    "repository_name": "steipete/CodexBar",
-    "repository_url": "https://github.com/steipete/CodexBar"
+    "repository_name": "wonderwhy-er/DesktopCommanderMCP",
+    "repository_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
   }
 ]
