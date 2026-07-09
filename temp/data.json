@@ -1,31 +1,23 @@
 [
   {
-    "repository_name": "Diolinux/PhotoGIMP",
-    "repository_url": "https://github.com/Diolinux/PhotoGIMP"
-  },
-  {
     "repository_name": "MadsLorentzen/ai-job-search",
     "repository_url": "https://github.com/MadsLorentzen/ai-job-search"
   },
   {
-    "repository_name": "TencentCloud/CubeSandbox",
-    "repository_url": "https://github.com/TencentCloud/CubeSandbox"
+    "repository_name": "SmartlyDressedGames/U3-SDK",
+    "repository_url": "https://github.com/SmartlyDressedGames/U3-SDK"
   },
   {
-    "repository_name": "TencentCloud/TencentDB-Agent-Memory",
-    "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    "repository_name": "VoltAgent/awesome-design-md",
+    "repository_url": "https://github.com/VoltAgent/awesome-design-md"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "alibaba/zvec",
-    "repository_url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "repository_name": "argoproj/argo-cd",
-    "repository_url": "https://github.com/argoproj/argo-cd"
+    "repository_name": "anthropics/claude-cookbooks",
+    "repository_url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
     "repository_name": "asgeirtj/system_prompts_leaks",
@@ -44,20 +36,24 @@
     "repository_url": "https://github.com/iOfficeAI/OfficeCLI"
   },
   {
-    "repository_name": "mvanhorn/last30days-skill",
-    "repository_url": "https://github.com/mvanhorn/last30days-skill"
+    "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "kyutai-labs/pocket-tts",
+    "repository_url": "https://github.com/kyutai-labs/pocket-tts"
   },
   {
     "repository_name": "prisma/prisma",
     "repository_url": "https://github.com/prisma/prisma"
   },
   {
-    "repository_name": "ruvnet/RuView",
-    "repository_url": "https://github.com/ruvnet/RuView"
+    "repository_name": "unclecode/crawl4ai",
+    "repository_url": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+    "repository_name": "vxcontrol/pentagi",
+    "repository_url": "https://github.com/vxcontrol/pentagi"
   },
   {
     "repository_name": "wonderwhy-er/DesktopCommanderMCP",
