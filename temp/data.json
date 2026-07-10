@@ -1,58 +1,78 @@
 [
   {
-    "repository_name": "SmartlyDressedGames/U3-SDK",
-    "repository_url": "https://github.com/SmartlyDressedGames/U3-SDK"
+    "repository_name": "TencentCloud/TencentDB-Agent-Memory",
+    "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
   {
-    "repository_name": "VoltAgent/awesome-design-md",
-    "repository_url": "https://github.com/VoltAgent/awesome-design-md"
+    "repository_name": "abseil/abseil-cpp",
+    "repository_url": "https://github.com/abseil/abseil-cpp"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "anthropics/claude-cookbooks",
-    "repository_url": "https://github.com/anthropics/claude-cookbooks"
+    "repository_name": "catchorg/Catch2",
+    "repository_url": "https://github.com/catchorg/Catch2"
   },
   {
-    "repository_name": "asgeirtj/system_prompts_leaks",
-    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
+    "repository_name": "chriskohlhoff/asio",
+    "repository_url": "https://github.com/chriskohlhoff/asio"
   },
   {
-    "repository_name": "bradautomates/claude-video",
-    "repository_url": "https://github.com/bradautomates/claude-video"
+    "repository_name": "davila7/claude-code-templates",
+    "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
-    "repository_name": "huxingyi/autoremesher",
-    "repository_url": "https://github.com/huxingyi/autoremesher"
+    "repository_name": "google-labs-code/stitch-skills",
+    "repository_url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "repository_name": "grpc/grpc",
+    "repository_url": "https://github.com/grpc/grpc"
+  },
+  {
+    "repository_name": "hashicorp/terraform",
+    "repository_url": "https://github.com/hashicorp/terraform"
   },
   {
     "repository_name": "iOfficeAI/OfficeCLI",
     "repository_url": "https://github.com/iOfficeAI/OfficeCLI"
   },
   {
-    "repository_name": "imthenachoman/How-To-Secure-A-Linux-Server",
-    "repository_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+    "repository_name": "jbeder/yaml-cpp",
+    "repository_url": "https://github.com/jbeder/yaml-cpp"
   },
   {
-    "repository_name": "kyutai-labs/pocket-tts",
-    "repository_url": "https://github.com/kyutai-labs/pocket-tts"
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "prisma/prisma",
-    "repository_url": "https://github.com/prisma/prisma"
+    "repository_name": "microsoft/TypeScript",
+    "repository_url": "https://github.com/microsoft/TypeScript"
   },
   {
-    "repository_name": "unclecode/crawl4ai",
-    "repository_url": "https://github.com/unclecode/crawl4ai"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "vxcontrol/pentagi",
-    "repository_url": "https://github.com/vxcontrol/pentagi"
+    "repository_name": "oven-sh/bun",
+    "repository_url": "https://github.com/oven-sh/bun"
+  },
+  {
+    "repository_name": "tailscale/tailscale",
+    "repository_url": "https://github.com/tailscale/tailscale"
+  },
+  {
+    "repository_name": "vercel/next.js",
+    "repository_url": "https://github.com/vercel/next.js"
   },
   {
     "repository_name": "wonderwhy-er/DesktopCommanderMCP",
     "repository_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "repository_name": "zeux/meshoptimizer",
+    "repository_url": "https://github.com/zeux/meshoptimizer"
   }
 ]
