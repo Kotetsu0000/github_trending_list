@@ -1,15 +1,23 @@
 [
   {
-    "repository_name": "TencentCloud/TencentDB-Agent-Memory",
-    "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    "repository_name": "DayuanJiang/next-ai-draw-io",
+    "repository_url": "https://github.com/DayuanJiang/next-ai-draw-io"
   },
   {
     "repository_name": "abseil/abseil-cpp",
     "repository_url": "https://github.com/abseil/abseil-cpp"
   },
   {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
+    "repository_name": "actions/checkout",
+    "repository_url": "https://github.com/actions/checkout"
+  },
+  {
+    "repository_name": "ansible/ansible",
+    "repository_url": "https://github.com/ansible/ansible"
+  },
+  {
+    "repository_name": "anthropics/claude-cookbooks",
+    "repository_url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
     "repository_name": "catchorg/Catch2",
@@ -20,48 +28,60 @@
     "repository_url": "https://github.com/chriskohlhoff/asio"
   },
   {
+    "repository_name": "cypress-io/cypress",
+    "repository_url": "https://github.com/cypress-io/cypress"
+  },
+  {
     "repository_name": "davila7/claude-code-templates",
     "repository_url": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "repository_name": "dotnet/aspnetcore",
+    "repository_url": "https://github.com/dotnet/aspnetcore"
   },
   {
     "repository_name": "google-labs-code/stitch-skills",
     "repository_url": "https://github.com/google-labs-code/stitch-skills"
   },
   {
-    "repository_name": "grpc/grpc",
-    "repository_url": "https://github.com/grpc/grpc"
-  },
-  {
     "repository_name": "hashicorp/terraform",
     "repository_url": "https://github.com/hashicorp/terraform"
   },
   {
-    "repository_name": "iOfficeAI/OfficeCLI",
-    "repository_url": "https://github.com/iOfficeAI/OfficeCLI"
+    "repository_name": "home-assistant/core",
+    "repository_url": "https://github.com/home-assistant/core"
   },
   {
-    "repository_name": "jbeder/yaml-cpp",
-    "repository_url": "https://github.com/jbeder/yaml-cpp"
+    "repository_name": "malisper/pgrust",
+    "repository_url": "https://github.com/malisper/pgrust"
   },
   {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
-    "repository_name": "microsoft/TypeScript",
-    "repository_url": "https://github.com/microsoft/TypeScript"
+    "repository_name": "nasa/fprime",
+    "repository_url": "https://github.com/nasa/fprime"
+  },
+  {
+    "repository_name": "nuxt/nuxt",
+    "repository_url": "https://github.com/nuxt/nuxt"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
+    "repository_name": "openai/plugins",
+    "repository_url": "https://github.com/openai/plugins"
+  },
+  {
     "repository_name": "oven-sh/bun",
     "repository_url": "https://github.com/oven-sh/bun"
   },
   {
-    "repository_name": "tailscale/tailscale",
-    "repository_url": "https://github.com/tailscale/tailscale"
+    "repository_name": "prisma/prisma",
+    "repository_url": "https://github.com/prisma/prisma"
   },
   {
     "repository_name": "vercel/next.js",
