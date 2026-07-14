@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "AIEraDev/Clypra",
+    "repository_url": "https://github.com/AIEraDev/Clypra"
+  },
+  {
     "repository_name": "Dicklesworthstone/destructive_command_guard",
     "repository_url": "https://github.com/Dicklesworthstone/destructive_command_guard"
   },
@@ -10,6 +14,10 @@
   {
     "repository_name": "HKUDS/Vibe-Trading",
     "repository_url": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "repository_name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "repository_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
   },
   {
     "repository_name": "Nutlope/hallmark",
@@ -28,19 +36,27 @@
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
-    "repository_name": "coreyhaines31/marketingskills",
-    "repository_url": "https://github.com/coreyhaines31/marketingskills"
-  },
-  {
-    "repository_name": "github/spec-kit",
-    "repository_url": "https://github.com/github/spec-kit"
+    "repository_name": "chenyme/grok2api",
+    "repository_url": "https://github.com/chenyme/grok2api"
   },
   {
     "repository_name": "hasaneyldrm/exercises-dataset",
     "repository_url": "https://github.com/hasaneyldrm/exercises-dataset"
   },
   {
-    "repository_name": "moeru-ai/airi",
-    "repository_url": "https://github.com/moeru-ai/airi"
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repository_name": "par274/sharpemu",
+    "repository_url": "https://github.com/par274/sharpemu"
+  },
+  {
+    "repository_name": "penpot/penpot",
+    "repository_url": "https://github.com/penpot/penpot"
+  },
+  {
+    "repository_name": "virattt/ai-hedge-fund",
+    "repository_url": "https://github.com/virattt/ai-hedge-fund"
   }
 ]
