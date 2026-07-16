@@ -1,19 +1,11 @@
 [
   {
-    "repository_name": "Dicklesworthstone/destructive_command_guard",
-    "repository_url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+    "repository_name": "Graphify-Labs/graphify",
+    "repository_url": "https://github.com/Graphify-Labs/graphify"
   },
   {
     "repository_name": "HKUDS/DeepTutor",
     "repository_url": "https://github.com/HKUDS/DeepTutor"
-  },
-  {
-    "repository_name": "HKUDS/Vibe-Trading",
-    "repository_url": "https://github.com/HKUDS/Vibe-Trading"
-  },
-  {
-    "repository_name": "HenryNdubuaku/maths-cs-ai-compendium",
-    "repository_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
   },
   {
     "repository_name": "Nutlope/hallmark",
@@ -24,6 +16,14 @@
     "repository_url": "https://github.com/OpenCut-app/OpenCut"
   },
   {
+    "repository_name": "PostHog/posthog",
+    "repository_url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "repository_name": "PrismML-Eng/Bonsai-demo",
+    "repository_url": "https://github.com/PrismML-Eng/Bonsai-demo"
+  },
+  {
     "repository_name": "Shubhamsaboo/awesome-llm-apps",
     "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
@@ -32,27 +32,39 @@
     "repository_url": "https://github.com/YimMenu/YimMenuV2"
   },
   {
-    "repository_name": "coreyhaines31/marketingskills",
-    "repository_url": "https://github.com/coreyhaines31/marketingskills"
+    "repository_name": "apache/ossie",
+    "repository_url": "https://github.com/apache/ossie"
+  },
+  {
+    "repository_name": "codecrafters-io/build-your-own-x",
+    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "repository_name": "github/copilot-sdk",
+    "repository_url": "https://github.com/github/copilot-sdk"
   },
   {
     "repository_name": "hasaneyldrm/exercises-dataset",
     "repository_url": "https://github.com/hasaneyldrm/exercises-dataset"
   },
   {
-    "repository_name": "injaneity/pi-computer-use",
-    "repository_url": "https://github.com/injaneity/pi-computer-use"
+    "repository_name": "ibelick/ui-skills",
+    "repository_url": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "repository_name": "lobehub/lobehub",
+    "repository_url": "https://github.com/lobehub/lobehub"
   },
   {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "moeru-ai/airi",
-    "repository_url": "https://github.com/moeru-ai/airi"
-  },
-  {
     "repository_name": "openinterpreter/openinterpreter",
     "repository_url": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "repository_name": "ossu/computer-science",
+    "repository_url": "https://github.com/ossu/computer-science"
   }
 ]
