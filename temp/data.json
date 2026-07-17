@@ -1,11 +1,11 @@
 [
   {
-    "repository_name": "Graphify-Labs/graphify",
-    "repository_url": "https://github.com/Graphify-Labs/graphify"
-  },
-  {
     "repository_name": "HKUDS/DeepTutor",
     "repository_url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "repository_name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "repository_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
   },
   {
     "repository_name": "Nutlope/hallmark",
@@ -24,47 +24,35 @@
     "repository_url": "https://github.com/PrismML-Eng/Bonsai-demo"
   },
   {
-    "repository_name": "Shubhamsaboo/awesome-llm-apps",
-    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    "repository_name": "RyanCodrai/turbovec",
+    "repository_url": "https://github.com/RyanCodrai/turbovec"
   },
   {
-    "repository_name": "YimMenu/YimMenuV2",
-    "repository_url": "https://github.com/YimMenu/YimMenuV2"
-  },
-  {
-    "repository_name": "apache/ossie",
-    "repository_url": "https://github.com/apache/ossie"
+    "repository_name": "anthropics/cwc-workshops",
+    "repository_url": "https://github.com/anthropics/cwc-workshops"
   },
   {
     "repository_name": "codecrafters-io/build-your-own-x",
     "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
+    "repository_name": "docusealco/docuseal",
+    "repository_url": "https://github.com/docusealco/docuseal"
+  },
+  {
     "repository_name": "github/copilot-sdk",
     "repository_url": "https://github.com/github/copilot-sdk"
-  },
-  {
-    "repository_name": "hasaneyldrm/exercises-dataset",
-    "repository_url": "https://github.com/hasaneyldrm/exercises-dataset"
-  },
-  {
-    "repository_name": "ibelick/ui-skills",
-    "repository_url": "https://github.com/ibelick/ui-skills"
-  },
-  {
-    "repository_name": "lobehub/lobehub",
-    "repository_url": "https://github.com/lobehub/lobehub"
-  },
-  {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "openinterpreter/openinterpreter",
     "repository_url": "https://github.com/openinterpreter/openinterpreter"
   },
   {
-    "repository_name": "ossu/computer-science",
-    "repository_url": "https://github.com/ossu/computer-science"
+    "repository_name": "protocolbuffers/protobuf",
+    "repository_url": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "repository_name": "tirth8205/code-review-graph",
+    "repository_url": "https://github.com/tirth8205/code-review-graph"
   }
 ]
