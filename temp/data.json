@@ -1,55 +1,43 @@
 [
   {
-    "repository_name": "HKUDS/DeepTutor",
-    "repository_url": "https://github.com/HKUDS/DeepTutor"
+    "repository_name": "KnockOutEZ/wigolo",
+    "repository_url": "https://github.com/KnockOutEZ/wigolo"
   },
   {
-    "repository_name": "HenryNdubuaku/maths-cs-ai-compendium",
-    "repository_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
-  },
-  {
-    "repository_name": "Nutlope/hallmark",
-    "repository_url": "https://github.com/Nutlope/hallmark"
-  },
-  {
-    "repository_name": "OpenCut-app/OpenCut",
-    "repository_url": "https://github.com/OpenCut-app/OpenCut"
+    "repository_name": "MoonshotAI/kimi-cli",
+    "repository_url": "https://github.com/MoonshotAI/kimi-cli"
   },
   {
     "repository_name": "PostHog/posthog",
     "repository_url": "https://github.com/PostHog/posthog"
   },
   {
-    "repository_name": "PrismML-Eng/Bonsai-demo",
-    "repository_url": "https://github.com/PrismML-Eng/Bonsai-demo"
+    "repository_name": "Robbyant/lingbot-map",
+    "repository_url": "https://github.com/Robbyant/lingbot-map"
   },
   {
-    "repository_name": "RyanCodrai/turbovec",
-    "repository_url": "https://github.com/RyanCodrai/turbovec"
-  },
-  {
-    "repository_name": "anthropics/cwc-workshops",
-    "repository_url": "https://github.com/anthropics/cwc-workshops"
+    "repository_name": "apache/ossie",
+    "repository_url": "https://github.com/apache/ossie"
   },
   {
     "repository_name": "codecrafters-io/build-your-own-x",
     "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
-    "repository_name": "docusealco/docuseal",
-    "repository_url": "https://github.com/docusealco/docuseal"
+    "repository_name": "elder-plinius/G0DM0D3",
+    "repository_url": "https://github.com/elder-plinius/G0DM0D3"
   },
   {
-    "repository_name": "github/copilot-sdk",
-    "repository_url": "https://github.com/github/copilot-sdk"
+    "repository_name": "ibelick/ui-skills",
+    "repository_url": "https://github.com/ibelick/ui-skills"
   },
   {
-    "repository_name": "openinterpreter/openinterpreter",
-    "repository_url": "https://github.com/openinterpreter/openinterpreter"
+    "repository_name": "lyogavin/airllm",
+    "repository_url": "https://github.com/lyogavin/airllm"
   },
   {
-    "repository_name": "protocolbuffers/protobuf",
-    "repository_url": "https://github.com/protocolbuffers/protobuf"
+    "repository_name": "rohitg00/ai-engineering-from-scratch",
+    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
     "repository_name": "tirth8205/code-review-graph",
