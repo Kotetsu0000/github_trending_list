@@ -1,5 +1,21 @@
 [
   {
+    "repository_name": "1jehuang/jcode",
+    "repository_url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "repository_name": "AstrBotDevs/AstrBot",
+    "repository_url": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "repository_name": "Canner/WrenAI",
+    "repository_url": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
     "repository_name": "KnockOutEZ/wigolo",
     "repository_url": "https://github.com/KnockOutEZ/wigolo"
   },
@@ -8,32 +24,40 @@
     "repository_url": "https://github.com/MoonshotAI/kimi-cli"
   },
   {
+    "repository_name": "PKUFlyingPig/cs-self-learning",
+    "repository_url": "https://github.com/PKUFlyingPig/cs-self-learning"
+  },
+  {
     "repository_name": "PostHog/posthog",
     "repository_url": "https://github.com/PostHog/posthog"
   },
   {
-    "repository_name": "Robbyant/lingbot-map",
-    "repository_url": "https://github.com/Robbyant/lingbot-map"
-  },
-  {
-    "repository_name": "apache/ossie",
-    "repository_url": "https://github.com/apache/ossie"
+    "repository_name": "andrewrabert/jellium-desktop",
+    "repository_url": "https://github.com/andrewrabert/jellium-desktop"
   },
   {
     "repository_name": "codecrafters-io/build-your-own-x",
     "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
-    "repository_name": "elder-plinius/G0DM0D3",
-    "repository_url": "https://github.com/elder-plinius/G0DM0D3"
+    "repository_name": "github/copilot-sdk",
+    "repository_url": "https://github.com/github/copilot-sdk"
   },
   {
-    "repository_name": "ibelick/ui-skills",
-    "repository_url": "https://github.com/ibelick/ui-skills"
+    "repository_name": "jamiepine/voicebox",
+    "repository_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repository_name": "kvcache-ai/ktransformers",
+    "repository_url": "https://github.com/kvcache-ai/ktransformers"
   },
   {
     "repository_name": "lyogavin/airllm",
     "repository_url": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "repository_name": "microsoft/terminal",
+    "repository_url": "https://github.com/microsoft/terminal"
   },
   {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
@@ -42,5 +66,9 @@
   {
     "repository_name": "tirth8205/code-review-graph",
     "repository_url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "repository_name": "trycua/cua",
+    "repository_url": "https://github.com/trycua/cua"
   }
 ]
