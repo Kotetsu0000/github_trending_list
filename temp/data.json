@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "repository_name": "1jehuang/jcode",
+    "repository_url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "repository_name": "AstrBotDevs/AstrBot",
+    "repository_url": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "repository_name": "KnockOutEZ/wigolo",
+    "repository_url": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "repository_name": "MoonshotAI/kimi-cli",
+    "repository_url": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "repository_name": "PrefectHQ/fastmcp",
+    "repository_url": "https://github.com/PrefectHQ/fastmcp"
+  },
+  {
+    "repository_name": "Robbyant/lingbot-map",
+    "repository_url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "repository_name": "diegosouzapw/OmniRoute",
+    "repository_url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "repository_name": "every-app/open-seo",
+    "repository_url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "repository_name": "handy-computer/transcribe.cpp",
+    "repository_url": "https://github.com/handy-computer/transcribe.cpp"
+  },
+  {
+    "repository_name": "iptv-org/iptv",
+    "repository_url": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "repository_name": "jamiepine/voicebox",
+    "repository_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "repository_name": "kvcache-ai/ktransformers",
+    "repository_url": "https://github.com/kvcache-ai/ktransformers"
+  },
+  {
+    "repository_name": "microsoft/Ontology-Playground",
+    "repository_url": "https://github.com/microsoft/Ontology-Playground"
+  },
+  {
+    "repository_name": "moonshine-ai/moonshine",
+    "repository_url": "https://github.com/moonshine-ai/moonshine"
+  },
+  {
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repository_name": "oblien/openship",
+    "repository_url": "https://github.com/oblien/openship"
+  },
+  {
+    "repository_name": "rohitg00/ai-engineering-from-scratch",
+    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repository_name": "tirth8205/code-review-graph",
+    "repository_url": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "repository_name": "tokio-rs/topcoat",
+    "repository_url": "https://github.com/tokio-rs/topcoat"
+  },
+  {
+    "repository_name": "topoteretes/cognee",
+    "repository_url": "https://github.com/topoteretes/cognee"
+  }
+]
