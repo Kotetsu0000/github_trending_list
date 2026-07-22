@@ -1,23 +1,15 @@
 [
   {
-    "repository_name": "1jehuang/jcode",
-    "repository_url": "https://github.com/1jehuang/jcode"
-  },
-  {
-    "repository_name": "AlexsJones/llmfit",
-    "repository_url": "https://github.com/AlexsJones/llmfit"
-  },
-  {
-    "repository_name": "AstrBotDevs/AstrBot",
-    "repository_url": "https://github.com/AstrBotDevs/AstrBot"
+    "repository_name": "ComposioHQ/awesome-claude-skills",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
   },
   {
     "repository_name": "DioxusLabs/dioxus",
     "repository_url": "https://github.com/DioxusLabs/dioxus"
   },
   {
-    "repository_name": "KnockOutEZ/wigolo",
-    "repository_url": "https://github.com/KnockOutEZ/wigolo"
+    "repository_name": "Pumpkin-MC/Pumpkin",
+    "repository_url": "https://github.com/Pumpkin-MC/Pumpkin"
   },
   {
     "repository_name": "agegr/pi-web",
@@ -26,10 +18,6 @@
   {
     "repository_name": "ayghri/i-have-adhd",
     "repository_url": "https://github.com/ayghri/i-have-adhd"
-  },
-  {
-    "repository_name": "bojieli/ai-agent-book",
-    "repository_url": "https://github.com/bojieli/ai-agent-book"
   },
   {
     "repository_name": "chrislgarry/Apollo-11",
@@ -44,43 +32,47 @@
     "repository_url": "https://github.com/dottxt-ai/outlines"
   },
   {
-    "repository_name": "earthtojake/text-to-cad",
-    "repository_url": "https://github.com/earthtojake/text-to-cad"
-  },
-  {
-    "repository_name": "every-app/open-seo",
-    "repository_url": "https://github.com/every-app/open-seo"
+    "repository_name": "dreamhunter2333/cloudflare_temp_email",
+    "repository_url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
   },
   {
     "repository_name": "hyprwm/Hyprland",
     "repository_url": "https://github.com/hyprwm/Hyprland"
   },
   {
+    "repository_name": "jamiepine/voicebox",
+    "repository_url": "https://github.com/jamiepine/voicebox"
+  },
+  {
     "repository_name": "koala73/worldmonitor",
     "repository_url": "https://github.com/koala73/worldmonitor"
   },
   {
-    "repository_name": "langchain-ai/open_deep_research",
-    "repository_url": "https://github.com/langchain-ai/open_deep_research"
-  },
-  {
-    "repository_name": "microsoft/Ontology-Playground",
-    "repository_url": "https://github.com/microsoft/Ontology-Playground"
+    "repository_name": "likec4/likec4",
+    "repository_url": "https://github.com/likec4/likec4"
   },
   {
     "repository_name": "oblien/openship",
     "repository_url": "https://github.com/oblien/openship"
   },
   {
+    "repository_name": "rohitg00/ai-engineering-from-scratch",
+    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
+  },
+  {
     "repository_name": "schollz/croc",
     "repository_url": "https://github.com/schollz/croc"
   },
   {
-    "repository_name": "tirth8205/code-review-graph",
-    "repository_url": "https://github.com/tirth8205/code-review-graph"
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
   {
-    "repository_name": "tradesdontlie/tradingview-mcp",
-    "repository_url": "https://github.com/tradesdontlie/tradingview-mcp"
+    "repository_name": "tirth8205/code-review-graph",
+    "repository_url": "https://github.com/tirth8205/code-review-graph"
   }
 ]
