@@ -1,11 +1,15 @@
 [
   {
+    "repository_name": "Automattic/harper",
+    "repository_url": "https://github.com/Automattic/harper"
+  },
+  {
     "repository_name": "ComposioHQ/awesome-claude-skills",
     "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
   },
   {
-    "repository_name": "DioxusLabs/dioxus",
-    "repository_url": "https://github.com/DioxusLabs/dioxus"
+    "repository_name": "Julian-adv/OpenMMO",
+    "repository_url": "https://github.com/Julian-adv/OpenMMO"
   },
   {
     "repository_name": "Pumpkin-MC/Pumpkin",
@@ -16,32 +20,36 @@
     "repository_url": "https://github.com/agegr/pi-web"
   },
   {
+    "repository_name": "alibaba/open-code-review",
+    "repository_url": "https://github.com/alibaba/open-code-review"
+  },
+  {
     "repository_name": "ayghri/i-have-adhd",
     "repository_url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repository_name": "block/buzz",
+    "repository_url": "https://github.com/block/buzz"
   },
   {
     "repository_name": "chrislgarry/Apollo-11",
     "repository_url": "https://github.com/chrislgarry/Apollo-11"
   },
   {
+    "repository_name": "citrolabs/ego-lite",
+    "repository_url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
     "repository_name": "diegosouzapw/OmniRoute",
     "repository_url": "https://github.com/diegosouzapw/OmniRoute"
   },
   {
-    "repository_name": "dottxt-ai/outlines",
-    "repository_url": "https://github.com/dottxt-ai/outlines"
+    "repository_name": "earthtojake/text-to-cad",
+    "repository_url": "https://github.com/earthtojake/text-to-cad"
   },
   {
-    "repository_name": "dreamhunter2333/cloudflare_temp_email",
-    "repository_url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
-  },
-  {
-    "repository_name": "hyprwm/Hyprland",
-    "repository_url": "https://github.com/hyprwm/Hyprland"
-  },
-  {
-    "repository_name": "jamiepine/voicebox",
-    "repository_url": "https://github.com/jamiepine/voicebox"
+    "repository_name": "jellyfin/jellyfin",
+    "repository_url": "https://github.com/jellyfin/jellyfin"
   },
   {
     "repository_name": "koala73/worldmonitor",
@@ -52,27 +60,11 @@
     "repository_url": "https://github.com/likec4/likec4"
   },
   {
-    "repository_name": "oblien/openship",
-    "repository_url": "https://github.com/oblien/openship"
-  },
-  {
-    "repository_name": "rohitg00/ai-engineering-from-scratch",
-    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-  },
-  {
     "repository_name": "ruvnet/RuView",
     "repository_url": "https://github.com/ruvnet/RuView"
   },
   {
-    "repository_name": "schollz/croc",
-    "repository_url": "https://github.com/schollz/croc"
-  },
-  {
     "repository_name": "shiyu-coder/Kronos",
     "repository_url": "https://github.com/shiyu-coder/Kronos"
-  },
-  {
-    "repository_name": "tirth8205/code-review-graph",
-    "repository_url": "https://github.com/tirth8205/code-review-graph"
   }
 ]
