@@ -1,19 +1,7 @@
 [
   {
-    "repository_name": "Automattic/harper",
-    "repository_url": "https://github.com/Automattic/harper"
-  },
-  {
-    "repository_name": "ComposioHQ/awesome-claude-skills",
-    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
-  },
-  {
     "repository_name": "CoreBunch/Instatic",
     "repository_url": "https://github.com/CoreBunch/Instatic"
-  },
-  {
-    "repository_name": "Lordog/dive-into-llms",
-    "repository_url": "https://github.com/Lordog/dive-into-llms"
   },
   {
     "repository_name": "OtterMind/Chat2DB",
@@ -24,16 +12,12 @@
     "repository_url": "https://github.com/Pumpkin-MC/Pumpkin"
   },
   {
-    "repository_name": "RyanCodrai/turbovec",
-    "repository_url": "https://github.com/RyanCodrai/turbovec"
-  },
-  {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
-  },
-  {
     "repository_name": "alibaba/open-code-review",
     "repository_url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "repository_name": "amnezia-vpn/amnezia-client",
+    "repository_url": "https://github.com/amnezia-vpn/amnezia-client"
   },
   {
     "repository_name": "andrewyng/aisuite",
@@ -52,23 +36,35 @@
     "repository_url": "https://github.com/citrolabs/ego-lite"
   },
   {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
+    "repository_name": "jenkinsci/jenkins",
+    "repository_url": "https://github.com/jenkinsci/jenkins"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "nodejs/node",
+    "repository_url": "https://github.com/nodejs/node"
   },
   {
-    "repository_name": "palmier-io/palmier-pro",
-    "repository_url": "https://github.com/palmier-io/palmier-pro"
+    "repository_name": "pbakaus/impeccable",
+    "repository_url": "https://github.com/pbakaus/impeccable"
   },
   {
     "repository_name": "permissionlesstech/bitchat",
     "repository_url": "https://github.com/permissionlesstech/bitchat"
   },
   {
+    "repository_name": "permissionlesstech/bitchat-android",
+    "repository_url": "https://github.com/permissionlesstech/bitchat-android"
+  },
+  {
+    "repository_name": "pingdotgg/t3code",
+    "repository_url": "https://github.com/pingdotgg/t3code"
+  },
+  {
     "repository_name": "shiyu-coder/Kronos",
     "repository_url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repository_name": "yorukot/superfile",
+    "repository_url": "https://github.com/yorukot/superfile"
   }
 ]
