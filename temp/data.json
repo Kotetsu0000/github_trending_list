@@ -36,6 +36,10 @@
     "repository_url": "https://github.com/ocornut/imgui"
   },
   {
+    "repository_name": "opengeos/GeoLibre",
+    "repository_url": "https://github.com/opengeos/GeoLibre"
+  },
+  {
     "repository_name": "pbakaus/impeccable",
     "repository_url": "https://github.com/pbakaus/impeccable"
   },
