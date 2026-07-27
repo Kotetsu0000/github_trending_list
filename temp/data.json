@@ -1,15 +1,7 @@
 [
   {
-    "repository_name": "CoreBunch/Instatic",
-    "repository_url": "https://github.com/CoreBunch/Instatic"
-  },
-  {
-    "repository_name": "OtterMind/Chat2DB",
-    "repository_url": "https://github.com/OtterMind/Chat2DB"
-  },
-  {
-    "repository_name": "Pumpkin-MC/Pumpkin",
-    "repository_url": "https://github.com/Pumpkin-MC/Pumpkin"
+    "repository_name": "NanmiCoder/MediaCrawler",
+    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
   },
   {
     "repository_name": "alibaba/open-code-review",
@@ -20,28 +12,28 @@
     "repository_url": "https://github.com/amnezia-vpn/amnezia-client"
   },
   {
-    "repository_name": "andrewyng/aisuite",
-    "repository_url": "https://github.com/andrewyng/aisuite"
+    "repository_name": "apache/cassandra",
+    "repository_url": "https://github.com/apache/cassandra"
   },
   {
-    "repository_name": "anthropics/claude-cookbooks",
-    "repository_url": "https://github.com/anthropics/claude-cookbooks"
-  },
-  {
-    "repository_name": "block/buzz",
-    "repository_url": "https://github.com/block/buzz"
-  },
-  {
-    "repository_name": "citrolabs/ego-lite",
-    "repository_url": "https://github.com/citrolabs/ego-lite"
+    "repository_name": "bradautomates/claude-video",
+    "repository_url": "https://github.com/bradautomates/claude-video"
   },
   {
     "repository_name": "jenkinsci/jenkins",
     "repository_url": "https://github.com/jenkinsci/jenkins"
   },
   {
-    "repository_name": "nodejs/node",
-    "repository_url": "https://github.com/nodejs/node"
+    "repository_name": "moeru-ai/airi",
+    "repository_url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "repository_name": "mvanhorn/last30days-skill",
+    "repository_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "repository_name": "ocornut/imgui",
+    "repository_url": "https://github.com/ocornut/imgui"
   },
   {
     "repository_name": "pbakaus/impeccable",
@@ -52,16 +44,12 @@
     "repository_url": "https://github.com/permissionlesstech/bitchat"
   },
   {
-    "repository_name": "permissionlesstech/bitchat-android",
-    "repository_url": "https://github.com/permissionlesstech/bitchat-android"
-  },
-  {
-    "repository_name": "pingdotgg/t3code",
-    "repository_url": "https://github.com/pingdotgg/t3code"
-  },
-  {
     "repository_name": "shiyu-coder/Kronos",
     "repository_url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repository_name": "vudovn/ag-kit",
+    "repository_url": "https://github.com/vudovn/ag-kit"
   },
   {
     "repository_name": "yorukot/superfile",
