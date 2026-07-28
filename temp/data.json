@@ -1,59 +1,47 @@
 [
   {
-    "repository_name": "NanmiCoder/MediaCrawler",
-    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "alibaba/open-code-review",
-    "repository_url": "https://github.com/alibaba/open-code-review"
-  },
-  {
-    "repository_name": "amnezia-vpn/amnezia-client",
-    "repository_url": "https://github.com/amnezia-vpn/amnezia-client"
-  },
-  {
-    "repository_name": "apache/cassandra",
-    "repository_url": "https://github.com/apache/cassandra"
+    "repository_name": "andrewyng/aisuite",
+    "repository_url": "https://github.com/andrewyng/aisuite"
   },
   {
     "repository_name": "bradautomates/claude-video",
     "repository_url": "https://github.com/bradautomates/claude-video"
   },
   {
+    "repository_name": "huggingface/speech-to-speech",
+    "repository_url": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
     "repository_name": "jenkinsci/jenkins",
     "repository_url": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "repository_name": "microsoft/agent-governance-toolkit",
+    "repository_url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "repository_name": "moeru-ai/airi",
     "repository_url": "https://github.com/moeru-ai/airi"
   },
   {
-    "repository_name": "mvanhorn/last30days-skill",
-    "repository_url": "https://github.com/mvanhorn/last30days-skill"
-  },
-  {
-    "repository_name": "ocornut/imgui",
-    "repository_url": "https://github.com/ocornut/imgui"
-  },
-  {
     "repository_name": "opengeos/GeoLibre",
     "repository_url": "https://github.com/opengeos/GeoLibre"
   },
   {
-    "repository_name": "pbakaus/impeccable",
-    "repository_url": "https://github.com/pbakaus/impeccable"
+    "repository_name": "paperswithbacktest/awesome-systematic-trading",
+    "repository_url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
   },
   {
-    "repository_name": "permissionlesstech/bitchat",
-    "repository_url": "https://github.com/permissionlesstech/bitchat"
+    "repository_name": "pascalorg/editor",
+    "repository_url": "https://github.com/pascalorg/editor"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
-  },
-  {
-    "repository_name": "vudovn/ag-kit",
-    "repository_url": "https://github.com/vudovn/ag-kit"
+    "repository_name": "virgiliojr94/book-to-skill",
+    "repository_url": "https://github.com/virgiliojr94/book-to-skill"
   },
   {
     "repository_name": "yorukot/superfile",
