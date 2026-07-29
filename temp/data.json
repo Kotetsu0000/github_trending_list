@@ -1,31 +1,55 @@
 [
   {
+    "repository_name": "1jehuang/jcode",
+    "repository_url": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "repository_name": "MoonshotAI/FlashKDA",
+    "repository_url": "https://github.com/MoonshotAI/FlashKDA"
+  },
+  {
+    "repository_name": "NanmiCoder/MediaCrawler",
+    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "andrewyng/aisuite",
-    "repository_url": "https://github.com/andrewyng/aisuite"
+    "repository_name": "alibaba/open-code-review",
+    "repository_url": "https://github.com/alibaba/open-code-review"
   },
   {
-    "repository_name": "bradautomates/claude-video",
-    "repository_url": "https://github.com/bradautomates/claude-video"
+    "repository_name": "deepfakes/faceswap",
+    "repository_url": "https://github.com/deepfakes/faceswap"
+  },
+  {
+    "repository_name": "different-ai/openwork",
+    "repository_url": "https://github.com/different-ai/openwork"
+  },
+  {
+    "repository_name": "grokability/snipe-it",
+    "repository_url": "https://github.com/grokability/snipe-it"
   },
   {
     "repository_name": "huggingface/speech-to-speech",
     "repository_url": "https://github.com/huggingface/speech-to-speech"
   },
   {
-    "repository_name": "jenkinsci/jenkins",
-    "repository_url": "https://github.com/jenkinsci/jenkins"
+    "repository_name": "maderix/ANE",
+    "repository_url": "https://github.com/maderix/ANE"
   },
   {
-    "repository_name": "microsoft/agent-governance-toolkit",
-    "repository_url": "https://github.com/microsoft/agent-governance-toolkit"
+    "repository_name": "microsoft/VibeVoice",
+    "repository_url": "https://github.com/microsoft/VibeVoice"
   },
   {
     "repository_name": "moeru-ai/airi",
     "repository_url": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "opengeos/GeoLibre",
@@ -42,9 +66,5 @@
   {
     "repository_name": "virgiliojr94/book-to-skill",
     "repository_url": "https://github.com/virgiliojr94/book-to-skill"
-  },
-  {
-    "repository_name": "yorukot/superfile",
-    "repository_url": "https://github.com/yorukot/superfile"
   }
 ]
