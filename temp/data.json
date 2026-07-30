@@ -1,59 +1,51 @@
 [
   {
-    "repository_name": "1jehuang/jcode",
-    "repository_url": "https://github.com/1jehuang/jcode"
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
-    "repository_name": "MoonshotAI/FlashKDA",
-    "repository_url": "https://github.com/MoonshotAI/FlashKDA"
-  },
-  {
-    "repository_name": "NanmiCoder/MediaCrawler",
-    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
+    "repository_name": "WhiskeySockets/Baileys",
+    "repository_url": "https://github.com/WhiskeySockets/Baileys"
   },
   {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "alibaba/open-code-review",
-    "repository_url": "https://github.com/alibaba/open-code-review"
+    "repository_name": "agavra/tuicr",
+    "repository_url": "https://github.com/agavra/tuicr"
   },
   {
-    "repository_name": "deepfakes/faceswap",
-    "repository_url": "https://github.com/deepfakes/faceswap"
+    "repository_name": "ansible/ansible",
+    "repository_url": "https://github.com/ansible/ansible"
   },
   {
     "repository_name": "different-ai/openwork",
     "repository_url": "https://github.com/different-ai/openwork"
   },
   {
-    "repository_name": "grokability/snipe-it",
-    "repository_url": "https://github.com/grokability/snipe-it"
+    "repository_name": "dotnet/aspnetcore",
+    "repository_url": "https://github.com/dotnet/aspnetcore"
   },
   {
     "repository_name": "huggingface/speech-to-speech",
     "repository_url": "https://github.com/huggingface/speech-to-speech"
   },
   {
-    "repository_name": "maderix/ANE",
-    "repository_url": "https://github.com/maderix/ANE"
+    "repository_name": "jenkinsci/jenkins",
+    "repository_url": "https://github.com/jenkinsci/jenkins"
   },
   {
-    "repository_name": "microsoft/VibeVoice",
-    "repository_url": "https://github.com/microsoft/VibeVoice"
+    "repository_name": "microsoft/AI-For-Beginners",
+    "repository_url": "https://github.com/microsoft/AI-For-Beginners"
   },
   {
-    "repository_name": "moeru-ai/airi",
-    "repository_url": "https://github.com/moeru-ai/airi"
+    "repository_name": "microsoft/PowerToys",
+    "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
-    "repository_name": "opengeos/GeoLibre",
-    "repository_url": "https://github.com/opengeos/GeoLibre"
+    "repository_name": "mvanhorn/last30days-skill",
+    "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
     "repository_name": "paperswithbacktest/awesome-systematic-trading",
@@ -62,9 +54,5 @@
   {
     "repository_name": "pascalorg/editor",
     "repository_url": "https://github.com/pascalorg/editor"
-  },
-  {
-    "repository_name": "virgiliojr94/book-to-skill",
-    "repository_url": "https://github.com/virgiliojr94/book-to-skill"
   }
 ]
