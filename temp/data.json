@@ -1,47 +1,35 @@
 [
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-  },
-  {
-    "repository_name": "WhiskeySockets/Baileys",
-    "repository_url": "https://github.com/WhiskeySockets/Baileys"
-  },
-  {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
+    "repository_name": "1jehuang/jcode",
+    "repository_url": "https://github.com/1jehuang/jcode"
   },
   {
     "repository_name": "agavra/tuicr",
     "repository_url": "https://github.com/agavra/tuicr"
   },
   {
-    "repository_name": "ansible/ansible",
-    "repository_url": "https://github.com/ansible/ansible"
+    "repository_name": "chatwoot/chatwoot",
+    "repository_url": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "repository_name": "deepfakes/faceswap",
+    "repository_url": "https://github.com/deepfakes/faceswap"
   },
   {
     "repository_name": "different-ai/openwork",
     "repository_url": "https://github.com/different-ai/openwork"
   },
   {
-    "repository_name": "dotnet/aspnetcore",
-    "repository_url": "https://github.com/dotnet/aspnetcore"
+    "repository_name": "geo-tp/ESP32-Bit-Pirate",
+    "repository_url": "https://github.com/geo-tp/ESP32-Bit-Pirate"
   },
   {
-    "repository_name": "huggingface/speech-to-speech",
-    "repository_url": "https://github.com/huggingface/speech-to-speech"
-  },
-  {
-    "repository_name": "jenkinsci/jenkins",
-    "repository_url": "https://github.com/jenkinsci/jenkins"
+    "repository_name": "github/copilot-sdk",
+    "repository_url": "https://github.com/github/copilot-sdk"
   },
   {
     "repository_name": "microsoft/AI-For-Beginners",
     "repository_url": "https://github.com/microsoft/AI-For-Beginners"
-  },
-  {
-    "repository_name": "microsoft/PowerToys",
-    "repository_url": "https://github.com/microsoft/PowerToys"
   },
   {
     "repository_name": "mvanhorn/last30days-skill",
@@ -52,7 +40,11 @@
     "repository_url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
   },
   {
-    "repository_name": "pascalorg/editor",
-    "repository_url": "https://github.com/pascalorg/editor"
+    "repository_name": "usekaneo/kaneo",
+    "repository_url": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "repository_name": "zhaoxuya520/reverse-skill",
+    "repository_url": "https://github.com/zhaoxuya520/reverse-skill"
   }
 ]
