@@ -1,55 +1,55 @@
 [
   {
+    "repository_name": "HarbourMasters/Lighthouse",
+    "repository_url": "https://github.com/HarbourMasters/Lighthouse"
+  },
+  {
     "repository_name": "NomaDamas/k-skill",
     "repository_url": "https://github.com/NomaDamas/k-skill"
+  },
+  {
+    "repository_name": "Panniantong/Agent-Reach",
+    "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
     "repository_name": "TencentCloud/TencentDB-Agent-Memory",
     "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
   {
-    "repository_name": "abus-aikorea/voice-pro",
-    "repository_url": "https://github.com/abus-aikorea/voice-pro"
+    "repository_name": "antirez/ds4",
+    "repository_url": "https://github.com/antirez/ds4"
   },
   {
-    "repository_name": "ansible/ansible",
-    "repository_url": "https://github.com/ansible/ansible"
+    "repository_name": "codecrafters-io/build-your-own-x",
+    "repository_url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
-    "repository_name": "bytedance/deer-flow",
-    "repository_url": "https://github.com/bytedance/deer-flow"
+    "repository_name": "different-ai/openwork",
+    "repository_url": "https://github.com/different-ai/openwork"
   },
   {
-    "repository_name": "github/copilot-sdk",
-    "repository_url": "https://github.com/github/copilot-sdk"
-  },
-  {
-    "repository_name": "github/gh-stack",
-    "repository_url": "https://github.com/github/gh-stack"
-  },
-  {
-    "repository_name": "huggingface/speech-to-speech",
-    "repository_url": "https://github.com/huggingface/speech-to-speech"
+    "repository_name": "esengine/DeepSeek-Reasonix",
+    "repository_url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "repository_name": "iv-org/invidious",
     "repository_url": "https://github.com/iv-org/invidious"
   },
   {
-    "repository_name": "microsoft/AI-For-Beginners",
-    "repository_url": "https://github.com/microsoft/AI-For-Beginners"
+    "repository_name": "lyogavin/airllm",
+    "repository_url": "https://github.com/lyogavin/airllm"
   },
   {
-    "repository_name": "microsoft/TRELLIS.2",
-    "repository_url": "https://github.com/microsoft/TRELLIS.2"
+    "repository_name": "microsoft/AI-For-Beginners",
+    "repository_url": "https://github.com/microsoft/AI-For-Beginners"
   },
   {
     "repository_name": "microsoft/generative-ai-for-beginners",
     "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
   {
-    "repository_name": "paperswithbacktest/awesome-systematic-trading",
-    "repository_url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+    "repository_name": "mvanhorn/last30days-skill",
+    "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
     "repository_name": "usekaneo/kaneo",
