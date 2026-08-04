@@ -1,23 +1,27 @@
 [
   {
-    "repository_name": "Alishahryar1/free-claude-code",
-    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
-  },
-  {
-    "repository_name": "Panniantong/Agent-Reach",
-    "repository_url": "https://github.com/Panniantong/Agent-Reach"
+    "repository_name": "EveryInc/compound-engineering-plugin",
+    "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
   },
   {
     "repository_name": "TencentCloud/TencentDB-Agent-Memory",
     "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
   {
-    "repository_name": "antirez/ds4",
-    "repository_url": "https://github.com/antirez/ds4"
+    "repository_name": "angular/angular",
+    "repository_url": "https://github.com/angular/angular"
   },
   {
-    "repository_name": "donnemartin/system-design-primer",
-    "repository_url": "https://github.com/donnemartin/system-design-primer"
+    "repository_name": "browser-use/video-use",
+    "repository_url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repository_name": "cypress-io/cypress",
+    "repository_url": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "repository_name": "denoland/deno",
+    "repository_url": "https://github.com/denoland/deno"
   },
   {
     "repository_name": "esengine/DeepSeek-Reasonix",
@@ -28,12 +32,8 @@
     "repository_url": "https://github.com/firecrawl/pdf-inspector"
   },
   {
-    "repository_name": "iv-org/invidious",
-    "repository_url": "https://github.com/iv-org/invidious"
-  },
-  {
-    "repository_name": "jamiepine/voicebox",
-    "repository_url": "https://github.com/jamiepine/voicebox"
+    "repository_name": "gabime/spdlog",
+    "repository_url": "https://github.com/gabime/spdlog"
   },
   {
     "repository_name": "livekit/agents",
@@ -44,20 +44,28 @@
     "repository_url": "https://github.com/lyogavin/airllm"
   },
   {
-    "repository_name": "microsoft/AI-For-Beginners",
-    "repository_url": "https://github.com/microsoft/AI-For-Beginners"
-  },
-  {
     "repository_name": "microsoft/generative-ai-for-beginners",
     "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "tailwindlabs/tailwindcss",
+    "repository_url": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "repository_name": "uber/ADR",
+    "repository_url": "https://github.com/uber/ADR"
   },
   {
     "repository_name": "usekaneo/kaneo",
     "repository_url": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "repository_name": "webpack/webpack",
+    "repository_url": "https://github.com/webpack/webpack"
   },
   {
     "repository_name": "zhaoxuya520/reverse-skill",
