@@ -8,6 +8,10 @@
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
+    "repository_name": "cloudflare/computer",
+    "repository_url": "https://github.com/cloudflare/computer"
+  },
+  {
     "repository_name": "donnemartin/system-design-primer",
     "repository_url": "https://github.com/donnemartin/system-design-primer"
   },
