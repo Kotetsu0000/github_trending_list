@@ -1,27 +1,15 @@
 [
   {
-    "repository_name": "EveryInc/compound-engineering-plugin",
-    "repository_url": "https://github.com/EveryInc/compound-engineering-plugin"
-  },
-  {
     "repository_name": "TencentCloud/TencentDB-Agent-Memory",
     "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
   {
-    "repository_name": "angular/angular",
-    "repository_url": "https://github.com/angular/angular"
+    "repository_name": "addyosmani/agent-skills",
+    "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "browser-use/video-use",
-    "repository_url": "https://github.com/browser-use/video-use"
-  },
-  {
-    "repository_name": "cypress-io/cypress",
-    "repository_url": "https://github.com/cypress-io/cypress"
-  },
-  {
-    "repository_name": "denoland/deno",
-    "repository_url": "https://github.com/denoland/deno"
+    "repository_name": "donnemartin/system-design-primer",
+    "repository_url": "https://github.com/donnemartin/system-design-primer"
   },
   {
     "repository_name": "esengine/DeepSeek-Reasonix",
@@ -32,24 +20,20 @@
     "repository_url": "https://github.com/firecrawl/pdf-inspector"
   },
   {
-    "repository_name": "gabime/spdlog",
-    "repository_url": "https://github.com/gabime/spdlog"
-  },
-  {
-    "repository_name": "livekit/agents",
-    "repository_url": "https://github.com/livekit/agents"
+    "repository_name": "huangruiteng/loopx",
+    "repository_url": "https://github.com/huangruiteng/loopx"
   },
   {
     "repository_name": "lyogavin/airllm",
     "repository_url": "https://github.com/lyogavin/airllm"
   },
   {
-    "repository_name": "microsoft/generative-ai-for-beginners",
-    "repository_url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "roboflow/supervision",
+    "repository_url": "https://github.com/roboflow/supervision"
   },
   {
     "repository_name": "tailwindlabs/tailwindcss",
@@ -60,15 +44,7 @@
     "repository_url": "https://github.com/uber/ADR"
   },
   {
-    "repository_name": "usekaneo/kaneo",
-    "repository_url": "https://github.com/usekaneo/kaneo"
-  },
-  {
-    "repository_name": "webpack/webpack",
-    "repository_url": "https://github.com/webpack/webpack"
-  },
-  {
-    "repository_name": "zhaoxuya520/reverse-skill",
-    "repository_url": "https://github.com/zhaoxuya520/reverse-skill"
+    "repository_name": "vercel/next.js",
+    "repository_url": "https://github.com/vercel/next.js"
   }
 ]
