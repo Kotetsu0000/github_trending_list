@@ -1,5 +1,13 @@
 [
   {
+    "repository_name": "Significant-Gravitas/AutoGPT",
+    "repository_url": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
     "repository_name": "TencentCloud/TencentDB-Agent-Memory",
     "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
@@ -12,10 +20,6 @@
     "repository_url": "https://github.com/cloudflare/computer"
   },
   {
-    "repository_name": "donnemartin/system-design-primer",
-    "repository_url": "https://github.com/donnemartin/system-design-primer"
-  },
-  {
     "repository_name": "esengine/DeepSeek-Reasonix",
     "repository_url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -24,31 +28,27 @@
     "repository_url": "https://github.com/firecrawl/pdf-inspector"
   },
   {
+    "repository_name": "goauthentik/authentik",
+    "repository_url": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "repository_name": "google/guava",
+    "repository_url": "https://github.com/google/guava"
+  },
+  {
     "repository_name": "huangruiteng/loopx",
     "repository_url": "https://github.com/huangruiteng/loopx"
   },
   {
-    "repository_name": "lyogavin/airllm",
-    "repository_url": "https://github.com/lyogavin/airllm"
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "roboflow/supervision",
-    "repository_url": "https://github.com/roboflow/supervision"
-  },
-  {
-    "repository_name": "tailwindlabs/tailwindcss",
-    "repository_url": "https://github.com/tailwindlabs/tailwindcss"
-  },
-  {
-    "repository_name": "uber/ADR",
-    "repository_url": "https://github.com/uber/ADR"
-  },
-  {
-    "repository_name": "vercel/next.js",
-    "repository_url": "https://github.com/vercel/next.js"
+    "repository_name": "tirth8205/code-review-graph",
+    "repository_url": "https://github.com/tirth8205/code-review-graph"
   }
 ]
