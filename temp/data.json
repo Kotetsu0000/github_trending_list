@@ -1,31 +1,35 @@
 [
   {
+    "repository_name": "666ghj/MiroFish",
+    "repository_url": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "repository_name": "K2SOsint/Legendary_OSINT",
+    "repository_url": "https://github.com/K2SOsint/Legendary_OSINT"
+  },
+  {
+    "repository_name": "PrimeIntellect-ai/prime-agent",
+    "repository_url": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
     "repository_name": "Significant-Gravitas/AutoGPT",
     "repository_url": "https://github.com/Significant-Gravitas/AutoGPT"
-  },
-  {
-    "repository_name": "TapXWorld/ChinaTextbook",
-    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
-  },
-  {
-    "repository_name": "TencentCloud/TencentDB-Agent-Memory",
-    "repository_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
+    "repository_name": "chenyme/grok2api",
+    "repository_url": "https://github.com/chenyme/grok2api"
+  },
+  {
     "repository_name": "cloudflare/computer",
     "repository_url": "https://github.com/cloudflare/computer"
   },
   {
-    "repository_name": "esengine/DeepSeek-Reasonix",
-    "repository_url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "repository_name": "firecrawl/pdf-inspector",
-    "repository_url": "https://github.com/firecrawl/pdf-inspector"
+    "repository_name": "denoland/celld",
+    "repository_url": "https://github.com/denoland/celld"
   },
   {
     "repository_name": "goauthentik/authentik",
@@ -36,8 +40,12 @@
     "repository_url": "https://github.com/google/guava"
   },
   {
-    "repository_name": "huangruiteng/loopx",
-    "repository_url": "https://github.com/huangruiteng/loopx"
+    "repository_name": "google/skills",
+    "repository_url": "https://github.com/google/skills"
+  },
+  {
+    "repository_name": "jdx/mise",
+    "repository_url": "https://github.com/jdx/mise"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -48,7 +56,15 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "tirth8205/code-review-graph",
-    "repository_url": "https://github.com/tirth8205/code-review-graph"
+    "repository_name": "pranshuparmar/witr",
+    "repository_url": "https://github.com/pranshuparmar/witr"
+  },
+  {
+    "repository_name": "semantica-agi/semantica",
+    "repository_url": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "repository_name": "unclebob/swarm-forge",
+    "repository_url": "https://github.com/unclebob/swarm-forge"
   }
 ]
