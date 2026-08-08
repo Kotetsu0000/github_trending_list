@@ -1,31 +1,27 @@
 [
   {
-    "repository_name": "666ghj/MiroFish",
-    "repository_url": "https://github.com/666ghj/MiroFish"
-  },
-  {
-    "repository_name": "K2SOsint/Legendary_OSINT",
-    "repository_url": "https://github.com/K2SOsint/Legendary_OSINT"
+    "repository_name": "LadybirdBrowser/ladybird",
+    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
   },
   {
     "repository_name": "PrimeIntellect-ai/prime-agent",
     "repository_url": "https://github.com/PrimeIntellect-ai/prime-agent"
   },
   {
-    "repository_name": "Significant-Gravitas/AutoGPT",
-    "repository_url": "https://github.com/Significant-Gravitas/AutoGPT"
+    "repository_name": "TapXWorld/ChinaTextbook",
+    "repository_url": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "chenyme/grok2api",
-    "repository_url": "https://github.com/chenyme/grok2api"
-  },
-  {
-    "repository_name": "cloudflare/computer",
-    "repository_url": "https://github.com/cloudflare/computer"
+    "repository_name": "bannedbook/fanqiang",
+    "repository_url": "https://github.com/bannedbook/fanqiang"
   },
   {
     "repository_name": "denoland/celld",
@@ -44,27 +40,11 @@
     "repository_url": "https://github.com/google/skills"
   },
   {
-    "repository_name": "jdx/mise",
-    "repository_url": "https://github.com/jdx/mise"
+    "repository_name": "litu54/DevOps-Interview-Guide",
+    "repository_url": "https://github.com/litu54/DevOps-Interview-Guide"
   },
   {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
-  },
-  {
-    "repository_name": "pranshuparmar/witr",
-    "repository_url": "https://github.com/pranshuparmar/witr"
-  },
-  {
-    "repository_name": "semantica-agi/semantica",
-    "repository_url": "https://github.com/semantica-agi/semantica"
-  },
-  {
-    "repository_name": "unclebob/swarm-forge",
-    "repository_url": "https://github.com/unclebob/swarm-forge"
   }
 ]
