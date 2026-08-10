@@ -4,44 +4,60 @@
     "repository_url": "https://github.com/Comfy-Org/ComfyUI"
   },
   {
+    "repository_name": "LadybirdBrowser/ladybird",
+    "repository_url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "repository_name": "NanmiCoder/MediaCrawler",
+    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
     "repository_name": "PrimeIntellect-ai/prime-agent",
     "repository_url": "https://github.com/PrimeIntellect-ai/prime-agent"
   },
   {
-    "repository_name": "ZhuLinsen/daily_stock_analysis",
-    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "goauthentik/authentik",
-    "repository_url": "https://github.com/goauthentik/authentik"
+    "repository_name": "danielmiessler/LifeOS",
+    "repository_url": "https://github.com/danielmiessler/LifeOS"
+  },
+  {
+    "repository_name": "firecrawl/firecrawl",
+    "repository_url": "https://github.com/firecrawl/firecrawl"
   },
   {
     "repository_name": "google-deepmind/weathernext",
     "repository_url": "https://github.com/google-deepmind/weathernext"
   },
   {
-    "repository_name": "google/skills",
-    "repository_url": "https://github.com/google/skills"
-  },
-  {
-    "repository_name": "harveyai/harvey-labs",
-    "repository_url": "https://github.com/harveyai/harvey-labs"
-  },
-  {
     "repository_name": "msitarzewski/agency-agents",
     "repository_url": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "repository_name": "opa334/Dopamine",
+    "repository_url": "https://github.com/opa334/Dopamine"
+  },
+  {
+    "repository_name": "paperclipai/paperclip",
+    "repository_url": "https://github.com/paperclipai/paperclip"
   },
   {
     "repository_name": "pingdotgg/t3code",
     "repository_url": "https://github.com/pingdotgg/t3code"
   },
   {
-    "repository_name": "pranshuparmar/witr",
-    "repository_url": "https://github.com/pranshuparmar/witr"
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "repository_name": "semantica-agi/semantica",
+    "repository_url": "https://github.com/semantica-agi/semantica"
   },
   {
     "repository_name": "vitali87/code-graph-rag",
