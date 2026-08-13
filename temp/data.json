@@ -1,5 +1,9 @@
 [
   {
+    "repository_name": "3b1b/manim",
+    "repository_url": "https://github.com/3b1b/manim"
+  },
+  {
     "repository_name": "Lightricks/LTX-2",
     "repository_url": "https://github.com/Lightricks/LTX-2"
   },
@@ -8,12 +12,12 @@
     "repository_url": "https://github.com/NVIDIA-NeMo/Switchyard"
   },
   {
-    "repository_name": "NanmiCoder/MediaCrawler",
-    "repository_url": "https://github.com/NanmiCoder/MediaCrawler"
+    "repository_name": "altic-dev/FluidVoice",
+    "repository_url": "https://github.com/altic-dev/FluidVoice"
   },
   {
-    "repository_name": "ZuodaoTech/everyone-can-use-english",
-    "repository_url": "https://github.com/ZuodaoTech/everyone-can-use-english"
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
   },
   {
     "repository_name": "cactus-compute/needle",
@@ -24,47 +28,43 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "embabel/embabel-agent",
-    "repository_url": "https://github.com/embabel/embabel-agent"
-  },
-  {
-    "repository_name": "hugohe3/ppt-master",
-    "repository_url": "https://github.com/hugohe3/ppt-master"
+    "repository_name": "holaboss-ai/holaOS",
+    "repository_url": "https://github.com/holaboss-ai/holaOS"
   },
   {
     "repository_name": "infiniflow/ragflow",
     "repository_url": "https://github.com/infiniflow/ragflow"
   },
   {
-    "repository_name": "localsend/localsend",
-    "repository_url": "https://github.com/localsend/localsend"
+    "repository_name": "kepano/obsidian-skills",
+    "repository_url": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "repository_name": "lightningpixel/modly",
+    "repository_url": "https://github.com/lightningpixel/modly"
   },
   {
     "repository_name": "macro-inc/macro",
     "repository_url": "https://github.com/macro-inc/macro"
   },
   {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
+    "repository_name": "megadose/holehe",
+    "repository_url": "https://github.com/megadose/holehe"
   },
   {
-    "repository_name": "paperclipai/paperclip",
-    "repository_url": "https://github.com/paperclipai/paperclip"
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
     "repository_name": "semantica-agi/semantica",
     "repository_url": "https://github.com/semantica-agi/semantica"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
-  },
-  {
     "repository_name": "smicallef/spiderfoot",
     "repository_url": "https://github.com/smicallef/spiderfoot"
   },
   {
-    "repository_name": "stablyai/orca",
-    "repository_url": "https://github.com/stablyai/orca"
+    "repository_name": "unslothai/unsloth",
+    "repository_url": "https://github.com/unslothai/unsloth"
   }
 ]
