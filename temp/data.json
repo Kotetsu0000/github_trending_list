@@ -1,23 +1,11 @@
 [
   {
-    "repository_name": "3b1b/manim",
-    "repository_url": "https://github.com/3b1b/manim"
+    "repository_name": "OpenCut-app/OpenCut",
+    "repository_url": "https://github.com/OpenCut-app/OpenCut"
   },
   {
-    "repository_name": "Lightricks/LTX-2",
-    "repository_url": "https://github.com/Lightricks/LTX-2"
-  },
-  {
-    "repository_name": "NVIDIA-NeMo/Switchyard",
-    "repository_url": "https://github.com/NVIDIA-NeMo/Switchyard"
-  },
-  {
-    "repository_name": "altic-dev/FluidVoice",
-    "repository_url": "https://github.com/altic-dev/FluidVoice"
-  },
-  {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
+    "repository_name": "ToolJet/ToolJet",
+    "repository_url": "https://github.com/ToolJet/ToolJet"
   },
   {
     "repository_name": "cactus-compute/needle",
@@ -28,16 +16,28 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
+    "repository_name": "citrolabs/ego-lite",
+    "repository_url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "repository_name": "cursor/plugins",
+    "repository_url": "https://github.com/cursor/plugins"
+  },
+  {
+    "repository_name": "deepseek-ai/awesome-deepseek-agent",
+    "repository_url": "https://github.com/deepseek-ai/awesome-deepseek-agent"
+  },
+  {
+    "repository_name": "github/spec-kit",
+    "repository_url": "https://github.com/github/spec-kit"
+  },
+  {
     "repository_name": "holaboss-ai/holaOS",
     "repository_url": "https://github.com/holaboss-ai/holaOS"
   },
   {
     "repository_name": "infiniflow/ragflow",
     "repository_url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "repository_name": "kepano/obsidian-skills",
-    "repository_url": "https://github.com/kepano/obsidian-skills"
   },
   {
     "repository_name": "lightningpixel/modly",
@@ -52,8 +52,8 @@
     "repository_url": "https://github.com/megadose/holehe"
   },
   {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
+    "repository_name": "rustdesk/rustdesk",
+    "repository_url": "https://github.com/rustdesk/rustdesk"
   },
   {
     "repository_name": "semantica-agi/semantica",
