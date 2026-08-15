@@ -1,11 +1,19 @@
 [
   {
-    "repository_name": "OpenCut-app/OpenCut",
-    "repository_url": "https://github.com/OpenCut-app/OpenCut"
+    "repository_name": "HKUDS/CLI-Anything",
+    "repository_url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repository_name": "MakazhanAlpamys/Soup",
+    "repository_url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "repository_name": "ToolJet/ToolJet",
     "repository_url": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "repository_name": "altic-dev/FluidVoice",
+    "repository_url": "https://github.com/altic-dev/FluidVoice"
   },
   {
     "repository_name": "cactus-compute/needle",
@@ -20,48 +28,24 @@
     "repository_url": "https://github.com/citrolabs/ego-lite"
   },
   {
-    "repository_name": "cursor/plugins",
-    "repository_url": "https://github.com/cursor/plugins"
+    "repository_name": "cordiverse/cordis",
+    "repository_url": "https://github.com/cordiverse/cordis"
   },
   {
-    "repository_name": "deepseek-ai/awesome-deepseek-agent",
-    "repository_url": "https://github.com/deepseek-ai/awesome-deepseek-agent"
+    "repository_name": "cursor/plugins",
+    "repository_url": "https://github.com/cursor/plugins"
   },
   {
     "repository_name": "github/spec-kit",
     "repository_url": "https://github.com/github/spec-kit"
   },
   {
-    "repository_name": "holaboss-ai/holaOS",
-    "repository_url": "https://github.com/holaboss-ai/holaOS"
-  },
-  {
-    "repository_name": "infiniflow/ragflow",
-    "repository_url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "repository_name": "lightningpixel/modly",
-    "repository_url": "https://github.com/lightningpixel/modly"
-  },
-  {
-    "repository_name": "macro-inc/macro",
-    "repository_url": "https://github.com/macro-inc/macro"
-  },
-  {
     "repository_name": "megadose/holehe",
     "repository_url": "https://github.com/megadose/holehe"
   },
   {
-    "repository_name": "rustdesk/rustdesk",
-    "repository_url": "https://github.com/rustdesk/rustdesk"
-  },
-  {
-    "repository_name": "semantica-agi/semantica",
-    "repository_url": "https://github.com/semantica-agi/semantica"
-  },
-  {
-    "repository_name": "smicallef/spiderfoot",
-    "repository_url": "https://github.com/smicallef/spiderfoot"
+    "repository_name": "public-apis/public-apis",
+    "repository_url": "https://github.com/public-apis/public-apis"
   },
   {
     "repository_name": "unslothai/unsloth",
