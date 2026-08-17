@@ -1,30 +1,42 @@
 [
   {
-    "repository_name": "OpenCut-app/OpenCut",
-    "repository_url": "https://github.com/OpenCut-app/OpenCut"
+    "repository_name": "AlexsJones/llmfit",
+    "repository_url": "https://github.com/AlexsJones/llmfit"
   },
   {
-    "repository_name": "ToolJet/ToolJet",
-    "repository_url": "https://github.com/ToolJet/ToolJet"
-  },
-  {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
-  },
-  {
-    "repository_name": "cactus-compute/needle",
-    "repository_url": "https://github.com/cactus-compute/needle"
+    "repository_name": "agalwood/Motrix",
+    "repository_url": "https://github.com/agalwood/Motrix"
   },
   {
     "repository_name": "cordiverse/cordis",
     "repository_url": "https://github.com/cordiverse/cordis"
   },
   {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
+    "repository_name": "harry0703/MoneyPrinterTurbo",
+    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
-    "repository_name": "unslothai/unsloth",
-    "repository_url": "https://github.com/unslothai/unsloth"
+    "repository_name": "immich-app/immich",
+    "repository_url": "https://github.com/immich-app/immich"
+  },
+  {
+    "repository_name": "jundot/omlx",
+    "repository_url": "https://github.com/jundot/omlx"
+  },
+  {
+    "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "repository_name": "nautechsystems/nautilus_trader",
+    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "repository_name": "santifer/career-ops",
+    "repository_url": "https://github.com/santifer/career-ops"
+  },
+  {
+    "repository_name": "usestrix/strix",
+    "repository_url": "https://github.com/usestrix/strix"
   }
 ]
