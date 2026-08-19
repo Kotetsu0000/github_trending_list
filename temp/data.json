@@ -1,23 +1,11 @@
 [
   {
-    "repository_name": "NawfalMotii79/PLFM_RADAR",
-    "repository_url": "https://github.com/NawfalMotii79/PLFM_RADAR"
-  },
-  {
-    "repository_name": "OpenCut-app/OpenCut",
-    "repository_url": "https://github.com/OpenCut-app/OpenCut"
-  },
-  {
-    "repository_name": "agalwood/Motrix",
-    "repository_url": "https://github.com/agalwood/Motrix"
-  },
-  {
     "repository_name": "akitaonrails/ai-memory",
     "repository_url": "https://github.com/akitaonrails/ai-memory"
   },
   {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
+    "repository_name": "amadeusprotocol/node",
+    "repository_url": "https://github.com/amadeusprotocol/node"
   },
   {
     "repository_name": "chaitanyagiri/munder-difflin",
@@ -32,16 +20,36 @@
     "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
+    "repository_name": "immich-app/immich",
+    "repository_url": "https://github.com/immich-app/immich"
+  },
+  {
     "repository_name": "jundot/omlx",
     "repository_url": "https://github.com/jundot/omlx"
+  },
+  {
+    "repository_name": "marceloprates/prettymaps",
+    "repository_url": "https://github.com/marceloprates/prettymaps"
+  },
+  {
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
     "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
   },
   {
-    "repository_name": "public-apis/public-apis",
-    "repository_url": "https://github.com/public-apis/public-apis"
+    "repository_name": "nautechsystems/nautilus_trader",
+    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "santifer/career-ops",
+    "repository_url": "https://github.com/santifer/career-ops"
   },
   {
     "repository_name": "volcengine/OpenViking",
