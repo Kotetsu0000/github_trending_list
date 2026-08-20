@@ -1,47 +1,59 @@
 [
   {
-    "repository_name": "akitaonrails/ai-memory",
-    "repository_url": "https://github.com/akitaonrails/ai-memory"
+    "repository_name": "AprilNEA/OpenLogi",
+    "repository_url": "https://github.com/AprilNEA/OpenLogi"
   },
   {
-    "repository_name": "amadeusprotocol/node",
-    "repository_url": "https://github.com/amadeusprotocol/node"
+    "repository_name": "JuliusBrussee/caveman",
+    "repository_url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "repository_name": "PostHog/posthog",
+    "repository_url": "https://github.com/PostHog/posthog"
+  },
+  {
+    "repository_name": "RyanCodrai/turbovec",
+    "repository_url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "repository_name": "Tencent/AI-Infra-Guard",
+    "repository_url": "https://github.com/Tencent/AI-Infra-Guard"
+  },
+  {
+    "repository_name": "agent-substrate/substrate",
+    "repository_url": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "repository_name": "akitaonrails/ai-memory",
+    "repository_url": "https://github.com/akitaonrails/ai-memory"
   },
   {
     "repository_name": "chaitanyagiri/munder-difflin",
     "repository_url": "https://github.com/chaitanyagiri/munder-difflin"
   },
   {
-    "repository_name": "genlayerlabs/genlayer-project-boilerplate",
-    "repository_url": "https://github.com/genlayerlabs/genlayer-project-boilerplate"
+    "repository_name": "cursor/plugins",
+    "repository_url": "https://github.com/cursor/plugins"
   },
   {
     "repository_name": "harry0703/MoneyPrinterTurbo",
     "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
-    "repository_name": "immich-app/immich",
-    "repository_url": "https://github.com/immich-app/immich"
+    "repository_name": "mahlernim/google-timeline-visualizer",
+    "repository_url": "https://github.com/mahlernim/google-timeline-visualizer"
   },
   {
-    "repository_name": "jundot/omlx",
-    "repository_url": "https://github.com/jundot/omlx"
-  },
-  {
-    "repository_name": "marceloprates/prettymaps",
-    "repository_url": "https://github.com/marceloprates/prettymaps"
+    "repository_name": "makeplane/plane",
+    "repository_url": "https://github.com/makeplane/plane"
   },
   {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "mukul975/Anthropic-Cybersecurity-Skills",
-    "repository_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
-  },
-  {
-    "repository_name": "nautechsystems/nautilus_trader",
-    "repository_url": "https://github.com/nautechsystems/nautilus_trader"
+    "repository_name": "modular/modular",
+    "repository_url": "https://github.com/modular/modular"
   },
   {
     "repository_name": "obra/superpowers",
