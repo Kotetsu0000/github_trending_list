@@ -4,36 +4,28 @@
     "repository_url": "https://github.com/AprilNEA/OpenLogi"
   },
   {
-    "repository_name": "JuliusBrussee/caveman",
-    "repository_url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
     "repository_name": "PostHog/posthog",
     "repository_url": "https://github.com/PostHog/posthog"
   },
   {
-    "repository_name": "RyanCodrai/turbovec",
-    "repository_url": "https://github.com/RyanCodrai/turbovec"
+    "repository_name": "TryGhost/Ghost",
+    "repository_url": "https://github.com/TryGhost/Ghost"
   },
   {
-    "repository_name": "Tencent/AI-Infra-Guard",
-    "repository_url": "https://github.com/Tencent/AI-Infra-Guard"
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "agent-substrate/substrate",
-    "repository_url": "https://github.com/agent-substrate/substrate"
-  },
-  {
-    "repository_name": "akitaonrails/ai-memory",
-    "repository_url": "https://github.com/akitaonrails/ai-memory"
-  },
-  {
-    "repository_name": "chaitanyagiri/munder-difflin",
-    "repository_url": "https://github.com/chaitanyagiri/munder-difflin"
+    "repository_name": "apache/maka",
+    "repository_url": "https://github.com/apache/maka"
   },
   {
     "repository_name": "cursor/plugins",
     "repository_url": "https://github.com/cursor/plugins"
+  },
+  {
+    "repository_name": "elder-plinius/OBLITERATUS",
+    "repository_url": "https://github.com/elder-plinius/OBLITERATUS"
   },
   {
     "repository_name": "harry0703/MoneyPrinterTurbo",
@@ -44,12 +36,16 @@
     "repository_url": "https://github.com/mahlernim/google-timeline-visualizer"
   },
   {
-    "repository_name": "makeplane/plane",
-    "repository_url": "https://github.com/makeplane/plane"
-  },
-  {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repository_name": "microsoft/TypeScript",
+    "repository_url": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "repository_name": "microsoft/onnxruntime",
+    "repository_url": "https://github.com/microsoft/onnxruntime"
   },
   {
     "repository_name": "modular/modular",
@@ -60,11 +56,15 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "santifer/career-ops",
-    "repository_url": "https://github.com/santifer/career-ops"
+    "repository_name": "protocolbuffers/protobuf",
+    "repository_url": "https://github.com/protocolbuffers/protobuf"
   },
   {
-    "repository_name": "volcengine/OpenViking",
-    "repository_url": "https://github.com/volcengine/OpenViking"
+    "repository_name": "ruvnet/ruflo",
+    "repository_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "repository_name": "santifer/career-ops",
+    "repository_url": "https://github.com/santifer/career-ops"
   }
 ]
