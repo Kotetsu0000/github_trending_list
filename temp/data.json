@@ -1,63 +1,55 @@
 [
   {
+    "repository_name": "Alishahryar1/free-claude-code",
+    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
     "repository_name": "AprilNEA/OpenLogi",
     "repository_url": "https://github.com/AprilNEA/OpenLogi"
   },
   {
-    "repository_name": "PostHog/posthog",
-    "repository_url": "https://github.com/PostHog/posthog"
+    "repository_name": "Comfy-Org/ComfyUI",
+    "repository_url": "https://github.com/Comfy-Org/ComfyUI"
   },
   {
-    "repository_name": "Tencent/AI-Infra-Guard",
-    "repository_url": "https://github.com/Tencent/AI-Infra-Guard"
+    "repository_name": "NousResearch/hermes-agent",
+    "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "Wei-Shaw/sub2api",
-    "repository_url": "https://github.com/Wei-Shaw/sub2api"
+    "repository_name": "VoltAgent/awesome-agent-skills",
+    "repository_url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
   {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "anthropics/claude-plugins-community",
+    "repository_url": "https://github.com/anthropics/claude-plugins-community"
   },
   {
-    "repository_name": "cursor/plugins",
-    "repository_url": "https://github.com/cursor/plugins"
+    "repository_name": "apache/maka",
+    "repository_url": "https://github.com/apache/maka"
   },
   {
-    "repository_name": "mahlernim/google-timeline-visualizer",
-    "repository_url": "https://github.com/mahlernim/google-timeline-visualizer"
+    "repository_name": "basecamp/omarchy",
+    "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
-    "repository_name": "makeplane/plane",
-    "repository_url": "https://github.com/makeplane/plane"
+    "repository_name": "block/buzz",
+    "repository_url": "https://github.com/block/buzz"
+  },
+  {
+    "repository_name": "dani-garcia/vaultwarden",
+    "repository_url": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
+    "repository_name": "freestylefly/awesome-gpt-image-2",
+    "repository_url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
   {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
-  },
-  {
-    "repository_name": "microsoft/TypeScript",
-    "repository_url": "https://github.com/microsoft/TypeScript"
-  },
-  {
-    "repository_name": "modular/modular",
-    "repository_url": "https://github.com/modular/modular"
-  },
-  {
-    "repository_name": "multica-ai/andrej-karpathy-skills",
-    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
-  },
-  {
-    "repository_name": "n8n-io/n8n",
-    "repository_url": "https://github.com/n8n-io/n8n"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "openai/codex",
@@ -66,5 +58,17 @@
   {
     "repository_name": "ripienaar/free-for-dev",
     "repository_url": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "repository_name": "ruvnet/ruflo",
+    "repository_url": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "repository_name": "tinyhumansai/openhuman",
+    "repository_url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "repository_name": "virgiliojr94/book-to-skill",
+    "repository_url": "https://github.com/virgiliojr94/book-to-skill"
   }
 ]
