@@ -4,52 +4,48 @@
     "repository_url": "https://github.com/AgriciDaniel/claude-obsidian"
   },
   {
-    "repository_name": "Alishahryar1/free-claude-code",
-    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
-  },
-  {
-    "repository_name": "AprilNEA/OpenLogi",
-    "repository_url": "https://github.com/AprilNEA/OpenLogi"
+    "repository_name": "DietrichGebert/ponytail",
+    "repository_url": "https://github.com/DietrichGebert/ponytail"
   },
   {
     "repository_name": "MadsLorentzen/ai-job-search",
     "repository_url": "https://github.com/MadsLorentzen/ai-job-search"
   },
   {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
-    "repository_name": "PostHog/posthog",
-    "repository_url": "https://github.com/PostHog/posthog"
-  },
-  {
-    "repository_name": "VoltAgent/awesome-agent-skills",
-    "repository_url": "https://github.com/VoltAgent/awesome-agent-skills"
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
     "repository_name": "anthropics/claude-plugins-community",
     "repository_url": "https://github.com/anthropics/claude-plugins-community"
   },
   {
+    "repository_name": "anthropics/claude-plugins-official",
+    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
     "repository_name": "apache/maka",
     "repository_url": "https://github.com/apache/maka"
+  },
+  {
+    "repository_name": "asciimoo/hister",
+    "repository_url": "https://github.com/asciimoo/hister"
   },
   {
     "repository_name": "basecamp/omarchy",
     "repository_url": "https://github.com/basecamp/omarchy"
   },
   {
-    "repository_name": "dani-garcia/vaultwarden",
-    "repository_url": "https://github.com/dani-garcia/vaultwarden"
-  },
-  {
     "repository_name": "freestylefly/awesome-gpt-image-2",
     "repository_url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
   {
-    "repository_name": "makeplane/plane",
-    "repository_url": "https://github.com/makeplane/plane"
+    "repository_name": "marin-community/marin",
+    "repository_url": "https://github.com/marin-community/marin"
   },
   {
     "repository_name": "multica-ai/andrej-karpathy-skills",
@@ -60,16 +56,8 @@
     "repository_url": "https://github.com/openai/codex"
   },
   {
-    "repository_name": "openclaw/openclaw",
-    "repository_url": "https://github.com/openclaw/openclaw"
-  },
-  {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-  },
-  {
-    "repository_name": "tashfeenahmed/freellmapi",
-    "repository_url": "https://github.com/tashfeenahmed/freellmapi"
   },
   {
     "repository_name": "tinyhumansai/openhuman",
