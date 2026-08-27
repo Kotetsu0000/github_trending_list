@@ -4,8 +4,8 @@
     "repository_url": "https://github.com/AgriciDaniel/claude-obsidian"
   },
   {
-    "repository_name": "Alishahryar1/free-claude-code",
-    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
+    "repository_name": "ComposioHQ/awesome-claude-skills",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
   },
   {
     "repository_name": "ConardLi/garden-skills",
@@ -16,36 +16,44 @@
     "repository_url": "https://github.com/DietrichGebert/ponytail"
   },
   {
+    "repository_name": "JetBrains/go-modern-guidelines",
+    "repository_url": "https://github.com/JetBrains/go-modern-guidelines"
+  },
+  {
     "repository_name": "K-Dense-AI/scientific-agent-skills",
     "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
-    "repository_name": "MadsLorentzen/ai-job-search",
-    "repository_url": "https://github.com/MadsLorentzen/ai-job-search"
+    "repository_name": "OpenCut-app/OpenCut",
+    "repository_url": "https://github.com/OpenCut-app/OpenCut"
   },
   {
-    "repository_name": "VoltAgent/awesome-agent-skills",
-    "repository_url": "https://github.com/VoltAgent/awesome-agent-skills"
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
-    "repository_name": "anthropics/claude-plugins-community",
-    "repository_url": "https://github.com/anthropics/claude-plugins-community"
+    "repository_name": "actions/checkout",
+    "repository_url": "https://github.com/actions/checkout"
   },
   {
     "repository_name": "anthropics/claude-plugins-official",
     "repository_url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
-    "repository_name": "basecamp/omarchy",
-    "repository_url": "https://github.com/basecamp/omarchy"
+    "repository_name": "bilawalsidhu/gods-eye-view",
+    "repository_url": "https://github.com/bilawalsidhu/gods-eye-view"
   },
   {
-    "repository_name": "browser-use/browser-use",
-    "repository_url": "https://github.com/browser-use/browser-use"
+    "repository_name": "calesthio/OpenMontage",
+    "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
     "repository_name": "freestylefly/awesome-gpt-image-2",
     "repository_url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "repository_name": "google/googletest",
+    "repository_url": "https://github.com/google/googletest"
   },
   {
     "repository_name": "marin-community/marin",
@@ -56,11 +64,15 @@
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "tinyhumansai/openhuman",
-    "repository_url": "https://github.com/tinyhumansai/openhuman"
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "repository_name": "tt-a1i/archify",
     "repository_url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "repository_name": "zedeus/nitter",
+    "repository_url": "https://github.com/zedeus/nitter"
   }
 ]
