@@ -1,78 +1,78 @@
 [
   {
-    "repository_name": "ComposioHQ/awesome-claude-skills",
-    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
-  },
-  {
-    "repository_name": "JetBrains/go-modern-guidelines",
-    "repository_url": "https://github.com/JetBrains/go-modern-guidelines"
-  },
-  {
     "repository_name": "K-Dense-AI/scientific-agent-skills",
     "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
-    "repository_name": "Osmantic/ODS",
-    "repository_url": "https://github.com/Osmantic/ODS"
+    "repository_name": "Lakr233/vphone-cli",
+    "repository_url": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "repository_name": "NationalSecurityAgency/ghidra",
+    "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
     "repository_name": "THU-MAIC/OpenMAIC",
     "repository_url": "https://github.com/THU-MAIC/OpenMAIC"
   },
   {
-    "repository_name": "abi/screenshot-to-code",
-    "repository_url": "https://github.com/abi/screenshot-to-code"
+    "repository_name": "abhigyanpatwari/GitNexus",
+    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
   },
   {
-    "repository_name": "actions/checkout",
-    "repository_url": "https://github.com/actions/checkout"
+    "repository_name": "checkstyle/checkstyle",
+    "repository_url": "https://github.com/checkstyle/checkstyle"
   },
   {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
+    "repository_name": "colinhacks/zod",
+    "repository_url": "https://github.com/colinhacks/zod"
   },
   {
-    "repository_name": "anthropics/claude-plugins-official",
-    "repository_url": "https://github.com/anthropics/claude-plugins-official"
-  },
-  {
-    "repository_name": "bigskysoftware/htmx",
-    "repository_url": "https://github.com/bigskysoftware/htmx"
-  },
-  {
-    "repository_name": "bilawalsidhu/gods-eye-view",
-    "repository_url": "https://github.com/bilawalsidhu/gods-eye-view"
-  },
-  {
-    "repository_name": "calesthio/OpenMontage",
-    "repository_url": "https://github.com/calesthio/OpenMontage"
+    "repository_name": "corsairdev/corsair",
+    "repository_url": "https://github.com/corsairdev/corsair"
   },
   {
     "repository_name": "every-app/open-seo",
     "repository_url": "https://github.com/every-app/open-seo"
   },
   {
-    "repository_name": "google/googletest",
-    "repository_url": "https://github.com/google/googletest"
+    "repository_name": "handsomestWei/patent-disclosure-skill",
+    "repository_url": "https://github.com/handsomestWei/patent-disclosure-skill"
   },
   {
-    "repository_name": "kaifcodec/user-scanner",
-    "repository_url": "https://github.com/kaifcodec/user-scanner"
+    "repository_name": "livekit/agents",
+    "repository_url": "https://github.com/livekit/agents"
+  },
+  {
+    "repository_name": "majd/ipatool",
+    "repository_url": "https://github.com/majd/ipatool"
+  },
+  {
+    "repository_name": "mvanhorn/last30days-skill",
+    "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
     "repository_name": "p-e-w/heretic",
     "repository_url": "https://github.com/p-e-w/heretic"
   },
   {
-    "repository_name": "tailscale/tailcat",
-    "repository_url": "https://github.com/tailscale/tailcat"
+    "repository_name": "pollen-robotics/microduck_rl",
+    "repository_url": "https://github.com/pollen-robotics/microduck_rl"
+  },
+  {
+    "repository_name": "punkpeye/awesome-mcp-servers",
+    "repository_url": "https://github.com/punkpeye/awesome-mcp-servers"
+  },
+  {
+    "repository_name": "tashfeenahmed/freellmapi",
+    "repository_url": "https://github.com/tashfeenahmed/freellmapi"
   },
   {
     "repository_name": "tt-a1i/archify",
     "repository_url": "https://github.com/tt-a1i/archify"
   },
   {
-    "repository_name": "workweave/router",
-    "repository_url": "https://github.com/workweave/router"
+    "repository_name": "unclecode/crawl4ai",
+    "repository_url": "https://github.com/unclecode/crawl4ai"
   }
 ]
