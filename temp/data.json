@@ -4,52 +4,48 @@
     "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
-    "repository_name": "Lakr233/vphone-cli",
-    "repository_url": "https://github.com/Lakr233/vphone-cli"
-  },
-  {
-    "repository_name": "NationalSecurityAgency/ghidra",
-    "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
+    "repository_name": "Osmantic/ODS",
+    "repository_url": "https://github.com/Osmantic/ODS"
   },
   {
     "repository_name": "THU-MAIC/OpenMAIC",
     "repository_url": "https://github.com/THU-MAIC/OpenMAIC"
   },
   {
-    "repository_name": "abhigyanpatwari/GitNexus",
-    "repository_url": "https://github.com/abhigyanpatwari/GitNexus"
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
     "repository_name": "checkstyle/checkstyle",
     "repository_url": "https://github.com/checkstyle/checkstyle"
   },
   {
-    "repository_name": "colinhacks/zod",
-    "repository_url": "https://github.com/colinhacks/zod"
-  },
-  {
-    "repository_name": "corsairdev/corsair",
-    "repository_url": "https://github.com/corsairdev/corsair"
-  },
-  {
     "repository_name": "every-app/open-seo",
     "repository_url": "https://github.com/every-app/open-seo"
+  },
+  {
+    "repository_name": "firecrawl/pdf-inspector",
+    "repository_url": "https://github.com/firecrawl/pdf-inspector"
   },
   {
     "repository_name": "handsomestWei/patent-disclosure-skill",
     "repository_url": "https://github.com/handsomestWei/patent-disclosure-skill"
   },
   {
-    "repository_name": "livekit/agents",
-    "repository_url": "https://github.com/livekit/agents"
+    "repository_name": "jingyaogong/minimind",
+    "repository_url": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "repository_name": "k1tbyte/Wand-Enhancer",
+    "repository_url": "https://github.com/k1tbyte/Wand-Enhancer"
+  },
+  {
+    "repository_name": "kaifcodec/user-scanner",
+    "repository_url": "https://github.com/kaifcodec/user-scanner"
   },
   {
     "repository_name": "majd/ipatool",
     "repository_url": "https://github.com/majd/ipatool"
-  },
-  {
-    "repository_name": "mvanhorn/last30days-skill",
-    "repository_url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
     "repository_name": "p-e-w/heretic",
@@ -60,19 +56,11 @@
     "repository_url": "https://github.com/pollen-robotics/microduck_rl"
   },
   {
-    "repository_name": "punkpeye/awesome-mcp-servers",
-    "repository_url": "https://github.com/punkpeye/awesome-mcp-servers"
-  },
-  {
-    "repository_name": "tashfeenahmed/freellmapi",
-    "repository_url": "https://github.com/tashfeenahmed/freellmapi"
-  },
-  {
     "repository_name": "tt-a1i/archify",
     "repository_url": "https://github.com/tt-a1i/archify"
   },
   {
-    "repository_name": "unclecode/crawl4ai",
-    "repository_url": "https://github.com/unclecode/crawl4ai"
+    "repository_name": "zhaoxuya520/reverse-skill",
+    "repository_url": "https://github.com/zhaoxuya520/reverse-skill"
   }
 ]
