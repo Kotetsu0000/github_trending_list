@@ -1,27 +1,43 @@
 [
   {
-    "repository_name": "K-Dense-AI/scientific-agent-skills",
-    "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    "repository_name": "3b1b/manim",
+    "repository_url": "https://github.com/3b1b/manim"
   },
   {
-    "repository_name": "Osmantic/ODS",
-    "repository_url": "https://github.com/Osmantic/ODS"
+    "repository_name": "Gitlawb/openclaude",
+    "repository_url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "repository_name": "Imbad0202/academic-research-skills",
+    "repository_url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "repository_name": "K-Dense-AI/scientific-agent-skills",
+    "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
   {
     "repository_name": "THU-MAIC/OpenMAIC",
     "repository_url": "https://github.com/THU-MAIC/OpenMAIC"
   },
   {
+    "repository_name": "VoltAgent/awesome-design-md",
+    "repository_url": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "checkstyle/checkstyle",
-    "repository_url": "https://github.com/checkstyle/checkstyle"
+    "repository_name": "averygan/reclip",
+    "repository_url": "https://github.com/averygan/reclip"
   },
   {
-    "repository_name": "every-app/open-seo",
-    "repository_url": "https://github.com/every-app/open-seo"
+    "repository_name": "browser-use/video-use",
+    "repository_url": "https://github.com/browser-use/video-use"
+  },
+  {
+    "repository_name": "debpalash/VoiceStudio",
+    "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
     "repository_name": "firecrawl/pdf-inspector",
@@ -32,35 +48,15 @@
     "repository_url": "https://github.com/handsomestWei/patent-disclosure-skill"
   },
   {
+    "repository_name": "iv-org/invidious",
+    "repository_url": "https://github.com/iv-org/invidious"
+  },
+  {
     "repository_name": "jingyaogong/minimind",
     "repository_url": "https://github.com/jingyaogong/minimind"
   },
   {
-    "repository_name": "k1tbyte/Wand-Enhancer",
-    "repository_url": "https://github.com/k1tbyte/Wand-Enhancer"
-  },
-  {
-    "repository_name": "kaifcodec/user-scanner",
-    "repository_url": "https://github.com/kaifcodec/user-scanner"
-  },
-  {
-    "repository_name": "majd/ipatool",
-    "repository_url": "https://github.com/majd/ipatool"
-  },
-  {
-    "repository_name": "p-e-w/heretic",
-    "repository_url": "https://github.com/p-e-w/heretic"
-  },
-  {
-    "repository_name": "pollen-robotics/microduck_rl",
-    "repository_url": "https://github.com/pollen-robotics/microduck_rl"
-  },
-  {
-    "repository_name": "tt-a1i/archify",
-    "repository_url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "repository_name": "zhaoxuya520/reverse-skill",
-    "repository_url": "https://github.com/zhaoxuya520/reverse-skill"
+    "repository_name": "unclecode/crawl4ai",
+    "repository_url": "https://github.com/unclecode/crawl4ai"
   }
 ]
