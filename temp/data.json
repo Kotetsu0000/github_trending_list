@@ -1,7 +1,7 @@
 [
   {
-    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
-    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    "repository_name": "ByteByteGoHq/system-design-101",
+    "repository_url": "https://github.com/ByteByteGoHq/system-design-101"
   },
   {
     "repository_name": "DietrichGebert/ponytail",
@@ -24,8 +24,24 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
+    "repository_name": "addyosmani/agent-skills",
+    "repository_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repository_name": "averygan/reclip",
+    "repository_url": "https://github.com/averygan/reclip"
+  },
+  {
+    "repository_name": "bannedbook/fanqiang",
+    "repository_url": "https://github.com/bannedbook/fanqiang"
   },
   {
     "repository_name": "blader/humanizer",
@@ -36,8 +52,8 @@
     "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
-    "repository_name": "firecrawl/pdf-inspector",
-    "repository_url": "https://github.com/firecrawl/pdf-inspector"
+    "repository_name": "f/prompts.chat",
+    "repository_url": "https://github.com/f/prompts.chat"
   },
   {
     "repository_name": "fmtlib/fmt",
@@ -48,31 +64,15 @@
     "repository_url": "https://github.com/google-research/timesfm"
   },
   {
+    "repository_name": "magnitudedev/magnitude",
+    "repository_url": "https://github.com/magnitudedev/magnitude"
+  },
+  {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "pacifio/atlas",
-    "repository_url": "https://github.com/pacifio/atlas"
-  },
-  {
-    "repository_name": "protocolbuffers/protobuf",
-    "repository_url": "https://github.com/protocolbuffers/protobuf"
-  },
-  {
-    "repository_name": "sngyai/Sequoia-X",
-    "repository_url": "https://github.com/sngyai/Sequoia-X"
-  },
-  {
-    "repository_name": "superlinked/sie",
-    "repository_url": "https://github.com/superlinked/sie"
-  },
-  {
-    "repository_name": "vercel-labs/portless",
-    "repository_url": "https://github.com/vercel-labs/portless"
-  },
-  {
-    "repository_name": "zyronon/TypeWords",
-    "repository_url": "https://github.com/zyronon/TypeWords"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   }
 ]
