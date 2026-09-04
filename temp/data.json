@@ -1,19 +1,7 @@
 [
   {
-    "repository_name": "ByteByteGoHq/system-design-101",
-    "repository_url": "https://github.com/ByteByteGoHq/system-design-101"
-  },
-  {
     "repository_name": "DietrichGebert/ponytail",
     "repository_url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "repository_name": "Gitlawb/openclaude",
-    "repository_url": "https://github.com/Gitlawb/openclaude"
-  },
-  {
-    "repository_name": "Imbad0202/academic-research-skills",
-    "repository_url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "repository_name": "JuliusBrussee/caveman",
@@ -24,36 +12,40 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
-  },
-  {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repository_name": "anomalyco/opencode",
+    "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
     "repository_name": "anthropics/skills",
     "repository_url": "https://github.com/anthropics/skills"
   },
   {
-    "repository_name": "averygan/reclip",
-    "repository_url": "https://github.com/averygan/reclip"
-  },
-  {
     "repository_name": "bannedbook/fanqiang",
     "repository_url": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "repository_name": "bikini/exploitarium",
+    "repository_url": "https://github.com/bikini/exploitarium"
   },
   {
     "repository_name": "blader/humanizer",
     "repository_url": "https://github.com/blader/humanizer"
   },
   {
-    "repository_name": "debpalash/VoiceStudio",
-    "repository_url": "https://github.com/debpalash/VoiceStudio"
+    "repository_name": "cathrynlavery/diagram-design",
+    "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "f/prompts.chat",
-    "repository_url": "https://github.com/f/prompts.chat"
+    "repository_name": "clshortfuse/renodx",
+    "repository_url": "https://github.com/clshortfuse/renodx"
+  },
+  {
+    "repository_name": "debpalash/VoiceStudio",
+    "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
     "repository_name": "fmtlib/fmt",
@@ -72,7 +64,7 @@
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "radixark/miles",
+    "repository_url": "https://github.com/radixark/miles"
   }
 ]
