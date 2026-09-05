@@ -1,15 +1,19 @@
 [
   {
+    "repository_name": "BraveOPotato/FckSignups",
+    "repository_url": "https://github.com/BraveOPotato/FckSignups"
+  },
+  {
     "repository_name": "DietrichGebert/ponytail",
     "repository_url": "https://github.com/DietrichGebert/ponytail"
   },
   {
-    "repository_name": "JuliusBrussee/caveman",
-    "repository_url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
     "repository_name": "NousResearch/hermes-agent",
     "repository_url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "repository_name": "WorldFlowAI/everything-claude-code",
+    "repository_url": "https://github.com/WorldFlowAI/everything-claude-code"
   },
   {
     "repository_name": "affaan-m/ECC",
@@ -24,10 +28,6 @@
     "repository_url": "https://github.com/anthropics/skills"
   },
   {
-    "repository_name": "bannedbook/fanqiang",
-    "repository_url": "https://github.com/bannedbook/fanqiang"
-  },
-  {
     "repository_name": "bikini/exploitarium",
     "repository_url": "https://github.com/bikini/exploitarium"
   },
@@ -40,20 +40,12 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "clshortfuse/renodx",
-    "repository_url": "https://github.com/clshortfuse/renodx"
-  },
-  {
-    "repository_name": "debpalash/VoiceStudio",
-    "repository_url": "https://github.com/debpalash/VoiceStudio"
-  },
-  {
     "repository_name": "fmtlib/fmt",
     "repository_url": "https://github.com/fmtlib/fmt"
   },
   {
-    "repository_name": "google-research/timesfm",
-    "repository_url": "https://github.com/google-research/timesfm"
+    "repository_name": "humanlayer/skills",
+    "repository_url": "https://github.com/humanlayer/skills"
   },
   {
     "repository_name": "magnitudedev/magnitude",
@@ -64,7 +56,11 @@
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "radixark/miles",
-    "repository_url": "https://github.com/radixark/miles"
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "repository_name": "ruvnet/ruflo",
+    "repository_url": "https://github.com/ruvnet/ruflo"
   }
 ]
