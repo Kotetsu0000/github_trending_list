@@ -12,24 +12,28 @@
     "repository_url": "https://github.com/NousResearch/hermes-agent"
   },
   {
-    "repository_name": "WorldFlowAI/everything-claude-code",
-    "repository_url": "https://github.com/WorldFlowAI/everything-claude-code"
+    "repository_name": "OpenWhispr/openwhispr",
+    "repository_url": "https://github.com/OpenWhispr/openwhispr"
+  },
+  {
+    "repository_name": "Stremio/stremio-web",
+    "repository_url": "https://github.com/Stremio/stremio-web"
+  },
+  {
+    "repository_name": "The-Swarm-Corporation/AutoHedge",
+    "repository_url": "https://github.com/The-Swarm-Corporation/AutoHedge"
   },
   {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
+    "repository_name": "aipoch/open-science",
+    "repository_url": "https://github.com/aipoch/open-science"
+  },
+  {
     "repository_name": "anomalyco/opencode",
     "repository_url": "https://github.com/anomalyco/opencode"
-  },
-  {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
-  },
-  {
-    "repository_name": "bikini/exploitarium",
-    "repository_url": "https://github.com/bikini/exploitarium"
   },
   {
     "repository_name": "blader/humanizer",
@@ -40,12 +44,16 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "fmtlib/fmt",
-    "repository_url": "https://github.com/fmtlib/fmt"
+    "repository_name": "coreyhaines31/marketingskills",
+    "repository_url": "https://github.com/coreyhaines31/marketingskills"
   },
   {
     "repository_name": "humanlayer/skills",
     "repository_url": "https://github.com/humanlayer/skills"
+  },
+  {
+    "repository_name": "llvm/llvm-project",
+    "repository_url": "https://github.com/llvm/llvm-project"
   },
   {
     "repository_name": "magnitudedev/magnitude",
@@ -56,8 +64,8 @@
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "nvm-sh/nvm",
-    "repository_url": "https://github.com/nvm-sh/nvm"
+    "repository_name": "openai/skills",
+    "repository_url": "https://github.com/openai/skills"
   },
   {
     "repository_name": "ruvnet/ruflo",
