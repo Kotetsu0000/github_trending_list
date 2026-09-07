@@ -4,20 +4,8 @@
     "repository_url": "https://github.com/BraveOPotato/FckSignups"
   },
   {
-    "repository_name": "DietrichGebert/ponytail",
-    "repository_url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "repository_name": "NousResearch/hermes-agent",
-    "repository_url": "https://github.com/NousResearch/hermes-agent"
-  },
-  {
-    "repository_name": "OpenWhispr/openwhispr",
-    "repository_url": "https://github.com/OpenWhispr/openwhispr"
-  },
-  {
-    "repository_name": "Stremio/stremio-web",
-    "repository_url": "https://github.com/Stremio/stremio-web"
+    "repository_name": "MoonTechLab/LunaTV",
+    "repository_url": "https://github.com/MoonTechLab/LunaTV"
   },
   {
     "repository_name": "The-Swarm-Corporation/AutoHedge",
@@ -28,44 +16,40 @@
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "aipoch/open-science",
-    "repository_url": "https://github.com/aipoch/open-science"
-  },
-  {
-    "repository_name": "anomalyco/opencode",
-    "repository_url": "https://github.com/anomalyco/opencode"
-  },
-  {
-    "repository_name": "blader/humanizer",
-    "repository_url": "https://github.com/blader/humanizer"
-  },
-  {
-    "repository_name": "cathrynlavery/diagram-design",
-    "repository_url": "https://github.com/cathrynlavery/diagram-design"
+    "repository_name": "bytedance/deer-flow",
+    "repository_url": "https://github.com/bytedance/deer-flow"
   },
   {
     "repository_name": "coreyhaines31/marketingskills",
     "repository_url": "https://github.com/coreyhaines31/marketingskills"
   },
   {
-    "repository_name": "humanlayer/skills",
-    "repository_url": "https://github.com/humanlayer/skills"
+    "repository_name": "heygen-com/hyperframes",
+    "repository_url": "https://github.com/heygen-com/hyperframes"
   },
   {
-    "repository_name": "llvm/llvm-project",
-    "repository_url": "https://github.com/llvm/llvm-project"
+    "repository_name": "jo-inc/camofox-browser",
+    "repository_url": "https://github.com/jo-inc/camofox-browser"
   },
   {
-    "repository_name": "magnitudedev/magnitude",
-    "repository_url": "https://github.com/magnitudedev/magnitude"
+    "repository_name": "lightpanda-io/browser",
+    "repository_url": "https://github.com/lightpanda-io/browser"
   },
   {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
+    "repository_name": "microsoft/markitdown",
+    "repository_url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "repository_name": "mksglu/context-mode",
+    "repository_url": "https://github.com/mksglu/context-mode"
   },
   {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
+  },
+  {
+    "repository_name": "pascalorg/editor",
+    "repository_url": "https://github.com/pascalorg/editor"
   },
   {
     "repository_name": "ruvnet/ruflo",
