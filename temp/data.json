@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "BraveOPotato/FckSignups",
-    "repository_url": "https://github.com/BraveOPotato/FckSignups"
-  },
-  {
     "repository_name": "MoonTechLab/LunaTV",
     "repository_url": "https://github.com/MoonTechLab/LunaTV"
   },
@@ -16,8 +12,16 @@
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "bytedance/deer-flow",
-    "repository_url": "https://github.com/bytedance/deer-flow"
+    "repository_name": "ayghri/i-have-adhd",
+    "repository_url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "repository_name": "browser-use/browser-use",
+    "repository_url": "https://github.com/browser-use/browser-use"
+  },
+  {
+    "repository_name": "cathrynlavery/diagram-design",
+    "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
     "repository_name": "coreyhaines31/marketingskills",
@@ -32,10 +36,6 @@
     "repository_url": "https://github.com/jo-inc/camofox-browser"
   },
   {
-    "repository_name": "lightpanda-io/browser",
-    "repository_url": "https://github.com/lightpanda-io/browser"
-  },
-  {
     "repository_name": "microsoft/markitdown",
     "repository_url": "https://github.com/microsoft/markitdown"
   },
@@ -44,15 +44,23 @@
     "repository_url": "https://github.com/mksglu/context-mode"
   },
   {
+    "repository_name": "multica-ai/andrej-karpathy-skills",
+    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "openai/plugins",
+    "repository_url": "https://github.com/openai/plugins"
+  },
+  {
     "repository_name": "openai/skills",
     "repository_url": "https://github.com/openai/skills"
   },
   {
-    "repository_name": "pascalorg/editor",
-    "repository_url": "https://github.com/pascalorg/editor"
-  },
-  {
-    "repository_name": "ruvnet/ruflo",
-    "repository_url": "https://github.com/ruvnet/ruflo"
+    "repository_name": "viarotel-org/escrcpy",
+    "repository_url": "https://github.com/viarotel-org/escrcpy"
   }
 ]
