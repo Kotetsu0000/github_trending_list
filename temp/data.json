@@ -1,11 +1,11 @@
 [
   {
-    "repository_name": "MoonTechLab/LunaTV",
-    "repository_url": "https://github.com/MoonTechLab/LunaTV"
+    "repository_name": "TauricResearch/TradingAgents",
+    "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
-    "repository_name": "The-Swarm-Corporation/AutoHedge",
-    "repository_url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+    "repository_name": "Tencent/teamai-cli",
+    "repository_url": "https://github.com/Tencent/teamai-cli"
   },
   {
     "repository_name": "affaan-m/ECC",
@@ -16,40 +16,20 @@
     "repository_url": "https://github.com/ayghri/i-have-adhd"
   },
   {
-    "repository_name": "browser-use/browser-use",
-    "repository_url": "https://github.com/browser-use/browser-use"
-  },
-  {
     "repository_name": "cathrynlavery/diagram-design",
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "coreyhaines31/marketingskills",
-    "repository_url": "https://github.com/coreyhaines31/marketingskills"
+    "repository_name": "earthtojake/text-to-cad",
+    "repository_url": "https://github.com/earthtojake/text-to-cad"
   },
   {
-    "repository_name": "heygen-com/hyperframes",
-    "repository_url": "https://github.com/heygen-com/hyperframes"
-  },
-  {
-    "repository_name": "jo-inc/camofox-browser",
-    "repository_url": "https://github.com/jo-inc/camofox-browser"
+    "repository_name": "freestylefly/awesome-gpt-image-2",
+    "repository_url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
   {
     "repository_name": "liquidslr/system-design-notes",
     "repository_url": "https://github.com/liquidslr/system-design-notes"
-  },
-  {
-    "repository_name": "microsoft/markitdown",
-    "repository_url": "https://github.com/microsoft/markitdown"
-  },
-  {
-    "repository_name": "mksglu/context-mode",
-    "repository_url": "https://github.com/mksglu/context-mode"
-  },
-  {
-    "repository_name": "multica-ai/andrej-karpathy-skills",
-    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
   },
   {
     "repository_name": "obra/superpowers",
@@ -60,11 +40,15 @@
     "repository_url": "https://github.com/openai/plugins"
   },
   {
-    "repository_name": "openai/skills",
-    "repository_url": "https://github.com/openai/skills"
+    "repository_name": "pascalorg/editor",
+    "repository_url": "https://github.com/pascalorg/editor"
   },
   {
-    "repository_name": "viarotel-org/escrcpy",
-    "repository_url": "https://github.com/viarotel-org/escrcpy"
+    "repository_name": "rohitg00/ai-engineering-from-scratch",
+    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repository_name": "vastsa/PI-Desktop",
+    "repository_url": "https://github.com/vastsa/PI-Desktop"
   }
 ]
