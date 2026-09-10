@@ -1,27 +1,43 @@
 [
   {
-    "repository_name": "TauricResearch/TradingAgents",
-    "repository_url": "https://github.com/TauricResearch/TradingAgents"
+    "repository_name": "AlexsJones/llmfit",
+    "repository_url": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "repository_name": "JustVugg/colibri",
+    "repository_url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "repository_name": "THU-MAIC/OpenMAIC",
+    "repository_url": "https://github.com/THU-MAIC/OpenMAIC"
   },
   {
     "repository_name": "Tencent/teamai-cli",
     "repository_url": "https://github.com/Tencent/teamai-cli"
   },
   {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
+    "repository_name": "alsk1992/CloddsBot",
+    "repository_url": "https://github.com/alsk1992/CloddsBot"
+  },
+  {
+    "repository_name": "armory3d/armorpaint",
+    "repository_url": "https://github.com/armory3d/armorpaint"
   },
   {
     "repository_name": "ayghri/i-have-adhd",
     "repository_url": "https://github.com/ayghri/i-have-adhd"
   },
   {
+    "repository_name": "bilawalsidhu/gods-eye-view",
+    "repository_url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
     "repository_name": "cathrynlavery/diagram-design",
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "earthtojake/text-to-cad",
-    "repository_url": "https://github.com/earthtojake/text-to-cad"
+    "repository_name": "diegosouzapw/OmniRoute",
+    "repository_url": "https://github.com/diegosouzapw/OmniRoute"
   },
   {
     "repository_name": "freestylefly/awesome-gpt-image-2",
@@ -32,23 +48,19 @@
     "repository_url": "https://github.com/liquidslr/system-design-notes"
   },
   {
+    "repository_name": "nashsu/llm_wiki",
+    "repository_url": "https://github.com/nashsu/llm_wiki"
+  },
+  {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "openai/plugins",
-    "repository_url": "https://github.com/openai/plugins"
-  },
-  {
-    "repository_name": "pascalorg/editor",
-    "repository_url": "https://github.com/pascalorg/editor"
-  },
-  {
-    "repository_name": "rohitg00/ai-engineering-from-scratch",
-    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-  },
-  {
     "repository_name": "vastsa/PI-Desktop",
     "repository_url": "https://github.com/vastsa/PI-Desktop"
+  },
+  {
+    "repository_name": "vercel-labs/skills",
+    "repository_url": "https://github.com/vercel-labs/skills"
   }
 ]
