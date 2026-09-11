@@ -1,19 +1,11 @@
 [
   {
-    "repository_name": "AlexsJones/llmfit",
-    "repository_url": "https://github.com/AlexsJones/llmfit"
+    "repository_name": "Sonarr/Sonarr",
+    "repository_url": "https://github.com/Sonarr/Sonarr"
   },
   {
-    "repository_name": "JustVugg/colibri",
-    "repository_url": "https://github.com/JustVugg/colibri"
-  },
-  {
-    "repository_name": "THU-MAIC/OpenMAIC",
-    "repository_url": "https://github.com/THU-MAIC/OpenMAIC"
-  },
-  {
-    "repository_name": "Tencent/teamai-cli",
-    "repository_url": "https://github.com/Tencent/teamai-cli"
+    "repository_name": "alphaXiv/OpenResearch",
+    "repository_url": "https://github.com/alphaXiv/OpenResearch"
   },
   {
     "repository_name": "alsk1992/CloddsBot",
@@ -32,20 +24,24 @@
     "repository_url": "https://github.com/bilawalsidhu/gods-eye-view"
   },
   {
-    "repository_name": "cathrynlavery/diagram-design",
-    "repository_url": "https://github.com/cathrynlavery/diagram-design"
+    "repository_name": "github/spec-kit",
+    "repository_url": "https://github.com/github/spec-kit"
   },
   {
-    "repository_name": "diegosouzapw/OmniRoute",
-    "repository_url": "https://github.com/diegosouzapw/OmniRoute"
+    "repository_name": "jihe520/MathModelAgent",
+    "repository_url": "https://github.com/jihe520/MathModelAgent"
   },
   {
-    "repository_name": "freestylefly/awesome-gpt-image-2",
-    "repository_url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    "repository_name": "jordan-gibbs/hyperresearch",
+    "repository_url": "https://github.com/jordan-gibbs/hyperresearch"
   },
   {
-    "repository_name": "liquidslr/system-design-notes",
-    "repository_url": "https://github.com/liquidslr/system-design-notes"
+    "repository_name": "melgarafael/DeskcommCRM",
+    "repository_url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "repository_name": "nab138/iloader",
+    "repository_url": "https://github.com/nab138/iloader"
   },
   {
     "repository_name": "nashsu/llm_wiki",
@@ -56,11 +52,15 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "vastsa/PI-Desktop",
-    "repository_url": "https://github.com/vastsa/PI-Desktop"
+    "repository_name": "p1neappleXpress/OpenFlux",
+    "repository_url": "https://github.com/p1neappleXpress/OpenFlux"
   },
   {
-    "repository_name": "vercel-labs/skills",
-    "repository_url": "https://github.com/vercel-labs/skills"
+    "repository_name": "pascalorg/editor",
+    "repository_url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "repository_name": "vastsa/PI-Desktop",
+    "repository_url": "https://github.com/vastsa/PI-Desktop"
   }
 ]
