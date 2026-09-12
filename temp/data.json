@@ -1,11 +1,19 @@
 [
   {
-    "repository_name": "Sonarr/Sonarr",
-    "repository_url": "https://github.com/Sonarr/Sonarr"
+    "repository_name": "Flowseal/zapret-discord-youtube",
+    "repository_url": "https://github.com/Flowseal/zapret-discord-youtube"
   },
   {
-    "repository_name": "alphaXiv/OpenResearch",
-    "repository_url": "https://github.com/alphaXiv/OpenResearch"
+    "repository_name": "Shubhamsaboo/awesome-llm-apps",
+    "repository_url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "repository_name": "SnailSploit/Claude-Red",
+    "repository_url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "repository_name": "Sonarr/Sonarr",
+    "repository_url": "https://github.com/Sonarr/Sonarr"
   },
   {
     "repository_name": "alsk1992/CloddsBot",
@@ -16,51 +24,43 @@
     "repository_url": "https://github.com/armory3d/armorpaint"
   },
   {
-    "repository_name": "ayghri/i-have-adhd",
-    "repository_url": "https://github.com/ayghri/i-have-adhd"
+    "repository_name": "asgeirtj/system_prompts_leaks",
+    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
     "repository_name": "bilawalsidhu/gods-eye-view",
     "repository_url": "https://github.com/bilawalsidhu/gods-eye-view"
   },
   {
-    "repository_name": "github/spec-kit",
-    "repository_url": "https://github.com/github/spec-kit"
-  },
-  {
     "repository_name": "jihe520/MathModelAgent",
     "repository_url": "https://github.com/jihe520/MathModelAgent"
   },
   {
-    "repository_name": "jordan-gibbs/hyperresearch",
-    "repository_url": "https://github.com/jordan-gibbs/hyperresearch"
+    "repository_name": "max-sixty/worktrunk",
+    "repository_url": "https://github.com/max-sixty/worktrunk"
   },
   {
     "repository_name": "melgarafael/DeskcommCRM",
     "repository_url": "https://github.com/melgarafael/DeskcommCRM"
   },
   {
+    "repository_name": "multimodal-art-projection/YuE",
+    "repository_url": "https://github.com/multimodal-art-projection/YuE"
+  },
+  {
     "repository_name": "nab138/iloader",
     "repository_url": "https://github.com/nab138/iloader"
-  },
-  {
-    "repository_name": "nashsu/llm_wiki",
-    "repository_url": "https://github.com/nashsu/llm_wiki"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "p1neappleXpress/OpenFlux",
     "repository_url": "https://github.com/p1neappleXpress/OpenFlux"
   },
   {
-    "repository_name": "pascalorg/editor",
-    "repository_url": "https://github.com/pascalorg/editor"
+    "repository_name": "vxcontrol/pentagi",
+    "repository_url": "https://github.com/vxcontrol/pentagi"
   },
   {
-    "repository_name": "vastsa/PI-Desktop",
-    "repository_url": "https://github.com/vastsa/PI-Desktop"
+    "repository_name": "yuliskov/SmartTube",
+    "repository_url": "https://github.com/yuliskov/SmartTube"
   }
 ]
