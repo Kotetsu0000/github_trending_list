@@ -1,82 +1,58 @@
 [
   {
-    "repository_name": "666ghj/MiroFish",
-    "repository_url": "https://github.com/666ghj/MiroFish"
-  },
-  {
-    "repository_name": "Crosstalk-Solutions/project-nomad",
-    "repository_url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    "repository_name": "Homebrew/BrewUI",
+    "repository_url": "https://github.com/Homebrew/BrewUI"
   },
   {
     "repository_name": "JustVugg/colibri",
     "repository_url": "https://github.com/JustVugg/colibri"
   },
   {
-    "repository_name": "OpenBMB/VoxCPM",
-    "repository_url": "https://github.com/OpenBMB/VoxCPM"
+    "repository_name": "MG1937/ASC",
+    "repository_url": "https://github.com/MG1937/ASC"
   },
   {
-    "repository_name": "Panniantong/Agent-Reach",
-    "repository_url": "https://github.com/Panniantong/Agent-Reach"
+    "repository_name": "NationalSecurityAgency/ghidra",
+    "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
-    "repository_name": "SnailSploit/Claude-Red",
-    "repository_url": "https://github.com/SnailSploit/Claude-Red"
-  },
-  {
-    "repository_name": "TauricResearch/TradingAgents",
-    "repository_url": "https://github.com/TauricResearch/TradingAgents"
+    "repository_name": "addyosmani/agent-skills",
+    "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
     "repository_name": "alibaba/open-code-review",
     "repository_url": "https://github.com/alibaba/open-code-review"
   },
   {
-    "repository_name": "asgeirtj/system_prompts_leaks",
-    "repository_url": "https://github.com/asgeirtj/system_prompts_leaks"
+    "repository_name": "alphaXiv/OpenResearch",
+    "repository_url": "https://github.com/alphaXiv/OpenResearch"
   },
   {
-    "repository_name": "dani-garcia/vaultwarden",
-    "repository_url": "https://github.com/dani-garcia/vaultwarden"
+    "repository_name": "danny-avila/LibreChat",
+    "repository_url": "https://github.com/danny-avila/LibreChat"
   },
   {
     "repository_name": "debpalash/VoiceStudio",
     "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
+    "repository_name": "earendil-works/pi",
+    "repository_url": "https://github.com/earendil-works/pi"
+  },
+  {
     "repository_name": "ever-co/ever-gauzy",
     "repository_url": "https://github.com/ever-co/ever-gauzy"
   },
   {
-    "repository_name": "huggingface/transformers",
-    "repository_url": "https://github.com/huggingface/transformers"
+    "repository_name": "melgarafael/DeskcommCRM",
+    "repository_url": "https://github.com/melgarafael/DeskcommCRM"
   },
   {
-    "repository_name": "localsend/localsend",
-    "repository_url": "https://github.com/localsend/localsend"
+    "repository_name": "pacifio/atlas",
+    "repository_url": "https://github.com/pacifio/atlas"
   },
   {
-    "repository_name": "multimodal-art-projection/YuE",
-    "repository_url": "https://github.com/multimodal-art-projection/YuE"
-  },
-  {
-    "repository_name": "peetzweg/opendisplay",
-    "repository_url": "https://github.com/peetzweg/opendisplay"
-  },
-  {
-    "repository_name": "reconurge/flowsint",
-    "repository_url": "https://github.com/reconurge/flowsint"
-  },
-  {
-    "repository_name": "rlaope/oh-my-hermes",
-    "repository_url": "https://github.com/rlaope/oh-my-hermes"
-  },
-  {
-    "repository_name": "ruvnet/RuView",
-    "repository_url": "https://github.com/ruvnet/RuView"
-  },
-  {
-    "repository_name": "tech-leads-club/agent-skills",
-    "repository_url": "https://github.com/tech-leads-club/agent-skills"
+    "repository_name": "tonhowtf/omniget",
+    "repository_url": "https://github.com/tonhowtf/omniget"
   }
 ]
