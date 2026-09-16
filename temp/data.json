@@ -1,23 +1,35 @@
 [
   {
-    "repository_name": "Homebrew/BrewUI",
-    "repository_url": "https://github.com/Homebrew/BrewUI"
-  },
-  {
     "repository_name": "JustVugg/colibri",
     "repository_url": "https://github.com/JustVugg/colibri"
   },
   {
-    "repository_name": "MG1937/ASC",
-    "repository_url": "https://github.com/MG1937/ASC"
+    "repository_name": "Lakr233/vphone-cli",
+    "repository_url": "https://github.com/Lakr233/vphone-cli"
   },
   {
     "repository_name": "NationalSecurityAgency/ghidra",
     "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
+    "repository_name": "SnailSploit/Claude-Red",
+    "repository_url": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "repository_name": "Tencent/WeKnora",
+    "repository_url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "repository_name": "abue-ammar/tinycast",
+    "repository_url": "https://github.com/abue-ammar/tinycast"
+  },
+  {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
     "repository_name": "alibaba/open-code-review",
@@ -28,31 +40,47 @@
     "repository_url": "https://github.com/alphaXiv/OpenResearch"
   },
   {
-    "repository_name": "danny-avila/LibreChat",
-    "repository_url": "https://github.com/danny-avila/LibreChat"
+    "repository_name": "ankitects/anki",
+    "repository_url": "https://github.com/ankitects/anki"
   },
   {
-    "repository_name": "debpalash/VoiceStudio",
-    "repository_url": "https://github.com/debpalash/VoiceStudio"
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "earendil-works/pi",
-    "repository_url": "https://github.com/earendil-works/pi"
+    "repository_name": "anthropics/knowledge-work-plugins",
+    "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repository_name": "cline/cline",
+    "repository_url": "https://github.com/cline/cline"
+  },
+  {
+    "repository_name": "cloudflare/security-audit-skill",
+    "repository_url": "https://github.com/cloudflare/security-audit-skill"
   },
   {
     "repository_name": "ever-co/ever-gauzy",
     "repository_url": "https://github.com/ever-co/ever-gauzy"
   },
   {
-    "repository_name": "melgarafael/DeskcommCRM",
-    "repository_url": "https://github.com/melgarafael/DeskcommCRM"
+    "repository_name": "jamiepine/voicebox",
+    "repository_url": "https://github.com/jamiepine/voicebox"
   },
   {
-    "repository_name": "pacifio/atlas",
-    "repository_url": "https://github.com/pacifio/atlas"
+    "repository_name": "multimodal-art-projection/YuE",
+    "repository_url": "https://github.com/multimodal-art-projection/YuE"
   },
   {
-    "repository_name": "tonhowtf/omniget",
-    "repository_url": "https://github.com/tonhowtf/omniget"
+    "repository_name": "rlaope/oh-my-hermes",
+    "repository_url": "https://github.com/rlaope/oh-my-hermes"
+  },
+  {
+    "repository_name": "roboflow/supervision",
+    "repository_url": "https://github.com/roboflow/supervision"
+  },
+  {
+    "repository_name": "supabase/supabase",
+    "repository_url": "https://github.com/supabase/supabase"
   }
 ]
