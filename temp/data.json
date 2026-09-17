@@ -4,20 +4,20 @@
     "repository_url": "https://github.com/JustVugg/colibri"
   },
   {
-    "repository_name": "Lakr233/vphone-cli",
-    "repository_url": "https://github.com/Lakr233/vphone-cli"
-  },
-  {
     "repository_name": "NationalSecurityAgency/ghidra",
     "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
-    "repository_name": "SnailSploit/Claude-Red",
-    "repository_url": "https://github.com/SnailSploit/Claude-Red"
+    "repository_name": "Tencent/BrowserSkill",
+    "repository_url": "https://github.com/Tencent/BrowserSkill"
   },
   {
     "repository_name": "Tencent/WeKnora",
     "repository_url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "repository_name": "TencentCloud/Octop",
+    "repository_url": "https://github.com/TencentCloud/Octop"
   },
   {
     "repository_name": "abue-ammar/tinycast",
@@ -40,16 +40,16 @@
     "repository_url": "https://github.com/alphaXiv/OpenResearch"
   },
   {
-    "repository_name": "ankitects/anki",
-    "repository_url": "https://github.com/ankitects/anki"
-  },
-  {
     "repository_name": "anthropics/claude-code",
     "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
     "repository_name": "anthropics/knowledge-work-plugins",
     "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "repository_name": "cilium/cilium",
+    "repository_url": "https://github.com/cilium/cilium"
   },
   {
     "repository_name": "cline/cline",
@@ -60,6 +60,10 @@
     "repository_url": "https://github.com/cloudflare/security-audit-skill"
   },
   {
+    "repository_name": "coder/coder",
+    "repository_url": "https://github.com/coder/coder"
+  },
+  {
     "repository_name": "ever-co/ever-gauzy",
     "repository_url": "https://github.com/ever-co/ever-gauzy"
   },
@@ -68,19 +72,11 @@
     "repository_url": "https://github.com/jamiepine/voicebox"
   },
   {
-    "repository_name": "multimodal-art-projection/YuE",
-    "repository_url": "https://github.com/multimodal-art-projection/YuE"
-  },
-  {
-    "repository_name": "rlaope/oh-my-hermes",
-    "repository_url": "https://github.com/rlaope/oh-my-hermes"
+    "repository_name": "n8n-io/n8n",
+    "repository_url": "https://github.com/n8n-io/n8n"
   },
   {
     "repository_name": "roboflow/supervision",
     "repository_url": "https://github.com/roboflow/supervision"
-  },
-  {
-    "repository_name": "supabase/supabase",
-    "repository_url": "https://github.com/supabase/supabase"
   }
 ]
