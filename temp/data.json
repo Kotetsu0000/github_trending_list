@@ -1,27 +1,15 @@
 [
   {
-    "repository_name": "JustVugg/colibri",
-    "repository_url": "https://github.com/JustVugg/colibri"
-  },
-  {
-    "repository_name": "NationalSecurityAgency/ghidra",
-    "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
+    "repository_name": "Fission-AI/OpenSpec",
+    "repository_url": "https://github.com/Fission-AI/OpenSpec"
   },
   {
     "repository_name": "Tencent/BrowserSkill",
     "repository_url": "https://github.com/Tencent/BrowserSkill"
   },
   {
-    "repository_name": "Tencent/WeKnora",
-    "repository_url": "https://github.com/Tencent/WeKnora"
-  },
-  {
     "repository_name": "TencentCloud/Octop",
     "repository_url": "https://github.com/TencentCloud/Octop"
-  },
-  {
-    "repository_name": "abue-ammar/tinycast",
-    "repository_url": "https://github.com/abue-ammar/tinycast"
   },
   {
     "repository_name": "addyosmani/agent-skills",
@@ -32,12 +20,16 @@
     "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
+    "repository_name": "ahmedkhaleel2004/gitdiagram",
+    "repository_url": "https://github.com/ahmedkhaleel2004/gitdiagram"
+  },
+  {
     "repository_name": "alibaba/open-code-review",
     "repository_url": "https://github.com/alibaba/open-code-review"
   },
   {
-    "repository_name": "alphaXiv/OpenResearch",
-    "repository_url": "https://github.com/alphaXiv/OpenResearch"
+    "repository_name": "ankitects/anki",
+    "repository_url": "https://github.com/ankitects/anki"
   },
   {
     "repository_name": "anthropics/claude-code",
@@ -48,12 +40,8 @@
     "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
   },
   {
-    "repository_name": "cilium/cilium",
-    "repository_url": "https://github.com/cilium/cilium"
-  },
-  {
-    "repository_name": "cline/cline",
-    "repository_url": "https://github.com/cline/cline"
+    "repository_name": "asciimoo/hister",
+    "repository_url": "https://github.com/asciimoo/hister"
   },
   {
     "repository_name": "cloudflare/security-audit-skill",
@@ -64,19 +52,19 @@
     "repository_url": "https://github.com/coder/coder"
   },
   {
-    "repository_name": "ever-co/ever-gauzy",
-    "repository_url": "https://github.com/ever-co/ever-gauzy"
+    "repository_name": "rustfs/rustfs",
+    "repository_url": "https://github.com/rustfs/rustfs"
   },
   {
-    "repository_name": "jamiepine/voicebox",
-    "repository_url": "https://github.com/jamiepine/voicebox"
+    "repository_name": "supabase/supabase",
+    "repository_url": "https://github.com/supabase/supabase"
   },
   {
-    "repository_name": "n8n-io/n8n",
-    "repository_url": "https://github.com/n8n-io/n8n"
+    "repository_name": "supermemoryai/supermemory",
+    "repository_url": "https://github.com/supermemoryai/supermemory"
   },
   {
-    "repository_name": "roboflow/supervision",
-    "repository_url": "https://github.com/roboflow/supervision"
+    "repository_name": "tradesdontlie/tradingview-mcp",
+    "repository_url": "https://github.com/tradesdontlie/tradingview-mcp"
   }
 ]
