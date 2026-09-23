@@ -1,5 +1,25 @@
 [
   {
+    "repository_name": "BuilderIO/agent-native",
+    "repository_url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "repository_name": "DeusData/codebase-memory-mcp",
+    "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "repository_name": "HKUDS/CLI-Anything",
+    "repository_url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "repository_name": "Open-Dev-Society/OpenStock",
+    "repository_url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "repository_name": "TNT-Likely/PanWatch",
+    "repository_url": "https://github.com/TNT-Likely/PanWatch"
+  },
+  {
     "repository_name": "agent-substrate/substrate",
     "repository_url": "https://github.com/agent-substrate/substrate"
   },
@@ -24,8 +44,24 @@
     "repository_url": "https://github.com/google/ax"
   },
   {
+    "repository_name": "harry7557558/spirula-studio",
+    "repository_url": "https://github.com/harry7557558/spirula-studio"
+  },
+  {
     "repository_name": "mvt-project/mvt",
     "repository_url": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
+  },
+  {
+    "repository_name": "pbakaus/impeccable",
+    "repository_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repository_name": "strands-agents/harness-sdk",
+    "repository_url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "repository_name": "superdesigndev/treg",
