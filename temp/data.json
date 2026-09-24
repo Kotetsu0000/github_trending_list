@@ -1,39 +1,19 @@
 [
   {
-    "repository_name": "BuilderIO/agent-native",
-    "repository_url": "https://github.com/BuilderIO/agent-native"
-  },
-  {
-    "repository_name": "DeusData/codebase-memory-mcp",
-    "repository_url": "https://github.com/DeusData/codebase-memory-mcp"
+    "repository_name": "FxEmbed/FxEmbed",
+    "repository_url": "https://github.com/FxEmbed/FxEmbed"
   },
   {
     "repository_name": "HKUDS/CLI-Anything",
     "repository_url": "https://github.com/HKUDS/CLI-Anything"
   },
   {
-    "repository_name": "Open-Dev-Society/OpenStock",
-    "repository_url": "https://github.com/Open-Dev-Society/OpenStock"
-  },
-  {
-    "repository_name": "TNT-Likely/PanWatch",
-    "repository_url": "https://github.com/TNT-Likely/PanWatch"
-  },
-  {
-    "repository_name": "agent-substrate/substrate",
-    "repository_url": "https://github.com/agent-substrate/substrate"
+    "repository_name": "NVIDIA/Model-Optimizer",
+    "repository_url": "https://github.com/NVIDIA/Model-Optimizer"
   },
   {
     "repository_name": "anthropics/financial-services",
     "repository_url": "https://github.com/anthropics/financial-services"
-  },
-  {
-    "repository_name": "browser-use/video-use",
-    "repository_url": "https://github.com/browser-use/video-use"
-  },
-  {
-    "repository_name": "davila7/claude-code-templates",
-    "repository_url": "https://github.com/davila7/claude-code-templates"
   },
   {
     "repository_name": "dream-num/univer",
@@ -44,8 +24,12 @@
     "repository_url": "https://github.com/google/ax"
   },
   {
-    "repository_name": "harry7557558/spirula-studio",
-    "repository_url": "https://github.com/harry7557558/spirula-studio"
+    "repository_name": "julyx10/lap",
+    "repository_url": "https://github.com/julyx10/lap"
+  },
+  {
+    "repository_name": "leejet/stable-diffusion.cpp",
+    "repository_url": "https://github.com/leejet/stable-diffusion.cpp"
   },
   {
     "repository_name": "mvt-project/mvt",
@@ -56,8 +40,8 @@
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "pbakaus/impeccable",
-    "repository_url": "https://github.com/pbakaus/impeccable"
+    "repository_name": "rohitg00/ai-engineering-from-scratch",
+    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
     "repository_name": "strands-agents/harness-sdk",
@@ -66,5 +50,9 @@
   {
     "repository_name": "superdesigndev/treg",
     "repository_url": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "repository_name": "vectorize-io/hindsight",
+    "repository_url": "https://github.com/vectorize-io/hindsight"
   }
 ]
