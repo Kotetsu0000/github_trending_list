@@ -1,19 +1,23 @@
 [
   {
-    "repository_name": "FxEmbed/FxEmbed",
-    "repository_url": "https://github.com/FxEmbed/FxEmbed"
-  },
-  {
-    "repository_name": "HKUDS/CLI-Anything",
-    "repository_url": "https://github.com/HKUDS/CLI-Anything"
-  },
-  {
     "repository_name": "NVIDIA/Model-Optimizer",
     "repository_url": "https://github.com/NVIDIA/Model-Optimizer"
   },
   {
-    "repository_name": "anthropics/financial-services",
-    "repository_url": "https://github.com/anthropics/financial-services"
+    "repository_name": "androoAGI/starnet",
+    "repository_url": "https://github.com/androoAGI/starnet"
+  },
+  {
+    "repository_name": "anthropics/claude-plugins-official",
+    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repository_name": "derv82/wifit3",
+    "repository_url": "https://github.com/derv82/wifit3"
   },
   {
     "repository_name": "dream-num/univer",
@@ -24,32 +28,36 @@
     "repository_url": "https://github.com/google/ax"
   },
   {
-    "repository_name": "julyx10/lap",
-    "repository_url": "https://github.com/julyx10/lap"
+    "repository_name": "kelseyhightower/kubernetes-the-hard-way",
+    "repository_url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
   },
   {
-    "repository_name": "leejet/stable-diffusion.cpp",
-    "repository_url": "https://github.com/leejet/stable-diffusion.cpp"
-  },
-  {
-    "repository_name": "mvt-project/mvt",
-    "repository_url": "https://github.com/mvt-project/mvt"
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "obra/superpowers",
     "repository_url": "https://github.com/obra/superpowers"
   },
   {
+    "repository_name": "openbao/openbao",
+    "repository_url": "https://github.com/openbao/openbao"
+  },
+  {
+    "repository_name": "paperclipai/paperclip",
+    "repository_url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "repository_name": "pbakaus/impeccable",
+    "repository_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "strands-agents/harness-sdk",
-    "repository_url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "repository_name": "superdesigndev/treg",
-    "repository_url": "https://github.com/superdesigndev/treg"
+    "repository_name": "shy3130/tick-stock-panel",
+    "repository_url": "https://github.com/shy3130/tick-stock-panel"
   },
   {
     "repository_name": "vectorize-io/hindsight",
