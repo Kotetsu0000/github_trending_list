@@ -4,40 +4,32 @@
     "repository_url": "https://github.com/NVIDIA/Model-Optimizer"
   },
   {
-    "repository_name": "androoAGI/starnet",
-    "repository_url": "https://github.com/androoAGI/starnet"
+    "repository_name": "actions/runner-images",
+    "repository_url": "https://github.com/actions/runner-images"
   },
   {
-    "repository_name": "anthropics/claude-plugins-official",
-    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+    "repository_name": "anthropics/claude-code-action",
+    "repository_url": "https://github.com/anthropics/claude-code-action"
   },
   {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
-  },
-  {
-    "repository_name": "derv82/wifit3",
-    "repository_url": "https://github.com/derv82/wifit3"
+    "repository_name": "block/buzz",
+    "repository_url": "https://github.com/block/buzz"
   },
   {
     "repository_name": "dream-num/univer",
     "repository_url": "https://github.com/dream-num/univer"
   },
   {
-    "repository_name": "google/ax",
-    "repository_url": "https://github.com/google/ax"
+    "repository_name": "llvm/llvm-project",
+    "repository_url": "https://github.com/llvm/llvm-project"
   },
   {
-    "repository_name": "kelseyhightower/kubernetes-the-hard-way",
-    "repository_url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    "repository_name": "microsoft/vscode",
+    "repository_url": "https://github.com/microsoft/vscode"
   },
   {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "mobile-next/mobile-mcp",
+    "repository_url": "https://github.com/mobile-next/mobile-mcp"
   },
   {
     "repository_name": "openbao/openbao",
@@ -48,19 +40,23 @@
     "repository_url": "https://github.com/paperclipai/paperclip"
   },
   {
-    "repository_name": "pbakaus/impeccable",
-    "repository_url": "https://github.com/pbakaus/impeccable"
-  },
-  {
     "repository_name": "rohitg00/ai-engineering-from-scratch",
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "shy3130/tick-stock-panel",
-    "repository_url": "https://github.com/shy3130/tick-stock-panel"
+    "repository_name": "tensorflow/tensorflow",
+    "repository_url": "https://github.com/tensorflow/tensorflow"
   },
   {
     "repository_name": "vectorize-io/hindsight",
     "repository_url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "repository_name": "vercel/next.js",
+    "repository_url": "https://github.com/vercel/next.js"
+  },
+  {
+    "repository_name": "zhaoxuya520/reverse-skill",
+    "repository_url": "https://github.com/zhaoxuya520/reverse-skill"
   }
 ]
