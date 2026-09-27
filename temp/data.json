@@ -1,39 +1,19 @@
 [
   {
-    "repository_name": "NVIDIA/Model-Optimizer",
-    "repository_url": "https://github.com/NVIDIA/Model-Optimizer"
+    "repository_name": "InfinityLoop1308/PipePipe",
+    "repository_url": "https://github.com/InfinityLoop1308/PipePipe"
   },
   {
-    "repository_name": "actions/runner-images",
-    "repository_url": "https://github.com/actions/runner-images"
-  },
-  {
-    "repository_name": "anthropics/claude-code-action",
-    "repository_url": "https://github.com/anthropics/claude-code-action"
-  },
-  {
-    "repository_name": "block/buzz",
-    "repository_url": "https://github.com/block/buzz"
+    "repository_name": "debpalash/VoiceStudio",
+    "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
     "repository_name": "dream-num/univer",
     "repository_url": "https://github.com/dream-num/univer"
   },
   {
-    "repository_name": "llvm/llvm-project",
-    "repository_url": "https://github.com/llvm/llvm-project"
-  },
-  {
-    "repository_name": "microsoft/vscode",
-    "repository_url": "https://github.com/microsoft/vscode"
-  },
-  {
-    "repository_name": "mobile-next/mobile-mcp",
-    "repository_url": "https://github.com/mobile-next/mobile-mcp"
-  },
-  {
-    "repository_name": "openbao/openbao",
-    "repository_url": "https://github.com/openbao/openbao"
+    "repository_name": "mvschwarz/openrig",
+    "repository_url": "https://github.com/mvschwarz/openrig"
   },
   {
     "repository_name": "paperclipai/paperclip",
@@ -44,19 +24,15 @@
     "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
-    "repository_name": "tensorflow/tensorflow",
-    "repository_url": "https://github.com/tensorflow/tensorflow"
-  },
-  {
     "repository_name": "vectorize-io/hindsight",
     "repository_url": "https://github.com/vectorize-io/hindsight"
   },
   {
-    "repository_name": "vercel/next.js",
-    "repository_url": "https://github.com/vercel/next.js"
+    "repository_name": "vercel-labs/scriptc",
+    "repository_url": "https://github.com/vercel-labs/scriptc"
   },
   {
-    "repository_name": "zhaoxuya520/reverse-skill",
-    "repository_url": "https://github.com/zhaoxuya520/reverse-skill"
+    "repository_name": "willfaust/Madeira",
+    "repository_url": "https://github.com/willfaust/Madeira"
   }
 ]
