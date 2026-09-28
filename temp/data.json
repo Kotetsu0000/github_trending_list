@@ -1,7 +1,15 @@
 [
   {
-    "repository_name": "InfinityLoop1308/PipePipe",
-    "repository_url": "https://github.com/InfinityLoop1308/PipePipe"
+    "repository_name": "NawfalMotii79/PLFM_RADAR",
+    "repository_url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+  },
+  {
+    "repository_name": "byoungd/up",
+    "repository_url": "https://github.com/byoungd/up"
+  },
+  {
+    "repository_name": "cs341-illinois/coursebook",
+    "repository_url": "https://github.com/cs341-illinois/coursebook"
   },
   {
     "repository_name": "debpalash/VoiceStudio",
@@ -20,19 +28,7 @@
     "repository_url": "https://github.com/paperclipai/paperclip"
   },
   {
-    "repository_name": "rohitg00/ai-engineering-from-scratch",
-    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-  },
-  {
     "repository_name": "vectorize-io/hindsight",
     "repository_url": "https://github.com/vectorize-io/hindsight"
-  },
-  {
-    "repository_name": "vercel-labs/scriptc",
-    "repository_url": "https://github.com/vercel-labs/scriptc"
-  },
-  {
-    "repository_name": "willfaust/Madeira",
-    "repository_url": "https://github.com/willfaust/Madeira"
   }
 ]
