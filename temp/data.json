@@ -1,11 +1,15 @@
 [
   {
-    "repository_name": "NawfalMotii79/PLFM_RADAR",
-    "repository_url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+    "repository_name": "NVIDIA/OpenShell",
+    "repository_url": "https://github.com/NVIDIA/OpenShell"
   },
   {
-    "repository_name": "byoungd/up",
-    "repository_url": "https://github.com/byoungd/up"
+    "repository_name": "VectifyAI/PageIndex",
+    "repository_url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "repository_name": "averygan/reclip",
+    "repository_url": "https://github.com/averygan/reclip"
   },
   {
     "repository_name": "cs341-illinois/coursebook",
@@ -24,11 +28,31 @@
     "repository_url": "https://github.com/mvschwarz/openrig"
   },
   {
+    "repository_name": "oblien/openship",
+    "repository_url": "https://github.com/oblien/openship"
+  },
+  {
     "repository_name": "paperclipai/paperclip",
     "repository_url": "https://github.com/paperclipai/paperclip"
   },
   {
+    "repository_name": "rakyll/hey",
+    "repository_url": "https://github.com/rakyll/hey"
+  },
+  {
+    "repository_name": "rohitg00/ai-engineering-from-scratch",
+    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "repository_name": "t8y2/dbx",
+    "repository_url": "https://github.com/t8y2/dbx"
+  },
+  {
     "repository_name": "vectorize-io/hindsight",
     "repository_url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "repository_name": "willfaust/Madeira",
+    "repository_url": "https://github.com/willfaust/Madeira"
   }
 ]
