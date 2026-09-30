@@ -1,58 +1,70 @@
 [
   {
+    "repository_name": "ComposioHQ/awesome-claude-skills",
+    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "repository_name": "DietrichGebert/ponytail",
+    "repository_url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
     "repository_name": "NVIDIA/OpenShell",
     "repository_url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "repository_name": "NawfalMotii79/PLFM_RADAR",
+    "repository_url": "https://github.com/NawfalMotii79/PLFM_RADAR"
   },
   {
     "repository_name": "VectifyAI/PageIndex",
     "repository_url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "repository_name": "averygan/reclip",
-    "repository_url": "https://github.com/averygan/reclip"
+    "repository_name": "byoungd/up",
+    "repository_url": "https://github.com/byoungd/up"
   },
   {
-    "repository_name": "cs341-illinois/coursebook",
-    "repository_url": "https://github.com/cs341-illinois/coursebook"
+    "repository_name": "colbymchenry/codegraph",
+    "repository_url": "https://github.com/colbymchenry/codegraph"
   },
   {
     "repository_name": "debpalash/VoiceStudio",
     "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
-    "repository_name": "dream-num/univer",
-    "repository_url": "https://github.com/dream-num/univer"
+    "repository_name": "firebase/firebase-ios-sdk",
+    "repository_url": "https://github.com/firebase/firebase-ios-sdk"
+  },
+  {
+    "repository_name": "harry0703/MoneyPrinterTurbo",
+    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "repository_name": "heygen-com/hyperframes",
+    "repository_url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repository_name": "mksglu/context-mode",
+    "repository_url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "repository_name": "modelcontextprotocol/servers",
+    "repository_url": "https://github.com/modelcontextprotocol/servers"
   },
   {
     "repository_name": "mvschwarz/openrig",
     "repository_url": "https://github.com/mvschwarz/openrig"
   },
   {
-    "repository_name": "oblien/openship",
-    "repository_url": "https://github.com/oblien/openship"
-  },
-  {
-    "repository_name": "paperclipai/paperclip",
-    "repository_url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "repository_name": "rakyll/hey",
-    "repository_url": "https://github.com/rakyll/hey"
-  },
-  {
-    "repository_name": "rohitg00/ai-engineering-from-scratch",
-    "repository_url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    "repository_name": "openclaw/openclaw",
+    "repository_url": "https://github.com/openclaw/openclaw"
   },
   {
     "repository_name": "t8y2/dbx",
     "repository_url": "https://github.com/t8y2/dbx"
-  },
-  {
-    "repository_name": "vectorize-io/hindsight",
-    "repository_url": "https://github.com/vectorize-io/hindsight"
-  },
-  {
-    "repository_name": "willfaust/Madeira",
-    "repository_url": "https://github.com/willfaust/Madeira"
   }
 ]
