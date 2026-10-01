@@ -1,43 +1,31 @@
 [
   {
-    "repository_name": "ComposioHQ/awesome-claude-skills",
-    "repository_url": "https://github.com/ComposioHQ/awesome-claude-skills"
-  },
-  {
     "repository_name": "DietrichGebert/ponytail",
     "repository_url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "repository_name": "Friedrich-M/UniMate",
+    "repository_url": "https://github.com/Friedrich-M/UniMate"
+  },
+  {
+    "repository_name": "HunxByts/GhostTrack",
+    "repository_url": "https://github.com/HunxByts/GhostTrack"
   },
   {
     "repository_name": "NVIDIA/OpenShell",
     "repository_url": "https://github.com/NVIDIA/OpenShell"
   },
   {
-    "repository_name": "NawfalMotii79/PLFM_RADAR",
-    "repository_url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+    "repository_name": "cursor/plugins",
+    "repository_url": "https://github.com/cursor/plugins"
   },
   {
-    "repository_name": "VectifyAI/PageIndex",
-    "repository_url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "repository_name": "byoungd/up",
-    "repository_url": "https://github.com/byoungd/up"
-  },
-  {
-    "repository_name": "colbymchenry/codegraph",
-    "repository_url": "https://github.com/colbymchenry/codegraph"
-  },
-  {
-    "repository_name": "debpalash/VoiceStudio",
-    "repository_url": "https://github.com/debpalash/VoiceStudio"
+    "repository_name": "earendil-works/pi",
+    "repository_url": "https://github.com/earendil-works/pi"
   },
   {
     "repository_name": "firebase/firebase-ios-sdk",
     "repository_url": "https://github.com/firebase/firebase-ios-sdk"
-  },
-  {
-    "repository_name": "harry0703/MoneyPrinterTurbo",
-    "repository_url": "https://github.com/harry0703/MoneyPrinterTurbo"
   },
   {
     "repository_name": "heygen-com/hyperframes",
@@ -52,19 +40,23 @@
     "repository_url": "https://github.com/mksglu/context-mode"
   },
   {
-    "repository_name": "modelcontextprotocol/servers",
-    "repository_url": "https://github.com/modelcontextprotocol/servers"
-  },
-  {
     "repository_name": "mvschwarz/openrig",
     "repository_url": "https://github.com/mvschwarz/openrig"
   },
   {
-    "repository_name": "openclaw/openclaw",
-    "repository_url": "https://github.com/openclaw/openclaw"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "t8y2/dbx",
-    "repository_url": "https://github.com/t8y2/dbx"
+    "repository_name": "pablostanley/yoinks",
+    "repository_url": "https://github.com/pablostanley/yoinks"
+  },
+  {
+    "repository_name": "pbakaus/impeccable",
+    "repository_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repository_name": "tile-ai/tilelang",
+    "repository_url": "https://github.com/tile-ai/tilelang"
   }
 ]
