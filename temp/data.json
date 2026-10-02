@@ -4,28 +4,40 @@
     "repository_url": "https://github.com/DietrichGebert/ponytail"
   },
   {
-    "repository_name": "Friedrich-M/UniMate",
-    "repository_url": "https://github.com/Friedrich-M/UniMate"
+    "repository_name": "Effect-TS/effect",
+    "repository_url": "https://github.com/Effect-TS/effect"
   },
   {
-    "repository_name": "HunxByts/GhostTrack",
-    "repository_url": "https://github.com/HunxByts/GhostTrack"
+    "repository_name": "JuliusBrussee/caveman",
+    "repository_url": "https://github.com/JuliusBrussee/caveman"
   },
   {
     "repository_name": "NVIDIA/OpenShell",
     "repository_url": "https://github.com/NVIDIA/OpenShell"
   },
   {
+    "repository_name": "Panniantong/Agent-Reach",
+    "repository_url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "repository_name": "colbymchenry/codegraph",
+    "repository_url": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "repository_name": "coreyhaines31/marketingskills",
+    "repository_url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
     "repository_name": "cursor/plugins",
     "repository_url": "https://github.com/cursor/plugins"
   },
   {
-    "repository_name": "earendil-works/pi",
-    "repository_url": "https://github.com/earendil-works/pi"
+    "repository_name": "getsentry/sentry",
+    "repository_url": "https://github.com/getsentry/sentry"
   },
   {
-    "repository_name": "firebase/firebase-ios-sdk",
-    "repository_url": "https://github.com/firebase/firebase-ios-sdk"
+    "repository_name": "google/skills",
+    "repository_url": "https://github.com/google/skills"
   },
   {
     "repository_name": "heygen-com/hyperframes",
@@ -54,9 +66,5 @@
   {
     "repository_name": "pbakaus/impeccable",
     "repository_url": "https://github.com/pbakaus/impeccable"
-  },
-  {
-    "repository_name": "tile-ai/tilelang",
-    "repository_url": "https://github.com/tile-ai/tilelang"
   }
 ]
