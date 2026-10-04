@@ -4,14 +4,6 @@
     "repository_url": "https://github.com/DietrichGebert/ponytail"
   },
   {
-    "repository_name": "Effect-TS/effect",
-    "repository_url": "https://github.com/Effect-TS/effect"
-  },
-  {
-    "repository_name": "JuliusBrussee/caveman",
-    "repository_url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
     "repository_name": "OpenCut-app/OpenCut",
     "repository_url": "https://github.com/OpenCut-app/OpenCut"
   },
@@ -24,44 +16,36 @@
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
+    "repository_name": "antirez/ds4",
+    "repository_url": "https://github.com/antirez/ds4"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
+    "repository_name": "caddyserver/caddy",
+    "repository_url": "https://github.com/caddyserver/caddy"
   },
   {
-    "repository_name": "cloudflare/cloudflare-os",
-    "repository_url": "https://github.com/cloudflare/cloudflare-os"
+    "repository_name": "calesthio/OpenMontage",
+    "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
-    "repository_name": "earendil-works/pi",
-    "repository_url": "https://github.com/earendil-works/pi"
+    "repository_name": "coreyhaines31/marketingskills",
+    "repository_url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "repository_name": "earthtojake/text-to-cad",
+    "repository_url": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "repository_name": "garrytan/gstack",
+    "repository_url": "https://github.com/garrytan/gstack"
   },
   {
     "repository_name": "getsentry/sentry",
     "repository_url": "https://github.com/getsentry/sentry"
   },
   {
-    "repository_name": "jamwithai/production-agentic-rag-course",
-    "repository_url": "https://github.com/jamwithai/production-agentic-rag-course"
-  },
-  {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
-  },
-  {
-    "repository_name": "meituan-longcat/LongCat-Video",
-    "repository_url": "https://github.com/meituan-longcat/LongCat-Video"
-  },
-  {
-    "repository_name": "mksglu/context-mode",
-    "repository_url": "https://github.com/mksglu/context-mode"
-  },
-  {
-    "repository_name": "obra/superpowers",
-    "repository_url": "https://github.com/obra/superpowers"
+    "repository_name": "michael-denyer/pstack-claude",
+    "repository_url": "https://github.com/michael-denyer/pstack-claude"
   },
   {
     "repository_name": "pbakaus/impeccable",
@@ -70,6 +54,10 @@
   {
     "repository_name": "pingdotgg/t3code",
     "repository_url": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "repository_name": "tester-army/e2e",
+    "repository_url": "https://github.com/tester-army/e2e"
   },
   {
     "repository_name": "thedotmack/claude-mem",
