@@ -1,23 +1,19 @@
 [
   {
-    "repository_name": "DietrichGebert/ponytail",
-    "repository_url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "repository_name": "OpenCut-app/OpenCut",
-    "repository_url": "https://github.com/OpenCut-app/OpenCut"
+    "repository_name": "DuarteSantos8/openGym",
+    "repository_url": "https://github.com/DuarteSantos8/openGym"
   },
   {
     "repository_name": "Panniantong/Agent-Reach",
     "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
+    "repository_name": "Stremio/stremio-web",
+    "repository_url": "https://github.com/Stremio/stremio-web"
   },
   {
-    "repository_name": "antirez/ds4",
-    "repository_url": "https://github.com/antirez/ds4"
+    "repository_name": "boykopovar/AnyPS5",
+    "repository_url": "https://github.com/boykopovar/AnyPS5"
   },
   {
     "repository_name": "caddyserver/caddy",
@@ -28,28 +24,20 @@
     "repository_url": "https://github.com/calesthio/OpenMontage"
   },
   {
-    "repository_name": "coreyhaines31/marketingskills",
-    "repository_url": "https://github.com/coreyhaines31/marketingskills"
+    "repository_name": "cloudflare/cloudflare-os",
+    "repository_url": "https://github.com/cloudflare/cloudflare-os"
   },
   {
     "repository_name": "earthtojake/text-to-cad",
     "repository_url": "https://github.com/earthtojake/text-to-cad"
   },
   {
-    "repository_name": "garrytan/gstack",
-    "repository_url": "https://github.com/garrytan/gstack"
-  },
-  {
-    "repository_name": "getsentry/sentry",
-    "repository_url": "https://github.com/getsentry/sentry"
-  },
-  {
     "repository_name": "michael-denyer/pstack-claude",
     "repository_url": "https://github.com/michael-denyer/pstack-claude"
   },
   {
-    "repository_name": "pbakaus/impeccable",
-    "repository_url": "https://github.com/pbakaus/impeccable"
+    "repository_name": "msitarzewski/agency-agents",
+    "repository_url": "https://github.com/msitarzewski/agency-agents"
   },
   {
     "repository_name": "pingdotgg/t3code",
