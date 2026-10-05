@@ -4,6 +4,10 @@
     "repository_url": "https://github.com/DuarteSantos8/openGym"
   },
   {
+    "repository_name": "M-Abozaid/esp32-c3-adblock",
+    "repository_url": "https://github.com/M-Abozaid/esp32-c3-adblock"
+  },
+  {
     "repository_name": "Panniantong/Agent-Reach",
     "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
@@ -30,10 +34,6 @@
   {
     "repository_name": "earthtojake/text-to-cad",
     "repository_url": "https://github.com/earthtojake/text-to-cad"
-  },
-  {
-    "repository_name": "michael-denyer/pstack-claude",
-    "repository_url": "https://github.com/michael-denyer/pstack-claude"
   },
   {
     "repository_name": "msitarzewski/agency-agents",
