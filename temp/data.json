@@ -4,6 +4,14 @@
     "repository_url": "https://github.com/DuarteSantos8/openGym"
   },
   {
+    "repository_name": "EpicGames/raddebugger",
+    "repository_url": "https://github.com/EpicGames/raddebugger"
+  },
+  {
+    "repository_name": "addyosmani/agent-skills",
+    "repository_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
     "repository_name": "ayghri/i-have-adhd",
     "repository_url": "https://github.com/ayghri/i-have-adhd"
   },
@@ -16,12 +24,12 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "deepseek-ai/DeepGEMM",
-    "repository_url": "https://github.com/deepseek-ai/DeepGEMM"
+    "repository_name": "cloudflare/security-audit-skill",
+    "repository_url": "https://github.com/cloudflare/security-audit-skill"
   },
   {
-    "repository_name": "earthtojake/text-to-cad",
-    "repository_url": "https://github.com/earthtojake/text-to-cad"
+    "repository_name": "manaflow-ai/cmux",
+    "repository_url": "https://github.com/manaflow-ai/cmux"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -32,19 +40,15 @@
     "repository_url": "https://github.com/morluto/rea"
   },
   {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
-  },
-  {
-    "repository_name": "pbakaus/impeccable",
-    "repository_url": "https://github.com/pbakaus/impeccable"
-  },
-  {
     "repository_name": "tester-army/e2e",
     "repository_url": "https://github.com/tester-army/e2e"
   },
   {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "repository_name": "trycua/cua",
+    "repository_url": "https://github.com/trycua/cua"
   }
 ]
