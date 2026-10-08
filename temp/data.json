@@ -1,19 +1,11 @@
 [
   {
-    "repository_name": "DuarteSantos8/openGym",
-    "repository_url": "https://github.com/DuarteSantos8/openGym"
-  },
-  {
     "repository_name": "EpicGames/raddebugger",
     "repository_url": "https://github.com/EpicGames/raddebugger"
   },
   {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
-  },
-  {
-    "repository_name": "ayghri/i-have-adhd",
-    "repository_url": "https://github.com/ayghri/i-have-adhd"
+    "repository_name": "anthropics/knowledge-work-plugins",
+    "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
   },
   {
     "repository_name": "boykopovar/AnyPS5",
@@ -24,12 +16,8 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "cloudflare/security-audit-skill",
-    "repository_url": "https://github.com/cloudflare/security-audit-skill"
-  },
-  {
-    "repository_name": "manaflow-ai/cmux",
-    "repository_url": "https://github.com/manaflow-ai/cmux"
+    "repository_name": "liquidslr/system-design-notes",
+    "repository_url": "https://github.com/liquidslr/system-design-notes"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -40,15 +28,11 @@
     "repository_url": "https://github.com/morluto/rea"
   },
   {
-    "repository_name": "tester-army/e2e",
-    "repository_url": "https://github.com/tester-army/e2e"
+    "repository_name": "storytold/artcraft",
+    "repository_url": "https://github.com/storytold/artcraft"
   },
   {
     "repository_name": "thedotmack/claude-mem",
     "repository_url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "repository_name": "trycua/cua",
-    "repository_url": "https://github.com/trycua/cua"
   }
 ]
