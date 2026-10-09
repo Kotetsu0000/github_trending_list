@@ -1,7 +1,19 @@
 [
   {
-    "repository_name": "EpicGames/raddebugger",
-    "repository_url": "https://github.com/EpicGames/raddebugger"
+    "repository_name": "BerriAI/litellm",
+    "repository_url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "repository_name": "Robbyant/lingbot-map",
+    "repository_url": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "repository_name": "addyosmani/agent-skills",
+    "repository_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "repository_name": "alibaba/open-code-review",
+    "repository_url": "https://github.com/alibaba/open-code-review"
   },
   {
     "repository_name": "anthropics/knowledge-work-plugins",
@@ -16,10 +28,6 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "liquidslr/system-design-notes",
-    "repository_url": "https://github.com/liquidslr/system-design-notes"
-  },
-  {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
@@ -32,7 +40,7 @@
     "repository_url": "https://github.com/storytold/artcraft"
   },
   {
-    "repository_name": "thedotmack/claude-mem",
-    "repository_url": "https://github.com/thedotmack/claude-mem"
+    "repository_name": "twostraws/SwiftUI-Agent-Skill",
+    "repository_url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
   }
 ]
