@@ -1,21 +1,5 @@
 [
   {
-    "repository_name": "BerriAI/litellm",
-    "repository_url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "repository_name": "Robbyant/lingbot-map",
-    "repository_url": "https://github.com/Robbyant/lingbot-map"
-  },
-  {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
-  },
-  {
-    "repository_name": "alibaba/open-code-review",
-    "repository_url": "https://github.com/alibaba/open-code-review"
-  },
-  {
     "repository_name": "anthropics/knowledge-work-plugins",
     "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
   },
@@ -28,19 +12,43 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
+    "repository_name": "flutter/flutter",
+    "repository_url": "https://github.com/flutter/flutter"
+  },
+  {
+    "repository_name": "huggingface/transformers",
+    "repository_url": "https://github.com/huggingface/transformers"
+  },
+  {
+    "repository_name": "hugohe3/ppt-master",
+    "repository_url": "https://github.com/hugohe3/ppt-master"
+  },
+  {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "repository_name": "mksglu/context-mode",
+    "repository_url": "https://github.com/mksglu/context-mode"
   },
   {
     "repository_name": "morluto/rea",
     "repository_url": "https://github.com/morluto/rea"
   },
   {
+    "repository_name": "multica-ai/andrej-karpathy-skills",
+    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "repository_name": "pytorch/pytorch",
+    "repository_url": "https://github.com/pytorch/pytorch"
+  },
+  {
     "repository_name": "storytold/artcraft",
     "repository_url": "https://github.com/storytold/artcraft"
   },
   {
-    "repository_name": "twostraws/SwiftUI-Agent-Skill",
-    "repository_url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+    "repository_name": "tensorflow/tensorflow",
+    "repository_url": "https://github.com/tensorflow/tensorflow"
   }
 ]
