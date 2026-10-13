@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "Alishahryar1/free-claude-code",
-    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
-  },
-  {
     "repository_name": "bilawalsidhu/gods-eye-view",
     "repository_url": "https://github.com/bilawalsidhu/gods-eye-view"
   },
@@ -12,12 +8,12 @@
     "repository_url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
-    "repository_name": "lyogavin/airllm",
-    "repository_url": "https://github.com/lyogavin/airllm"
+    "repository_name": "debpalash/VoiceStudio",
+    "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
-    "repository_name": "microsoft/BitNet",
-    "repository_url": "https://github.com/microsoft/BitNet"
+    "repository_name": "lyogavin/airllm",
+    "repository_url": "https://github.com/lyogavin/airllm"
   },
   {
     "repository_name": "mksglu/context-mode",
@@ -28,11 +24,15 @@
     "repository_url": "https://github.com/morluto/rea"
   },
   {
-    "repository_name": "open-webui/open-webui",
-    "repository_url": "https://github.com/open-webui/open-webui"
-  },
-  {
     "repository_name": "storytold/artcraft",
     "repository_url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "repository_name": "vercel-labs/skills",
+    "repository_url": "https://github.com/vercel-labs/skills"
+  },
+  {
+    "repository_name": "xtool-org/xtool",
+    "repository_url": "https://github.com/xtool-org/xtool"
   }
 ]
