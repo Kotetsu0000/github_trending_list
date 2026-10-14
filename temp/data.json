@@ -1,19 +1,23 @@
 [
   {
-    "repository_name": "bilawalsidhu/gods-eye-view",
-    "repository_url": "https://github.com/bilawalsidhu/gods-eye-view"
+    "repository_name": "HKUDS/CLI-Anything",
+    "repository_url": "https://github.com/HKUDS/CLI-Anything"
   },
   {
-    "repository_name": "cathrynlavery/diagram-design",
-    "repository_url": "https://github.com/cathrynlavery/diagram-design"
+    "repository_name": "K-Dense-AI/scientific-agent-skills",
+    "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "repository_name": "NationalSecurityAgency/ghidra",
+    "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
     "repository_name": "debpalash/VoiceStudio",
     "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
-    "repository_name": "lyogavin/airllm",
-    "repository_url": "https://github.com/lyogavin/airllm"
+    "repository_name": "ifixai-ai/iFixAi",
+    "repository_url": "https://github.com/ifixai-ai/iFixAi"
   },
   {
     "repository_name": "mksglu/context-mode",
@@ -24,12 +28,20 @@
     "repository_url": "https://github.com/morluto/rea"
   },
   {
-    "repository_name": "storytold/artcraft",
-    "repository_url": "https://github.com/storytold/artcraft"
+    "repository_name": "ntdevlabs/tiny11builder",
+    "repository_url": "https://github.com/ntdevlabs/tiny11builder"
   },
   {
-    "repository_name": "vercel-labs/skills",
-    "repository_url": "https://github.com/vercel-labs/skills"
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "repository_name": "rust-lang/rust",
+    "repository_url": "https://github.com/rust-lang/rust"
+  },
+  {
+    "repository_name": "vxcontrol/pentagi",
+    "repository_url": "https://github.com/vxcontrol/pentagi"
   },
   {
     "repository_name": "xtool-org/xtool",
