@@ -1,7 +1,7 @@
 [
   {
-    "repository_name": "HKUDS/CLI-Anything",
-    "repository_url": "https://github.com/HKUDS/CLI-Anything"
+    "repository_name": "JuliusBrussee/caveman",
+    "repository_url": "https://github.com/JuliusBrussee/caveman"
   },
   {
     "repository_name": "K-Dense-AI/scientific-agent-skills",
@@ -12,12 +12,20 @@
     "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "repository_name": "anthropics/claude-plugins-official",
+    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
     "repository_name": "debpalash/VoiceStudio",
     "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
-    "repository_name": "ifixai-ai/iFixAi",
-    "repository_url": "https://github.com/ifixai-ai/iFixAi"
+    "repository_name": "lightseekorg/tokenspeed",
+    "repository_url": "https://github.com/lightseekorg/tokenspeed"
   },
   {
     "repository_name": "mksglu/context-mode",
@@ -28,23 +36,15 @@
     "repository_url": "https://github.com/morluto/rea"
   },
   {
-    "repository_name": "ntdevlabs/tiny11builder",
-    "repository_url": "https://github.com/ntdevlabs/tiny11builder"
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
-    "repository_name": "nvm-sh/nvm",
-    "repository_url": "https://github.com/nvm-sh/nvm"
+    "repository_name": "ruvnet/ruflo",
+    "repository_url": "https://github.com/ruvnet/ruflo"
   },
   {
-    "repository_name": "rust-lang/rust",
-    "repository_url": "https://github.com/rust-lang/rust"
-  },
-  {
-    "repository_name": "vxcontrol/pentagi",
-    "repository_url": "https://github.com/vxcontrol/pentagi"
-  },
-  {
-    "repository_name": "xtool-org/xtool",
-    "repository_url": "https://github.com/xtool-org/xtool"
+    "repository_name": "xerj-org/xerj",
+    "repository_url": "https://github.com/xerj-org/xerj"
   }
 ]
