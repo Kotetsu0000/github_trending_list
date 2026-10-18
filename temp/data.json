@@ -1,19 +1,19 @@
 [
   {
+    "repository_name": "Comfy-Org/ComfyUI",
+    "repository_url": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
     "repository_name": "HKUDS/CLI-Anything",
     "repository_url": "https://github.com/HKUDS/CLI-Anything"
   },
   {
-    "repository_name": "K-Dense-AI/scientific-agent-skills",
-    "repository_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    "repository_name": "Kruk2/jasna",
+    "repository_url": "https://github.com/Kruk2/jasna"
   },
   {
     "repository_name": "MadsLorentzen/ai-job-search",
     "repository_url": "https://github.com/MadsLorentzen/ai-job-search"
-  },
-  {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
     "repository_name": "akitaonrails/ai-memory",
@@ -28,16 +28,20 @@
     "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
-    "repository_name": "anthropics/claude-code",
-    "repository_url": "https://github.com/anthropics/claude-code"
-  },
-  {
     "repository_name": "anthropics/claude-plugins-official",
     "repository_url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
+    "repository_name": "cursor/plugins",
+    "repository_url": "https://github.com/cursor/plugins"
+  },
+  {
     "repository_name": "debpalash/VoiceStudio",
     "repository_url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "repository_name": "mlabonne/llm-course",
+    "repository_url": "https://github.com/mlabonne/llm-course"
   },
   {
     "repository_name": "ruvnet/ruflo",
@@ -46,9 +50,5 @@
   {
     "repository_name": "stablyai/orca",
     "repository_url": "https://github.com/stablyai/orca"
-  },
-  {
-    "repository_name": "xerj-org/xerj",
-    "repository_url": "https://github.com/xerj-org/xerj"
   }
 ]
