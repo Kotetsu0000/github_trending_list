@@ -20,35 +20,31 @@
     "repository_url": "https://github.com/akitaonrails/ai-memory"
   },
   {
-    "repository_name": "android/skills",
-    "repository_url": "https://github.com/android/skills"
-  },
-  {
     "repository_name": "anomalyco/opencode",
     "repository_url": "https://github.com/anomalyco/opencode"
   },
   {
-    "repository_name": "anthropics/claude-plugins-official",
-    "repository_url": "https://github.com/anthropics/claude-plugins-official"
+    "repository_name": "anthropics/claude-code",
+    "repository_url": "https://github.com/anthropics/claude-code"
   },
   {
-    "repository_name": "cursor/plugins",
-    "repository_url": "https://github.com/cursor/plugins"
-  },
-  {
-    "repository_name": "debpalash/VoiceStudio",
-    "repository_url": "https://github.com/debpalash/VoiceStudio"
-  },
-  {
-    "repository_name": "mlabonne/llm-course",
-    "repository_url": "https://github.com/mlabonne/llm-course"
+    "repository_name": "headroomlabs-ai/headroom",
+    "repository_url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "repository_name": "ruvnet/ruflo",
     "repository_url": "https://github.com/ruvnet/ruflo"
   },
   {
+    "repository_name": "shiyu-coder/Kronos",
+    "repository_url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
     "repository_name": "stablyai/orca",
     "repository_url": "https://github.com/stablyai/orca"
+  },
+  {
+    "repository_name": "withmarbleapp/os-taxonomy",
+    "repository_url": "https://github.com/withmarbleapp/os-taxonomy"
   }
 ]
