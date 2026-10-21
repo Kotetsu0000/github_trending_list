@@ -44,11 +44,19 @@
     "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
   {
+    "repository_name": "sickn33/agentic-awesome-skills",
+    "repository_url": "https://github.com/sickn33/agentic-awesome-skills"
+  },
+  {
     "repository_name": "stablyai/orca",
     "repository_url": "https://github.com/stablyai/orca"
   },
   {
     "repository_name": "vllm-project/vllm",
     "repository_url": "https://github.com/vllm-project/vllm"
+  },
+  {
+    "repository_name": "wshobson/agents",
+    "repository_url": "https://github.com/wshobson/agents"
   }
 ]
