@@ -16,12 +16,8 @@
     "repository_url": "https://github.com/MadsLorentzen/ai-job-search"
   },
   {
-    "repository_name": "anomalyco/opencode",
-    "repository_url": "https://github.com/anomalyco/opencode"
-  },
-  {
-    "repository_name": "anthropics/knowledge-work-plugins",
-    "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
+    "repository_name": "akitaonrails/ai-memory",
+    "repository_url": "https://github.com/akitaonrails/ai-memory"
   },
   {
     "repository_name": "cloudflare/security-audit-skill",
@@ -32,14 +28,6 @@
     "repository_url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
-    "repository_name": "msitarzewski/agency-agents",
-    "repository_url": "https://github.com/msitarzewski/agency-agents"
-  },
-  {
-    "repository_name": "ruvnet/ruflo",
-    "repository_url": "https://github.com/ruvnet/ruflo"
-  },
-  {
     "repository_name": "shiyu-coder/Kronos",
     "repository_url": "https://github.com/shiyu-coder/Kronos"
   },
@@ -48,11 +36,19 @@
     "repository_url": "https://github.com/stablyai/orca"
   },
   {
-    "repository_name": "vllm-project/vllm",
-    "repository_url": "https://github.com/vllm-project/vllm"
+    "repository_name": "strelov1/freehire",
+    "repository_url": "https://github.com/strelov1/freehire"
   },
   {
-    "repository_name": "wshobson/agents",
-    "repository_url": "https://github.com/wshobson/agents"
+    "repository_name": "supabase/supabase",
+    "repository_url": "https://github.com/supabase/supabase"
+  },
+  {
+    "repository_name": "twentyhq/twenty",
+    "repository_url": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "repository_name": "vllm-project/vllm",
+    "repository_url": "https://github.com/vllm-project/vllm"
   }
 ]
