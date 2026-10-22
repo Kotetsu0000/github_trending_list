@@ -1,9 +1,5 @@
 [
   {
-    "repository_name": "Comfy-Org/ComfyUI",
-    "repository_url": "https://github.com/Comfy-Org/ComfyUI"
-  },
-  {
     "repository_name": "DietrichGebert/ponytail",
     "repository_url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -12,39 +8,31 @@
     "repository_url": "https://github.com/Graphify-Labs/graphify"
   },
   {
-    "repository_name": "akitaonrails/ai-memory",
-    "repository_url": "https://github.com/akitaonrails/ai-memory"
+    "repository_name": "Meloong-Git/PCL",
+    "repository_url": "https://github.com/Meloong-Git/PCL"
+  },
+  {
+    "repository_name": "anthropics/knowledge-work-plugins",
+    "repository_url": "https://github.com/anthropics/knowledge-work-plugins"
   },
   {
     "repository_name": "cloudflare/security-audit-skill",
     "repository_url": "https://github.com/cloudflare/security-audit-skill"
   },
   {
-    "repository_name": "headroomlabs-ai/headroom",
-    "repository_url": "https://github.com/headroomlabs-ai/headroom"
+    "repository_name": "fastapi/fastapi",
+    "repository_url": "https://github.com/fastapi/fastapi"
   },
   {
-    "repository_name": "shiyu-coder/Kronos",
-    "repository_url": "https://github.com/shiyu-coder/Kronos"
+    "repository_name": "luongnv89/claude-howto",
+    "repository_url": "https://github.com/luongnv89/claude-howto"
   },
   {
-    "repository_name": "stablyai/orca",
-    "repository_url": "https://github.com/stablyai/orca"
-  },
-  {
-    "repository_name": "strelov1/freehire",
-    "repository_url": "https://github.com/strelov1/freehire"
+    "repository_name": "php/php-src",
+    "repository_url": "https://github.com/php/php-src"
   },
   {
     "repository_name": "supabase/supabase",
     "repository_url": "https://github.com/supabase/supabase"
-  },
-  {
-    "repository_name": "twentyhq/twenty",
-    "repository_url": "https://github.com/twentyhq/twenty"
-  },
-  {
-    "repository_name": "vllm-project/vllm",
-    "repository_url": "https://github.com/vllm-project/vllm"
   }
 ]
