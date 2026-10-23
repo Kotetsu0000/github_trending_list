@@ -1,15 +1,19 @@
 [
   {
-    "repository_name": "DietrichGebert/ponytail",
-    "repository_url": "https://github.com/DietrichGebert/ponytail"
+    "repository_name": "NVIDIA/OpenShell",
+    "repository_url": "https://github.com/NVIDIA/OpenShell"
   },
   {
-    "repository_name": "Graphify-Labs/graphify",
-    "repository_url": "https://github.com/Graphify-Labs/graphify"
+    "repository_name": "OpenBMB/VoxCPM",
+    "repository_url": "https://github.com/OpenBMB/VoxCPM"
   },
   {
-    "repository_name": "Meloong-Git/PCL",
-    "repository_url": "https://github.com/Meloong-Git/PCL"
+    "repository_name": "Renhuai123/ziwei-doushu",
+    "repository_url": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "repository_name": "SnailSploit/Claude-Red",
+    "repository_url": "https://github.com/SnailSploit/Claude-Red"
   },
   {
     "repository_name": "anthropics/knowledge-work-plugins",
@@ -20,19 +24,11 @@
     "repository_url": "https://github.com/cloudflare/security-audit-skill"
   },
   {
-    "repository_name": "fastapi/fastapi",
-    "repository_url": "https://github.com/fastapi/fastapi"
-  },
-  {
-    "repository_name": "luongnv89/claude-howto",
-    "repository_url": "https://github.com/luongnv89/claude-howto"
+    "repository_name": "nodejs/node",
+    "repository_url": "https://github.com/nodejs/node"
   },
   {
     "repository_name": "php/php-src",
     "repository_url": "https://github.com/php/php-src"
-  },
-  {
-    "repository_name": "supabase/supabase",
-    "repository_url": "https://github.com/supabase/supabase"
   }
 ]
