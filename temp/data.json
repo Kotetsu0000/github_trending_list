@@ -1,39 +1,51 @@
 [
   {
-    "repository_name": "AgriciDaniel/claude-seo",
-    "repository_url": "https://github.com/AgriciDaniel/claude-seo"
-  },
-  {
     "repository_name": "JetBrains/thinkrail",
     "repository_url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "repository_name": "NVIDIA/SkillSpector",
+    "repository_url": "https://github.com/NVIDIA/SkillSpector"
   },
   {
     "repository_name": "Nutlope/hallmark",
     "repository_url": "https://github.com/Nutlope/hallmark"
   },
   {
-    "repository_name": "Renhuai123/ziwei-doushu",
-    "repository_url": "https://github.com/Renhuai123/ziwei-doushu"
+    "repository_name": "Panniantong/Agent-Reach",
+    "repository_url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
     "repository_name": "TauricResearch/TradingAgents",
     "repository_url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
-    "repository_name": "cloudflare/security-audit-skill",
-    "repository_url": "https://github.com/cloudflare/security-audit-skill"
+    "repository_name": "affaan-m/ECC",
+    "repository_url": "https://github.com/affaan-m/ECC"
   },
   {
-    "repository_name": "coollabsio/coolify",
-    "repository_url": "https://github.com/coollabsio/coolify"
+    "repository_name": "alchaincyf/huashu-design",
+    "repository_url": "https://github.com/alchaincyf/huashu-design"
   },
   {
     "repository_name": "debpalash/VoiceStudio",
     "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
+    "repository_name": "gitroomhq/postiz-app",
+    "repository_url": "https://github.com/gitroomhq/postiz-app"
+  },
+  {
     "repository_name": "makecindy/cindy",
     "repository_url": "https://github.com/makecindy/cindy"
+  },
+  {
+    "repository_name": "multica-ai/andrej-karpathy-skills",
+    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "repository_name": "nightly-labs/openbot",
+    "repository_url": "https://github.com/nightly-labs/openbot"
   },
   {
     "repository_name": "pbakaus/impeccable",
