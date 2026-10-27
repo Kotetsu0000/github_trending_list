@@ -1,35 +1,19 @@
 [
   {
-    "repository_name": "JetBrains/thinkrail",
-    "repository_url": "https://github.com/JetBrains/thinkrail"
+    "repository_name": "HKUDS/DeepTutor",
+    "repository_url": "https://github.com/HKUDS/DeepTutor"
   },
   {
-    "repository_name": "NVIDIA/SkillSpector",
-    "repository_url": "https://github.com/NVIDIA/SkillSpector"
+    "repository_name": "JetBrains/thinkrail",
+    "repository_url": "https://github.com/JetBrains/thinkrail"
   },
   {
     "repository_name": "Nutlope/hallmark",
     "repository_url": "https://github.com/Nutlope/hallmark"
   },
   {
-    "repository_name": "Panniantong/Agent-Reach",
-    "repository_url": "https://github.com/Panniantong/Agent-Reach"
-  },
-  {
-    "repository_name": "TauricResearch/TradingAgents",
-    "repository_url": "https://github.com/TauricResearch/TradingAgents"
-  },
-  {
     "repository_name": "affaan-m/ECC",
     "repository_url": "https://github.com/affaan-m/ECC"
-  },
-  {
-    "repository_name": "alchaincyf/huashu-design",
-    "repository_url": "https://github.com/alchaincyf/huashu-design"
-  },
-  {
-    "repository_name": "debpalash/VoiceStudio",
-    "repository_url": "https://github.com/debpalash/VoiceStudio"
   },
   {
     "repository_name": "gitroomhq/postiz-app",
@@ -40,19 +24,19 @@
     "repository_url": "https://github.com/makecindy/cindy"
   },
   {
-    "repository_name": "multica-ai/andrej-karpathy-skills",
-    "repository_url": "https://github.com/multica-ai/andrej-karpathy-skills"
-  },
-  {
     "repository_name": "nightly-labs/openbot",
     "repository_url": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "repository_name": "obra/superpowers",
+    "repository_url": "https://github.com/obra/superpowers"
   },
   {
     "repository_name": "pbakaus/impeccable",
     "repository_url": "https://github.com/pbakaus/impeccable"
   },
   {
-    "repository_name": "pollen-robotics/microduck",
-    "repository_url": "https://github.com/pollen-robotics/microduck"
+    "repository_name": "togg53192-cmd/jailbreaks",
+    "repository_url": "https://github.com/togg53192-cmd/jailbreaks"
   }
 ]
