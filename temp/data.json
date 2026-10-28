@@ -12,16 +12,20 @@
     "repository_url": "https://github.com/Nutlope/hallmark"
   },
   {
-    "repository_name": "affaan-m/ECC",
-    "repository_url": "https://github.com/affaan-m/ECC"
-  },
-  {
     "repository_name": "elayadesign/ai-design-skills",
     "repository_url": "https://github.com/elayadesign/ai-design-skills"
   },
   {
-    "repository_name": "gitroomhq/postiz-app",
-    "repository_url": "https://github.com/gitroomhq/postiz-app"
+    "repository_name": "expo/skills",
+    "repository_url": "https://github.com/expo/skills"
+  },
+  {
+    "repository_name": "hmjz100/LinkSwift",
+    "repository_url": "https://github.com/hmjz100/LinkSwift"
+  },
+  {
+    "repository_name": "macro-inc/macro",
+    "repository_url": "https://github.com/macro-inc/macro"
   },
   {
     "repository_name": "makecindy/cindy",
@@ -40,7 +44,15 @@
     "repository_url": "https://github.com/pbakaus/impeccable"
   },
   {
+    "repository_name": "ruvnet/RuView",
+    "repository_url": "https://github.com/ruvnet/RuView"
+  },
+  {
     "repository_name": "togg53192-cmd/jailbreaks",
     "repository_url": "https://github.com/togg53192-cmd/jailbreaks"
+  },
+  {
+    "repository_name": "xiaolai/the-craft-of-selfteaching",
+    "repository_url": "https://github.com/xiaolai/the-craft-of-selfteaching"
   }
 ]
