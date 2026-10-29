@@ -1,5 +1,13 @@
 [
   {
+    "repository_name": "CopilotKit/OpenBot",
+    "repository_url": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
+    "repository_name": "Donchitos/Claude-Code-Game-Studios",
+    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  },
+  {
     "repository_name": "HKUDS/DeepTutor",
     "repository_url": "https://github.com/HKUDS/DeepTutor"
   },
@@ -8,28 +16,12 @@
     "repository_url": "https://github.com/JetBrains/thinkrail"
   },
   {
-    "repository_name": "Nutlope/hallmark",
-    "repository_url": "https://github.com/Nutlope/hallmark"
-  },
-  {
     "repository_name": "elayadesign/ai-design-skills",
     "repository_url": "https://github.com/elayadesign/ai-design-skills"
   },
   {
-    "repository_name": "expo/skills",
-    "repository_url": "https://github.com/expo/skills"
-  },
-  {
-    "repository_name": "hmjz100/LinkSwift",
-    "repository_url": "https://github.com/hmjz100/LinkSwift"
-  },
-  {
-    "repository_name": "macro-inc/macro",
-    "repository_url": "https://github.com/macro-inc/macro"
-  },
-  {
-    "repository_name": "makecindy/cindy",
-    "repository_url": "https://github.com/makecindy/cindy"
+    "repository_name": "milind-soni/OpenMausBot",
+    "repository_url": "https://github.com/milind-soni/OpenMausBot"
   },
   {
     "repository_name": "nightly-labs/openbot",
@@ -44,15 +36,11 @@
     "repository_url": "https://github.com/pbakaus/impeccable"
   },
   {
-    "repository_name": "ruvnet/RuView",
-    "repository_url": "https://github.com/ruvnet/RuView"
+    "repository_name": "thedotmack/claude-mem",
+    "repository_url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "repository_name": "togg53192-cmd/jailbreaks",
     "repository_url": "https://github.com/togg53192-cmd/jailbreaks"
-  },
-  {
-    "repository_name": "xiaolai/the-craft-of-selfteaching",
-    "repository_url": "https://github.com/xiaolai/the-craft-of-selfteaching"
   }
 ]
