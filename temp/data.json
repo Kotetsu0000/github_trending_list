@@ -4,10 +4,6 @@
     "repository_url": "https://github.com/CopilotKit/OpenBot"
   },
   {
-    "repository_name": "Donchitos/Claude-Code-Game-Studios",
-    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
-  },
-  {
     "repository_name": "HKUDS/DeepTutor",
     "repository_url": "https://github.com/HKUDS/DeepTutor"
   },
@@ -16,16 +12,32 @@
     "repository_url": "https://github.com/JetBrains/thinkrail"
   },
   {
-    "repository_name": "elayadesign/ai-design-skills",
-    "repository_url": "https://github.com/elayadesign/ai-design-skills"
+    "repository_name": "Renhuai123/ziwei-doushu",
+    "repository_url": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
+  },
+  {
+    "repository_name": "expo/skills",
+    "repository_url": "https://github.com/expo/skills"
+  },
+  {
+    "repository_name": "lightpanda-io/browser",
+    "repository_url": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "repository_name": "macro-inc/macro",
+    "repository_url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "repository_name": "mattpocock/skills",
+    "repository_url": "https://github.com/mattpocock/skills"
   },
   {
     "repository_name": "milind-soni/OpenMausBot",
     "repository_url": "https://github.com/milind-soni/OpenMausBot"
-  },
-  {
-    "repository_name": "nightly-labs/openbot",
-    "repository_url": "https://github.com/nightly-labs/openbot"
   },
   {
     "repository_name": "obra/superpowers",
@@ -34,6 +46,10 @@
   {
     "repository_name": "pbakaus/impeccable",
     "repository_url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "repository_name": "pingdotgg/t3code",
+    "repository_url": "https://github.com/pingdotgg/t3code"
   },
   {
     "repository_name": "thedotmack/claude-mem",
