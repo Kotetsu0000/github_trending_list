@@ -1,35 +1,31 @@
 [
   {
-    "repository_name": "CopilotKit/OpenBot",
-    "repository_url": "https://github.com/CopilotKit/OpenBot"
+    "repository_name": "Donchitos/Claude-Code-Game-Studios",
+    "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
   },
   {
     "repository_name": "HKUDS/DeepTutor",
     "repository_url": "https://github.com/HKUDS/DeepTutor"
   },
   {
-    "repository_name": "JetBrains/thinkrail",
-    "repository_url": "https://github.com/JetBrains/thinkrail"
+    "repository_name": "Orkas-AI/Orkas",
+    "repository_url": "https://github.com/Orkas-AI/Orkas"
   },
   {
     "repository_name": "Renhuai123/ziwei-doushu",
     "repository_url": "https://github.com/Renhuai123/ziwei-doushu"
   },
   {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
+    "repository_name": "THU-MAIC/OpenMAIC",
+    "repository_url": "https://github.com/THU-MAIC/OpenMAIC"
   },
   {
-    "repository_name": "expo/skills",
-    "repository_url": "https://github.com/expo/skills"
+    "repository_name": "bregman-arie/devops-exercises",
+    "repository_url": "https://github.com/bregman-arie/devops-exercises"
   },
   {
     "repository_name": "lightpanda-io/browser",
     "repository_url": "https://github.com/lightpanda-io/browser"
-  },
-  {
-    "repository_name": "macro-inc/macro",
-    "repository_url": "https://github.com/macro-inc/macro"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -56,7 +52,7 @@
     "repository_url": "https://github.com/thedotmack/claude-mem"
   },
   {
-    "repository_name": "togg53192-cmd/jailbreaks",
-    "repository_url": "https://github.com/togg53192-cmd/jailbreaks"
+    "repository_name": "vorssaint/vorssaint-utils",
+    "repository_url": "https://github.com/vorssaint/vorssaint-utils"
   }
 ]
