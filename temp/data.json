@@ -8,24 +8,20 @@
     "repository_url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
   },
   {
-    "repository_name": "FlashML-org/FreeToken",
-    "repository_url": "https://github.com/FlashML-org/FreeToken"
-  },
-  {
     "repository_name": "JustVugg/colibri",
     "repository_url": "https://github.com/JustVugg/colibri"
   },
   {
-    "repository_name": "hyprwm/Hyprland",
-    "repository_url": "https://github.com/hyprwm/Hyprland"
+    "repository_name": "Usagi-org/ai-goofish-monitor",
+    "repository_url": "https://github.com/Usagi-org/ai-goofish-monitor"
   },
   {
-    "repository_name": "karpathy/nanochat",
-    "repository_url": "https://github.com/karpathy/nanochat"
+    "repository_name": "anomalyco/hex",
+    "repository_url": "https://github.com/anomalyco/hex"
   },
   {
-    "repository_name": "kornia/kornia",
-    "repository_url": "https://github.com/kornia/kornia"
+    "repository_name": "floci-io/floci",
+    "repository_url": "https://github.com/floci-io/floci"
   },
   {
     "repository_name": "mattpocock/skills",
@@ -40,16 +36,12 @@
     "repository_url": "https://github.com/p-e-w/heretic"
   },
   {
-    "repository_name": "paperclipai/paperclip",
-    "repository_url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "repository_name": "pingdotgg/t3code",
-    "repository_url": "https://github.com/pingdotgg/t3code"
-  },
-  {
     "repository_name": "shiyu-coder/Kronos",
     "repository_url": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "repository_name": "spotify/portal-ai-plugins",
+    "repository_url": "https://github.com/spotify/portal-ai-plugins"
   },
   {
     "repository_name": "thedotmack/claude-mem",
