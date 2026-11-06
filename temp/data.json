@@ -32,6 +32,10 @@
     "repository_url": "https://github.com/google/skills"
   },
   {
+    "repository_name": "lz4/lz4",
+    "repository_url": "https://github.com/lz4/lz4"
+  },
+  {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
