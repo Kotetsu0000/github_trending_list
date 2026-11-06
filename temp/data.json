@@ -1,31 +1,23 @@
 [
   {
-    "repository_name": "ConardLi/garden-skills",
-    "repository_url": "https://github.com/ConardLi/garden-skills"
-  },
-  {
-    "repository_name": "D4Vinci/Scrapling",
-    "repository_url": "https://github.com/D4Vinci/Scrapling"
-  },
-  {
-    "repository_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-    "repository_url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
-  },
-  {
     "repository_name": "NVIDIA/auto-ontology",
     "repository_url": "https://github.com/NVIDIA/auto-ontology"
   },
   {
-    "repository_name": "Usagi-org/ai-goofish-monitor",
-    "repository_url": "https://github.com/Usagi-org/ai-goofish-monitor"
+    "repository_name": "angular/angular",
+    "repository_url": "https://github.com/angular/angular"
   },
   {
-    "repository_name": "floci-io/floci",
-    "repository_url": "https://github.com/floci-io/floci"
+    "repository_name": "astral-sh/ruff",
+    "repository_url": "https://github.com/astral-sh/ruff"
   },
   {
-    "repository_name": "garrytan/gstack",
-    "repository_url": "https://github.com/garrytan/gstack"
+    "repository_name": "cloudflare/security-audit-skill",
+    "repository_url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "repository_name": "etcd-io/etcd",
+    "repository_url": "https://github.com/etcd-io/etcd"
   },
   {
     "repository_name": "google/skills",
@@ -40,23 +32,43 @@
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "max-sixty/worktrunk",
-    "repository_url": "https://github.com/max-sixty/worktrunk"
+    "repository_name": "microsoft/vscode",
+    "repository_url": "https://github.com/microsoft/vscode"
   },
   {
-    "repository_name": "microsoft/VibeVoice",
-    "repository_url": "https://github.com/microsoft/VibeVoice"
+    "repository_name": "mpv-player/mpv",
+    "repository_url": "https://github.com/mpv-player/mpv"
   },
   {
-    "repository_name": "scenario-labs/skills",
-    "repository_url": "https://github.com/scenario-labs/skills"
+    "repository_name": "nushell/nushell",
+    "repository_url": "https://github.com/nushell/nushell"
   },
   {
-    "repository_name": "vercel-labs/agent-browser",
-    "repository_url": "https://github.com/vercel-labs/agent-browser"
+    "repository_name": "openssl/openssl",
+    "repository_url": "https://github.com/openssl/openssl"
   },
   {
-    "repository_name": "vercel-labs/agent-desktop",
-    "repository_url": "https://github.com/vercel-labs/agent-desktop"
+    "repository_name": "prometheus/prometheus",
+    "repository_url": "https://github.com/prometheus/prometheus"
+  },
+  {
+    "repository_name": "rails/rails",
+    "repository_url": "https://github.com/rails/rails"
+  },
+  {
+    "repository_name": "react/react",
+    "repository_url": "https://github.com/react/react"
+  },
+  {
+    "repository_name": "rust-lang/rust",
+    "repository_url": "https://github.com/rust-lang/rust"
+  },
+  {
+    "repository_name": "symfony/symfony",
+    "repository_url": "https://github.com/symfony/symfony"
+  },
+  {
+    "repository_name": "zed-industries/zed",
+    "repository_url": "https://github.com/zed-industries/zed"
   }
 ]
