@@ -1,11 +1,7 @@
 [
   {
-    "repository_name": "NVIDIA/auto-ontology",
-    "repository_url": "https://github.com/NVIDIA/auto-ontology"
-  },
-  {
-    "repository_name": "angular/angular",
-    "repository_url": "https://github.com/angular/angular"
+    "repository_name": "anthropics/skills",
+    "repository_url": "https://github.com/anthropics/skills"
   },
   {
     "repository_name": "astral-sh/ruff",
@@ -16,56 +12,48 @@
     "repository_url": "https://github.com/cloudflare/security-audit-skill"
   },
   {
-    "repository_name": "etcd-io/etcd",
-    "repository_url": "https://github.com/etcd-io/etcd"
+    "repository_name": "dsx-ai-factory/nvke",
+    "repository_url": "https://github.com/dsx-ai-factory/nvke"
   },
   {
     "repository_name": "google/skills",
     "repository_url": "https://github.com/google/skills"
   },
   {
-    "repository_name": "lz4/lz4",
-    "repository_url": "https://github.com/lz4/lz4"
-  },
-  {
     "repository_name": "mattpocock/skills",
     "repository_url": "https://github.com/mattpocock/skills"
   },
   {
-    "repository_name": "microsoft/vscode",
-    "repository_url": "https://github.com/microsoft/vscode"
+    "repository_name": "mbillow/localthings",
+    "repository_url": "https://github.com/mbillow/localthings"
   },
   {
-    "repository_name": "mpv-player/mpv",
-    "repository_url": "https://github.com/mpv-player/mpv"
+    "repository_name": "meta/astryx",
+    "repository_url": "https://github.com/meta/astryx"
   },
   {
-    "repository_name": "nushell/nushell",
-    "repository_url": "https://github.com/nushell/nushell"
-  },
-  {
-    "repository_name": "openssl/openssl",
-    "repository_url": "https://github.com/openssl/openssl"
+    "repository_name": "milind-soni/OpenMausBot",
+    "repository_url": "https://github.com/milind-soni/OpenMausBot"
   },
   {
     "repository_name": "prometheus/prometheus",
     "repository_url": "https://github.com/prometheus/prometheus"
   },
   {
-    "repository_name": "rails/rails",
-    "repository_url": "https://github.com/rails/rails"
+    "repository_name": "ranxianglei/billion-context",
+    "repository_url": "https://github.com/ranxianglei/billion-context"
   },
   {
-    "repository_name": "react/react",
-    "repository_url": "https://github.com/react/react"
+    "repository_name": "sherlock-project/sherlock",
+    "repository_url": "https://github.com/sherlock-project/sherlock"
   },
   {
-    "repository_name": "rust-lang/rust",
-    "repository_url": "https://github.com/rust-lang/rust"
+    "repository_name": "tailwindlabs/tailwindcss",
+    "repository_url": "https://github.com/tailwindlabs/tailwindcss"
   },
   {
-    "repository_name": "symfony/symfony",
-    "repository_url": "https://github.com/symfony/symfony"
+    "repository_name": "vercel-labs/agent-browser",
+    "repository_url": "https://github.com/vercel-labs/agent-browser"
   },
   {
     "repository_name": "zed-industries/zed",
