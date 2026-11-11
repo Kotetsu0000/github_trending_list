@@ -1,43 +1,35 @@
 [
   {
+    "repository_name": "GoogleChrome/modern-web-guidance-src",
+    "repository_url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "repository_name": "TheAlgorithms/Java",
+    "repository_url": "https://github.com/TheAlgorithms/Java"
+  },
+  {
+    "repository_name": "ZhuLinsen/daily_stock_analysis",
+    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
-  },
-  {
-    "repository_name": "anthropics/claude-quickstarts",
-    "repository_url": "https://github.com/anthropics/claude-quickstarts"
-  },
-  {
-    "repository_name": "anthropics/skills",
-    "repository_url": "https://github.com/anthropics/skills"
-  },
-  {
-    "repository_name": "google-deepmind/mujoco",
-    "repository_url": "https://github.com/google-deepmind/mujoco"
   },
   {
     "repository_name": "homeassistant-ai/ha-mcp",
     "repository_url": "https://github.com/homeassistant-ai/ha-mcp"
   },
   {
-    "repository_name": "mattpocock/skills",
-    "repository_url": "https://github.com/mattpocock/skills"
-  },
-  {
     "repository_name": "meta/astryx",
     "repository_url": "https://github.com/meta/astryx"
   },
   {
-    "repository_name": "ranxianglei/billion-context",
-    "repository_url": "https://github.com/ranxianglei/billion-context"
+    "repository_name": "openai/codex-security",
+    "repository_url": "https://github.com/openai/codex-security"
   },
   {
-    "repository_name": "sherlock-project/sherlock",
-    "repository_url": "https://github.com/sherlock-project/sherlock"
-  },
-  {
-    "repository_name": "tokio-rs/topcoat",
-    "repository_url": "https://github.com/tokio-rs/topcoat"
+    "repository_name": "shadcn/improve",
+    "repository_url": "https://github.com/shadcn/improve"
   },
   {
     "repository_name": "vercel-labs/agent-browser",
