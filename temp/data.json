@@ -1,39 +1,51 @@
 [
   {
+    "repository_name": "Alishahryar1/free-claude-code",
+    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "repository_name": "CopilotKit/OpenBot",
+    "repository_url": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
     "repository_name": "GoogleChrome/modern-web-guidance-src",
     "repository_url": "https://github.com/GoogleChrome/modern-web-guidance-src"
   },
   {
-    "repository_name": "TheAlgorithms/Java",
-    "repository_url": "https://github.com/TheAlgorithms/Java"
-  },
-  {
-    "repository_name": "ZhuLinsen/daily_stock_analysis",
-    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    "repository_name": "QwenLM/qwen-code",
+    "repository_url": "https://github.com/QwenLM/qwen-code"
   },
   {
     "repository_name": "addyosmani/agent-skills",
     "repository_url": "https://github.com/addyosmani/agent-skills"
   },
   {
-    "repository_name": "homeassistant-ai/ha-mcp",
-    "repository_url": "https://github.com/homeassistant-ai/ha-mcp"
+    "repository_name": "ashhart/TensorFold",
+    "repository_url": "https://github.com/ashhart/TensorFold"
+  },
+  {
+    "repository_name": "ggml-org/llama.cpp",
+    "repository_url": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "repository_name": "meta/astryx",
     "repository_url": "https://github.com/meta/astryx"
   },
   {
+    "repository_name": "nodejs/node",
+    "repository_url": "https://github.com/nodejs/node"
+  },
+  {
+    "repository_name": "nvm-sh/nvm",
+    "repository_url": "https://github.com/nvm-sh/nvm"
+  },
+  {
     "repository_name": "openai/codex-security",
     "repository_url": "https://github.com/openai/codex-security"
   },
   {
-    "repository_name": "shadcn/improve",
-    "repository_url": "https://github.com/shadcn/improve"
-  },
-  {
-    "repository_name": "vercel-labs/agent-browser",
-    "repository_url": "https://github.com/vercel-labs/agent-browser"
+    "repository_name": "pookjw/HermesEnabler",
+    "repository_url": "https://github.com/pookjw/HermesEnabler"
   },
   {
     "repository_name": "we-promise/sure",
