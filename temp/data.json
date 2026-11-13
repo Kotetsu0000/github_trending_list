@@ -1,51 +1,47 @@
 [
   {
-    "repository_name": "Alishahryar1/free-claude-code",
-    "repository_url": "https://github.com/Alishahryar1/free-claude-code"
-  },
-  {
-    "repository_name": "CopilotKit/OpenBot",
-    "repository_url": "https://github.com/CopilotKit/OpenBot"
+    "repository_name": "ChromeDevTools/chrome-devtools-mcp",
+    "repository_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   },
   {
     "repository_name": "GoogleChrome/modern-web-guidance-src",
     "repository_url": "https://github.com/GoogleChrome/modern-web-guidance-src"
   },
   {
-    "repository_name": "QwenLM/qwen-code",
-    "repository_url": "https://github.com/QwenLM/qwen-code"
+    "repository_name": "Likely7/Veyra-NRVideo",
+    "repository_url": "https://github.com/Likely7/Veyra-NRVideo"
   },
   {
-    "repository_name": "addyosmani/agent-skills",
-    "repository_url": "https://github.com/addyosmani/agent-skills"
+    "repository_name": "ZhuLinsen/daily_stock_analysis",
+    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
   },
   {
-    "repository_name": "ashhart/TensorFold",
-    "repository_url": "https://github.com/ashhart/TensorFold"
+    "repository_name": "alibaba/open-code-review",
+    "repository_url": "https://github.com/alibaba/open-code-review"
   },
   {
-    "repository_name": "ggml-org/llama.cpp",
-    "repository_url": "https://github.com/ggml-org/llama.cpp"
+    "repository_name": "backnotprop/plannotator",
+    "repository_url": "https://github.com/backnotprop/plannotator"
   },
   {
-    "repository_name": "meta/astryx",
-    "repository_url": "https://github.com/meta/astryx"
+    "repository_name": "block/buzz",
+    "repository_url": "https://github.com/block/buzz"
   },
   {
-    "repository_name": "nodejs/node",
-    "repository_url": "https://github.com/nodejs/node"
-  },
-  {
-    "repository_name": "nvm-sh/nvm",
-    "repository_url": "https://github.com/nvm-sh/nvm"
+    "repository_name": "louislam/uptime-kuma",
+    "repository_url": "https://github.com/louislam/uptime-kuma"
   },
   {
     "repository_name": "openai/codex-security",
     "repository_url": "https://github.com/openai/codex-security"
   },
   {
-    "repository_name": "pookjw/HermesEnabler",
-    "repository_url": "https://github.com/pookjw/HermesEnabler"
+    "repository_name": "tailscale/tailcat",
+    "repository_url": "https://github.com/tailscale/tailcat"
+  },
+  {
+    "repository_name": "tradermonty/claude-trading-skills",
+    "repository_url": "https://github.com/tradermonty/claude-trading-skills"
   },
   {
     "repository_name": "we-promise/sure",
