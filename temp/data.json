@@ -8,36 +8,48 @@
     "repository_url": "https://github.com/GoogleChrome/modern-web-guidance-src"
   },
   {
+    "repository_name": "JuliusBrussee/caveman",
+    "repository_url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
     "repository_name": "Likely7/Veyra-NRVideo",
     "repository_url": "https://github.com/Likely7/Veyra-NRVideo"
   },
   {
-    "repository_name": "ZhuLinsen/daily_stock_analysis",
-    "repository_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    "repository_name": "QwenLM/qwen-code",
+    "repository_url": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+    "repository_name": "Tencent/LoopForge",
+    "repository_url": "https://github.com/Tencent/LoopForge"
+  },
+  {
+    "repository_name": "ag-ui-protocol/ag-ui",
+    "repository_url": "https://github.com/ag-ui-protocol/ag-ui"
   },
   {
     "repository_name": "alibaba/open-code-review",
     "repository_url": "https://github.com/alibaba/open-code-review"
   },
   {
+    "repository_name": "ashhart/TensorFold",
+    "repository_url": "https://github.com/ashhart/TensorFold"
+  },
+  {
     "repository_name": "backnotprop/plannotator",
     "repository_url": "https://github.com/backnotprop/plannotator"
   },
   {
-    "repository_name": "block/buzz",
-    "repository_url": "https://github.com/block/buzz"
+    "repository_name": "dream-num/univer",
+    "repository_url": "https://github.com/dream-num/univer"
   },
   {
     "repository_name": "louislam/uptime-kuma",
     "repository_url": "https://github.com/louislam/uptime-kuma"
   },
   {
-    "repository_name": "openai/codex-security",
-    "repository_url": "https://github.com/openai/codex-security"
-  },
-  {
-    "repository_name": "tailscale/tailcat",
-    "repository_url": "https://github.com/tailscale/tailcat"
+    "repository_name": "martin-olivier/airgorah",
+    "repository_url": "https://github.com/martin-olivier/airgorah"
   },
   {
     "repository_name": "tradermonty/claude-trading-skills",
